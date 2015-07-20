@@ -86,7 +86,7 @@ var NAVTREEINDEX =
 "d8/dea/classlibrary_1_1_footprint.html#a237920dd97b0ce69e089e4e2b8e5a5c3",
 "d9/d6e/classproject_1_1_cmd_schematic_remove.html#a3a516953f83692a481357dd16adf2bd7",
 "da/d57/structqt__meta__stringdata__project_____schematic_pages_dock__t.html",
-"db/d1c/structqt__meta__stringdata___w_s_i___appearance__t.html#a560047703431e77264561f70d45e2160",
+"db/d1c/structqt__meta__stringdata___w_s_i___appearance__t.html#a1155711797fc0c37e7273f2efb9c79eb",
 "db/de0/class_ui___board_editor.html#a9b6093bb011db4b5c5d14c889ca4094b",
 "dc/d67/classproject_1_1_erc_msg.html#afb49c937aaabbe05a0e5368f8bf9d497",
 "dd/d2d/classproject_1_1_schematic.html#ae3e94ee2e1de47870ce77c69a17a757b",
