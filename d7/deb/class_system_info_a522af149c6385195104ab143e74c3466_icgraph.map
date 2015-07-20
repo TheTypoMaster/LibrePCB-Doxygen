@@ -1,0 +1,4 @@
+<map id="getHostname" name="getHostname">
+<area shape="rect" id="node3" href="$d9/d57/class_file_lock.html#ae51d0a675a61d6f5aae0967c8b23f7f1" title="Get the lock status of the specified file. " alt="" coords="156,5,289,35"/>
+<area shape="rect" id="node5" href="$d9/d57/class_file_lock.html#aa81aed607133209dade63a226818224d" title="Lock the specified file (create/update the lock file) " alt="" coords="172,59,273,88"/>
+</map>

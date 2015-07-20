@@ -1,0 +1,12 @@
+<map id="SchematicPagesDock" name="SchematicPagesDock">
+<area shape="rect" id="node3" href="$d6/dd3/class_ui___schematic_pages_dock.html#a1b65d7c85c7b00eb41b4a1075b82291b" title="Ui_SchematicPagesDock\l::setupUi" alt="" coords="223,17,393,63"/>
+<area shape="rect" id="node7" href="$d2/d05/classproject_1_1_project.html#a1054eea6077b28d10d37c5e4c1b602fe" title="Get all schematics. " alt="" coords="205,92,411,121"/>
+<area shape="rect" id="node9" href="$da/dda/classproject_1_1_schematic_pages_dock.html#a5a304382795bedf7f5c502eb213f6709" title="schematicAdded" alt="" coords="249,145,367,175"/>
+<area shape="rect" id="node17" href="$da/dda/classproject_1_1_schematic_pages_dock.html#a1579bb15820b2a1852224834196addf0" title="activeSchematicChanged" alt="" coords="223,199,393,228"/>
+<area shape="rect" id="node19" href="$da/dda/classproject_1_1_schematic_pages_dock.html#ad2c7a92a633583aceb505e380da3e136" title="schematicRemoved" alt="" coords="239,252,377,281"/>
+<area shape="rect" id="node21" href="$dd/d24/classproject_1_1_schematic_editor.html#a3103bc1a5be28ead60bdc1e039298828" title="project::SchematicEditor\l::getActiveSchematicIndex" alt="" coords="219,305,397,351"/>
+<area shape="rect" id="node5" href="$d6/dd3/class_ui___schematic_pages_dock.html#a854a740cf7072b43930f6d1c8f1890ef" title="Ui_SchematicPagesDock\l::retranslateUi" alt="" coords="473,5,644,51"/>
+<area shape="rect" id="node11" href="$d2/d05/classproject_1_1_project.html#a6ce0e02fe65c34d73209b9a9660f8219" title="Get the schematic page at a specific index. " alt="" coords="460,74,657,121"/>
+<area shape="rect" id="node13" href="$dd/d2d/classproject_1_1_schematic.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::Schematic\l::getName" alt="" coords="493,143,624,190"/>
+<area shape="rect" id="node15" href="$dd/d2d/classproject_1_1_schematic.html#a6a3b28c8f443798e4eb7d95327d49f3f" title="project::Schematic\l::getIcon" alt="" coords="493,213,624,259"/>
+</map>

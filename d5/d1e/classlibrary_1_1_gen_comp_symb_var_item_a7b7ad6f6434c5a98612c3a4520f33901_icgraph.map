@@ -1,0 +1,8 @@
+<map id="isRequired" name="isRequired">
+<area shape="rect" id="node3" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab56d32f3df77886336513524c2adbf00" title="project::GenCompInstance\l::getUnplacedRequiredSymbolsCount" alt="" coords="140,39,380,86"/>
+<area shape="rect" id="node13" href="$de/d67/classproject_1_1_gen_comp_instance.html#a590c3eaacaa9f4ce8ed630d7f00f47a4" title="project::GenCompInstance\l::getUnplacedOptionalSymbolsCount" alt="" coords="141,109,379,155"/>
+<area shape="rect" id="node5" href="$de/d67/classproject_1_1_gen_comp_instance.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::GenCompInstance\l::updateErcMessages" alt="" coords="429,74,608,121"/>
+<area shape="rect" id="node7" href="$de/d67/classproject_1_1_gen_comp_instance.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::GenCompInstance\l::init" alt="" coords="656,5,835,51"/>
+<area shape="rect" id="node9" href="$de/d67/classproject_1_1_gen_comp_instance.html#af00f21a639ab7a55e814293e9bd76c0f" title="project::GenCompInstance\l::addToCircuit" alt="" coords="656,74,835,121"/>
+<area shape="rect" id="node11" href="$de/d67/classproject_1_1_gen_comp_instance.html#ac295ebdc117f47883b0a7af285b69a5e" title="project::GenCompInstance\l::removeFromCircuit" alt="" coords="656,143,835,190"/>
+</map>

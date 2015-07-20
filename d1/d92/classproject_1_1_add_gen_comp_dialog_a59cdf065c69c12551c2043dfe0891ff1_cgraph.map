@@ -1,0 +1,18 @@
+<map id="on_cbxSymbVar_currentIndexChanged" name="on_cbxSymbVar_currentIndexChanged">
+<area shape="rect" id="node3" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#adfcb4e9c07721bf39ddcb34d2e39e61c" title="setSelectedSymbVar" alt="" coords="268,344,412,373"/>
+<area shape="rect" id="node33" href="$d7/d7c/classlibrary_1_1_generic_component.html#a707cf56368ef6282708cf47ab360e6e4" title="library::GenericComponent\l::getSymbolVariantByUuid" alt="" coords="252,139,428,186"/>
+<area shape="rect" id="node5" href="$d2/d05/classproject_1_1_project.html#a6054e079a2e370148fce27b138686ba3" title="Get the ProjectSettings object which contains all project settings. " alt="" coords="488,75,672,104"/>
+<area shape="rect" id="node7" href="$d7/d04/classproject_1_1_project_settings.html#a4e1f38901d0cab44a6bdae922a877b22" title="project::ProjectSettings\l::getLocaleOrder" alt="" coords="501,127,659,174"/>
+<area shape="rect" id="node9" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVar\l::getUuid" alt="" coords="491,5,669,51"/>
+<area shape="rect" id="node11" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a07748d2329ba6f3667d423c7662dffe1" title="library::GenCompSymbVar\l::getNorm" alt="" coords="491,197,669,243"/>
+<area shape="rect" id="node13" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a0e5b7dc7eca3c6468aa85375bf2c3dde" title="library::GenCompSymbVar\l::getDescription" alt="" coords="491,266,669,313"/>
+<area shape="rect" id="node17" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a95be340ed5134b5b4fc05ab47e4c9c34" title="library::GenCompSymbVar\l::getItems" alt="" coords="491,335,669,382"/>
+<area shape="rect" id="node19" href="$d5/d56/class_workspace.html#a0aaab7f8db4623adc7227460a859db51" title="Get the workspace library. " alt="" coords="504,405,656,435"/>
+<area shape="rect" id="node21" href="$de/d02/classlibrary_1_1_library.html#ab9d3322f7c9a51af677857c032f30bd7" title="library::Library::getSymbols" alt="" coords="489,459,671,488"/>
+<area shape="rect" id="node23" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#ae244026d0acdc7d950b6752f4ad00e4e" title="library::GenCompSymbVarItem\l::getSymbolUuid" alt="" coords="479,511,681,558"/>
+<area shape="rect" id="node25" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVarItem\l::getUuid" alt="" coords="479,581,681,627"/>
+<area shape="rect" id="node27" href="$dc/dcc/class_graphics_scene.html#ad4900f3543f03cac6482cdbe7368291f" title="GraphicsScene::addItem" alt="" coords="497,651,663,680"/>
+<area shape="rect" id="node29" href="$dd/dd5/class_graphics_view.html#a0b0ff363db364ea5ce364fe2e27ef1aa" title="GraphicsView::zoomAll" alt="" coords="501,704,659,733"/>
+<area shape="rect" id="node15" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" title="Get the string of a specific locale from a QMap. " alt="" coords="732,266,913,313"/>
+<area shape="rect" id="node31" href="$dd/dd5/class_graphics_view.html#a79f98dafea5083f10c64488e0cabba04" title="GraphicsView::getVisible\lSceneRect" alt="" coords="739,695,907,742"/>
+</map>

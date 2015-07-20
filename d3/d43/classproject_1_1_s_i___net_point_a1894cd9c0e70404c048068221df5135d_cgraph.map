@@ -1,0 +1,11 @@
+<map id="detachFromPin" name="detachFromPin">
+<area shape="rect" id="node3" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#ad82f0f4bea8f69d1b8eef2df60ce508b" title="project::SI_SymbolPin\l::unregisterNetPoint" alt="" coords="177,74,329,121"/>
+<area shape="rect" id="node17" href="$da/db5/classproject_1_1_s_g_i___net_point.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_NetPoint\l::updateCacheAndRepaint" alt="" coords="167,143,340,190"/>
+<area shape="rect" id="node5" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::SI_SymbolPin\l::updateErcMessages" alt="" coords="389,74,541,121"/>
+<area shape="rect" id="node7" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a82d223627d0c08ce323661100eb289bd" title="project::SI_SymbolPin\l::getDisplayText" alt="" coords="593,5,745,51"/>
+<area shape="rect" id="node9" href="$de/d50/classproject_1_1_s_i___symbol.html#a4d55d03995b846c5840a2adf64399e94" title="project::SI_Symbol\l::getName" alt="" coords="603,74,736,121"/>
+<area shape="rect" id="node15" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a7b7ad6f6434c5a98612c3a4520f33901" title="library::GenCompSignal\l::isRequired" alt="" coords="589,143,749,190"/>
+<area shape="rect" id="node11" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::GenCompInstance\l::getName" alt="" coords="811,39,989,86"/>
+<area shape="rect" id="node13" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#a9eeab11e7c84e646f29fac8b709988dc" title="library::GenCompSymbVarItem\l::getSuffix" alt="" coords="799,109,1001,155"/>
+<area shape="rect" id="node19" href="$d3/d43/classproject_1_1_s_i___net_point.html#afb49c937aaabbe05a0e5368f8bf9d497" title="isVisible" alt="" coords="431,152,500,181"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="redo" name="redo">
+<area shape="rect" id="node3" href="$d1/d7b/classproject_1_1_s_i___net_label.html#a6c8d1949f20fd5639ae720fa00aa1241" title="project::SI_NetLabel\l::setNetSignal" alt="" coords="104,5,245,51"/>
+<area shape="rect" id="node5" href="$d1/d7b/classproject_1_1_s_i___net_label.html#aed08011e6158136fd130624f64f14307" title="project::SI_NetLabel\l::setPosition" alt="" coords="104,74,245,121"/>
+<area shape="rect" id="node7" href="$d1/d7b/classproject_1_1_s_i___net_label.html#ad2c89c0ca3cf75c26f1a17027643245f" title="project::SI_NetLabel\l::setAngle" alt="" coords="104,143,245,190"/>
+<area shape="rect" id="node9" href="$d3/d26/class_undo_command.html#a93c48d6ed036e1a381be53ac67643284" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="101,213,248,243"/>
+<area shape="rect" id="node11" href="$d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" title="This method shows whether that command is executed (redo() called one time more than undo()) ..." alt="" coords="493,188,680,217"/>
+<area shape="rect" id="node13" href="$d3/d26/class_undo_command.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the command (and all child commands in reverse order) " alt="" coords="296,213,445,243"/>
+</map>

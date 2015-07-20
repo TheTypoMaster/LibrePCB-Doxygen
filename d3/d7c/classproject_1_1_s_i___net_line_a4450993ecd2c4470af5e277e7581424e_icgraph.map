@@ -1,0 +1,11 @@
+<map id="getEndPoint" name="getEndPoint">
+<area shape="rect" id="node3" href="$df/dd1/classproject_1_1_s_g_i___net_line.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_NetLine\l::updateCacheAndRepaint" alt="" coords="148,27,321,74"/>
+<area shape="rect" id="node11" href="$dd/d2d/classproject_1_1_schematic.html#a0784e33cb985a56c1ac86c631ee3ee1b" title="project::Schematic\l::getSelectedItems" alt="" coords="169,97,300,143"/>
+<area shape="rect" id="node17" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#ac0d67255f68a55c37b5a1e2a661ab69c" title="project::SES_DrawWire\l::startPositioning" alt="" coords="155,166,315,213"/>
+<area shape="rect" id="node19" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#a72ccca96a5dabd93710518c9d18b93a1" title="project::SES_DrawWire\l::addNextNetPoint" alt="" coords="155,235,315,282"/>
+<area shape="rect" id="node5" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a47af38f5c88a1613e220affee2fd2203" title="updateLine" alt="" coords="407,36,492,65"/>
+<area shape="rect" id="node7" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="628,5,665,35"/>
+<area shape="rect" id="node9" href="$d3/d43/classproject_1_1_s_i___net_point.html#adc3ecff9d47a4b35383fb20ac506ea32" title="project::SI_NetPoint\l::updateLines" alt="" coords="577,58,716,105"/>
+<area shape="rect" id="node13" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::SES_Select\l::rotateSelectedItems" alt="" coords="376,93,523,139"/>
+<area shape="rect" id="node15" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::SES_Select\l::removeSelectedItems" alt="" coords="371,162,528,209"/>
+</map>

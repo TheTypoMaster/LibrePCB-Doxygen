@@ -1,0 +1,5 @@
+<map id="setPosition" name="setPosition">
+<area shape="rect" id="node3" href="$d5/d00/classproject_1_1_cmd_schematic_net_label_edit.html#a90c30c20cef07f0edc7353de12c09555" title="project::CmdSchematicNet\lLabelEdit::~CmdSchematicNetLabelEdit" alt="" coords="143,5,399,51"/>
+<area shape="rect" id="node5" href="$d5/d00/classproject_1_1_cmd_schematic_net_label_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="181,74,360,121"/>
+<area shape="rect" id="node7" href="$d5/d00/classproject_1_1_cmd_schematic_net_label_edit.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="181,143,360,190"/>
+</map>

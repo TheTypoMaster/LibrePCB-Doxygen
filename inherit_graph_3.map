@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d8/d57/class_attribute_type.html" title="The AttributeType class. " alt="" coords="7,139,105,168"/>
+<area shape="rect" id="node3" href="$d0/d14/class_attr_type_capacitance.html" title="The AttrTypeCapacitance class. " alt="" coords="156,5,300,35"/>
+<area shape="rect" id="node5" href="$df/da7/class_attr_type_frequency.html" title="The AttrTypeFrequency class. " alt="" coords="161,59,295,88"/>
+<area shape="rect" id="node7" href="$d0/d9c/class_attr_type_inductance.html" title="The AttrTypeInductance class. " alt="" coords="160,112,296,141"/>
+<area shape="rect" id="node9" href="$d6/dc0/class_attr_type_resistance.html" title="The AttrTypeResistance class. " alt="" coords="159,165,297,195"/>
+<area shape="rect" id="node11" href="$dc/d13/class_attr_type_string.html" title="The AttrTypeString class. " alt="" coords="175,219,281,248"/>
+<area shape="rect" id="node13" href="$d9/d21/class_attr_type_voltage.html" title="The AttrTypeVoltage class. " alt="" coords="171,272,285,301"/>
+</map>

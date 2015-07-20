@@ -1,0 +1,12 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/boardeditor/fsm" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/boardeditor/fsm">
+<area shape="rect" id="node2" href="dir_507e9b913fb5d2ca6bf6390421c61ed0.html" title="fsm" alt="" coords="113,55,185,103"/>
+<area shape="rect" id="node3" href="dir_c16b2c78bfcfda89e8740b01cde8ab67.html" title="librepcbproject" alt="" coords="5,151,112,199"/>
+<area shape="rect" id="edge5" href="dir_000047_000027.html" title="5" alt="" coords="96,134,104,151"/>
+<area shape="rect" id="node4" href="dir_2093dc0e773f0ae75a86b05835aba5e8.html" title="librepcbcommon" alt="" coords="91,247,208,295"/>
+<area shape="rect" id="edge7" href="dir_000047_000006.html" title="4" alt="" coords="154,220,162,237"/>
+<area shape="rect" id="node5" href="dir_536b8b24a9aa39d847f995654d7c5eb7.html" title="ui" alt="" coords="187,151,259,199"/>
+<area shape="rect" id="edge9" href="dir_000047_000053.html" title="4" alt="" coords="196,122,204,139"/>
+<area shape="rect" id="edge3" href="dir_000027_000006.html" title="192" alt="" coords="109,218,131,236"/>
+<area shape="rect" id="edge11" href="dir_000053_000006.html" title="1" alt="" coords="182,228,190,246"/>
+<area shape="rect" id="graph2" href="dir_51f83135e64b6697d0b4f8046fd11526.html" title="boardeditor" alt="" coords="103,16,196,113"/>
+</map>

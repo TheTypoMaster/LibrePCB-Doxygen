@@ -1,0 +1,7 @@
+<map id="undo" name="undo">
+<area shape="rect" id="node3" href="$d1/d03/classproject_1_1_circuit.html#a54a454afb8d2c1240ccfdb326dc695e6" title="project::Circuit::setGen\lCompInstanceName" alt="" coords="115,5,272,51"/>
+<area shape="rect" id="node5" href="$de/d67/classproject_1_1_gen_comp_instance.html#a30b9ad9df323f77f4202279cfb428c6b" title="Set the value of this generic component instance in the circuit. " alt="" coords="104,74,283,121"/>
+<area shape="rect" id="node7" href="$d3/d26/class_undo_command.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the command (and all child commands in reverse order) " alt="" coords="119,144,268,173"/>
+<area shape="rect" id="node9" href="$d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" title="This method shows whether that command is executed (redo() called one time more than undo()) ..." alt="" coords="525,119,712,148"/>
+<area shape="rect" id="node11" href="$d3/d26/class_undo_command.html#a93c48d6ed036e1a381be53ac67643284" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="331,144,477,173"/>
+</map>

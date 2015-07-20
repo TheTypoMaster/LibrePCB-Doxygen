@@ -1,0 +1,19 @@
+<map id="getUndoText" name="getUndoText">
+<area shape="rect" id="node3" href="$d4/d90/class_undo_stack.html#a4569aea2e8254c626ce894aac55866e9" title="End the currently active command and revert the changes. " alt="" coords="153,180,263,209"/>
+<area shape="rect" id="node37" href="$d4/d90/class_undo_stack.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the last command. " alt="" coords="183,233,233,263"/>
+<area shape="rect" id="node39" href="$d4/d90/class_undo_stack.html#a93c48d6ed036e1a381be53ac67643284" title="Redo the last undoed command. " alt="" coords="185,287,231,316"/>
+<area shape="rect" id="node5" href="$d4/d90/class_undo_stack.html#a82aa679ad2c2cc3c5a2ad82d7564b0b6" title="End the currently active command and keep the changes. " alt="" coords="373,152,475,181"/>
+<area shape="rect" id="node7" href="$d3/d8f/classproject_1_1_edit_net_classes_dialog.html#a38d29d574ff2e50d278b577e11300366" title="project::EditNetClassesDialog\l::~EditNetClassesDialog" alt="" coords="597,5,795,51"/>
+<area shape="rect" id="node9" href="$dd/db6/classproject_1_1_project_properties_editor_dialog.html#ac5b9ac3ae6ade6886893179b59302ec1" title="project::ProjectProperties\lEditorDialog::applyChanges" alt="" coords="604,74,788,121"/>
+<area shape="rect" id="node15" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::SES_Select\l::removeSelectedItems" alt="" coords="617,213,775,259"/>
+<area shape="rect" id="node25" href="$d4/d90/class_undo_stack.html#a03bfacfaaba9195e4498375659f43531" title="Clear the whole stack (delete all UndoCommand objects) " alt="" coords="399,341,449,371"/>
+<area shape="rect" id="node34" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#afc217cc9d5f5bd26ab99f2af1b932668" title="project::SymbolInstanceProperties\lDialog::abortCmd" alt="" coords="313,267,535,314"/>
+<area shape="rect" id="node17" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#afd1bce071dc634026d41b91abd1498ba" title="project::SymbolInstanceProperties\lDialog::endCmd" alt="" coords="585,143,807,190"/>
+<area shape="rect" id="node11" href="$dd/db6/classproject_1_1_project_properties_editor_dialog.html#aadb9f3b844fb4cf98288cd3c60a3af91" title="project::ProjectProperties\lEditorDialog::accept" alt="" coords="884,74,1052,121"/>
+<area shape="rect" id="node13" href="$dd/db6/classproject_1_1_project_properties_editor_dialog.html#a9e53392568d47bcb31ccbde9917efb0c" title="project::ProjectProperties\lEditorDialog::keyPressEvent" alt="" coords="1145,74,1335,121"/>
+<area shape="rect" id="node19" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#ac5b9ac3ae6ade6886893179b59302ec1" title="project::SymbolInstanceProperties\lDialog::applyChanges" alt="" coords="857,207,1079,254"/>
+<area shape="rect" id="node21" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#aadb9f3b844fb4cf98288cd3c60a3af91" title="project::SymbolInstanceProperties\lDialog::accept" alt="" coords="1129,207,1351,254"/>
+<area shape="rect" id="node23" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a9e53392568d47bcb31ccbde9917efb0c" title="project::SymbolInstanceProperties\lDialog::keyPressEvent" alt="" coords="1401,207,1623,254"/>
+<area shape="rect" id="node27" href="$d4/d90/class_undo_stack.html#a630bb7c7b154364cfccb2638ab80ff49" title="The destructor (will also call clear()) " alt="" coords="649,403,743,432"/>
+<area shape="rect" id="node29" href="$d3/dd6/classproject_1_1_project_editor.html#ae01fee4b95fd8ed359ca04a547055bec" title="The destructor. " alt="" coords="624,333,768,379"/>
+</map>

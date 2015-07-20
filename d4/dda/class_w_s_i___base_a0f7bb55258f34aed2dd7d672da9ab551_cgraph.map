@@ -1,0 +1,5 @@
+<map id="saveValue" name="saveValue">
+<area shape="rect" id="node3" href="$de/d52/class_workspace_settings.html#ad1d507e6e68d4b8bd40982b78da7c5bd" title="WorkspaceSettings::\lgetMetadataPath" alt="" coords="136,5,280,51"/>
+<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="139,75,277,104"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="155,128,261,157"/>
+</map>

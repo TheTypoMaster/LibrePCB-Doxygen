@@ -1,0 +1,9 @@
+<map id="Ui_AddGenCompDialog" name="Ui_AddGenCompDialog">
+<area shape="rect" id="node2" href="$dd/dd5/class_graphics_view.html" title="The GraphicsView class. " alt="" coords="187,1595,400,2010"/>
+<area shape="rect" id="node4" href="$dc/dcc/class_graphics_scene.html" title="The GraphicsScene class. " alt="" coords="5,1277,155,1432"/>
+<area shape="rect" id="node6" href="$dc/dd0/class_i_f___graphics_view_event_handler.html" title="The IF_GraphicsViewEventHandler class. " alt="" coords="179,1295,408,1415"/>
+<area shape="rect" id="node8" href="$d8/dbf/class_grid_properties.html" title="The GridProperties class. " alt="" coords="432,1182,635,1527"/>
+<area shape="rect" id="node10" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="229,491,432,629"/>
+<area shape="rect" id="node12" href="$df/df0/class_length.html" title="The Length class is used to represent a length (for example 12.75 millimeters) " alt="" coords="456,6,611,1114"/>
+<area shape="rect" id="node14" href="$dd/d55/class_length_unit.html" title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth..." alt="" coords="635,335,773,785"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="mapToScene" name="mapToScene">
+<area shape="rect" id="node3" href="$d0/d69/class_point.html#a5234cfe8b9f31ba928745912067f90b4" title="Get the point rotated by a specific angle with respect to a specific center. " alt="" coords="153,139,252,168"/>
+<area shape="rect" id="node5" href="$d0/d69/class_point.html#af8998fd1f88de65f9467a5d2012710a4" title="Rotate the point by a specific angle with respect to a specific center. " alt="" coords="301,139,395,168"/>
+<area shape="rect" id="node7" href="$d2/d39/class_angle.html#afba236b33bef9614cb43142b02c79187" title="Get an Angle object which is mapped to [0..360[ degrees. " alt="" coords="444,5,623,35"/>
+<area shape="rect" id="node11" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="484,59,583,88"/>
+<area shape="rect" id="node15" href="$d2/d39/class_angle.html#a1cb5c1054de209f807098188714339d8" title="180 degrees " alt="" coords="481,112,585,141"/>
+<area shape="rect" id="node18" href="$d2/d39/class_angle.html#a7600a8b34a9d1abb484a7d459cc45bba" title="270 degrees " alt="" coords="481,165,585,195"/>
+<area shape="rect" id="node21" href="$d2/d39/class_angle.html#a0bb104c9f39ddaeb30f14b4320e34f2a" title="0 degrees " alt="" coords="488,219,579,248"/>
+<area shape="rect" id="node24" href="$df/df0/class_length.html#ae8a552dd96c343a0a609cebf7731cd26" title="Get the length in nanometers. " alt="" coords="483,272,584,301"/>
+<area shape="rect" id="node9" href="$d2/d39/class_angle.html#aa6a6fad8c7af06e21bec6a5fc2b521cc" title="Map this Angle object to [0..360[ degrees. " alt="" coords="673,5,831,35"/>
+<area shape="rect" id="node13" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="704,139,800,168"/>
+</map>

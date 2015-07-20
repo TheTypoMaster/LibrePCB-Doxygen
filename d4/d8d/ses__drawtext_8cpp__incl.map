@@ -1,0 +1,15 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/schematiceditor/fsm/ses_drawtext.cpp" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/schematiceditor/fsm/ses_drawtext.cpp">
+<area shape="rect" id="node5" href="$df/d74/ses__drawtext_8h.html" title="ses_drawtext.h" alt="" coords="587,152,696,181"/>
+<area shape="rect" id="node14" href="$d2/db7/schematiceditor_8h.html" title="../schematiceditor.h" alt="" coords="812,316,948,345"/>
+<area shape="rect" id="node22" href="$df/d40/ui__schematiceditor_8h.html" title="ui_schematiceditor.h" alt="" coords="1708,316,1849,345"/>
+<area shape="rect" id="node8" href="$d4/d0e/ses__base_8h.html" title="ses_base.h" alt="" coords="597,229,685,259"/>
+<area shape="rect" id="node11" href="$da/d97/schematiceditorevent_8h.html" title="schematiceditorevent.h" alt="" coords="427,567,584,596"/>
+<area shape="rect" id="node48" href="$d1/da8/all__length__units_8h.html" title="librepcbcommon/units\l/all_length_units.h" alt="" coords="213,307,363,354"/>
+<area shape="rect" id="node68" href="$df/dfc/graphicsview_8h.html" title="librepcbcommon/graphics\l/graphicsview.h" alt="" coords="617,307,788,354"/>
+<area shape="rect" id="node19" href="$df/df9/if__graphicsvieweventhandler_8h.html" title="librepcbcommon/graphics\l/if_graphicsvieweventhandler.h" alt="" coords="867,558,1067,605"/>
+<area shape="rect" id="node50" href="$d0/d09/lengthunit_8h.html" title="lengthunit.h" alt="" coords="335,480,423,509"/>
+<area shape="rect" id="node56" href="$dd/db9/length_8h.html" title="length.h" alt="" coords="151,480,217,509"/>
+<area shape="rect" id="node60" href="$d2/d91/point_8h.html" title="point.h" alt="" coords="139,403,200,432"/>
+<area shape="rect" id="node64" href="$da/dac/angle_8h.html" title="angle.h" alt="" coords="247,480,311,509"/>
+<area shape="rect" id="node53" href="$d4/d03/exceptions_8h.html" title="../exceptions.h" alt="" coords="245,567,352,596"/>
+</map>

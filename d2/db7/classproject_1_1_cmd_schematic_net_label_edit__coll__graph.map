@@ -1,0 +1,35 @@
+<map id="CmdSchematicNetLabelEdit" name="CmdSchematicNetLabelEdit">
+<area shape="rect" id="node2" href="$d3/d26/class_undo_command.html" title="The UndoCommand class represents a command which you can undo/redo. " alt="" coords="2132,6901,2273,7264"/>
+<area shape="rect" id="node5" href="$d2/d39/class_angle.html" title="The Angle class is used to represent an angle (for example 12.75 degrees) " alt="" coords="2266,5769,2426,6773"/>
+<area shape="rect" id="node80" href="$d1/d7b/classproject_1_1_s_i___net_label.html" title="The SI_NetLabel class. " alt="" coords="2378,6841,2581,7325"/>
+<area shape="rect" id="node7" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="2117,5786,2242,6755"/>
+<area shape="rect" id="node9" href="$df/df0/class_length.html" title="The Length class is used to represent a length (for example 12.75 millimeters) " alt="" coords="2228,1811,2382,2919"/>
+<area shape="rect" id="node102" href="$d8/dbf/class_grid_properties.html" title="The GridProperties class. " alt="" coords="2502,3359,2705,3705"/>
+<area shape="rect" id="node11" href="$d3/d93/classproject_1_1_net_signal.html" title="The NetSignal class. " alt="" coords="653,5942,866,6599"/>
+<area shape="rect" id="node13" href="$d7/d3c/classproject_1_1_i_f___erc_msg_provider.html" title="The IF_ErcMsgProvider class. " alt="" coords="17,3472,228,3592"/>
+<area shape="rect" id="node17" href="$dc/d67/classproject_1_1_erc_msg.html" title="The ErcMsg class represents a message in the ERC (Electrical Rule Check) list. " alt="" coords="233,4474,353,4889"/>
+<area shape="rect" id="node74" href="$d3/d21/classproject_1_1_net_class.html" title="The NetClass class. " alt="" coords="509,5286,712,5701"/>
+<area shape="rect" id="node15" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="2006,1339,2209,1477"/>
+<area shape="rect" id="node20" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="590,2219,790,2512"/>
+<area shape="rect" id="node29" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="1028,2987,1228,4077"/>
+<area shape="rect" id="node51" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="490,4379,709,4984"/>
+<area shape="rect" id="node57" href="$d7/d04/classproject_1_1_project_settings.html" title="The ProjectSettings class. " alt="" coords="1513,4509,1713,4854"/>
+<area shape="rect" id="node93" href="$dd/d2d/classproject_1_1_schematic.html" title="The Schematic class represents one schematic page of a project and is always part of a circuit..." alt="" coords="2337,4145,2537,5218"/>
+<area shape="rect" id="node23" href="$da/db0/class_smart_xml_file.html" title="The SmartXmlFile class represents a XML file and provides methods to load/save XML DOM trees (XmlDomD..." alt="" coords="946,1296,1146,1520"/>
+<area shape="rect" id="node25" href="$d1/d7f/class_smart_file.html" title="The abstract SmartFile class represents a file and provides some useful methods to work with that fil..." alt="" coords="934,643,1158,989"/>
+<area shape="rect" id="node48" href="$db/deb/class_smart_text_file.html" title="The SmartTextFile class represents a text file and provides access to its content. " alt="" coords="361,1545,492,1786"/>
+<area shape="rect" id="node27" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="1149,5,1328,541"/>
+<area shape="rect" id="node63" href="$d9/d57/class_file_lock.html" title="This class can be used to implement file&#45;based file locks. " alt="" coords="1237,1013,1400,1272"/>
+<area shape="rect" id="node66" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="1737,4275,1942,5088"/>
+<area shape="rect" id="node40" href="$d1/d2c/classproject_1_1_board_layer_provider.html" title="The BoardLayerProvider class provides and manages all available board layers which are used in the pr..." alt="" coords="733,4578,896,4785"/>
+<area shape="rect" id="node44" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="1065,4578,1257,4785"/>
+<area shape="rect" id="node31" href="$d9/d41/class_i_f___attribute_provider.html" title="The IF_AttributeProvider class defines an interface for classes which provides some attributes which ..." alt="" coords="1569,2271,1790,2460"/>
+<area shape="rect" id="node33" href="$d5/d3f/class_i_f___schematic_layer_provider.html" title="The IF_SchematicLayerProvider class defines an interface for classes which provide schematic layers..." alt="" coords="1334,2288,1545,2443"/>
+<area shape="rect" id="node35" href="$d6/db7/class_i_f___board_layer_provider.html" title="The IF_BoardLayerProvider class defines an interface for classes which provide board layers..." alt="" coords="865,2288,1046,2443"/>
+<area shape="rect" id="node86" href="$d1/d60/classproject_1_1_s_g_i___net_label.html" title="The SGI_NetLabel class. " alt="" coords="2489,7393,2676,7703"/>
+<area shape="rect" id="node82" href="$d4/dbe/classproject_1_1_s_i___base.html" title="The Schematic Item Base (SI_Base) class. " alt="" coords="2501,6159,2669,6383"/>
+<area shape="rect" id="node88" href="$d3/d4c/classproject_1_1_s_g_i___base.html" title="The Schematic Graphics Item Base (SGI_Base) class. " alt="" coords="2718,7014,2828,7151"/>
+<area shape="rect" id="node90" href="$d9/d37/class_graphics_item.html" title="The GraphicsItem class. " alt="" coords="2830,6219,2958,6322"/>
+<area shape="rect" id="node98" href="$dc/dcc/class_graphics_scene.html" title="The GraphicsScene class. " alt="" coords="2228,3455,2377,3609"/>
+<area shape="rect" id="node106" href="$dd/d55/class_length_unit.html" title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth..." alt="" coords="2488,2141,2626,2590"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="getXmlFilepath" name="getXmlFilepath">
+<area shape="rect" id="node3" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a9838d73392b345f0c9471b5235e11adb" title="project::AddGenCompDialog\l::getSelectedGenCompFilePath" alt="" coords="164,5,369,51"/>
+<area shape="rect" id="node5" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="project::AddGenCompDialog\l::setSelectedCategory" alt="" coords="173,74,360,121"/>
+<area shape="rect" id="node7" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25" title="project::AddGenCompDialog\l::on_treeCategories_currentItem\lChanged" alt="" coords="420,65,628,129"/>
+<area shape="rect" id="node9" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="project::AddGenCompDialog\l::AddGenCompDialog" alt="" coords="679,74,865,121"/>
+</map>

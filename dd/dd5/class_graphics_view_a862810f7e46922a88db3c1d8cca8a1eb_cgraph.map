@@ -1,0 +1,5 @@
+<map id="drawBackground" name="drawBackground">
+<area shape="rect" id="node3" href="$d8/dbf/class_grid_properties.html#a47a795a41aee9a66cbd32ed0f0298e42" title="GridProperties::getType" alt="" coords="181,5,341,35"/>
+<area shape="rect" id="node5" href="$d8/dbf/class_grid_properties.html#a4cc9437a41e81f8f0f873ce9fbd67900" title="GridProperties::getInterval" alt="" coords="175,59,348,88"/>
+<area shape="rect" id="node7" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="213,112,309,141"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="getName" name="getName">
+<area shape="rect" id="node3" href="$d1/d1f/class_xml_dom_element.html#ac20572eb89a717de4f5c13307ac721dd" title="Get the first child element with a specific name. " alt="" coords="141,483,237,512"/>
+<area shape="rect" id="node5" href="$d1/d1f/class_xml_dom_element.html#ad6dffb454633c76785a3c5b3326d09eb" title="Get the previous child (with a specific name) of a specific child. " alt="" coords="129,536,249,565"/>
+<area shape="rect" id="node9" href="$d1/d1f/class_xml_dom_element.html#adc4e44d2a70ffd20acf6f46952f44723" title="Get the next child (with a specific name) of a specific child. " alt="" coords="140,589,239,619"/>
+<area shape="rect" id="node7" href="$d1/d1f/class_xml_dom_element.html#ac0f4f4a2e22822bbbe75828a7d3ffe68" title="Get the previous sibling element (with a specific name) " alt="" coords="299,536,429,565"/>
+<area shape="rect" id="node11" href="$d1/d1f/class_xml_dom_element.html#a3cd8526c7b8169654ac3b2357af7392e" title="Get the next sibling element (with a specific name) " alt="" coords="311,589,417,619"/>
+<area shape="rect" id="node13" href="$d3/dad/classlibrary_1_1_component.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::Component\l::parseDomTree" alt="" coords="771,5,901,51"/>
+<area shape="rect" id="node15" href="$d8/dea/classlibrary_1_1_footprint.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::Footprint\l::parseDomTree" alt="" coords="779,74,893,121"/>
+<area shape="rect" id="node17" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#a278c09412097b3229e609d90894342b2" title="library::FootprintPolygon\l::FootprintPolygon" alt="" coords="499,391,661,438"/>
+<area shape="rect" id="node19" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#aaf658e6730f690b372dde7bb8173f54d" title="library::GenCompSymbVar\l::GenCompSymbVar" alt="" coords="747,442,925,489"/>
+<area shape="rect" id="node21" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#a6fc2b2db0ce196b00e6a6c586567f244" title="library::GenCompSymbVarItem\l::GenCompSymbVarItem" alt="" coords="479,581,681,627"/>
+<area shape="rect" id="node23" href="$d7/d7c/classlibrary_1_1_generic_component.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::GenericComponent\l::parseDomTree" alt="" coords="748,319,924,366"/>
+<area shape="rect" id="node25" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a6082cb826f55941403d9bf4fb771928f" title="Read locale&#45;dependent strings from a DOM node and insert them in a QMap. " alt="" coords="489,511,671,558"/>
+<area shape="rect" id="node36" href="$d8/dff/classlibrary_1_1_library_element.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::LibraryElement\l::parseDomTree" alt="" coords="504,205,656,251"/>
+<area shape="rect" id="node47" href="$d9/db9/classlibrary_1_1_symbol.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::Symbol::parseDomTree" alt="" coords="735,389,937,419"/>
+<area shape="rect" id="node50" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#ab1a023e8c5b3b930a7ca7b1d2710d8c7" title="library::SymbolPolygon\l::SymbolPolygon" alt="" coords="503,650,657,697"/>
+<area shape="rect" id="node52" href="$d5/d07/classproject_1_1_board.html#af730e4474fb52921e507817d97be3585" title="project::Board::Board" alt="" coords="508,720,652,749"/>
+<area shape="rect" id="node54" href="$d1/d03/classproject_1_1_circuit.html#a771e23d92f6ccff0ce6b701b4cceed5c" title="project::Circuit::Circuit" alt="" coords="504,773,656,803"/>
+<area shape="rect" id="node56" href="$de/d67/classproject_1_1_gen_comp_instance.html#a7fa5d62c280aeb14756e751520a201e3" title="project::GenCompInstance\l::GenCompInstance" alt="" coords="491,826,669,873"/>
+<area shape="rect" id="node58" href="$d1/dd6/classproject_1_1_erc_msg_list.html#a5d9cb0a79e8e14d8d02c3b1388935eb2" title="project::ErcMsgList\l::restoreIgnoreState" alt="" coords="512,895,648,942"/>
+<area shape="rect" id="node60" href="$d2/d05/classproject_1_1_project.html#ac7d08ce581d4e4a78c488c12c30d1120" title="The constructor to create or open a project with all its content. " alt="" coords="501,965,659,995"/>
+<area shape="rect" id="node62" href="$dd/d2d/classproject_1_1_schematic.html#a75e4741d907d58afa431a222d580471b" title="project::Schematic\l::Schematic" alt="" coords="515,1018,645,1065"/>
+<area shape="rect" id="node64" href="$d7/d04/classproject_1_1_project_settings.html#a99d77a09f2195537448650ab0953c644" title="project::ProjectSettings\l::ProjectSettings" alt="" coords="501,1087,659,1134"/>
+<area shape="rect" id="node27" href="$d2/d4e/classlibrary_1_1_footprint_pad.html#a02f3343c2d3add90b7a029912ad4c477" title="library::FootprintPad\l::FootprintPad" alt="" coords="767,511,905,558"/>
+<area shape="rect" id="node29" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#ad500334edf2114d058e2010633a60e08" title="library::GenCompSignal\l::GenCompSignal" alt="" coords="756,581,916,627"/>
+<area shape="rect" id="node32" href="$d5/d40/classlibrary_1_1_library_element_attribute.html#ac4e221bdc91d964218f3b2c1ab3fc826" title="library::LibraryElementAttribute\l::LibraryElementAttribute" alt="" coords="736,650,936,697"/>
+<area shape="rect" id="node34" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#ad59733fe4076bf9210183dbade26054a" title="library::SymbolPin\l::SymbolPin" alt="" coords="772,719,900,766"/>
+<area shape="rect" id="node38" href="$da/dae/classlibrary_1_1_model3_d.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::Model3D::parseDomTree" alt="" coords="731,144,941,173"/>
+<area shape="rect" id="node43" href="$d1/dcf/classlibrary_1_1_package.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::Package::parseDomTree" alt="" coords="731,197,941,227"/>
+<area shape="rect" id="node45" href="$da/d3b/classlibrary_1_1_spice_model.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::SpiceModel\l::parseDomTree" alt="" coords="769,250,903,297"/>
+</map>

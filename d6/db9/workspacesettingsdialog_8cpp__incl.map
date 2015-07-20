@@ -1,0 +1,18 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbworkspace/settings/workspacesettingsdialog.cpp" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbworkspace/settings/workspacesettingsdialog.cpp">
+<area shape="rect" id="node7" href="$db/dec/workspacesettingsdialog_8h.html" title="workspacesettingsdialog.h" alt="" coords="354,300,530,329"/>
+<area shape="rect" id="node11" href="$d5/d20/ui__workspacesettingsdialog_8h.html" title="ui_workspacesettingsdialog.h" alt="" coords="3015,136,3207,165"/>
+<area shape="rect" id="node37" href="$d4/de6/workspace_8h.html" title="../workspace.h" alt="" coords="91,213,198,243"/>
+<area shape="rect" id="node50" href="$d7/dfd/workspacesettings_8h.html" title="workspacesettings.h" alt="" coords="1085,136,1226,165"/>
+<area shape="rect" id="node40" href="$d5/db9/filelock_8h.html" title="librepcbcommon/fileio\l/filelock.h" alt="" coords="31,291,178,338"/>
+<area shape="rect" id="node46" href="$d4/d03/exceptions_8h.html" title="../exceptions.h" alt="" coords="181,387,287,416"/>
+<area shape="rect" id="node43" href="$dd/dec/filepath_8h.html" title="filepath.h" alt="" coords="82,387,157,416"/>
+<area shape="rect" id="node54" href="$d1/df7/wsi__applocale_8h.html" title="items/wsi_applocale.h" alt="" coords="1171,213,1321,243"/>
+<area shape="rect" id="node60" href="$dd/d8d/wsi__appdefaultmeasurementunits_8h.html" title="items/wsi_appdefaultmeasurementunits.h" alt="" coords="518,213,779,243"/>
+<area shape="rect" id="node67" href="$d8/d1a/wsi__projectautosaveinterval_8h.html" title="items/wsi_projectautosaveinterval.h" alt="" coords="1345,213,1574,243"/>
+<area shape="rect" id="node70" href="$d8/d06/wsi__librarylocaleorder_8h.html" title="items/wsi_librarylocaleorder.h" alt="" coords="1598,213,1793,243"/>
+<area shape="rect" id="node73" href="$dd/d39/wsi__librarynormorder_8h.html" title="items/wsi_librarynormorder.h" alt="" coords="1817,213,2006,243"/>
+<area shape="rect" id="node76" href="$d4/dc7/wsi__debugtools_8h.html" title="items/wsi_debugtools.h" alt="" coords="803,213,961,243"/>
+<area shape="rect" id="node79" href="$db/d31/wsi__appearance_8h.html" title="items/wsi_appearance.h" alt="" coords="985,213,1147,243"/>
+<area shape="rect" id="node56" href="$dd/d8c/wsi__base_8h.html" title="wsi_base.h" alt="" coords="1022,300,1110,329"/>
+<area shape="rect" id="node63" href="$d0/d09/lengthunit_8h.html" title="librepcbcommon/units\l/lengthunit.h" alt="" coords="605,291,754,338"/>
+</map>

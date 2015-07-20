@@ -1,0 +1,10 @@
+<map id="PackageCategory" name="PackageCategory">
+<area shape="rect" id="node3" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" title="library::LibraryBaseElement\l::readFromFile" alt="" coords="183,74,364,121"/>
+<area shape="rect" id="node5" href="$da/db0/class_smart_xml_file.html#a6685c26dd2c2668f47d5fae96c4c319f" title="Open and parse the XML file and build the whole DOM tree. " alt="" coords="415,5,599,51"/>
+<area shape="rect" id="node15" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::LibraryBaseElement\l::parseDomTree" alt="" coords="416,74,597,121"/>
+<area shape="rect" id="node17" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="649,126,831,173"/>
+<area shape="rect" id="node7" href="$de/d6b/class_application.html#a71dfd4d8f6708f9d9eb0f0c507c1e9ef" title="Application::majorVersion" alt="" coords="655,16,825,45"/>
+<area shape="rect" id="node9" href="$de/d6b/class_application.html#a9b7423f4d6e1631b033ff1ef3f1104bc" title="Application::application\lVersion" alt="" coords="881,7,1036,54"/>
+<area shape="rect" id="node13" href="$de/d34/class_version.html#a1d27f264dcf673c9b3a991023cd0420c" title="Get the numbers in the version string. " alt="" coords="887,77,1031,107"/>
+<area shape="rect" id="node11" href="$de/d34/class_version.html#a0a886a9edf5bf682f5245159661bfc94" title="Check if the object represents a valid version number. " alt="" coords="1087,73,1199,103"/>
+</map>

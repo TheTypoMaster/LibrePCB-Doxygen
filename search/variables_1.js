@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['btnadd',['btnAdd',['../d5/d92/class_ui___edit_net_classes_dialog.html#af617efe5f2d93e1ea4826ebd52ffc909',1,'Ui_EditNetClassesDialog::btnAdd()'],['../dc/d06/class_ui___unplaced_components_dock.html#af617efe5f2d93e1ea4826ebd52ffc909',1,'Ui_UnplacedComponentsDock::btnAdd()']]],
+  ['btnaddall',['btnAddAll',['../dc/d06/class_ui___unplaced_components_dock.html#a570d1d01637d32236a4c209875b56cab',1,'Ui_UnplacedComponentsDock']]],
+  ['btnattradd',['btnAttrAdd',['../de/d34/class_ui___symbol_instance_properties_dialog.html#ab2214b5a71c732a7a44a9845ff15f270',1,'Ui_SymbolInstancePropertiesDialog']]],
+  ['btnattrapply',['btnAttrApply',['../de/d34/class_ui___symbol_instance_properties_dialog.html#a0f26eeb603c53df88cd0fde6337828f7',1,'Ui_SymbolInstancePropertiesDialog']]],
+  ['btnattrremove',['btnAttrRemove',['../de/d34/class_ui___symbol_instance_properties_dialog.html#a4139fd6c1f21ee8cab60a36688f9149c',1,'Ui_SymbolInstancePropertiesDialog']]],
+  ['btndiv2',['btnDiv2',['../da/d8f/class_ui___grid_settings_dialog.html#abe4812308e79e163a1a68de8570356e9',1,'Ui_GridSettingsDialog']]],
+  ['btnignore',['btnIgnore',['../d3/dee/class_ui___erc_msg_dock.html#a057120f5ecab5f5be55be0a443cda308',1,'Ui_ErcMsgDock']]],
+  ['btnlocaleadd',['btnLocaleAdd',['../d0/d08/class_ui___project_settings_dialog.html#a3ecbcb9defae0ed75e8c93abad61e495',1,'Ui_ProjectSettingsDialog']]],
+  ['btnlocaledown',['btnLocaleDown',['../d0/d08/class_ui___project_settings_dialog.html#ab01dc7170aa57d841b20214c14676702',1,'Ui_ProjectSettingsDialog']]],
+  ['btnlocaleremove',['btnLocaleRemove',['../d0/d08/class_ui___project_settings_dialog.html#ab666cdb0bd05723d1df2cdd2b8f711fa',1,'Ui_ProjectSettingsDialog']]],
+  ['btnlocaleup',['btnLocaleUp',['../d0/d08/class_ui___project_settings_dialog.html#a7d2a69acdb8af0848df1699e678f39ae',1,'Ui_ProjectSettingsDialog']]],
+  ['btnmul2',['btnMul2',['../da/d8f/class_ui___grid_settings_dialog.html#a4913ba3cdcdc6c921287495b2b88ed64',1,'Ui_GridSettingsDialog']]],
+  ['btnnewschematic',['btnNewSchematic',['../d6/dd3/class_ui___schematic_pages_dock.html#ac594e2afe68be8432f65edd3d7e7f3f4',1,'Ui_SchematicPagesDock']]],
+  ['btnnormadd',['btnNormAdd',['../d0/d08/class_ui___project_settings_dialog.html#ac814f54a425b2d0a75f2f389337e794d',1,'Ui_ProjectSettingsDialog']]],
+  ['btnnormdown',['btnNormDown',['../d0/d08/class_ui___project_settings_dialog.html#af45ad6c17d408b66cd7cd3463ab95296',1,'Ui_ProjectSettingsDialog']]],
+  ['btnnormremove',['btnNormRemove',['../d0/d08/class_ui___project_settings_dialog.html#aec0055d72909b6749fe4ec849bb24327',1,'Ui_ProjectSettingsDialog']]],
+  ['btnnormup',['btnNormUp',['../d0/d08/class_ui___project_settings_dialog.html#ae7e816fb9e589293edbb6759d94a3e78',1,'Ui_ProjectSettingsDialog']]],
+  ['btnremove',['btnRemove',['../d5/d92/class_ui___edit_net_classes_dialog.html#a06bd398b2b5a16239dc7cf048dfd6b2c',1,'Ui_EditNetClassesDialog']]],
+  ['btnremoveschematic',['btnRemoveSchematic',['../d6/dd3/class_ui___schematic_pages_dock.html#aa63d0498a2732c757271e4760ff74cb9',1,'Ui_SchematicPagesDock']]],
+  ['btnschematicdown',['btnSchematicDown',['../d6/dd3/class_ui___schematic_pages_dock.html#aee26c5333e690a1e175c7815553802e2',1,'Ui_SchematicPagesDock']]],
+  ['btnschematicup',['btnSchematicUp',['../d6/dd3/class_ui___schematic_pages_dock.html#a80a5bd4f78c7b56da89edfef1327d21b',1,'Ui_SchematicPagesDock']]],
+  ['buttonbox',['buttonBox',['../da/d8f/class_ui___grid_settings_dialog.html#a4d76db11c020d3d895f14dcecf268a95',1,'Ui_GridSettingsDialog::buttonBox()'],['../d8/d4e/class_ui___add_gen_comp_dialog.html#a4d76db11c020d3d895f14dcecf268a95',1,'Ui_AddGenCompDialog::buttonBox()'],['../d5/d92/class_ui___edit_net_classes_dialog.html#a4d76db11c020d3d895f14dcecf268a95',1,'Ui_EditNetClassesDialog::buttonBox()'],['../dc/d45/class_ui___project_properties_editor_dialog.html#a4d76db11c020d3d895f14dcecf268a95',1,'Ui_ProjectPropertiesEditorDialog::buttonBox()'],['../d0/d08/class_ui___project_settings_dialog.html#a4d76db11c020d3d895f14dcecf268a95',1,'Ui_ProjectSettingsDialog::buttonBox()'],['../de/d34/class_ui___symbol_instance_properties_dialog.html#a4d76db11c020d3d895f14dcecf268a95',1,'Ui_SymbolInstancePropertiesDialog::buttonBox()'],['../db/d3a/class_ui___workspace_chooser_dialog.html#a4d76db11c020d3d895f14dcecf268a95',1,'Ui_WorkspaceChooserDialog::buttonBox()'],['../d2/d84/class_ui___workspace_settings_dialog.html#a4d76db11c020d3d895f14dcecf268a95',1,'Ui_WorkspaceSettingsDialog::buttonBox()']]]
+];

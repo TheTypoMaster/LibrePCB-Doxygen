@@ -1,0 +1,10 @@
+<map id="getRotation" name="getRotation">
+<area shape="rect" id="node3" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_Footprint\l::updateCacheAndRepaint" alt="" coords="145,5,319,51"/>
+<area shape="rect" id="node9" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_FootprintPad\l::updateCacheAndRepaint" alt="" coords="145,74,319,121"/>
+<area shape="rect" id="node11" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#a212e36e19edc323ddeb73387d2f011a5" title="project::BI_FootprintPad\l::updatePosition" alt="" coords="383,110,545,157"/>
+<area shape="rect" id="node5" href="$da/d96/classproject_1_1_b_i___footprint.html#a80db668afe30ac6b6c9e5eb061b61cfc" title="componentInstanceAttributes\lChanged" alt="" coords="368,5,560,51"/>
+<area shape="rect" id="node7" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="841,65,879,95"/>
+<area shape="rect" id="node13" href="$da/d96/classproject_1_1_b_i___footprint.html#a271c63e12acd19bccc27bf6861938df2" title="componentInstanceMoved" alt="" coords="613,65,787,95"/>
+<area shape="rect" id="node16" href="$da/d96/classproject_1_1_b_i___footprint.html#ab6c0fcabcb9d5a38a27ed7aeb34f0958" title="componentInstanceRotated" alt="" coords="609,119,791,148"/>
+<area shape="rect" id="node19" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#ac81e6cd36593d731c5e2e23048ed6754" title="project::BI_FootprintPad\l::BI_FootprintPad" alt="" coords="619,171,781,218"/>
+</map>

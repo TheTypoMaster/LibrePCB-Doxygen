@@ -1,0 +1,13 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbcommon/fileio/xmldomdocument.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbcommon/fileio/xmldomdocument.h">
+<area shape="rect" id="node3" href="$d0/d7b/smartxmlfile_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbcommon/fileio\l/smartxmlfile.cpp" alt="" coords="5,137,171,218"/>
+<area shape="rect" id="node5" href="$d4/d95/xmldomdocument_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbcommon/fileio\l/xmldomdocument.cpp" alt="" coords="195,137,360,218"/>
+<area shape="rect" id="node7" href="$d9/dfc/xmldomelement_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbcommon/fileio\l/xmldomelement.cpp" alt="" coords="384,137,549,218"/>
+<area shape="rect" id="node9" href="$d7/d7d/library_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/library.cpp" alt="" coords="573,145,744,209"/>
+<area shape="rect" id="node11" href="$d2/dca/librarybaseelement_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/librarybaseelement.cpp" alt="" coords="768,145,1011,209"/>
+<area shape="rect" id="node13" href="$df/d6e/board_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/board.cpp" alt="" coords="1035,137,1200,218"/>
+<area shape="rect" id="node15" href="$d4/d6f/circuit_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/circuit.cpp" alt="" coords="1224,137,1389,218"/>
+<area shape="rect" id="node17" href="$d0/d69/ercmsglist_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/erc/ercmsglist.cpp" alt="" coords="1413,145,1635,209"/>
+<area shape="rect" id="node19" href="$df/d18/project_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/project.cpp" alt="" coords="1659,145,1837,209"/>
+<area shape="rect" id="node21" href="$dc/db2/schematic_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/schematic.cpp" alt="" coords="1861,137,2043,218"/>
+<area shape="rect" id="node23" href="$dd/db5/projectsettings_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/settings\l/projectsettings.cpp" alt="" coords="2067,137,2232,218"/>
+</map>

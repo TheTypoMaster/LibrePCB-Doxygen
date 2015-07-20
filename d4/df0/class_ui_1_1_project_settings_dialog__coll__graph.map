@@ -1,0 +1,3 @@
+<map id="ProjectSettingsDialog" name="ProjectSettingsDialog">
+<area shape="rect" id="node2" href="$d0/d08/class_ui___project_settings_dialog.html" title="{Ui_ProjectSettingsDialog\n|+ verticalLayout\l+ tabWidget\l+ tabGeneral\l+ tab\l+ gridLayout\l+ label_2\l+ label\l+ verticalLayout_2\l+ lstLocaleOrder\l+ horizontalLayout\l+ cbxLocales\l+ btnLocaleAdd\l+ btnLocaleRemove\l+ btnLocaleUp\l+ btnLocaleDown\l+ verticalSpacer\l+ verticalLayout_3\l+ lstNormOrder\l+ horizontalLayout_2\l+ cbxNorms\l+ btnNormAdd\l+ btnNormRemove\l+ btnNormUp\l+ btnNormDown\l+ label_3\l+ buttonBox\l|+ setupUi()\l+ retranslateUi()\l}" alt="" coords="5,5,173,541"/>
+</map>

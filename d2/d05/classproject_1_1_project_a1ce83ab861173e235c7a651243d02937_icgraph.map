@@ -1,0 +1,11 @@
+<map id="getLibrary" name="getLibrary">
+<area shape="rect" id="node3" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="175,5,313,51"/>
+<area shape="rect" id="node5" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#abc20576b1a90981588679be439a1762a" title="project::UnplacedComponents\lDock::on_cbxSelectedComponent\l_currentIndexChanged" alt="" coords="133,75,355,139"/>
+<area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="project::UnplacedComponents\lDock::on_btnAddAll_clicked" alt="" coords="415,133,612,179"/>
+<area shape="rect" id="node9" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ad000d7056be9060e68ab7f2548d12946" title="project::UnplacedComponents\lDock::updateComponentsList" alt="" coords="145,251,343,298"/>
+<area shape="rect" id="node11" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a8fbd3c721cf6a7086b09b00746e8c5bd" title="project::UnplacedComponents\lDock::UnplacedComponentsDock" alt="" coords="403,202,624,249"/>
+<area shape="rect" id="node13" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="project::UnplacedComponents\lDock::setBoard" alt="" coords="415,271,612,318"/>
+<area shape="rect" id="node17" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#accd0a903591840efc04eae995ba9518a" title="project::UnplacedComponents\lDock::on_btnAdd_clicked" alt="" coords="415,341,612,387"/>
+<area shape="rect" id="node19" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="project::UnplacedComponents\lDock::on_pushButton_clicked" alt="" coords="415,410,612,457"/>
+<area shape="rect" id="node15" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" title="project::UnplacedComponents\lDock::~UnplacedComponentsDock" alt="" coords="672,271,901,318"/>
+</map>

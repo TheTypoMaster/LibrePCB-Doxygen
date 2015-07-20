@@ -1,0 +1,40 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/boards" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/boards">
+<area shape="rect" id="node6" href="dir_0110be00bf7253264d9d26b59fd0735d.html" title="items" alt="" coords="137,161,209,209"/>
+<area shape="rect" id="edge46" href="dir_000028_000031.html" title="6" alt="" coords="178,134,186,151"/>
+<area shape="rect" id="node8" href="dir_55c01538f0a6d4fce22a43840cf48722.html" title="librepcblibrary" alt="" coords="291,353,392,401"/>
+<area shape="rect" id="edge48" href="dir_000028_000014.html" title="10" alt="" coords="330,325,344,342"/>
+<area shape="rect" id="node9" href="dir_942d5ad6037b51cf25ac883dbcdd2fd7.html" title="erc" alt="" coords="617,257,689,305"/>
+<area shape="rect" id="edge50" href="dir_000028_000035.html" title="4" alt="" coords="634,229,642,246"/>
+<area shape="rect" id="node10" href="dir_2093dc0e773f0ae75a86b05835aba5e8.html" title="librepcbcommon" alt="" coords="176,449,293,497"/>
+<area shape="rect" id="edge52" href="dir_000028_000006.html" title="34" alt="" coords="155,429,170,447"/>
+<area shape="rect" id="node11" href="dir_5acbb45df591e524946b8a37e2396587.html" title="circuit" alt="" coords="471,161,543,209"/>
+<area shape="rect" id="edge54" href="dir_000028_000032.html" title="6" alt="" coords="453,145,461,163"/>
+<area shape="rect" id="node12" href="dir_a742f6d487168d8b5b2b0c4e1e29a6c2.html" title="library" alt="" coords="420,257,492,305"/>
+<area shape="rect" id="edge56" href="dir_000028_000036.html" title="2" alt="" coords="451,229,459,246"/>
+<area shape="rect" id="node4" href="dir_f1f9ffdb153caf4e607ef0cdf096dcdc.html" title="cmd" alt="" coords="41,65,113,113"/>
+<area shape="rect" id="edge40" href="dir_000029_000006.html" title="7" alt="" coords="156,445,164,463"/>
+<area shape="rect" id="node5" href="dir_e4b5788b4743299939946b625dbdd9d2.html" title="graphicsitems" alt="" coords="41,257,143,305"/>
+<area shape="rect" id="edge18" href="dir_000030_000031.html" title="3" alt="" coords="139,210,147,227"/>
+<area shape="rect" id="node7" href="dir_efc38cef2ea58e90050d02dbad2a4ede.html" title="settings" alt="" coords="125,353,197,401"/>
+<area shape="rect" id="edge20" href="dir_000030_000043.html" title="1" alt="" coords="136,324,144,342"/>
+<area shape="rect" id="edge22" href="dir_000030_000014.html" title="2" alt="" coords="270,350,278,367"/>
+<area shape="rect" id="edge24" href="dir_000030_000006.html" title="3" alt="" coords="160,426,168,444"/>
+<area shape="rect" id="edge6" href="dir_000031_000030.html" title="2" alt="" coords="119,239,127,256"/>
+<area shape="rect" id="edge4" href="dir_000031_000043.html" title="1" alt="" coords="168,327,176,344"/>
+<area shape="rect" id="edge8" href="dir_000031_000014.html" title="5" alt="" coords="317,325,325,342"/>
+<area shape="rect" id="edge10" href="dir_000031_000006.html" title="6" alt="" coords="230,421,238,438"/>
+<area shape="rect" id="edge12" href="dir_000031_000032.html" title="2" alt="" coords="448,168,456,186"/>
+<area shape="rect" id="edge14" href="dir_000031_000036.html" title="1" alt="" coords="400,252,408,270"/>
+<area shape="rect" id="edge16" href="dir_000043_000006.html" title="6" alt="" coords="208,421,216,438"/>
+<area shape="rect" id="edge26" href="dir_000014_000006.html" title="67" alt="" coords="273,435,288,452"/>
+<area shape="rect" id="edge28" href="dir_000035_000006.html" title="6" alt="" coords="308,466,316,483"/>
+<area shape="rect" id="edge30" href="dir_000032_000043.html" title="3" alt="" coords="214,347,222,364"/>
+<area shape="rect" id="edge32" href="dir_000032_000014.html" title="3" alt="" coords="408,364,416,381"/>
+<area shape="rect" id="edge34" href="dir_000032_000035.html" title="8" alt="" coords="602,232,610,249"/>
+<area shape="rect" id="edge36" href="dir_000032_000006.html" title="51" alt="" coords="306,462,321,479"/>
+<area shape="rect" id="edge38" href="dir_000032_000036.html" title="1" alt="" coords="481,236,489,253"/>
+<area shape="rect" id="edge42" href="dir_000036_000014.html" title="8" alt="" coords="386,339,394,357"/>
+<area shape="rect" id="edge44" href="dir_000036_000006.html" title="7" alt="" coords="309,454,317,471"/>
+<area shape="rect" id="graph3" href="dir_bfc0836b8dfba2d01c57a335b4e27ed3.html" alt="" coords="31,55,220,316"/>
+<area shape="rect" id="graph2" href="dir_c16b2c78bfcfda89e8740b01cde8ab67.html" title="librepcbproject" alt="" coords="20,16,231,327"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="EditNetClassesDialog" name="EditNetClassesDialog">
+<area shape="rect" id="node2" href="$d5/d92/class_ui___edit_net_classes_dialog.html" title="{Ui_EditNetClassesDialog\n|+ verticalLayout\l+ tableWidget\l+ horizontalLayout\l+ btnAdd\l+ btnRemove\l+ buttonBox\l|+ setupUi()\l+ retranslateUi()\l}" alt="" coords="5,5,176,195"/>
+</map>

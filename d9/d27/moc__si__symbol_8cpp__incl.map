@@ -1,0 +1,17 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/moc/moc_si_symbol.cpp" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/moc/moc_si_symbol.cpp">
+<area shape="rect" id="node3" href="$df/dc0/si__symbol_8h.html" title="../schematics/items\l/si_symbol.h" alt="" coords="344,137,480,183"/>
+<area shape="rect" id="node7" href="$d6/d1f/si__base_8h.html" title="si_base.h" alt="" coords="43,415,120,444"/>
+<area shape="rect" id="node32" href="$d0/d1d/if__xmlserializableobject_8h.html" title="librepcbcommon/fileio\l/if_xmlserializableobject.h" alt="" coords="577,502,748,549"/>
+<area shape="rect" id="node35" href="$da/d81/if__attributeprovider_8h.html" title="librepcbcommon/if_attributeprovider.h" alt="" coords="873,511,1111,540"/>
+<area shape="rect" id="node38" href="$da/d9e/sgi__symbol_8h.html" title="../graphicsitems/sgi\l_symbol.h" alt="" coords="344,233,480,279"/>
+<area shape="rect" id="node12" href="$d1/da8/all__length__units_8h.html" title="librepcbcommon/units\l/all_length_units.h" alt="" coords="251,502,400,549"/>
+<area shape="rect" id="node14" href="$d0/d09/lengthunit_8h.html" title="lengthunit.h" alt="" coords="449,693,537,723"/>
+<area shape="rect" id="node20" href="$dd/db9/length_8h.html" title="length.h" alt="" coords="220,693,287,723"/>
+<area shape="rect" id="node24" href="$d2/d91/point_8h.html" title="point.h" alt="" coords="193,607,255,636"/>
+<area shape="rect" id="node28" href="$da/dac/angle_8h.html" title="angle.h" alt="" coords="311,693,375,723"/>
+<area shape="rect" id="node17" href="$d4/d03/exceptions_8h.html" title="../exceptions.h" alt="" coords="359,771,465,800"/>
+<area shape="rect" id="node42" href="$d4/d91/sgi__base_8h.html" title="sgi_base.h" alt="" coords="369,328,455,357"/>
+<area shape="rect" id="node46" href="$de/dd6/graphicsitem_8h.html" title="librepcbcommon/graphics\l/graphicsitem.h" alt="" coords="245,406,416,453"/>
+<area shape="rect" id="node50" href="$d1/d8d/schematic_8h.html" title="../schematic.h" alt="" coords="440,415,544,444"/>
+<area shape="rect" id="node57" href="$dd/dec/filepath_8h.html" title="librepcbcommon/fileio\l/filepath.h" alt="" coords="551,598,697,645"/>
+</map>

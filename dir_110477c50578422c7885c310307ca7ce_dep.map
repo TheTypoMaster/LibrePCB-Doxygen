@@ -1,0 +1,21 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcblibrary/moc" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcblibrary/moc">
+<area shape="rect" id="node2" href="dir_110477c50578422c7885c310307ca7ce.html" title="moc" alt="" coords="296,55,368,103"/>
+<area shape="rect" id="node3" href="dir_c296c97023e70b78536981e9811c54a9.html" title="sym" alt="" coords="5,151,77,199"/>
+<area shape="rect" id="edge5" href="dir_000020_000023.html" title="1" alt="" coords="94,148,102,166"/>
+<area shape="rect" id="node4" href="dir_06e4e6101a8db3c83eb2a4455a26d6d5.html" title="fpt" alt="" coords="101,151,173,199"/>
+<area shape="rect" id="edge7" href="dir_000020_000018.html" title="1" alt="" coords="190,148,198,165"/>
+<area shape="rect" id="node5" href="dir_5f445570c4b8a15c32cf05317f7a50dc.html" title="gencmp" alt="" coords="89,247,161,295"/>
+<area shape="rect" id="edge9" href="dir_000020_000019.html" title="1" alt="" coords="160,230,168,247"/>
+<area shape="rect" id="node6" href="dir_be13a34b01287725dc2e4e5b676bf5d1.html" title="3dmdl" alt="" coords="248,151,320,199"/>
+<area shape="rect" id="edge11" href="dir_000020_000015.html" title="1" alt="" coords="308,129,316,146"/>
+<area shape="rect" id="node7" href="dir_e7117c3b1a01de4921dd7417c7f68f5c.html" title="spcmdl" alt="" coords="344,151,416,199"/>
+<area shape="rect" id="edge13" href="dir_000020_000022.html" title="1" alt="" coords="363,121,371,139"/>
+<area shape="rect" id="node8" href="dir_80d161777bfbe7e63d4d41c8dccd12d6.html" title="cat" alt="" coords="440,151,512,199"/>
+<area shape="rect" id="edge15" href="dir_000020_000016.html" title="4" alt="" coords="425,125,433,142"/>
+<area shape="rect" id="node9" href="dir_b50533662246528e3e0d233616626239.html" title="pkg" alt="" coords="536,151,608,199"/>
+<area shape="rect" id="edge17" href="dir_000020_000021.html" title="1" alt="" coords="518,132,526,150"/>
+<area shape="rect" id="node10" href="dir_fc08259e8774de7e6bb3ce4c08f4b368.html" title="cmp" alt="" coords="632,151,704,199"/>
+<area shape="rect" id="edge19" href="dir_000020_000017.html" title="1" alt="" coords="614,133,622,150"/>
+<area shape="rect" id="edge3" href="dir_000023_000019.html" title="3" alt="" coords="94,218,102,236"/>
+<area shape="rect" id="graph2" href="dir_55c01538f0a6d4fce22a43840cf48722.html" title="librepcblibrary" alt="" coords="281,16,384,113"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="removeSchematic" name="removeSchematic">
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a4fe4aabef56a1c4920b8c76cd3ab2d2e" title="The destructor will close the whole project (without saving!) " alt="" coords="251,5,320,35"/>
+<area shape="rect" id="node5" href="$d0/db5/classproject_1_1_cmd_schematic_add.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="195,58,376,105"/>
+<area shape="rect" id="node7" href="$d0/db5/classproject_1_1_cmd_schematic_add.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="195,127,376,174"/>
+<area shape="rect" id="node9" href="$d9/d6e/classproject_1_1_cmd_schematic_remove.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="181,197,389,243"/>
+<area shape="rect" id="node11" href="$d9/d6e/classproject_1_1_cmd_schematic_remove.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="181,266,389,313"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="getFootprint" name="getFootprint">
+<area shape="rect" id="node3" href="$d5/d07/classproject_1_1_board.html#a262639fc1207769d33095d092cc2e068" title="project::Board::getSelected\lItems" alt="" coords="160,5,339,51"/>
+<area shape="rect" id="node7" href="$d5/d07/classproject_1_1_board.html#ae5be3f46f5e311d7c5c3b950ce60e3b1" title="project::Board::getItems\lAtScenePos" alt="" coords="168,74,331,121"/>
+<area shape="rect" id="node9" href="$d5/d07/classproject_1_1_board.html#a1e81bd3e07987e2b02f760b3d6d75c21" title="project::Board::setSelectionRect" alt="" coords="144,144,355,173"/>
+<area shape="rect" id="node13" href="$d5/d07/classproject_1_1_board.html#a8dd1dc788ad5d6d55d3833b0a0d31fbe" title="project::Board::clearSelection" alt="" coords="153,197,345,227"/>
+<area shape="rect" id="node5" href="$db/dd3/classproject_1_1_b_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::BES_Select\l::rotateSelectedItems" alt="" coords="424,5,571,51"/>
+<area shape="rect" id="node11" href="$db/dd3/classproject_1_1_b_e_s___select.html#ab12d84cb06f265f00f6130fc5e801000" title="project::BES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="404,127,591,191"/>
+</map>

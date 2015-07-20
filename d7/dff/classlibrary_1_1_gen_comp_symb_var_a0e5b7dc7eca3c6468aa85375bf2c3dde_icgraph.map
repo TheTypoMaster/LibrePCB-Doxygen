@@ -1,0 +1,9 @@
+<map id="getDescription" name="getDescription">
+<area shape="rect" id="node3" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#adfcb4e9c07721bf39ddcb34d2e39e61c" title="project::AddGenCompDialog\l::setSelectedSymbVar" alt="" coords="161,39,348,86"/>
+<area shape="rect" id="node5" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a59cdf065c69c12551c2043dfe0891ff1" title="project::AddGenCompDialog\l::on_cbxSymbVar_currentIndexChanged" alt="" coords="399,5,655,51"/>
+<area shape="rect" id="node7" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#abf6af5dc67073d848d5cf561412d4b27" title="project::AddGenCompDialog\l::setSelectedGenComp" alt="" coords="433,74,620,121"/>
+<area shape="rect" id="node9" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a5951d1d20ef2d9675b3b1690d6799fa7" title="project::AddGenCompDialog\l::on_listGenericComponents\l_currentItemChanged" alt="" coords="705,25,892,89"/>
+<area shape="rect" id="node11" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="project::AddGenCompDialog\l::setSelectedCategory" alt="" coords="705,113,892,159"/>
+<area shape="rect" id="node13" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25" title="project::AddGenCompDialog\l::on_treeCategories_currentItem\lChanged" alt="" coords="943,104,1151,168"/>
+<area shape="rect" id="node15" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="project::AddGenCompDialog\l::AddGenCompDialog" alt="" coords="1201,113,1388,159"/>
+</map>

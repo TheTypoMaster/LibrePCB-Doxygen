@@ -1,0 +1,3 @@
+<map id="WorkspaceChooserDialog" name="WorkspaceChooserDialog">
+<area shape="rect" id="node2" href="$db/d3a/class_ui___workspace_chooser_dialog.html" title="{Ui_WorkspaceChooserDialog\n|+ verticalLayout\l+ workspacesListWidget\l+ horizontalLayout\l+ addExistingWorkspaceButton\l+ createNewWorkspaceButton\l+ removeWorkspaceButton\l+ buttonBox\l|+ setupUi()\l+ retranslateUi()\l}" alt="" coords="5,6,211,213"/>
+</map>

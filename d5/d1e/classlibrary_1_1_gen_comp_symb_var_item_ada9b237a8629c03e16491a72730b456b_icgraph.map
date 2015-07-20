@@ -1,0 +1,20 @@
+<map id="getUuid" name="getUuid">
+<area shape="rect" id="node3" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#aaf658e6730f690b372dde7bb8173f54d" title="library::GenCompSymbVar\l::GenCompSymbVar" alt="" coords="152,5,331,51"/>
+<area shape="rect" id="node5" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#ab63313eee227de28204d6df30fe2c2c0" title="library::GenCompSymbVar\l::getItemByUuid" alt="" coords="152,74,331,121"/>
+<area shape="rect" id="node9" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab56d32f3df77886336513524c2adbf00" title="project::GenCompInstance\l::getUnplacedRequiredSymbolsCount" alt="" coords="121,143,361,190"/>
+<area shape="rect" id="node19" href="$de/d67/classproject_1_1_gen_comp_instance.html#a590c3eaacaa9f4ce8ed630d7f00f47a4" title="project::GenCompInstance\l::getUnplacedOptionalSymbolsCount" alt="" coords="123,213,360,259"/>
+<area shape="rect" id="node22" href="$de/d67/classproject_1_1_gen_comp_instance.html#ac189ed41133e6ca2fc70c023450d6d07" title="project::GenCompInstance\l::registerSymbol" alt="" coords="152,282,331,329"/>
+<area shape="rect" id="node24" href="$de/d67/classproject_1_1_gen_comp_instance.html#a8afb4ebfea13e82fbac6f17e68393a81" title="project::GenCompInstance\l::unregisterSymbol" alt="" coords="152,351,331,398"/>
+<area shape="rect" id="node26" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#adfcb4e9c07721bf39ddcb34d2e39e61c" title="project::AddGenCompDialog\l::setSelectedSymbVar" alt="" coords="148,421,335,467"/>
+<area shape="rect" id="node7" href="$d7/d7c/classlibrary_1_1_generic_component.html#a72f234ecafab01eed575a48d9d33dd49" title="library::GenericComponent\l::getSymbVarItem" alt="" coords="452,74,628,121"/>
+<area shape="rect" id="node11" href="$de/d67/classproject_1_1_gen_comp_instance.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::GenCompInstance\l::updateErcMessages" alt="" coords="451,178,629,225"/>
+<area shape="rect" id="node13" href="$de/d67/classproject_1_1_gen_comp_instance.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::GenCompInstance\l::init" alt="" coords="723,109,901,155"/>
+<area shape="rect" id="node15" href="$de/d67/classproject_1_1_gen_comp_instance.html#af00f21a639ab7a55e814293e9bd76c0f" title="project::GenCompInstance\l::addToCircuit" alt="" coords="723,178,901,225"/>
+<area shape="rect" id="node17" href="$de/d67/classproject_1_1_gen_comp_instance.html#ac295ebdc117f47883b0a7af285b69a5e" title="project::GenCompInstance\l::removeFromCircuit" alt="" coords="723,247,901,294"/>
+<area shape="rect" id="node28" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a59cdf065c69c12551c2043dfe0891ff1" title="project::AddGenCompDialog\l::on_cbxSymbVar_currentIndexChanged" alt="" coords="412,386,668,433"/>
+<area shape="rect" id="node30" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#abf6af5dc67073d848d5cf561412d4b27" title="project::AddGenCompDialog\l::setSelectedGenComp" alt="" coords="447,455,633,502"/>
+<area shape="rect" id="node32" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a5951d1d20ef2d9675b3b1690d6799fa7" title="project::AddGenCompDialog\l::on_listGenericComponents\l_currentItemChanged" alt="" coords="719,407,905,471"/>
+<area shape="rect" id="node34" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="project::AddGenCompDialog\l::setSelectedCategory" alt="" coords="719,494,905,541"/>
+<area shape="rect" id="node36" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25" title="project::AddGenCompDialog\l::on_treeCategories_currentItem\lChanged" alt="" coords="956,485,1164,549"/>
+<area shape="rect" id="node38" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="project::AddGenCompDialog\l::AddGenCompDialog" alt="" coords="1215,494,1401,541"/>
+</map>

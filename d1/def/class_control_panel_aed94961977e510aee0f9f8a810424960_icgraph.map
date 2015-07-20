@@ -1,0 +1,5 @@
+<map id="closeAllProjects" name="closeAllProjects">
+<area shape="rect" id="node3" href="$d1/def/class_control_panel.html#ab64a069981a994c8efb7f37e67934068" title="~ControlPanel" alt="" coords="203,5,307,35"/>
+<area shape="rect" id="node5" href="$d1/def/class_control_panel.html#a5de2bd09256045c0b96e5a0be780fa85" title="closeEvent" alt="" coords="212,59,297,88"/>
+<area shape="rect" id="node7" href="$d1/def/class_control_panel.html#a00e9ffb1840f20f7a235f103a4f51af6" title="on_actionClose_all\l_open_projects_triggered" alt="" coords="172,111,337,158"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="printSchematicPages" name="printSchematicPages">
+<area shape="rect" id="node3" href="$dd/d2d/classproject_1_1_schematic.html#a8dd1dc788ad5d6d55d3833b0a0d31fbe" title="project::Schematic\l::clearSelection" alt="" coords="201,133,332,180"/>
+<area shape="rect" id="node21" href="$dd/d2d/classproject_1_1_schematic.html#a62e851d9e298e0786b254a04142e5efd" title="project::Schematic\l::renderToQPainter" alt="" coords="201,202,332,249"/>
+<area shape="rect" id="node5" href="$de/d50/classproject_1_1_s_i___symbol.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_Symbol\l::setSelected" alt="" coords="385,28,519,74"/>
+<area shape="rect" id="node12" href="$d3/d43/classproject_1_1_s_i___net_point.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_NetPoint\l::setSelected" alt="" coords="577,97,716,144"/>
+<area shape="rect" id="node15" href="$d3/d7c/classproject_1_1_s_i___net_line.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_NetLine\l::setSelected" alt="" coords="580,166,713,213"/>
+<area shape="rect" id="node18" href="$d1/d7b/classproject_1_1_s_i___net_label.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_NetLabel\l::setSelected" alt="" coords="381,224,523,270"/>
+<area shape="rect" id="node7" href="$d4/dbe/classproject_1_1_s_i___base.html#ab98bb60eca6122e4def2f7d285046547" title="project::SI_Base::setSelected" alt="" coords="772,106,967,135"/>
+<area shape="rect" id="node9" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_SymbolPin\l::setSelected" alt="" coords="571,28,723,74"/>
+</map>

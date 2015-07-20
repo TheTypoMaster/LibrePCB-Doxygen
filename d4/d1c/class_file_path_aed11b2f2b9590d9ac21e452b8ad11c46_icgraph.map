@@ -1,0 +1,7 @@
+<map id="isExistingDir" name="isExistingDir">
+<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#abb1a303df12a931efec94f17183f3a2c" title="Check if the specified filepath is an existing, empty directory. " alt="" coords="199,5,284,35"/>
+<area shape="rect" id="node5" href="$d1/d7f/class_smart_file.html#a3d8fdc7779d16c086f29129e2fd52dd3" title="Prepare to save the file and return the filepath to the file. " alt="" coords="151,58,332,105"/>
+<area shape="rect" id="node7" href="$d9/d30/classproject_1_1_project_library.html#aedd764c9f405a776a1c55276bf896e40" title="project::ProjectLibrary\l::addElement" alt="" coords="167,127,316,174"/>
+<area shape="rect" id="node9" href="$db/d9c/class_project_tree_item.html#a1ad168c613453fd34bb78cc6ce8e4c23" title="ProjectTreeItem::Project\lTreeItem" alt="" coords="160,197,323,243"/>
+<area shape="rect" id="node11" href="$de/d52/class_workspace_settings.html#a89db108216386abbdb034844da9485c9" title="WorkspaceSettings::\lWorkspaceSettings" alt="" coords="169,266,313,313"/>
+</map>

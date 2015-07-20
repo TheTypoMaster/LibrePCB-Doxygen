@@ -1,0 +1,15 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/schematics/items/si_netpoint.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/schematics/items/si_netpoint.h">
+<area shape="rect" id="node3" href="$df/d02/moc__si__netpoint_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/moc/moc\l_si_netpoint.cpp" alt="" coords="5,145,173,226"/>
+<area shape="rect" id="node5" href="$d2/d5d/cmdschematicnetpointadd_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/cmd/cmdschematicnetpointadd.cpp" alt="" coords="197,145,429,226"/>
+<area shape="rect" id="node7" href="$d1/d44/cmdschematicnetpointdetach_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/cmd/cmdschematicnetpointdetach.cpp" alt="" coords="453,145,704,226"/>
+<area shape="rect" id="node9" href="$d7/dbc/cmdschematicnetpointedit_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/cmd/cmdschematicnetpointedit.cpp" alt="" coords="728,145,960,226"/>
+<area shape="rect" id="node11" href="$de/d37/cmdschematicnetpointremove_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/cmd/cmdschematicnetpointremove.cpp" alt="" coords="984,145,1237,226"/>
+<area shape="rect" id="node13" href="$d4/d13/sgi__netline_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/graphicsitems/sgi_netline.cpp" alt="" coords="1261,145,1459,226"/>
+<area shape="rect" id="node15" href="$d2/d8a/sgi__netpoint_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/graphicsitems/sgi_netpoint.cpp" alt="" coords="1483,145,1688,226"/>
+<area shape="rect" id="node17" href="$d6/d91/si__netline_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_netline.cpp" alt="" coords="1712,145,1893,226"/>
+<area shape="rect" id="node19" href="$d9/d0a/si__netpoint_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_netpoint.cpp" alt="" coords="1917,145,2099,226"/>
+<area shape="rect" id="node21" href="$d5/d35/si__symbolpin_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_symbolpin.cpp" alt="" coords="2123,145,2304,226"/>
+<area shape="rect" id="node23" href="$dc/db2/schematic_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/schematic.cpp" alt="" coords="2328,145,2509,226"/>
+<area shape="rect" id="node25" href="$df/d6c/ses__drawwire_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_drawwire.cpp" alt="" coords="2533,136,2701,235"/>
+<area shape="rect" id="node27" href="$d5/d03/ses__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_select.cpp" alt="" coords="2725,136,2893,235"/>
+</map>

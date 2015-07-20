@@ -1,0 +1,4 @@
+<map id="getRedoText" name="getRedoText">
+<area shape="rect" id="node3" href="$d4/d90/class_undo_stack.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the last command. " alt="" coords="152,5,203,35"/>
+<area shape="rect" id="node5" href="$d4/d90/class_undo_stack.html#a93c48d6ed036e1a381be53ac67643284" title="Redo the last undoed command. " alt="" coords="155,59,200,88"/>
+</map>

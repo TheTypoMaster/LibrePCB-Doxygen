@@ -1,0 +1,6 @@
+<map id="shape" name="shape">
+<area shape="rect" id="node3" href="$da/d96/classproject_1_1_b_i___footprint.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::BI_Footprint\l::getGrabAreaScenePx" alt="" coords="113,35,268,82"/>
+<area shape="rect" id="node5" href="$d5/d07/classproject_1_1_board.html#ae5be3f46f5e311d7c5c3b950ce60e3b1" title="project::Board::getItems\lAtScenePos" alt="" coords="341,5,504,51"/>
+<area shape="rect" id="node7" href="$d5/d07/classproject_1_1_board.html#a1e81bd3e07987e2b02f760b3d6d75c21" title="project::Board::setSelectionRect" alt="" coords="317,75,528,104"/>
+<area shape="rect" id="node9" href="$db/dd3/classproject_1_1_b_e_s___select.html#ab12d84cb06f265f00f6130fc5e801000" title="project::BES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="577,57,764,121"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="getLocaleOrder" name="getLocaleOrder">
+<area shape="rect" id="node3" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::GenCompSignalInstance\l::updateErcMessages" alt="" coords="167,109,380,155"/>
+<area shape="rect" id="node15" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ad000d7056be9060e68ab7f2548d12946" title="project::UnplacedComponents\lDock::updateComponentsList" alt="" coords="175,386,372,433"/>
+<area shape="rect" id="node29" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="project::AddGenCompDialog\l::AddGenCompDialog" alt="" coords="1273,585,1460,631"/>
+<area shape="rect" id="node31" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="project::AddGenCompDialog\l::setSelectedCategory" alt="" coords="757,614,944,661"/>
+<area shape="rect" id="node36" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#abf6af5dc67073d848d5cf561412d4b27" title="project::AddGenCompDialog\l::setSelectedGenComp" alt="" coords="465,661,652,707"/>
+<area shape="rect" id="node41" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#adfcb4e9c07721bf39ddcb34d2e39e61c" title="project::AddGenCompDialog\l::setSelectedSymbVar" alt="" coords="180,711,367,758"/>
+<area shape="rect" id="node46" href="$d1/d44/classproject_1_1_project_settings_dialog.html#af816f81586cdc5885eb5a06c1f238078" title="project::ProjectSettings\lDialog::updateGuiFromSettings" alt="" coords="172,790,375,837"/>
+<area shape="rect" id="node5" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::GenCompSignalInstance\l::init" alt="" coords="452,5,665,51"/>
+<area shape="rect" id="node7" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#af00f21a639ab7a55e814293e9bd76c0f" title="project::GenCompSignalInstance\l::addToCircuit" alt="" coords="452,74,665,121"/>
+<area shape="rect" id="node11" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#ac295ebdc117f47883b0a7af285b69a5e" title="project::GenCompSignalInstance\l::removeFromCircuit" alt="" coords="452,143,665,190"/>
+<area shape="rect" id="node9" href="$de/d67/classproject_1_1_gen_comp_instance.html#af00f21a639ab7a55e814293e9bd76c0f" title="project::GenCompInstance\l::addToCircuit" alt="" coords="761,74,940,121"/>
+<area shape="rect" id="node13" href="$de/d67/classproject_1_1_gen_comp_instance.html#ac295ebdc117f47883b0a7af285b69a5e" title="project::GenCompInstance\l::removeFromCircuit" alt="" coords="761,143,940,190"/>
+<area shape="rect" id="node17" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a8fbd3c721cf6a7086b09b00746e8c5bd" title="project::UnplacedComponents\lDock::UnplacedComponentsDock" alt="" coords="448,213,669,259"/>
+<area shape="rect" id="node19" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="project::UnplacedComponents\lDock::setBoard" alt="" coords="460,282,657,329"/>
+<area shape="rect" id="node23" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#accd0a903591840efc04eae995ba9518a" title="project::UnplacedComponents\lDock::on_btnAdd_clicked" alt="" coords="460,351,657,398"/>
+<area shape="rect" id="node25" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="project::UnplacedComponents\lDock::on_pushButton_clicked" alt="" coords="460,421,657,467"/>
+<area shape="rect" id="node27" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="project::UnplacedComponents\lDock::on_btnAddAll_clicked" alt="" coords="460,490,657,537"/>
+<area shape="rect" id="node21" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" title="project::UnplacedComponents\lDock::~UnplacedComponentsDock" alt="" coords="736,282,965,329"/>
+<area shape="rect" id="node33" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25" title="project::AddGenCompDialog\l::on_treeCategories_currentItem\lChanged" alt="" coords="1015,611,1223,675"/>
+<area shape="rect" id="node38" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a5951d1d20ef2d9675b3b1690d6799fa7" title="project::AddGenCompDialog\l::on_listGenericComponents\l_currentItemChanged" alt="" coords="757,684,944,748"/>
+<area shape="rect" id="node43" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a59cdf065c69c12551c2043dfe0891ff1" title="project::AddGenCompDialog\l::on_cbxSymbVar_currentIndexChanged" alt="" coords="431,730,687,777"/>
+<area shape="rect" id="node48" href="$d1/d44/classproject_1_1_project_settings_dialog.html#a594d31c13f7ad414e312f94e6b87f2a9" title="project::ProjectSettings\lDialog::restoreDefaultSettings" alt="" coords="460,799,657,846"/>
+<area shape="rect" id="node50" href="$d1/d44/classproject_1_1_project_settings_dialog.html#a33cf9470d5b33d9dd5027715e5b58801" title="project::ProjectSettings\lDialog::on_buttonBox_clicked" alt="" coords="753,799,948,846"/>
+</map>

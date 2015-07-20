@@ -1,0 +1,8 @@
+<map id="on_cbxAttrType_currentIndexChanged" name="on_cbxAttrType_currentIndexChanged">
+<area shape="rect" id="node3" href="$d8/d57/class_attribute_type.html#a4d142b5ea99244e929c3cbd14365e1ba" title="AttributeType::fromString" alt="" coords="260,5,428,35"/>
+<area shape="rect" id="node7" href="$d8/d57/class_attribute_type.html#ad7c946f08bc594d69ad934bc75d2160b" title="AttributeType::getAvailable\lUnits" alt="" coords="255,58,433,105"/>
+<area shape="rect" id="node9" href="$d7/d08/class_attribute_unit.html#a10083f1d32d841a32bb8369e841de656" title="AttributeUnit::getSymbolTr" alt="" coords="256,128,432,157"/>
+<area shape="rect" id="node11" href="$d7/d08/class_attribute_unit.html#ab0c96f485564e41206ce9a4ce42ba389" title="AttributeUnit::getName" alt="" coords="267,181,421,211"/>
+<area shape="rect" id="node13" href="$d8/d57/class_attribute_type.html#ab38e6137cf3baee999fb402c87bd3fed" title="AttributeType::getDefaultUnit" alt="" coords="248,235,440,264"/>
+<area shape="rect" id="node5" href="$d8/d57/class_attribute_type.html#ab0c96f485564e41206ce9a4ce42ba389" title="AttributeType::getName" alt="" coords="489,5,649,35"/>
+</map>

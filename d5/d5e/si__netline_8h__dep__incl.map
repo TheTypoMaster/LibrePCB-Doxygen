@@ -1,0 +1,12 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/schematics/items/si_netline.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/schematics/items/si_netline.h">
+<area shape="rect" id="node3" href="$dd/d91/moc__si__netline_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/moc/moc\l_si_netline.cpp" alt="" coords="5,145,173,226"/>
+<area shape="rect" id="node5" href="$d3/db9/cmdschematicnetlineadd_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/cmd/cmdschematicnetlineadd.cpp" alt="" coords="197,145,421,226"/>
+<area shape="rect" id="node7" href="$dd/d65/cmdschematicnetlineremove_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/cmd/cmdschematicnetlineremove.cpp" alt="" coords="445,145,691,226"/>
+<area shape="rect" id="node9" href="$d4/d13/sgi__netline_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/graphicsitems/sgi_netline.cpp" alt="" coords="715,145,912,226"/>
+<area shape="rect" id="node11" href="$d6/d91/si__netline_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_netline.cpp" alt="" coords="936,145,1117,226"/>
+<area shape="rect" id="node13" href="$d9/d0a/si__netpoint_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_netpoint.cpp" alt="" coords="1141,145,1323,226"/>
+<area shape="rect" id="node15" href="$dc/db2/schematic_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/schematic.cpp" alt="" coords="1347,145,1528,226"/>
+<area shape="rect" id="node17" href="$d3/dbd/ses__addnetlabel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addnetlabel.cpp" alt="" coords="1552,136,1720,235"/>
+<area shape="rect" id="node19" href="$df/d6c/ses__drawwire_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_drawwire.cpp" alt="" coords="1744,136,1912,235"/>
+<area shape="rect" id="node21" href="$d5/d03/ses__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_select.cpp" alt="" coords="1936,136,2104,235"/>
+</map>
