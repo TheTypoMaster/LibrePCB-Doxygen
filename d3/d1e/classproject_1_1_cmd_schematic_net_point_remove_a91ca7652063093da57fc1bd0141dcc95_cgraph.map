@@ -1,7 +1,0 @@
-<map id="redo" name="redo">
-<area shape="rect" id="node3" href="$dd/d2d/classproject_1_1_schematic.html#a5a33e2e054a7f4f58dfcca58cb895c38" title="project::Schematic\l::removeNetPoint" alt="" coords="109,5,240,51"/>
-<area shape="rect" id="node5" href="$d3/d26/class_undo_command.html#a93c48d6ed036e1a381be53ac67643284" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="101,75,248,104"/>
-<area shape="rect" id="node13" href="$dd/d2d/classproject_1_1_schematic.html#a01b187ee6d29f4488645f7a1e1b21b1a" title="project::Schematic\l::addNetPoint" alt="" coords="109,127,240,174"/>
-<area shape="rect" id="node7" href="$d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" title="This method shows whether that command is executed (redo() called one time more than undo()) ..." alt="" coords="493,49,680,79"/>
-<area shape="rect" id="node9" href="$d3/d26/class_undo_command.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the command (and all child commands in reverse order) " alt="" coords="296,75,445,104"/>
-</map>

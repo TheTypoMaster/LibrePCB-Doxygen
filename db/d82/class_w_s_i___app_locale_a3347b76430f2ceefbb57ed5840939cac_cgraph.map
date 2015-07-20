@@ -1,8 +1,0 @@
-<map id="WSI_AppLocale" name="WSI_AppLocale">
-<area shape="rect" id="node3" href="$d4/dda/class_w_s_i___base.html#a5605b64c01b2ac306d1291d437d47f82" title="WSI_Base::loadValue" alt="" coords="180,75,329,104"/>
-<area shape="rect" id="node11" href="$db/d82/class_w_s_i___app_locale.html#a47d9a28d5936c2c97cbb3d14cb15eca4" title="updateComboBoxIndex" alt="" coords="176,128,333,157"/>
-<area shape="rect" id="node13" href="$db/d82/class_w_s_i___app_locale.html#aee384ecd5020965afb245b7ec79a97dc" title="comboBoxIndexChanged" alt="" coords="171,181,339,211"/>
-<area shape="rect" id="node5" href="$de/d52/class_workspace_settings.html#ad1d507e6e68d4b8bd40982b78da7c5bd" title="WorkspaceSettings::\lgetMetadataPath" alt="" coords="387,5,531,51"/>
-<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="389,75,528,104"/>
-<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="405,128,512,157"/>
-</map>

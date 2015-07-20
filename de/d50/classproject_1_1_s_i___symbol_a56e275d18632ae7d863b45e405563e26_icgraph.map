@@ -1,9 +1,0 @@
-<map id="mapToScene" name="mapToScene">
-<area shape="rect" id="node3" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a212e36e19edc323ddeb73387d2f011a5" title="project::SI_SymbolPin\l::updatePosition" alt="" coords="152,101,304,147"/>
-<area shape="rect" id="node5" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" title="setPosition" alt="" coords="385,109,471,139"/>
-<area shape="rect" id="node13" href="$de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597" title="setAngle" alt="" coords="392,56,464,85"/>
-<area shape="rect" id="node18" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="project::SI_SymbolPin\l::SI_SymbolPin" alt="" coords="352,162,504,209"/>
-<area shape="rect" id="node7" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a6eaf0a56905dd18ebdf240a2229576c6" title="project::CmdSymbolInstance\lEdit::~CmdSymbolInstanceEdit" alt="" coords="553,5,759,51"/>
-<area shape="rect" id="node9" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="561,74,751,121"/>
-<area shape="rect" id="node11" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="561,143,751,190"/>
-</map>

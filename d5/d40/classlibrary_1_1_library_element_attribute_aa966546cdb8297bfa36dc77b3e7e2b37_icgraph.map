@@ -1,6 +1,0 @@
-<map id="getKey" name="getKey">
-<area shape="rect" id="node3" href="$d7/d7c/classlibrary_1_1_generic_component.html#a69214e095ecd6b5d5009920033b830c5" title="library::GenericComponent\l::getAttributeByKey" alt="" coords="133,5,309,51"/>
-<area shape="rect" id="node5" href="$d7/d7c/classlibrary_1_1_generic_component.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::GenericComponent\l::parseDomTree" alt="" coords="133,74,309,121"/>
-<area shape="rect" id="node7" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#a675b0181eb14cfede73e0f078a6b2842" title="Get the value of an attribute which can be used in texts (like &quot;${CMP::NAME}&quot;) " alt="" coords="117,143,325,190"/>
-<area shape="rect" id="node9" href="$de/d67/classproject_1_1_gen_comp_instance.html#a0eff8d5a1e672e7cd6354fc0ef8c3136" title="project::GenCompInstance\l::GenCompInstance" alt="" coords="132,213,311,259"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="getElementFilePathsFromDb" name="getElementFilePathsFromDb">
-<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#aeb37554b75918a9262a0c09df1205fff" title="Build an absolute and well&#45;formatted filepath from a relative filepath. " alt="" coords="245,5,397,35"/>
-<area shape="rect" id="node5" href="$de/d34/class_version.html#a0a886a9edf5bf682f5245159661bfc94" title="Check if the object represents a valid version number. " alt="" coords="265,59,377,88"/>
-<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a0a886a9edf5bf682f5245159661bfc94" title="Check whether this object contains a valid filepath or not. " alt="" coords="263,112,380,141"/>
-</map>

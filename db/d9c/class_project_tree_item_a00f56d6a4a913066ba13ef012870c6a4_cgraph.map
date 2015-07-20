@@ -1,5 +1,0 @@
-<map id="data" name="data">
-<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#a2cc965936000d08100b8b2e503d975a4" title="Get the whole filename (without the path) of the file or directory. " alt="" coords="101,5,251,35"/>
-<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#af27e4f117ace775ab38ae937c12cd37a" title="Get the absolute filepath with native directory separators (&quot;/&quot; resp. &quot;\&quot;) " alt="" coords="113,59,239,88"/>
-<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="123,112,229,141"/>
-</map>

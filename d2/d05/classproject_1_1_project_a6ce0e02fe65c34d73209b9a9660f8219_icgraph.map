@@ -1,5 +1,0 @@
-<map id="getSchematicByIndex" name="getSchematicByIndex">
-<area shape="rect" id="node3" href="$da/dda/classproject_1_1_schematic_pages_dock.html#a5a304382795bedf7f5c502eb213f6709" title="project::SchematicPagesDock\l::schematicAdded" alt="" coords="207,5,404,51"/>
-<area shape="rect" id="node7" href="$da/dda/classproject_1_1_schematic_pages_dock.html#aee51faa82ade6e01c6e15d02fee32c50" title="project::SchematicPagesDock\l::on_btnRemoveSchematic\l_clicked" alt="" coords="207,75,404,139"/>
-<area shape="rect" id="node5" href="$da/dda/classproject_1_1_schematic_pages_dock.html#a6a112ab8a5e3ee445c66bd74590f4ef5" title="project::SchematicPagesDock\l::SchematicPagesDock" alt="" coords="455,5,652,51"/>
-</map>

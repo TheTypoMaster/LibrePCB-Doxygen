@@ -1,7 +1,0 @@
-<map id="on_btnRemoveSchematic_clicked" name="on_btnRemoveSchematic_clicked">
-<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a6ce0e02fe65c34d73209b9a9660f8219" title="Get the schematic page at a specific index. " alt="" coords="228,5,425,51"/>
-<area shape="rect" id="node5" href="$dd/d24/classproject_1_1_schematic_editor.html#a47f2324cd29f26bdb940304a71019d72" title="project::SchematicEditor\l::getProjectEditor" alt="" coords="244,74,409,121"/>
-<area shape="rect" id="node7" href="$d3/dd6/classproject_1_1_project_editor.html#a5197d5ec7e234d6924a76e9fcfa985fa" title="Get a reference to the undo stack of the project. " alt="" coords="255,143,399,190"/>
-<area shape="rect" id="node9" href="$d4/d90/class_undo_stack.html#a6649c687fca96c8e65cec90e50551d28" title="Execute a command and push it to the stack (similar to QUndoStack::push()) " alt="" coords="252,213,401,243"/>
-<area shape="rect" id="node11" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="248,267,405,296"/>
-</map>

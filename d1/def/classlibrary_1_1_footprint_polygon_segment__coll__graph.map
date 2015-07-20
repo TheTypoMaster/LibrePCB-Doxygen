@@ -1,6 +1,0 @@
-<map id="FootprintPolygonSegment" name="FootprintPolygonSegment">
-<area shape="rect" id="node2" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="5,1631,208,1769"/>
-<area shape="rect" id="node4" href="$d2/d39/class_angle.html" title="The Angle class is used to represent an angle (for example 12.75 degrees) " alt="" coords="232,1198,392,2202"/>
-<area shape="rect" id="node6" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="416,1215,541,2185"/>
-<area shape="rect" id="node8" href="$df/df0/class_length.html" title="The Length class is used to represent a length (for example 12.75 millimeters) " alt="" coords="401,6,556,1114"/>
-</map>

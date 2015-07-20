@@ -1,7 +1,0 @@
-<map id="getGenCompInstance" name="getGenCompInstance">
-<area shape="rect" id="node3" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::SGI_Symbol\l::paint" alt="" coords="239,5,380,51"/>
-<area shape="rect" id="node5" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="project::SI_SymbolPin\l::SI_SymbolPin" alt="" coords="233,74,385,121"/>
-<area shape="rect" id="node7" href="$d8/d8b/classproject_1_1_s_e_s___select.html#abf3d779ad6aed8bf5f55cbb3e20d06e5" title="project::SES_Select\l::proccessIdleSceneRightClick" alt="" coords="208,143,411,190"/>
-<area shape="rect" id="node9" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a58ba7fdde2fa62c25504d4acbec0bde6" title="project::SES_Select\l::proccessIdleSceneDoubleClick" alt="" coords="204,213,415,259"/>
-<area shape="rect" id="node11" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::SES_Select\l::removeSelectedItems" alt="" coords="231,282,388,329"/>
-</map>

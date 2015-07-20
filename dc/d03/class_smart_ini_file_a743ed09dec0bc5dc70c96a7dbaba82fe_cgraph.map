@@ -1,4 +1,0 @@
-<map id="createQSettings" name="createQSettings">
-<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="181,5,288,35"/>
-<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#af27e4f117ace775ab38ae937c12cd37a" title="Get the absolute filepath with native directory separators (&quot;/&quot; resp. &quot;\&quot;) " alt="" coords="172,59,297,88"/>
-</map>

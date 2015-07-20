@@ -1,5 +1,0 @@
-<map id="on_actionSwitch_Workspace_triggered" name="on_actionSwitch_Workspace_triggered">
-<area shape="rect" id="node3" href="$d5/d56/class_workspace.html#ae842d27bc98601110dc686fba8daa42f" title="Let the user choose a workspace path (with a directory chooser dialog) " alt="" coords="247,5,476,35"/>
-<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#a0a886a9edf5bf682f5245159661bfc94" title="Check whether this object contains a valid filepath or not. " alt="" coords="525,32,643,61"/>
-<area shape="rect" id="node8" href="$d5/d56/class_workspace.html#a3483171fd8daae11722a672a68d0df8a" title="Set the most recently used workspace path. " alt="" coords="264,109,459,155"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="undo" name="undo">
-<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a76f48efb90b1c6b4f9b4f0626513858a" title="Set the name of the project. " alt="" coords="120,5,291,35"/>
-<area shape="rect" id="node5" href="$d2/d05/classproject_1_1_project.html#ac1485ee71d1b2853ae2e2ab0b25f506a" title="Set the description (in HTML) of the project. " alt="" coords="104,59,307,88"/>
-<area shape="rect" id="node7" href="$d2/d05/classproject_1_1_project.html#afdcf25db6238fd43e072256ac0b4037f" title="Set the author of the project. " alt="" coords="119,112,292,141"/>
-<area shape="rect" id="node9" href="$d2/d05/classproject_1_1_project.html#ad87c0e01ee713c04be68468385565f04" title="Set the date and time when the project was created. " alt="" coords="115,165,296,195"/>
-<area shape="rect" id="node11" href="$d3/d26/class_undo_command.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the command (and all child commands in reverse order) " alt="" coords="131,219,280,248"/>
-<area shape="rect" id="node13" href="$d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" title="This method shows whether that command is executed (redo() called one time more than undo()) ..." alt="" coords="549,193,736,223"/>
-<area shape="rect" id="node15" href="$d3/d26/class_undo_command.html#a93c48d6ed036e1a381be53ac67643284" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="355,219,501,248"/>
-</map>

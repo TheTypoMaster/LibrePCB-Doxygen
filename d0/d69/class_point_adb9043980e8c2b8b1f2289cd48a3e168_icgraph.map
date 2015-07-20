@@ -1,9 +1,0 @@
-<map id="fromMm" name="fromMm">
-<area shape="rect" id="node3" href="$dd/d55/class_length_unit.html#ae929a880b44a3ba54b33d2b45e407cef" title="Convert floating point numbers with this unit to a Point object. " alt="" coords="131,5,320,35"/>
-<area shape="rect" id="node5" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="project::UnplacedComponents\lDock::setBoard" alt="" coords="127,58,324,105"/>
-<area shape="rect" id="node9" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a41c3c33dc2c3c5545110b742d536cc76" title="project::UnplacedComponents\lDock::addComponent" alt="" coords="127,162,324,209"/>
-<area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" title="project::UnplacedComponents\lDock::~UnplacedComponentsDock" alt="" coords="373,41,603,87"/>
-<area shape="rect" id="node11" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#accd0a903591840efc04eae995ba9518a" title="project::UnplacedComponents\lDock::on_btnAdd_clicked" alt="" coords="389,110,587,157"/>
-<area shape="rect" id="node13" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="project::UnplacedComponents\lDock::on_pushButton_clicked" alt="" coords="389,179,587,226"/>
-<area shape="rect" id="node15" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="project::UnplacedComponents\lDock::on_btnAddAll_clicked" alt="" coords="389,249,587,295"/>
-</map>

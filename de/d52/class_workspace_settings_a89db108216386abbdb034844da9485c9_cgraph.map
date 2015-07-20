@@ -1,6 +1,0 @@
-<map id="WorkspaceSettings" name="WorkspaceSettings">
-<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#aed11b2f2b9590d9ac21e452b8ad11c46" title="Check if the specified filepath is an existing directory. " alt="" coords="189,5,341,35"/>
-<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="212,59,319,88"/>
-<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#af27e4f117ace775ab38ae937c12cd37a" title="Get the absolute filepath with native directory separators (&quot;/&quot; resp. &quot;\&quot;) " alt="" coords="203,112,328,141"/>
-<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="196,165,335,195"/>
-</map>

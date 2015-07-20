@@ -1,6 +1,0 @@
-<map id="calcMiddlePointPos" name="calcMiddlePointPos">
-<area shape="rect" id="node3" href="$d0/d69/class_point.html#ab309781a48eeee3e6857c85535c220ea" title="Get the X coordinate. " alt="" coords="195,5,280,35"/>
-<area shape="rect" id="node5" href="$df/df0/class_length.html#a370bc52b15b47b82bcf6b40fa58ff2c3" title="Get a Length object with absolute value (mNanometers &gt;= 0) " alt="" coords="192,59,283,88"/>
-<area shape="rect" id="node9" href="$d0/d69/class_point.html#ab51b367c2bbc227c892a7d2840c0babe" title="Get the Y coordinate. " alt="" coords="195,112,280,141"/>
-<area shape="rect" id="node7" href="$df/df0/class_length.html#a13f4bb7adbb486ded36fe6a8204b81e6" title="Make the length absolute (mNanometers &gt;= 0) " alt="" coords="332,59,455,88"/>
-</map>

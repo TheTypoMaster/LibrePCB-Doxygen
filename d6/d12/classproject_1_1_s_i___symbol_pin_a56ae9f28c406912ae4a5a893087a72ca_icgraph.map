@@ -1,8 +1,0 @@
-<map id="updateErcMessages" name="updateErcMessages">
-<area shape="rect" id="node3" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="SI_SymbolPin" alt="" coords="208,5,312,35"/>
-<area shape="rect" id="node5" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a9b52757f6665371a26408933ad6b514c" title="registerNetPoint" alt="" coords="203,59,317,88"/>
-<area shape="rect" id="node7" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#ad82f0f4bea8f69d1b8eef2df60ce508b" title="unregisterNetPoint" alt="" coords="195,112,325,141"/>
-<area shape="rect" id="node9" href="$d3/d43/classproject_1_1_s_i___net_point.html#a1894cd9c0e70404c048068221df5135d" title="project::SI_NetPoint\l::detachFromPin" alt="" coords="375,103,513,150"/>
-<area shape="rect" id="node11" href="$d1/d92/classproject_1_1_cmd_schematic_net_point_detach.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="564,69,743,115"/>
-<area shape="rect" id="node13" href="$d1/d92/classproject_1_1_cmd_schematic_net_point_detach.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="564,138,743,185"/>
-</map>

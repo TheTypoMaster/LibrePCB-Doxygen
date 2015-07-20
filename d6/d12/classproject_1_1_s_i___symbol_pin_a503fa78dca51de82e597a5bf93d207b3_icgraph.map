@@ -1,5 +1,0 @@
-<map id="getNetPoint" name="getNetPoint">
-<area shape="rect" id="node3" href="$dd/d2d/classproject_1_1_schematic.html#a0784e33cb985a56c1ac86c631ee3ee1b" title="project::Schematic\l::getSelectedItems" alt="" coords="145,39,276,86"/>
-<area shape="rect" id="node5" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::SES_Select\l::rotateSelectedItems" alt="" coords="331,5,477,51"/>
-<area shape="rect" id="node7" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::SES_Select\l::removeSelectedItems" alt="" coords="325,74,483,121"/>
-</map>

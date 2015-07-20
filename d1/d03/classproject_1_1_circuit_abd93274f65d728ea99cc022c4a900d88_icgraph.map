@@ -1,6 +1,0 @@
-<map id="addNetSignal" name="addNetSignal">
-<area shape="rect" id="node3" href="$db/dd7/classproject_1_1_cmd_net_signal_add.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="168,5,344,51"/>
-<area shape="rect" id="node5" href="$db/dd7/classproject_1_1_cmd_net_signal_add.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="168,74,344,121"/>
-<area shape="rect" id="node7" href="$de/d5c/classproject_1_1_cmd_net_signal_remove.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="155,143,357,190"/>
-<area shape="rect" id="node9" href="$de/d5c/classproject_1_1_cmd_net_signal_remove.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="155,213,357,259"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="init" name="init">
-<area shape="rect" id="node3" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="115,5,248,35"/>
-<area shape="rect" id="node7" href="$d1/d03/classproject_1_1_circuit.html#ac48a585009b5ee63f88e0c2b5357d6e9" title="project::Circuit::getProject" alt="" coords="95,59,268,88"/>
-<area shape="rect" id="node9" href="$dd/d2d/classproject_1_1_schematic.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::Schematic\l::getName" alt="" coords="116,111,247,158"/>
-<area shape="rect" id="node11" href="$d3/d43/classproject_1_1_s_i___net_point.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="104,181,259,211"/>
-<area shape="rect" id="node5" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="317,5,413,35"/>
-</map>

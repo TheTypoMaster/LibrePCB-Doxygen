@@ -1,5 +1,0 @@
-<map id="updateErcMessages" name="updateErcMessages">
-<area shape="rect" id="node3" href="$d1/d03/classproject_1_1_circuit.html#ac48a585009b5ee63f88e0c2b5357d6e9" title="project::Circuit::getProject" alt="" coords="197,5,371,35"/>
-<area shape="rect" id="node5" href="$dc/d67/classproject_1_1_erc_msg.html#ab86c338b9353cde576c312f22f24aad3" title="project::ErcMsg::setMsg" alt="" coords="201,59,367,88"/>
-<area shape="rect" id="node7" href="$dc/d67/classproject_1_1_erc_msg.html#ab595fff9e78566c762faebf84e25112d" title="project::ErcMsg::setVisible" alt="" coords="195,112,373,141"/>
-</map>

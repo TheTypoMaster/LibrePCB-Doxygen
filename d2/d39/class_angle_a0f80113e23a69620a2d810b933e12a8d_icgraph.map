@@ -1,7 +1,0 @@
-<map id="fromDeg" name="fromDeg">
-<area shape="rect" id="node3" href="$da/d20/classlibrary_1_1_symbol_pin_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" title="library::SymbolPinPreview\lGraphicsItem::updateCacheAndRepaint" alt="" coords="125,5,379,51"/>
-<area shape="rect" id="node5" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" title="library::SymbolPreviewGraphics\lItem::updateCacheAndRepaint" alt="" coords="148,74,356,121"/>
-<area shape="rect" id="node7" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#ac5b9ac3ae6ade6886893179b59302ec1" title="project::SymbolInstanceProperties\lDialog::applyChanges" alt="" coords="141,143,363,190"/>
-<area shape="rect" id="node9" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#aadb9f3b844fb4cf98288cd3c60a3af91" title="project::SymbolInstanceProperties\lDialog::accept" alt="" coords="428,143,649,190"/>
-<area shape="rect" id="node11" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a9e53392568d47bcb31ccbde9917efb0c" title="project::SymbolInstanceProperties\lDialog::keyPressEvent" alt="" coords="700,143,921,190"/>
-</map>

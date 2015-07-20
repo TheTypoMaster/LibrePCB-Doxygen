@@ -1,7 +1,0 @@
-<map id="undo" name="undo">
-<area shape="rect" id="node3" href="$d1/d03/classproject_1_1_circuit.html#adb239b372d60a08b57a7c4ce3f5c1d72" title="project::Circuit::remove\lNetSignal" alt="" coords="105,5,263,51"/>
-<area shape="rect" id="node5" href="$d3/d26/class_undo_command.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the command (and all child commands in reverse order) " alt="" coords="109,75,259,104"/>
-<area shape="rect" id="node13" href="$d1/d03/classproject_1_1_circuit.html#abd93274f65d728ea99cc022c4a900d88" title="project::Circuit::addNet\lSignal" alt="" coords="105,127,263,174"/>
-<area shape="rect" id="node7" href="$d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" title="This method shows whether that command is executed (redo() called one time more than undo()) ..." alt="" coords="507,49,693,79"/>
-<area shape="rect" id="node9" href="$d3/d26/class_undo_command.html#a93c48d6ed036e1a381be53ac67643284" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="312,75,459,104"/>
-</map>

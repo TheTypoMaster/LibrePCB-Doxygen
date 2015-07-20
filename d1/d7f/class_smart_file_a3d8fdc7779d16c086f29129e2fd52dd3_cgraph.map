@@ -1,8 +1,0 @@
-<map id="prepareSaveAndReturnFilePath" name="prepareSaveAndReturnFilePath">
-<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#ab03554821fd99cccf6f55a6686bcdc0d" title="Get the filepath of the parent directory of the file or directory. " alt="" coords="260,32,409,61"/>
-<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#aed11b2f2b9590d9ac21e452b8ad11c46" title="Check if the specified filepath is an existing directory. " alt="" coords="259,85,411,115"/>
-<area shape="rect" id="node11" href="$d4/d1c/class_file_path.html#a90e27cd1fab85a56a4b346b11c08404b" title="Create all directories of this filepath (with all parent directories) " alt="" coords="273,139,396,168"/>
-<area shape="rect" id="node13" href="$d4/d1c/class_file_path.html#af27e4f117ace775ab38ae937c12cd37a" title="Get the absolute filepath with native directory separators (&quot;/&quot; resp. &quot;\&quot;) " alt="" coords="272,192,397,221"/>
-<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#a329a3fd87c1339c347833a8026e24c80" title="Check if the specified filepath is the root directory. " alt="" coords="465,5,580,35"/>
-<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#abad2142d090ea829d85560b03d47d98f" title="The default constructor (this will create an invalid object!) " alt="" coords="460,59,585,88"/>
-</map>

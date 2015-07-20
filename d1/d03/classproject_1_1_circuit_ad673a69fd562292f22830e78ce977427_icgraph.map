@@ -1,5 +1,0 @@
-<map id="getGenCompInstanceByUuid" name="getGenCompInstanceByUuid">
-<area shape="rect" id="node3" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a16ecdddbb51afe3714d940236b9c6d48" title="project::UnplacedComponents\lDock::on_lstUnplacedComponents\l_currentItemChanged" alt="" coords="247,5,471,69"/>
-<area shape="rect" id="node5" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="project::UnplacedComponents\lDock::on_pushButton_clicked" alt="" coords="260,93,457,139"/>
-<area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="project::UnplacedComponents\lDock::on_btnAddAll_clicked" alt="" coords="260,162,457,209"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="getKey" name="getKey">
-<area shape="rect" id="node3" href="$de/d67/classproject_1_1_gen_comp_instance.html#a7fa5d62c280aeb14756e751520a201e3" title="project::GenCompInstance\l::GenCompInstance" alt="" coords="157,5,336,51"/>
-<area shape="rect" id="node5" href="$de/d67/classproject_1_1_gen_comp_instance.html#a92ea66644a6aa09a4b6dc92af04079e5" title="project::GenCompInstance\l::getAttributeByKey" alt="" coords="157,74,336,121"/>
-<area shape="rect" id="node7" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#ac5b9ac3ae6ade6886893179b59302ec1" title="project::SymbolInstanceProperties\lDialog::applyChanges" alt="" coords="425,105,647,151"/>
-<area shape="rect" id="node13" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#ac495f51c75d32d809bd19d4b2f9afc1b" title="project::SymbolInstanceProperties\lDialog::SymbolInstancePropertiesDialog" alt="" coords="119,194,375,241"/>
-<area shape="rect" id="node9" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#aadb9f3b844fb4cf98288cd3c60a3af91" title="project::SymbolInstanceProperties\lDialog::accept" alt="" coords="697,105,919,151"/>
-<area shape="rect" id="node11" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a9e53392568d47bcb31ccbde9917efb0c" title="project::SymbolInstanceProperties\lDialog::keyPressEvent" alt="" coords="969,105,1191,151"/>
-</map>

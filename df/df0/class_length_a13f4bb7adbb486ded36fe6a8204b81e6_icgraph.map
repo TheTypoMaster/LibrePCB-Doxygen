@@ -1,6 +1,0 @@
-<map id="makeAbs" name="makeAbs">
-<area shape="rect" id="node3" href="$df/df0/class_length.html#a370bc52b15b47b82bcf6b40fa58ff2c3" title="Get a Length object with absolute value (mNanometers &gt;= 0) " alt="" coords="167,16,209,45"/>
-<area shape="rect" id="node7" href="$d0/d69/class_point.html#a07c9955efa8608bc94044ff826a71b79" title="Make both coordinates absolute (X,Y &gt;= 0) " alt="" coords="131,71,245,100"/>
-<area shape="rect" id="node5" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#aae39c66c9e71801f5670fc4519f4d50b" title="project::SES_DrawWire\l::calcMiddlePointPos" alt="" coords="295,5,455,51"/>
-<area shape="rect" id="node9" href="$d0/d69/class_point.html#a462423acef44fd4bdd3c37445f13f4b0" title="Get a Point object with both coordinates in absolute values (X,Y &gt;= 0) " alt="" coords="335,75,415,104"/>
-</map>

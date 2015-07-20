@@ -1,7 +1,0 @@
-<map id="~UndoStack" name="~UndoStack">
-<area shape="rect" id="node3" href="$d4/d90/class_undo_stack.html#a03bfacfaaba9195e4498375659f43531" title="Clear the whole stack (delete all UndoCommand objects) " alt="" coords="149,57,200,87"/>
-<area shape="rect" id="node5" href="$d4/d90/class_undo_stack.html#a4569aea2e8254c626ce894aac55866e9" title="End the currently active command and revert the changes. " alt="" coords="249,57,359,87"/>
-<area shape="rect" id="node7" href="$d4/d90/class_undo_stack.html#ac45199a5fa405b01e4a81bcd46ca47d2" title="Get the text for the undo action. " alt="" coords="409,5,505,35"/>
-<area shape="rect" id="node9" href="$d4/d90/class_undo_stack.html#a0838f37a375891734d27a88e34437d1c" title="Check if undo is possible. " alt="" coords="555,32,629,61"/>
-<area shape="rect" id="node12" href="$d4/d90/class_undo_stack.html#ac94ae4017f4a9133369c65c0fdb6f4c7" title="Check if the stack is in a clean state (the state of the last setClean()) " alt="" coords="424,109,491,139"/>
-</map>

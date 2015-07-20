@@ -1,6 +1,0 @@
-<map id="getQEvent" name="getQEvent">
-<area shape="rect" id="node3" href="$d7/dba/classproject_1_1_b_e_e___redirected_q_event.html#a2d8e381d0fd9704724b630194af390f3" title="Helper method to get the QEvent from a pointer to BEE_Base. " alt="" coords="139,92,280,121"/>
-<area shape="rect" id="node5" href="$db/d99/classproject_1_1_b_e_s___f_s_m.html#ad0202fcf725dff7028763e74f630a985" title="returns the next state " alt="" coords="341,5,525,51"/>
-<area shape="rect" id="node7" href="$db/dd3/classproject_1_1_b_e_s___select.html#ab12d84cb06f265f00f6130fc5e801000" title="project::BES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="340,75,527,139"/>
-<area shape="rect" id="node9" href="$db/dd3/classproject_1_1_b_e_s___select.html#add3bb6fd0f0d1ec1558bb1fc5be938ed" title="project::BES_Select\l::processSubStateMovingScene\lEvent" alt="" coords="329,163,537,227"/>
-</map>

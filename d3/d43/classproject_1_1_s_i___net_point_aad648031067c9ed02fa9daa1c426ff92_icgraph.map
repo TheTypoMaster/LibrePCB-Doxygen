@@ -1,4 +1,0 @@
-<map id="attachToPin" name="attachToPin">
-<area shape="rect" id="node3" href="$d1/d92/classproject_1_1_cmd_schematic_net_point_detach.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="148,5,327,51"/>
-<area shape="rect" id="node5" href="$d1/d92/classproject_1_1_cmd_schematic_net_point_detach.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="148,74,327,121"/>
-</map>

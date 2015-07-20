@@ -1,8 +1,0 @@
-<map id="GenCompSymbVar" name="GenCompSymbVar">
-<area shape="rect" id="node3" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a6082cb826f55941403d9bf4fb771928f" title="Read locale&#45;dependent strings from a DOM node and insert them in a QMap. " alt="" coords="201,33,383,80"/>
-<area shape="rect" id="node5" href="$d1/d1f/class_xml_dom_element.html#a95f6de04ddcc9336005e890a5bca080a" title="Get the first child element of this element. " alt="" coords="449,14,652,43"/>
-<area shape="rect" id="node7" href="$d1/d1f/class_xml_dom_element.html#a3cd8526c7b8169654ac3b2357af7392e" title="Get the next sibling element (with a specific name) " alt="" coords="444,70,657,99"/>
-<area shape="rect" id="node15" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVarItem\l::getUuid" alt="" coords="191,153,393,200"/>
-<area shape="rect" id="node9" href="$d1/d1f/class_xml_dom_element.html#adc4e44d2a70ffd20acf6f46952f44723" title="Get the next child (with a specific name) of a specific child. " alt="" coords="707,70,912,99"/>
-<area shape="rect" id="node11" href="$d1/d1f/class_xml_dom_element.html#ab0c96f485564e41206ce9a4ce42ba389" title="Get the tag name of this element. " alt="" coords="961,70,1143,99"/>
-</map>

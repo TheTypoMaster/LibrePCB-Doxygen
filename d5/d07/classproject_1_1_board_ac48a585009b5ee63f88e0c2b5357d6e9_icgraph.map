@@ -1,6 +1,0 @@
-<map id="getProject" name="getProject">
-<area shape="rect" id="node3" href="$d0/d7d/classproject_1_1_component_instance.html#a8b9accae182d7ca8c9e6b6d3e3a7f725" title="project::ComponentInstance\l::getProject" alt="" coords="136,5,323,51"/>
-<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="160,74,299,121"/>
-<area shape="rect" id="node5" href="$da/d96/classproject_1_1_b_i___footprint.html#a8b9accae182d7ca8c9e6b6d3e3a7f725" title="project::BI_Footprint\l::getProject" alt="" coords="372,5,511,51"/>
-<area shape="rect" id="node7" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#a8b9accae182d7ca8c9e6b6d3e3a7f725" title="project::BI_FootprintPad\l::getProject" alt="" coords="560,5,723,51"/>
-</map>

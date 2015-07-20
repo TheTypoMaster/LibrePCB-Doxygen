@@ -1,5 +1,0 @@
-<map id="getPinsAtScenePos" name="getPinsAtScenePos">
-<area shape="rect" id="node3" href="$de/d50/classproject_1_1_s_i___symbol.html#a16a2a98f4b0e7d1e95f44fbbfd1e3d50" title="project::SI_Symbol\l::getPins" alt="" coords="204,5,337,51"/>
-<area shape="rect" id="node5" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::SI_SymbolPin\l::getGrabAreaScenePx" alt="" coords="193,74,348,121"/>
-<area shape="rect" id="node7" href="$da/d6f/classproject_1_1_s_g_i___symbol_pin.html#a066dd522d7c2b9f0f85b2a103aba0542" title="project::SGI_SymbolPin\l::shape" alt="" coords="397,74,560,121"/>
-</map>

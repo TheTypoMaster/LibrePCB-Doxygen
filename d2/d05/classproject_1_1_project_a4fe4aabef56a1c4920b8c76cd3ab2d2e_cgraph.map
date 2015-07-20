@@ -1,5 +1,0 @@
-<map id="~Project" name="~Project">
-<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a8db71351b6b822ce717872fb84dff1eb" title="Remove a board from this project. " alt="" coords="140,5,239,35"/>
-<area shape="rect" id="node5" href="$d2/d05/classproject_1_1_project.html#a8757e9708b3b239f7d981be7a9337f2d" title="Remove a schematic from this project. " alt="" coords="127,59,252,88"/>
-<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#af27e4f117ace775ab38ae937c12cd37a" title="Get the absolute filepath with native directory separators (&quot;/&quot; resp. &quot;\&quot;) " alt="" coords="127,112,252,141"/>
-</map>

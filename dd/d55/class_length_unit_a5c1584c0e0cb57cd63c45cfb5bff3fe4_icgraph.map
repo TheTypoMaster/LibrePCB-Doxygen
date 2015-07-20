@@ -1,6 +1,0 @@
-<map id="fromIndex" name="fromIndex">
-<area shape="rect" id="node3" href="$dc/d4e/class_grid_settings_dialog.html#a8c6b24c281de39bab23a247e236f39c0" title="GridSettingsDialog\l::cbxUnitsChanged" alt="" coords="176,5,309,51"/>
-<area shape="rect" id="node7" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#aa2425481340ffcc80b45c2e816abe4ce" title="WSI_AppDefaultMeasurement\lUnits::lengthUnitComboBoxIndex\lChanged" alt="" coords="135,75,351,139"/>
-<area shape="rect" id="node5" href="$dc/d4e/class_grid_settings_dialog.html#accb85452fe6ac5e053dcaae228cd9866" title="GridSettingsDialog\l::GridSettingsDialog" alt="" coords="465,5,604,51"/>
-<area shape="rect" id="node9" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a03e8889c79d47c2b4e92db649482ea89" title="WSI_AppDefaultMeasurement\lUnits::WSI_AppDefaultMeasurementUnits" alt="" coords="400,83,669,130"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="save" name="save">
-<area shape="rect" id="node3" href="$d3/dd6/classproject_1_1_project_editor.html#a6c9aab025aa7fd4bd3b4d1916fb021d7" title="Save the whole project to the harddisc. " alt="" coords="104,74,248,121"/>
-<area shape="rect" id="node9" href="$d3/dd6/classproject_1_1_project_editor.html#ab610f183d6b163573d997a0d0e73b361" title="Make a automatic backup of the project (save to temporary files) " alt="" coords="104,143,248,190"/>
-<area shape="rect" id="node5" href="$d4/dfb/classproject_1_1_board_editor.html#a2622890007f7f744656c64f1e2326ed4" title="project::BoardEditor\l::BoardEditor" alt="" coords="311,5,447,51"/>
-<area shape="rect" id="node7" href="$dd/d24/classproject_1_1_schematic_editor.html#a00c3b550b94494cf7cd411acc8e4469d" title="project::SchematicEditor\l::SchematicEditor" alt="" coords="296,74,461,121"/>
-<area shape="rect" id="node11" href="$d3/dd6/classproject_1_1_project_editor.html#a10d8ea6edaf3788d3d34fa3e47f372b1" title="The constructor. " alt="" coords="307,143,451,190"/>
-</map>

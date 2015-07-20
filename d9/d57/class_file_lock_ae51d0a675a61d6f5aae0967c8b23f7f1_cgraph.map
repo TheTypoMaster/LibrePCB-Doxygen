@@ -1,8 +1,0 @@
-<map id="getStatus" name="getStatus">
-<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#a0a886a9edf5bf682f5245159661bfc94" title="Check whether this object contains a valid filepath or not. " alt="" coords="173,5,291,35"/>
-<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="179,59,285,88"/>
-<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#af27e4f117ace775ab38ae937c12cd37a" title="Get the absolute filepath with native directory separators (&quot;/&quot; resp. &quot;\&quot;) " alt="" coords="169,112,295,141"/>
-<area shape="rect" id="node9" href="$d7/deb/class_system_info.html#a527387b438f668d7805b2874994de02a" title="Get the full name of the user which is logged in (like &quot;Homer Simpson&quot;) " alt="" coords="135,165,329,195"/>
-<area shape="rect" id="node11" href="$d7/deb/class_system_info.html#ab01a34f1c172b83ed814c86189078347" title="Get the name of the user which is logged in (like &quot;homer&quot;) " alt="" coords="145,219,319,248"/>
-<area shape="rect" id="node13" href="$d7/deb/class_system_info.html#a522af149c6385195104ab143e74c3466" title="Get the hostname of the computer (like &quot;homer&#45;workstation&quot;) " alt="" coords="145,272,319,301"/>
-</map>

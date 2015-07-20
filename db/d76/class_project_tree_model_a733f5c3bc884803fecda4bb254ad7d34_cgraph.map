@@ -1,5 +1,0 @@
-<map id="parent" name="parent">
-<area shape="rect" id="node3" href="$db/d76/class_project_tree_model.html#a097d5cab45248ecb3614b1d427e05369" title="getItem" alt="" coords="168,5,235,35"/>
-<area shape="rect" id="node5" href="$db/d9c/class_project_tree_item.html#a2897772b6b74059c9adc35b72a8da469" title="ProjectTreeItem::getParent" alt="" coords="112,59,291,88"/>
-<area shape="rect" id="node7" href="$db/d9c/class_project_tree_item.html#a69887298ac9b77099f531f79ee49fa71" title="ProjectTreeItem::getChild\lNumber" alt="" coords="116,111,287,158"/>
-</map>

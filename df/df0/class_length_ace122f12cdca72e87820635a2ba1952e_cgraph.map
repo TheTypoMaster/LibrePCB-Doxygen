@@ -1,5 +1,0 @@
-<map id="fromMil" name="fromMil">
-<area shape="rect" id="node3" href="$df/df0/class_length.html#a0727878134310037f5af42f773aa744d" title="Set the length in mils (1/1000 inch) " alt="" coords="120,5,216,35"/>
-<area shape="rect" id="node7" href="$df/df0/class_length.html#a12aaddfb6cccff89e294f502574fe869" title="Map this Length object to a specific grid interval. " alt="" coords="125,59,211,88"/>
-<area shape="rect" id="node5" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="264,5,403,35"/>
-</map>

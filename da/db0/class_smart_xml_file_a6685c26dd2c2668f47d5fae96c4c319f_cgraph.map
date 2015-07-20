@@ -1,6 +1,0 @@
-<map id="parseFileAndBuildDomTree" name="parseFileAndBuildDomTree">
-<area shape="rect" id="node3" href="$de/d6b/class_application.html#a71dfd4d8f6708f9d9eb0f0c507c1e9ef" title="Application::majorVersion" alt="" coords="235,44,405,73"/>
-<area shape="rect" id="node5" href="$de/d6b/class_application.html#a9b7423f4d6e1631b033ff1ef3f1104bc" title="Application::application\lVersion" alt="" coords="455,5,609,51"/>
-<area shape="rect" id="node9" href="$de/d34/class_version.html#a1d27f264dcf673c9b3a991023cd0420c" title="Get the numbers in the version string. " alt="" coords="460,75,604,104"/>
-<area shape="rect" id="node7" href="$de/d34/class_version.html#a0a886a9edf5bf682f5245159661bfc94" title="Check if the object represents a valid version number. " alt="" coords="660,13,772,43"/>
-</map>

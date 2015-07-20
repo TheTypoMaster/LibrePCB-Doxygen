@@ -1,9 +1,0 @@
-<map id="create" name="create">
-<area shape="rect" id="node3" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" title="library::LibraryBaseElement\l::saveToFile" alt="" coords="113,5,295,51"/>
-<area shape="rect" id="node5" href="$d5/d07/classproject_1_1_board.html#af730e4474fb52921e507817d97be3585" title="project::Board::Board" alt="" coords="132,75,276,104"/>
-<area shape="rect" id="node7" href="$d1/d03/classproject_1_1_circuit.html#a771e23d92f6ccff0ce6b701b4cceed5c" title="project::Circuit::Circuit" alt="" coords="128,128,280,157"/>
-<area shape="rect" id="node9" href="$d1/dd6/classproject_1_1_erc_msg_list.html#aae3adecb68839467861531475de79ce1" title="project::ErcMsgList\l::ErcMsgList" alt="" coords="137,181,271,227"/>
-<area shape="rect" id="node11" href="$d2/d05/classproject_1_1_project.html#ac7d08ce581d4e4a78c488c12c30d1120" title="The constructor to create or open a project with all its content. " alt="" coords="125,251,283,280"/>
-<area shape="rect" id="node13" href="$dd/d2d/classproject_1_1_schematic.html#a75e4741d907d58afa431a222d580471b" title="project::Schematic\l::Schematic" alt="" coords="139,303,269,350"/>
-<area shape="rect" id="node15" href="$d7/d04/classproject_1_1_project_settings.html#a99d77a09f2195537448650ab0953c644" title="project::ProjectSettings\l::ProjectSettings" alt="" coords="125,373,283,419"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="setMsg" name="setMsg">
-<area shape="rect" id="node3" href="$d3/d21/classproject_1_1_net_class.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::NetClass::\lupdateErcMessages" alt="" coords="124,74,265,121"/>
-<area shape="rect" id="node9" href="$d3/d93/classproject_1_1_net_signal.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::NetSignal\l::updateErcMessages" alt="" coords="120,143,269,190"/>
-<area shape="rect" id="node5" href="$d3/d21/classproject_1_1_net_class.html#a747ff70967bb976c335f484090cfa69a" title="project::NetClass::\laddToCircuit" alt="" coords="323,5,453,51"/>
-<area shape="rect" id="node7" href="$d3/d21/classproject_1_1_net_class.html#a721f4134fc15050bf1069070bef6794e" title="project::NetClass::\lremoveFromCircuit" alt="" coords="321,74,455,121"/>
-<area shape="rect" id="node11" href="$d3/d93/classproject_1_1_net_signal.html#a747ff70967bb976c335f484090cfa69a" title="project::NetSignal\l::addToCircuit" alt="" coords="325,143,451,190"/>
-<area shape="rect" id="node13" href="$d3/d93/classproject_1_1_net_signal.html#a721f4134fc15050bf1069070bef6794e" title="project::NetSignal\l::removeFromCircuit" alt="" coords="317,213,459,259"/>
-</map>
