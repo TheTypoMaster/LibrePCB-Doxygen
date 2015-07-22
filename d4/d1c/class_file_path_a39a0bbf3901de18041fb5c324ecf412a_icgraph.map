@@ -19,8 +19,8 @@
 <area shape="rect" id="node52" href="$dc/d03/class_smart_ini_file.html#a743ed09dec0bc5dc70c96a7dbaba82fe" title="Create a new QSettings object to access the INI file. " alt="" coords="105,987,300,1016"/>
 <area shape="rect" id="node54" href="$dc/d03/class_smart_ini_file.html#a505580327a442b26f4ff537e68201ed1" title="Write all changes to the file system. " alt="" coords="139,1040,267,1069"/>
 <area shape="rect" id="node56" href="$de/d02/classlibrary_1_1_library.html#af2169476bf038e2de29eb968e25c561e" title="library::Library::getAll\lXmlFilesInLibDir" alt="" coords="131,1093,275,1139"/>
-<area shape="rect" id="node62" href="$d9/d30/classproject_1_1_project_library.html#ae3bb445dbe2152d14e57bbf09cbb1ee4" title="project::ProjectLibrary\l::loadElements" alt="" coords="128,1162,277,1209"/>
-<area shape="rect" id="node64" href="$d9/d30/classproject_1_1_project_library.html#aedd764c9f405a776a1c55276bf896e40" title="project::ProjectLibrary\l::addElement" alt="" coords="128,1231,277,1278"/>
+<area shape="rect" id="node62" href="$d9/d30/classproject_1_1_project_library.html#a66be7fb27dfb9ffcd6333afaff0c8d77" title="project::ProjectLibrary\l::loadElements" alt="" coords="128,1162,277,1209"/>
+<area shape="rect" id="node64" href="$d9/d30/classproject_1_1_project_library.html#a1e29f19ed2c107f51630ad26f1640083" title="project::ProjectLibrary\l::addElement" alt="" coords="128,1231,277,1278"/>
 <area shape="rect" id="node66" href="$d9/d30/classproject_1_1_project_library.html#a6fd6a1458d1adb6ca6e52f012316943d" title="project::ProjectLibrary\l::removeElement" alt="" coords="128,1301,277,1347"/>
 <area shape="rect" id="node68" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="project::AddGenCompDialog\l::setSelectedCategory" alt="" coords="109,1370,296,1417"/>
 <area shape="rect" id="node74" href="$d6/d7e/class_favorite_projects_model.html#aa2a1f5c6e270bd5457719ec969258130" title="FavoriteProjectsModel\l::FavoriteProjectsModel" alt="" coords="123,1439,283,1486"/>
