@@ -17,7 +17,7 @@
 <text text-anchor="middle" x="77" y="-64" font-family="Helvetica,sans-Serif" font-size="10.00">Units_t</text>
 <polyline fill="none" stroke="black" points="-0.5,-56 154.5,-56 "/>
 <text text-anchor="start" x="7.5" y="-43" font-family="Helvetica,sans-Serif" font-size="10.00">+ data</text>
-<text text-anchor="start" x="7.5" y="-30" font-family="Helvetica,sans-Serif" font-size="10.00">+ stringdata</text>
+<text text-anchor="start" x="7.5" y="-30" font-family="Helvetica,sans-Serif" font-size="10.00">+ stringdata0</text>
 <polyline fill="none" stroke="black" points="-0.5,-22 154.5,-22 "/>
 <text text-anchor="middle" x="77" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
 </g>
