@@ -1,5 +1,6 @@
 var NAVTREEINDEX20 =
 {
+"de/d52/class_workspace_settings.html#ad59385e2b83064738e8974bbe8195cb4":[3,0,153,11],
 "de/d52/class_workspace_settings.html#ad6f862900c4957afe9c8173224cdb9a2":[3,0,153,13],
 "de/d52/class_workspace_settings.html#ae618bffea0533f54ce89366010d6d842":[3,0,153,10],
 "de/d52/class_workspace_settings.html#ae9d05d46f1e4a59d9bff7bf8d7064a84":[3,0,153,23],
@@ -96,7 +97,7 @@ var NAVTREEINDEX20 =
 "de/dab/smartfile_8cpp.html":[4,0,1,0,2,5],
 "de/dac/structqt__meta__stringdata___w_s_i___library_norm_order__t.html":[3,0,121],
 "de/dac/structqt__meta__stringdata___w_s_i___library_norm_order__t.html#aa04eec0e9b83faf575eba0b812d11666":[3,0,121,0],
-"de/dac/structqt__meta__stringdata___w_s_i___library_norm_order__t.html#af9de138668842549e2a4741b96fb136a":[3,0,121,1],
+"de/dac/structqt__meta__stringdata___w_s_i___library_norm_order__t.html#aa3d8d0e5ccf32f977dede73d8fe7c132":[3,0,121,1],
 "de/daf/gridproperties_8cpp.html":[4,0,1,0,17],
 "de/daf/structproject_1_1_symbol_instance_properties_dialog_1_1_attr_item__t.html":[3,0,2,100,0],
 "de/daf/structproject_1_1_symbol_instance_properties_dialog_1_1_attr_item__t.html#a0c0d1b18d3033cb858562e5e8636c18f":[3,0,2,100,0,2],
@@ -112,7 +113,7 @@ var NAVTREEINDEX20 =
 "de/dca/bgi__base_8h_source.html":[4,0,1,3,0,1,1],
 "de/dd1/structqt__meta__stringdata___workspace_settings__t.html":[3,0,113],
 "de/dd1/structqt__meta__stringdata___workspace_settings__t.html#a50cea206409e1a2f0621da9161a58682":[3,0,113,0],
-"de/dd1/structqt__meta__stringdata___workspace_settings__t.html#a84dbea4781b48f8999b5e7eafe5d2c6c":[3,0,113,1],
+"de/dd1/structqt__meta__stringdata___workspace_settings__t.html#a712ec7c3d9e31f9b14fa954ca76e422d":[3,0,113,1],
 "de/dd2/unplacedcomponentsdock_8cpp.html":[4,0,1,4,0,3],
 "de/dd6/graphicsitem_8h.html":[4,0,1,0,3,1],
 "de/dd6/graphicsitem_8h_source.html":[4,0,1,0,3,1],
@@ -214,10 +215,10 @@ var NAVTREEINDEX20 =
 "df/d5a/workspacesettings_8cpp.html":[4,0,1,5,1,1],
 "df/d5b/sgi__base_8cpp.html":[4,0,1,3,6,1,0],
 "df/d5b/structqt__meta__stringdata__project_____s_i___net_point__t.html":[3,0,103],
-"df/d5b/structqt__meta__stringdata__project_____s_i___net_point__t.html#a6ba0b9cfac60619d41400655a64a174c":[3,0,103,1],
 "df/d5b/structqt__meta__stringdata__project_____s_i___net_point__t.html#af5ccd32c47ea71369a47ae414454740f":[3,0,103,0],
+"df/d5b/structqt__meta__stringdata__project_____s_i___net_point__t.html#afc10474ee13d31b0e8b474c989e78f20":[3,0,103,1],
 "df/d5d/structqt__meta__stringdata___workspace__t.html":[3,0,112],
-"df/d5d/structqt__meta__stringdata___workspace__t.html#a33cb4aa4636243b31d204af39e24f48b":[3,0,112,1],
+"df/d5d/structqt__meta__stringdata___workspace__t.html#acea4ebf84b3e8b2ae6725c8dc1d3a1fa":[3,0,112,1],
 "df/d5d/structqt__meta__stringdata___workspace__t.html#af5ccd32c47ea71369a47ae414454740f":[3,0,112,0],
 "df/d5f/classlibrary_1_1_package_category.html":[3,0,0,5],
 "df/d5f/classlibrary_1_1_package_category.html#a06ccc04d83f9ffbaf45619c8c5cc61ad":[3,0,0,5,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX20 =
 "df/d64/classproject_1_1_s_e_s___draw_wire.html#a5f6816d46dd379b7dcdd5c1bfc14df11":[3,0,2,93,33],
 "df/d64/classproject_1_1_s_e_s___draw_wire.html#a625d6af68a91adbc27a357f0fcc08245":[3,0,2,93,26],
 "df/d64/classproject_1_1_s_e_s___draw_wire.html#a6775c8020916cc076a279c2d80bd7403":[3,0,2,93,8],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a6779daf31fbe653c1b13166fa4e8f332":[3,0,2,93,18],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a6d0df326e8fc1ab1eb4205bc6ece9e2f":[3,0,2,93,20]
+"df/d64/classproject_1_1_s_e_s___draw_wire.html#a6779daf31fbe653c1b13166fa4e8f332":[3,0,2,93,18]
 };

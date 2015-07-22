@@ -5,6 +5,7 @@ var class_graphics_view =
     [ "GraphicsView", "dd/dd5/class_graphics_view.html#a6652ac14e6bc64b16d7db1a190dfe432", null ],
     [ "getScene", "dd/dd5/class_graphics_view.html#a11c4991b0cf2a7cfc530df40d917d2f5", null ],
     [ "getVisibleSceneRect", "dd/dd5/class_graphics_view.html#a79f98dafea5083f10c64488e0cabba04", null ],
+    [ "getGridProperties", "dd/dd5/class_graphics_view.html#a8fdde458ce65c4d4a40545c222303ae9", null ],
     [ "setGridProperties", "dd/dd5/class_graphics_view.html#a4801b71126e10a454a0b148beffb13bf", null ],
     [ "setScene", "dd/dd5/class_graphics_view.html#aed5314322b428c3456713e467f5ec937", null ],
     [ "setVisibleSceneRect", "dd/dd5/class_graphics_view.html#ae91cf6b8522a55badf3c4c28fb61e0ef", null ],

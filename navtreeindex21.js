@@ -1,5 +1,6 @@
 var NAVTREEINDEX21 =
 {
+"df/d64/classproject_1_1_s_e_s___draw_wire.html#a6d0df326e8fc1ab1eb4205bc6ece9e2f":[3,0,2,93,20],
 "df/d64/classproject_1_1_s_e_s___draw_wire.html#a6e5cfbd930b77d3f3149cb6a28d6dfd2":[3,0,2,93,3],
 "df/d64/classproject_1_1_s_e_s___draw_wire.html#a72ccca96a5dabd93710518c9d18b93a1":[3,0,2,93,12],
 "df/d64/classproject_1_1_s_e_s___draw_wire.html#a75b6b92149b6a3431ca73c7cc20f1f63":[3,0,2,93,30],
@@ -193,7 +194,7 @@ var NAVTREEINDEX21 =
 "df/d85/class_board_layer.html#af329b0fd718fde1cfda4ff684aa374ad":[3,0,15,14],
 "df/d85/class_board_layer.html#afb49c937aaabbe05a0e5368f8bf9d497":[3,0,15,8],
 "df/d8b/structqt__meta__stringdata__project_____schematic_clipboard__t.html":[3,0,85],
-"df/d8b/structqt__meta__stringdata__project_____schematic_clipboard__t.html#a1dd7e092c3d2f5e41f84fcb7e87cf28c":[3,0,85,1],
+"df/d8b/structqt__meta__stringdata__project_____schematic_clipboard__t.html#a98a4c6cc3331ad71ad07c32c0a1c4243":[3,0,85,1],
 "df/d8b/structqt__meta__stringdata__project_____schematic_clipboard__t.html#af5ccd32c47ea71369a47ae414454740f":[3,0,85,0],
 "df/d9b/componentinstance_8h.html":[4,0,1,3,0,8],
 "df/d9b/componentinstance_8h_source.html":[4,0,1,3,0,8],
@@ -207,8 +208,8 @@ var NAVTREEINDEX21 =
 "df/da7/class_attr_type_frequency.html#aa523f3ed6b40fb79d0f4cde3b3782752":[3,0,10,5],
 "df/da7/class_attr_type_frequency.html#abf8f18d6ed06c98ac51966e7eb6cf847":[3,0,10,3],
 "df/daa/structqt__meta__stringdata__library_____symbol__t.html":[3,0,60],
+"df/daa/structqt__meta__stringdata__library_____symbol__t.html#ab4b8c41a635477c8f8393cf69f404760":[3,0,60,1],
 "df/daa/structqt__meta__stringdata__library_____symbol__t.html#af5ccd32c47ea71369a47ae414454740f":[3,0,60,0],
-"df/daa/structqt__meta__stringdata__library_____symbol__t.html#afcf9e0e7eff176f23dfd7be3f44566a5":[3,0,60,1],
 "df/daf/cmdcomponentinstanceedit_8cpp.html":[4,0,1,3,0,0,4],
 "df/db0/schematicpagesdock_8h.html":[4,0,1,4,4,6],
 "df/db0/schematicpagesdock_8h_source.html":[4,0,1,4,4,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX21 =
 "df/dd1/classproject_1_1_s_g_i___net_line.html#a3e27ff4e11646f72326f18984d5dd8ca":[3,0,2,54,9],
 "df/dd1/classproject_1_1_s_g_i___net_line.html#a6e4b5bc28b84f0ec515bb76daba69390":[3,0,2,54,6],
 "df/dd1/classproject_1_1_s_g_i___net_line.html#a790f1bcb392852527cdf6657257f6131":[3,0,2,54,2],
-"df/dd1/classproject_1_1_s_g_i___net_line.html#a7a964ad8fbbdac72cb203ba6b768f483":[3,0,2,54,0],
-"df/dd1/classproject_1_1_s_g_i___net_line.html#a7f9aac15380d5c7a5b33979d006275d7":[3,0,2,54,5]
+"df/dd1/classproject_1_1_s_g_i___net_line.html#a7a964ad8fbbdac72cb203ba6b768f483":[3,0,2,54,0]
 };

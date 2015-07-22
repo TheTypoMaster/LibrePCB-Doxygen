@@ -63,31 +63,32 @@
 <!-- Node3 -->
 <g id="node4" class="node"><title>Node3</title>
 <a xlink:href="../../dd/dd5/class_graphics_view.html" target="_top" xlink:title="The GraphicsView class. ">
-<polygon fill="white" stroke="black" points="2517,-1314 2517,-1624 2677,-1624 2677,-1314 2517,-1314"/>
-<text text-anchor="middle" x="2597" y="-1611" font-family="Helvetica,sans-Serif" font-size="10.00">GraphicsView</text>
-<polyline fill="none" stroke="black" points="2517,-1603 2677,-1603 "/>
-<text text-anchor="start" x="2525" y="-1590" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mZoomAnimation</text>
-<text text-anchor="start" x="2525" y="-1577" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mOriginCrossVisible</text>
-<text text-anchor="start" x="2525" y="-1564" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; sZoomStepFactor</text>
-<polyline fill="none" stroke="black" points="2517,-1556 2677,-1556 "/>
-<text text-anchor="start" x="2525" y="-1543" font-family="Helvetica,sans-Serif" font-size="10.00">+ GraphicsView()</text>
-<text text-anchor="start" x="2525" y="-1530" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~GraphicsView()</text>
-<text text-anchor="start" x="2525" y="-1517" font-family="Helvetica,sans-Serif" font-size="10.00">+ getScene()</text>
-<text text-anchor="start" x="2525" y="-1504" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVisibleSceneRect()</text>
-<text text-anchor="start" x="2525" y="-1491" font-family="Helvetica,sans-Serif" font-size="10.00">+ setGridProperties()</text>
-<text text-anchor="start" x="2525" y="-1478" font-family="Helvetica,sans-Serif" font-size="10.00">+ setScene()</text>
-<text text-anchor="start" x="2525" y="-1465" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVisibleSceneRect()</text>
-<text text-anchor="start" x="2525" y="-1452" font-family="Helvetica,sans-Serif" font-size="10.00">+ setOriginCrossVisible()</text>
-<text text-anchor="start" x="2525" y="-1439" font-family="Helvetica,sans-Serif" font-size="10.00">+ zoomIn()</text>
-<text text-anchor="start" x="2525" y="-1426" font-family="Helvetica,sans-Serif" font-size="10.00">+ zoomOut()</text>
-<text text-anchor="start" x="2525" y="-1413" font-family="Helvetica,sans-Serif" font-size="10.00">+ zoomAll()</text>
-<text text-anchor="start" x="2525" y="-1400" font-family="Helvetica,sans-Serif" font-size="10.00">+ handleMouseWheelEvent()</text>
-<text text-anchor="start" x="2525" y="-1387" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; GraphicsView()</text>
-<text text-anchor="start" x="2525" y="-1374" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
-<text text-anchor="start" x="2525" y="-1361" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; eventFilter()</text>
-<text text-anchor="start" x="2525" y="-1348" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; drawBackground()</text>
-<text text-anchor="start" x="2525" y="-1335" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; drawForeground()</text>
-<text text-anchor="start" x="2525" y="-1322" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; zoomAnimationValueChanged()</text>
+<polygon fill="white" stroke="black" points="2517,-1307.5 2517,-1630.5 2677,-1630.5 2677,-1307.5 2517,-1307.5"/>
+<text text-anchor="middle" x="2597" y="-1617.5" font-family="Helvetica,sans-Serif" font-size="10.00">GraphicsView</text>
+<polyline fill="none" stroke="black" points="2517,-1609.5 2677,-1609.5 "/>
+<text text-anchor="start" x="2525" y="-1596.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mZoomAnimation</text>
+<text text-anchor="start" x="2525" y="-1583.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mOriginCrossVisible</text>
+<text text-anchor="start" x="2525" y="-1570.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; sZoomStepFactor</text>
+<polyline fill="none" stroke="black" points="2517,-1562.5 2677,-1562.5 "/>
+<text text-anchor="start" x="2525" y="-1549.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ GraphicsView()</text>
+<text text-anchor="start" x="2525" y="-1536.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~GraphicsView()</text>
+<text text-anchor="start" x="2525" y="-1523.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getScene()</text>
+<text text-anchor="start" x="2525" y="-1510.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVisibleSceneRect()</text>
+<text text-anchor="start" x="2525" y="-1497.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGridProperties()</text>
+<text text-anchor="start" x="2525" y="-1484.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setGridProperties()</text>
+<text text-anchor="start" x="2525" y="-1471.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setScene()</text>
+<text text-anchor="start" x="2525" y="-1458.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVisibleSceneRect()</text>
+<text text-anchor="start" x="2525" y="-1445.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setOriginCrossVisible()</text>
+<text text-anchor="start" x="2525" y="-1432.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ zoomIn()</text>
+<text text-anchor="start" x="2525" y="-1419.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ zoomOut()</text>
+<text text-anchor="start" x="2525" y="-1406.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ zoomAll()</text>
+<text text-anchor="start" x="2525" y="-1393.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ handleMouseWheelEvent()</text>
+<text text-anchor="start" x="2525" y="-1380.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; GraphicsView()</text>
+<text text-anchor="start" x="2525" y="-1367.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<text text-anchor="start" x="2525" y="-1354.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; eventFilter()</text>
+<text text-anchor="start" x="2525" y="-1341.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; drawBackground()</text>
+<text text-anchor="start" x="2525" y="-1328.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; drawForeground()</text>
+<text text-anchor="start" x="2525" y="-1315.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; zoomAnimationValueChanged()</text>
 </a>
 </g>
 <!-- Node3&#45;&gt;Node2 -->
@@ -113,8 +114,8 @@
 </g>
 <!-- Node4&#45;&gt;Node3 -->
 <g id="edge6" class="edge"><title>Node4&#45;&gt;Node3</title>
-<path fill="none" stroke="#404040" d="M2787.89,-3032.43C2797.53,-2821.87 2822.17,-2095.51 2715,-1896 2708.69,-1884.25 2698.27,-1889.18 2691,-1878 2644.43,-1806.4 2620.81,-1714.6 2608.87,-1636.13"/>
-<polygon fill="none" stroke="#404040" points="2608.86,-1636.02 2604.03,-1630.67 2607.12,-1624.15 2611.95,-1629.51 2608.86,-1636.02"/>
+<path fill="none" stroke="#404040" d="M2787.89,-3032.43C2797.53,-2821.87 2822.17,-2095.51 2715,-1896 2708.69,-1884.25 2698.27,-1889.18 2691,-1878 2645.76,-1808.43 2622.16,-1719.79 2609.91,-1642.84"/>
+<polygon fill="none" stroke="#404040" points="2609.86,-1642.45 2605,-1637.13 2608.04,-1630.59 2612.9,-1635.92 2609.86,-1642.45"/>
 <text text-anchor="middle" x="2818.5" y="-2257.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mScene</text>
 </g>
 <!-- Node5 -->
@@ -132,8 +133,8 @@
 </g>
 <!-- Node5&#45;&gt;Node3 -->
 <g id="edge8" class="edge"><title>Node5&#45;&gt;Node3</title>
-<path fill="none" stroke="#404040" d="M2940.4,-3045.37C2931.91,-2962.42 2913.43,-2778.86 2900,-2624 2892.99,-2543.18 2900.2,-1954.51 2844,-1896 2796.57,-1846.62 2741.98,-1923.71 2691,-1878 2624.04,-1817.96 2599.8,-1720.73 2592.65,-1636.13"/>
-<polygon fill="none" stroke="#404040" points="2592.64,-1635.98 2588.2,-1630.3 2591.73,-1624.02 2596.18,-1629.7 2592.64,-1635.98"/>
+<path fill="none" stroke="#404040" d="M2940.4,-3045.37C2931.91,-2962.42 2913.43,-2778.86 2900,-2624 2892.99,-2543.18 2900.2,-1954.51 2844,-1896 2796.57,-1846.62 2741.98,-1923.71 2691,-1878 2625.79,-1819.53 2601.1,-1725.78 2593.25,-1642.79"/>
+<polygon fill="none" stroke="#404040" points="2593.23,-1642.58 2588.73,-1636.94 2592.21,-1630.62 2596.7,-1636.26 2593.23,-1642.58"/>
 <text text-anchor="middle" x="2951.5" y="-2257.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mEventHandlerObject</text>
 </g>
 <!-- Node6 -->
@@ -164,8 +165,8 @@
 </g>
 <!-- Node6&#45;&gt;Node3 -->
 <g id="edge10" class="edge"><title>Node6&#45;&gt;Node3</title>
-<path fill="none" stroke="#404040" d="M2597,-2960.77C2597,-2669.27 2597,-1960.82 2597,-1636.33"/>
-<polygon fill="none" stroke="#404040" points="2597,-1636 2593,-1630 2597,-1624 2601,-1630 2597,-1636"/>
+<path fill="none" stroke="#404040" d="M2597,-2960.77C2597,-2671.31 2597,-1970.7 2597,-1643.19"/>
+<polygon fill="none" stroke="#404040" points="2597,-1642.74 2593,-1636.74 2597,-1630.74 2601,-1636.74 2597,-1642.74"/>
 <text text-anchor="middle" x="2635.5" y="-2257.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mGridProperties</text>
 </g>
 <!-- Node7 -->

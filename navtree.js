@@ -86,15 +86,15 @@ var NAVTREEINDEX =
 "d8/dea/classlibrary_1_1_footprint.html#a237920dd97b0ce69e089e4e2b8e5a5c3",
 "d9/d6e/classproject_1_1_cmd_schematic_remove.html#a3a516953f83692a481357dd16adf2bd7",
 "da/d57/structqt__meta__stringdata__project_____schematic_pages_dock__t.html",
-"db/d1c/structqt__meta__stringdata___w_s_i___appearance__t.html#a560047703431e77264561f70d45e2160",
+"db/d1c/structqt__meta__stringdata___w_s_i___appearance__t.html#a1155711797fc0c37e7273f2efb9c79eb",
 "db/de0/class_ui___board_editor.html#a9b6093bb011db4b5c5d14c889ca4094b",
 "dc/d67/classproject_1_1_erc_msg.html#afb49c937aaabbe05a0e5368f8bf9d497",
 "dd/d2d/classproject_1_1_schematic.html#ae3e94ee2e1de47870ce77c69a17a757b",
-"dd/de5/structlibrary_1_1_footprint_1_1_footprint_hole__t.html#ad719c0a2b81680447bcb175befd47edb",
-"de/d52/class_workspace_settings.html#ad6f862900c4957afe9c8173224cdb9a2",
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a6e5cfbd930b77d3f3149cb6a28d6dfd2",
-"df/dd1/classproject_1_1_s_g_i___net_line.html#a8066730e0297765f6128fa757c517eb8",
-"functions_u.html"
+"dd/de5/structlibrary_1_1_footprint_1_1_footprint_hole__t.html#ac16331a985d00cfea9d3a673d09403a5",
+"de/d52/class_workspace_settings.html#ad59385e2b83064738e8974bbe8195cb4",
+"df/d64/classproject_1_1_s_e_s___draw_wire.html#a6d0df326e8fc1ab1eb4205bc6ece9e2f",
+"df/dd1/classproject_1_1_s_g_i___net_line.html#a7f9aac15380d5c7a5b33979d006275d7",
+"functions_t.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

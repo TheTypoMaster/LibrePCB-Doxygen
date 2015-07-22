@@ -8,10 +8,11 @@
 <area shape="rect" id="node19" href="$dc/db2/schematic_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/schematic.cpp" alt="" coords="1273,126,1455,207"/>
 <area shape="rect" id="node22" href="$d7/d20/bes__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_select.cpp" alt="" coords="1479,126,1687,207"/>
 <area shape="rect" id="node24" href="$de/dd2/unplacedcomponentsdock_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/unplacedcomponentsdock.cpp" alt="" coords="1711,126,1980,207"/>
-<area shape="rect" id="node26" href="$d8/df2/ses__addcomponents_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addcomponents.cpp" alt="" coords="2004,117,2172,216"/>
-<area shape="rect" id="node28" href="$d3/dbd/ses__addnetlabel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addnetlabel.cpp" alt="" coords="2196,117,2364,216"/>
-<area shape="rect" id="node30" href="$df/d6c/ses__drawwire_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_drawwire.cpp" alt="" coords="2388,117,2556,216"/>
-<area shape="rect" id="node32" href="$d5/d03/ses__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_select.cpp" alt="" coords="2580,117,2748,216"/>
+<area shape="rect" id="node26" href="$da/d64/addgencompdialog_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/dialogs/addgencompdialog.cpp" alt="" coords="2004,126,2207,207"/>
+<area shape="rect" id="node28" href="$d8/df2/ses__addcomponents_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addcomponents.cpp" alt="" coords="2231,117,2399,216"/>
+<area shape="rect" id="node30" href="$d3/dbd/ses__addnetlabel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addnetlabel.cpp" alt="" coords="2423,117,2591,216"/>
+<area shape="rect" id="node32" href="$df/d6c/ses__drawwire_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_drawwire.cpp" alt="" coords="2615,117,2783,216"/>
+<area shape="rect" id="node34" href="$d5/d03/ses__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_select.cpp" alt="" coords="2807,117,2975,216"/>
 <area shape="rect" id="node5" href="$dc/d62/gridsettingsdialog_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbcommon/dialogs\l/gridsettingsdialog.cpp" alt="" coords="5,265,171,346"/>
 <area shape="rect" id="node7" href="$d3/d25/moc__gridsettingsdialog_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbcommon/moc/moc\l_gridsettingsdialog.cpp" alt="" coords="195,265,373,346"/>
 </map>

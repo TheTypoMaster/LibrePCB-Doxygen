@@ -1,6 +1,6 @@
 <map id="SES_AddNetLabel" name="SES_AddNetLabel">
 <area shape="rect" id="node2" href="$d4/d85/classproject_1_1_s_e_s___base.html" title="The SES_Base (SchematicEditorState Base) class. " alt="" coords="2135,5968,2249,6123"/>
-<area shape="rect" id="node4" href="$dd/dd5/class_graphics_view.html" title="The GraphicsView class. " alt="" coords="1275,5010,1488,5425"/>
+<area shape="rect" id="node4" href="$dd/dd5/class_graphics_view.html" title="The GraphicsView class. " alt="" coords="1275,5001,1488,5433"/>
 <area shape="rect" id="node6" href="$dc/dcc/class_graphics_scene.html" title="The GraphicsScene class. " alt="" coords="1177,3939,1327,4093"/>
 <area shape="rect" id="node168" href="$dd/d2d/classproject_1_1_schematic.html" title="The Schematic class represents one schematic page of a project and is always part of a circuit..." alt="" coords="1031,4681,1231,5754"/>
 <area shape="rect" id="node8" href="$dc/dd0/class_i_f___graphics_view_event_handler.html" title="The IF_GraphicsViewEventHandler class. " alt="" coords="1351,3956,1580,4076"/>
