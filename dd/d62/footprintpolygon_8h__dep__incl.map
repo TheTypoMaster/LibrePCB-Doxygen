@@ -1,13 +1,12 @@
 <map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcblibrary/fpt/footprintpolygon.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcblibrary/fpt/footprintpolygon.h">
-<area shape="rect" id="node3" href="$d9/d7a/footprint_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/fpt/footprint.h" alt="" coords="751,117,937,181"/>
-<area shape="rect" id="node23" href="$d1/d83/footprintpolygon_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/fpt/footprintpolygon.cpp" alt="" coords="961,117,1207,181"/>
+<area shape="rect" id="node3" href="$d9/d7a/footprint_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/fpt/footprint.h" alt="" coords="667,117,853,181"/>
+<area shape="rect" id="node21" href="$d1/d83/footprintpolygon_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/fpt/footprintpolygon.cpp" alt="" coords="877,117,1123,181"/>
 <area shape="rect" id="node5" href="$de/d98/elements_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/elements.h" alt="" coords="41,239,215,303"/>
 <area shape="rect" id="node9" href="$d4/df4/footprint_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/fpt/footprint.cpp" alt="" coords="239,239,439,303"/>
 <area shape="rect" id="node11" href="$d7/d7d/library_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/library.cpp" alt="" coords="463,239,633,303"/>
-<area shape="rect" id="node13" href="$d4/d41/moc__footprint_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/moc/moc\l_footprint.cpp" alt="" coords="657,230,823,311"/>
-<area shape="rect" id="node15" href="$dc/d8a/bgi__footprint_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/graphicsitems/bgi_footprint.cpp" alt="" coords="847,230,1052,311"/>
-<area shape="rect" id="node17" href="$de/d33/bi__footprint_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/items/bi_footprint.cpp" alt="" coords="1076,230,1241,311"/>
-<area shape="rect" id="node19" href="$d7/d56/bi__footprintpad_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/items/bi_footprintpad.cpp" alt="" coords="1265,230,1436,311"/>
-<area shape="rect" id="node21" href="$d4/d20/projectlibrary_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/projectlibrary.cpp" alt="" coords="1460,230,1625,311"/>
+<area shape="rect" id="node13" href="$dc/d8a/bgi__footprint_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/graphicsitems/bgi_footprint.cpp" alt="" coords="657,230,863,311"/>
+<area shape="rect" id="node15" href="$de/d33/bi__footprint_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/items/bi_footprint.cpp" alt="" coords="887,230,1052,311"/>
+<area shape="rect" id="node17" href="$d7/d56/bi__footprintpad_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/items/bi_footprintpad.cpp" alt="" coords="1076,230,1247,311"/>
+<area shape="rect" id="node19" href="$d4/d20/projectlibrary_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/projectlibrary.cpp" alt="" coords="1271,230,1436,311"/>
 <area shape="rect" id="node7" href="$da/d6c/cmdprojectlibraryaddelement_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/cmd/cmdprojectlibraryaddelement.cpp" alt="" coords="5,361,251,442"/>
 </map>

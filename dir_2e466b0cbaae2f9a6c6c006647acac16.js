@@ -13,10 +13,6 @@ var dir_2e466b0cbaae2f9a6c6c006647acac16 =
     [ "smartfile.h", "d3/d9d/smartfile_8h.html", [
       [ "SmartFile", "d1/d7f/class_smart_file.html", "d1/d7f/class_smart_file" ]
     ] ],
-    [ "smartinifile.cpp", "de/d80/smartinifile_8cpp.html", null ],
-    [ "smartinifile.h", "d3/d76/smartinifile_8h.html", [
-      [ "SmartIniFile", "dc/d03/class_smart_ini_file.html", "dc/d03/class_smart_ini_file" ]
-    ] ],
     [ "smarttextfile.cpp", "d2/d05/smarttextfile_8cpp.html", null ],
     [ "smarttextfile.h", "d5/d3f/smarttextfile_8h.html", [
       [ "SmartTextFile", "db/deb/class_smart_text_file.html", "db/deb/class_smart_text_file" ]

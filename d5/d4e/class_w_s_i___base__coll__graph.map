@@ -1,13 +1,13 @@
 <map id="WSI_Base" name="WSI_Base">
-<area shape="rect" id="node8" href="$db/d82/class_w_s_i___app_locale.html" title="The WSI_AppLocale class represents the application&#39;s locale settings (for translation and localizatio..." alt="" coords="191,625,378,988"/>
-<area shape="rect" id="node11" href="$d8/dcb/class_w_s_i___appearance.html" title="The WSI_Appearance class. " alt="" coords="402,669,586,945"/>
-<area shape="rect" id="node14" href="$d5/da3/class_w_s_i___library_norm_order.html" title="The WSI_LibraryNormOrder class contains a list of norms which should be used for all library elements..." alt="" coords="610,565,796,1049"/>
-<area shape="rect" id="node17" href="$de/ded/class_w_s_i___library_locale_order.html" title="The WSI_LibraryLocaleOrder class contains a list of locales which should be used for all (translatabl..." alt="" coords="820,565,1012,1049"/>
-<area shape="rect" id="node20" href="$df/def/class_w_s_i___debug_tools.html" title="The WSI_DebugTools class contains some tools/settings which are useful for debugging. " alt="" coords="1036,695,1188,919"/>
-<area shape="rect" id="node23" href="$d6/d31/class_w_s_i___project_autosave_interval.html" title="The WSI_ProjectAutosaveInterval class represents the project autosave interval setting. " alt="" coords="1212,643,1434,971"/>
-<area shape="rect" id="node28" href="$d3/d01/class_w_s_i___app_default_measurement_units.html" title="The WSI_AppDefaultMeasurementUnits class represents the application&#39;s default measurement units (for ..." alt="" coords="1660,608,1911,1005"/>
+<area shape="rect" id="node7" href="$db/d82/class_w_s_i___app_locale.html" title="The WSI_AppLocale class represents the application&#39;s locale settings (for translation and localizatio..." alt="" coords="191,625,378,988"/>
+<area shape="rect" id="node10" href="$d8/dcb/class_w_s_i___appearance.html" title="The WSI_Appearance class. " alt="" coords="402,669,586,945"/>
+<area shape="rect" id="node13" href="$d5/da3/class_w_s_i___library_norm_order.html" title="The WSI_LibraryNormOrder class contains a list of norms which should be used for all library elements..." alt="" coords="610,565,796,1049"/>
+<area shape="rect" id="node16" href="$de/ded/class_w_s_i___library_locale_order.html" title="The WSI_LibraryLocaleOrder class contains a list of locales which should be used for all (translatabl..." alt="" coords="820,565,1012,1049"/>
+<area shape="rect" id="node19" href="$df/def/class_w_s_i___debug_tools.html" title="The WSI_DebugTools class contains some tools/settings which are useful for debugging. " alt="" coords="1036,695,1188,919"/>
+<area shape="rect" id="node22" href="$d6/d31/class_w_s_i___project_autosave_interval.html" title="The WSI_ProjectAutosaveInterval class represents the project autosave interval setting. " alt="" coords="1212,643,1434,971"/>
+<area shape="rect" id="node27" href="$d3/d01/class_w_s_i___app_default_measurement_units.html" title="The WSI_AppDefaultMeasurementUnits class represents the application&#39;s default measurement units (for ..." alt="" coords="1660,608,1911,1005"/>
 <area shape="rect" id="node2" href="$de/d52/class_workspace_settings.html" title="The WorkspaceSettings class manages all workspace related settings (and more) " alt="" coords="818,1142,1015,1487"/>
 <area shape="rect" id="node4" href="$d1/d5c/class_workspace_settings_dialog.html" title="The WorkspaceSettingsDialog class. " alt="" coords="816,1555,1016,1762"/>
-<area shape="rect" id="node26" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="1458,539,1636,1075"/>
-<area shape="rect" id="node31" href="$dd/d55/class_length_unit.html" title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth..." alt="" coords="1716,6,1855,455"/>
+<area shape="rect" id="node25" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="1458,539,1636,1075"/>
+<area shape="rect" id="node30" href="$dd/d55/class_length_unit.html" title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth..." alt="" coords="1716,6,1855,455"/>
 </map>

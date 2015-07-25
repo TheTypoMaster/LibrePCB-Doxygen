@@ -12,7 +12,6 @@ var searchData=
   ['bi_5ffootprint',['BI_Footprint',['../da/d96/classproject_1_1_b_i___footprint.html',1,'project']]],
   ['bi_5ffootprintpad',['BI_FootprintPad',['../d4/ddd/classproject_1_1_b_i___footprint_pad.html',1,'project']]],
   ['board',['Board',['../d5/d07/classproject_1_1_board.html',1,'project']]],
-  ['boardeditor',['BoardEditor',['../d9/d31/class_ui_1_1_board_editor.html',1,'Ui']]],
   ['boardeditor',['BoardEditor',['../d4/dfb/classproject_1_1_board_editor.html',1,'project']]],
   ['boardlayer',['BoardLayer',['../df/d85/class_board_layer.html',1,'']]],
   ['boardlayerprovider',['BoardLayerProvider',['../d1/d2c/classproject_1_1_board_layer_provider.html',1,'project']]]

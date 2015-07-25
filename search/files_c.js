@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['qrc_5fimages_2ecpp',['qrc_images.cpp',['../d0/d82/qrc__images_8cpp.html',1,'']]],
-  ['qrc_5ftranslations_2ecpp',['qrc_translations.cpp',['../d4/dbc/qrc__translations_8cpp.html',1,'']]]
+  ['recentprojectsmodel_2ecpp',['recentprojectsmodel.cpp',['../d8/da7/recentprojectsmodel_8cpp.html',1,'']]],
+  ['recentprojectsmodel_2eh',['recentprojectsmodel.h',['../df/d24/recentprojectsmodel_8h.html',1,'']]]
 ];

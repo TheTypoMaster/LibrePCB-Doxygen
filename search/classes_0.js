@@ -1,7 +1,6 @@
 var searchData=
 [
   ['addgencompdialog',['AddGenCompDialog',['../d1/d92/classproject_1_1_add_gen_comp_dialog.html',1,'project']]],
-  ['addgencompdialog',['AddGenCompDialog',['../dd/d63/class_ui_1_1_add_gen_comp_dialog.html',1,'Ui']]],
   ['alignment',['Alignment',['../df/de9/class_alignment.html',1,'']]],
   ['angle',['Angle',['../d2/d39/class_angle.html',1,'']]],
   ['application',['Application',['../de/d6b/class_application.html',1,'']]],

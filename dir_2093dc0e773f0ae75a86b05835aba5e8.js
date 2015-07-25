@@ -4,8 +4,6 @@ var dir_2093dc0e773f0ae75a86b05835aba5e8 =
     [ "dialogs", "dir_b6ed50a501e0effb2b7153e32f58674c.html", "dir_b6ed50a501e0effb2b7153e32f58674c" ],
     [ "fileio", "dir_2e466b0cbaae2f9a6c6c006647acac16.html", "dir_2e466b0cbaae2f9a6c6c006647acac16" ],
     [ "graphics", "dir_f62226a606bee24c71a7209d4b9ae3a9.html", "dir_f62226a606bee24c71a7209d4b9ae3a9" ],
-    [ "moc", "dir_32460da31d0240e69d342998fabfaf0a.html", "dir_32460da31d0240e69d342998fabfaf0a" ],
-    [ "ui", "dir_c954f236f1384cfcd9fe136c88f8b857.html", "dir_c954f236f1384cfcd9fe136c88f8b857" ],
     [ "units", "dir_990ee1f7b6a29ad9e5fce64912b6b2a2.html", "dir_990ee1f7b6a29ad9e5fce64912b6b2a2" ],
     [ "alignment.cpp", "db/d05/alignment_8cpp.html", null ],
     [ "alignment.h", "db/dad/alignment_8h.html", [

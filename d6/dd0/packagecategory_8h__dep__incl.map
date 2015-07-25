@@ -1,8 +1,7 @@
 <map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcblibrary/cat/packagecategory.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcblibrary/cat/packagecategory.h">
-<area shape="rect" id="node3" href="$d3/dca/categorytreeitem_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/cat/categorytreeitem.cpp" alt="" coords="5,127,259,191"/>
-<area shape="rect" id="node5" href="$de/d30/packagecategory_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/cat/packagecategory.cpp" alt="" coords="283,127,539,191"/>
-<area shape="rect" id="node7" href="$de/d98/elements_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/elements.h" alt="" coords="563,127,736,191"/>
-<area shape="rect" id="node11" href="$d7/d7d/library_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/library.cpp" alt="" coords="760,127,931,191"/>
-<area shape="rect" id="node13" href="$d3/dd7/moc__packagecategory_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/moc/moc\l_packagecategory.cpp" alt="" coords="955,118,1120,199"/>
-<area shape="rect" id="node9" href="$da/d6c/cmdprojectlibraryaddelement_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/cmd/cmdprojectlibraryaddelement.cpp" alt="" coords="527,249,772,330"/>
+<area shape="rect" id="node3" href="$d3/dca/categorytreeitem_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/cat/categorytreeitem.cpp" alt="" coords="5,117,259,181"/>
+<area shape="rect" id="node5" href="$de/d30/packagecategory_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/cat/packagecategory.cpp" alt="" coords="283,117,539,181"/>
+<area shape="rect" id="node7" href="$de/d98/elements_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/elements.h" alt="" coords="563,117,736,181"/>
+<area shape="rect" id="node11" href="$d7/d7d/library_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/library.cpp" alt="" coords="760,117,931,181"/>
+<area shape="rect" id="node9" href="$da/d6c/cmdprojectlibraryaddelement_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/cmd/cmdprojectlibraryaddelement.cpp" alt="" coords="527,230,772,311"/>
 </map>

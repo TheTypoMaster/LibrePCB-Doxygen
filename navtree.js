@@ -59,9 +59,8 @@ var NAVTREE =
     [ "Files", null, [
       [ "File List", "files.html", "files" ],
       [ "File Members", "globals.html", [
-        [ "All", "globals.html", "globals_dup" ],
+        [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
-        [ "Variables", "globals_vars.html", null ],
         [ "Typedefs", "globals_type.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
@@ -72,29 +71,24 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d0/d7d/classproject_1_1_component_instance.html#a8747acbd54e52d4fcb3bb74f1bb2a88a",
-"d1/d2c/classproject_1_1_board_layer_provider.html#abab0f61d4fe58e1846638954ffe4f26c",
-"d1/daa/classproject_1_1_cmd_schematic_net_label_remove.html#a91ca7652063093da57fc1bd0141dcc95",
-"d2/d28/classlibrary_1_1_footprint_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250",
-"d3/d01/class_w_s_i___app_default_measurement_units.html#a51d0c9b7bcbadb78ebba8fb6f450352f",
-"d3/d93/classproject_1_1_net_signal.html#a37fa4482dbe9d4bf285b6d549e26b9a5",
-"d4/d85/classproject_1_1_s_e_s___base.html#ac4c59fcb885053536f332b0481ff00d5a7bcc0e4e300f8c3f1e72a31eea8b76f8",
-"d5/d0f/moc__ercmsglist_8cpp.html",
-"d5/dd9/class_ui___control_panel.html#a1f81b7e95162efcbe551b64ca41869c8",
-"d7/d04/classproject_1_1_project_settings.html#a14d1c0bbd9c2de1b7ea3e95072c50b15",
-"d7/dff/classlibrary_1_1_gen_comp_symb_var.html#ab63313eee227de28204d6df30fe2c2c0",
-"d8/dea/classlibrary_1_1_footprint.html#a237920dd97b0ce69e089e4e2b8e5a5c3",
-"d9/d68/classproject_1_1_cmd_net_class_remove.html#a19e8778088bfe76b16745470981bb913",
-"da/d50/class_xml_dom_document.html#a306ed9dc0efbb43cb5ba862546c832ce",
-"db/d0a/moc__projectlibrary_8cpp.html",
-"db/de0/class_ui___board_editor.html#a61cc6baa5b034e84ceca1119b13631ff",
-"dc/d67/classproject_1_1_erc_msg.html#aaab4b19e8fbc430513f27d9d9a4faea7",
-"dd/d2d/classproject_1_1_schematic.html#ac59c252677adb89638b735cf19d3151b",
-"dd/dd5/class_graphics_view.html#ad7452c5931d2f0c7f63a308d1ccccfc7",
-"de/d52/class_workspace_settings.html#a4dddba976f1d068a5ded41cc3e8a813e",
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a27b96384a298f509db75fc10950bc40a",
-"df/dce/classproject_1_1_gen_comp_signal_instance.html#abc7ad274401f31792a99f09e4345ba60",
-"functions_func_~.html"
+"d0/dfd/classlibrary_1_1_symbol_pin.html#aeb305cb4fa9c30aa723aa1cc02c2e690",
+"d1/d7b/classproject_1_1_s_i___net_label.html#aed08011e6158136fd130624f64f14307",
+"d2/d05/classproject_1_1_project.html#a616a97f94b724fb1bca3dcba6ef4b238",
+"d2/dc2/projectsettingsdialog_8h_source.html",
+"d3/d93/classproject_1_1_net_signal.html#a4886b74ca39ff927cf62854b30af0b8b",
+"d4/d90/class_undo_stack.html#ac6d446d586f7bd5b310d1f19c9ce5923",
+"d5/d40/classlibrary_1_1_library_element_attribute.html#a6f1ec818129bce4ead70dfc185fd873b",
+"d6/d91/si__netline_8cpp.html",
+"d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a8747acbd54e52d4fcb3bb74f1bb2a88a",
+"d9/d07/classproject_1_1_cmd_gen_comp_attr_inst_edit.html#a1d05cffcf1b9c5433f819f29f6e659a3",
+"d9/db1/cmdgencompinstedit_8h.html",
+"da/dae/classlibrary_1_1_model3_d.html#a37e0af402264d79b07dc28ff7797dea6",
+"db/ddd/cmdschematicnetlineadd_8h.html",
+"dd/d00/classproject_1_1_s_g_i___symbol.html#a5a5c94b564322784dd2aa1486fa7901a",
+"dd/d69/classproject_1_1_cmd_gen_comp_inst_add.html#a91ca7652063093da57fc1bd0141dcc95",
+"de/d50/classproject_1_1_s_i___symbol.html#ad73a1407a19f935203851d27f9fb3903",
+"df/d64/classproject_1_1_s_e_s___draw_wire.html#aee10aa078f188ece499e7cbebdbc8c86",
+"df/de9/class_alignment.html#ad949cb3bc66df0b45bd2d1ffd8c998af"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

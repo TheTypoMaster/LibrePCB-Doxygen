@@ -1,8 +1,6 @@
 var dir_54de9d902354a0845f7f0690122ba168 =
 [
-    [ "moc", "dir_aac3527c7568d2c421f771c0b9735667.html", "dir_aac3527c7568d2c421f771c0b9735667" ],
     [ "settings", "dir_79a10727e6ab09f49a79aedb4ca5ab6a.html", "dir_79a10727e6ab09f49a79aedb4ca5ab6a" ],
-    [ "ui", "dir_7374477a1848b9c6f18a8ac32553944f.html", "dir_7374477a1848b9c6f18a8ac32553944f" ],
     [ "favoriteprojectsmodel.cpp", "d5/d41/favoriteprojectsmodel_8cpp.html", null ],
     [ "favoriteprojectsmodel.h", "d0/de8/favoriteprojectsmodel_8h.html", [
       [ "FavoriteProjectsModel", "d6/d7e/class_favorite_projects_model.html", "d6/d7e/class_favorite_projects_model" ]

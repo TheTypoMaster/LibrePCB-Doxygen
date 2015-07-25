@@ -11,6 +11,5 @@ var searchData=
   ['graphicsscene',['GraphicsScene',['../dc/dcc/class_graphics_scene.html',1,'']]],
   ['graphicsview',['GraphicsView',['../dd/dd5/class_graphics_view.html',1,'']]],
   ['gridproperties',['GridProperties',['../d8/dbf/class_grid_properties.html',1,'']]],
-  ['gridsettingsdialog',['GridSettingsDialog',['../dc/d4e/class_grid_settings_dialog.html',1,'']]],
-  ['gridsettingsdialog',['GridSettingsDialog',['../dc/d54/class_ui_1_1_grid_settings_dialog.html',1,'Ui']]]
+  ['gridsettingsdialog',['GridSettingsDialog',['../dc/d4e/class_grid_settings_dialog.html',1,'']]]
 ];

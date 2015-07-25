@@ -1,17 +1,10 @@
 <map id="getInterval" name="getInterval">
-<area shape="rect" id="node3" href="$dc/d4e/class_grid_settings_dialog.html#accb85452fe6ac5e053dcaae228cd9866" title="GridSettingsDialog\l::GridSettingsDialog" alt="" coords="724,125,863,171"/>
-<area shape="rect" id="node5" href="$dc/d4e/class_grid_settings_dialog.html#a8c6b24c281de39bab23a247e236f39c0" title="GridSettingsDialog\l::cbxUnitsChanged" alt="" coords="455,194,588,241"/>
-<area shape="rect" id="node8" href="$dc/d4e/class_grid_settings_dialog.html#a4fe43a1e03977a7e1879ba51775b0ce5" title="GridSettingsDialog\l::buttonBoxClicked" alt="" coords="455,5,588,51"/>
-<area shape="rect" id="node11" href="$dc/d4e/class_grid_settings_dialog.html#af3cf0113554071b6e59c4dda5fc62260" title="GridSettingsDialog\l::updateInternalRepresentation" alt="" coords="140,125,340,171"/>
-<area shape="rect" id="node19" href="$dd/dd5/class_graphics_view.html#a862810f7e46922a88db3c1d8cca8a1eb" title="GraphicsView::drawBackground" alt="" coords="136,315,344,344"/>
-<area shape="rect" id="node21" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="project::UnplacedComponents\lDock::setBoard" alt="" coords="141,367,339,414"/>
-<area shape="rect" id="node25" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#adfcb4e9c07721bf39ddcb34d2e39e61c" title="project::AddGenCompDialog\l::setSelectedSymbVar" alt="" coords="147,437,333,483"/>
-<area shape="rect" id="node14" href="$dc/d4e/class_grid_settings_dialog.html#a1d0a287161effff06f3a2dd172475420" title="GridSettingsDialog\l::spbxIntervalChanged" alt="" coords="445,125,597,171"/>
-<area shape="rect" id="node23" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" title="project::UnplacedComponents\lDock::~UnplacedComponentsDock" alt="" coords="407,367,636,414"/>
-<area shape="rect" id="node27" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a59cdf065c69c12551c2043dfe0891ff1" title="project::AddGenCompDialog\l::on_cbxSymbVar_currentIndexChanged" alt="" coords="393,437,649,483"/>
-<area shape="rect" id="node29" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#abf6af5dc67073d848d5cf561412d4b27" title="project::AddGenCompDialog\l::setSelectedGenComp" alt="" coords="428,506,615,553"/>
-<area shape="rect" id="node31" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a5951d1d20ef2d9675b3b1690d6799fa7" title="project::AddGenCompDialog\l::on_listGenericComponents\l_currentItemChanged" alt="" coords="700,536,887,600"/>
-<area shape="rect" id="node33" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="project::AddGenCompDialog\l::setSelectedCategory" alt="" coords="700,466,887,513"/>
-<area shape="rect" id="node35" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25" title="project::AddGenCompDialog\l::on_treeCategories_currentItem\lChanged" alt="" coords="937,457,1145,521"/>
-<area shape="rect" id="node37" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="project::AddGenCompDialog\l::AddGenCompDialog" alt="" coords="1196,466,1383,513"/>
+<area shape="rect" id="node3" href="$dc/d4e/class_grid_settings_dialog.html#accb85452fe6ac5e053dcaae228cd9866" title="GridSettingsDialog\l::GridSettingsDialog" alt="" coords="669,105,808,151"/>
+<area shape="rect" id="node5" href="$dc/d4e/class_grid_settings_dialog.html#a8c6b24c281de39bab23a247e236f39c0" title="GridSettingsDialog\l::cbxUnitsChanged" alt="" coords="440,35,573,82"/>
+<area shape="rect" id="node8" href="$dc/d4e/class_grid_settings_dialog.html#a4fe43a1e03977a7e1879ba51775b0ce5" title="GridSettingsDialog\l::buttonBoxClicked" alt="" coords="440,225,573,271"/>
+<area shape="rect" id="node11" href="$dc/d4e/class_grid_settings_dialog.html#af3cf0113554071b6e59c4dda5fc62260" title="GridSettingsDialog\l::updateInternalRepresentation" alt="" coords="140,113,340,159"/>
+<area shape="rect" id="node19" href="$dd/dd5/class_graphics_view.html#a862810f7e46922a88db3c1d8cca8a1eb" title="GraphicsView::drawBackground" alt="" coords="136,233,344,263"/>
+<area shape="rect" id="node21" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="project::UnplacedComponents\lDock::setBoard" alt="" coords="141,290,339,337"/>
+<area shape="rect" id="node14" href="$dc/d4e/class_grid_settings_dialog.html#a1d0a287161effff06f3a2dd172475420" title="GridSettingsDialog\l::spbxIntervalChanged" alt="" coords="431,105,583,151"/>
+<area shape="rect" id="node23" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" title="project::UnplacedComponents\lDock::~UnplacedComponentsDock" alt="" coords="392,294,621,341"/>
 </map>

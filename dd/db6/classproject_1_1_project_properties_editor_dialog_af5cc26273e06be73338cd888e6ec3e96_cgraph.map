@@ -1,9 +1,7 @@
 <map id="ProjectPropertiesEditorDialog" name="ProjectPropertiesEditorDialog">
-<area shape="rect" id="node3" href="$dc/d45/class_ui___project_properties_editor_dialog.html#af6f751a1295dbbecead77837420ef16a" title="Ui_ProjectPropertiesEditor\lDialog::setupUi" alt="" coords="261,5,437,51"/>
-<area shape="rect" id="node7" href="$d2/d05/classproject_1_1_project.html#ab0c96f485564e41206ce9a4ce42ba389" title="Get the name of the project. " alt="" coords="264,75,435,104"/>
-<area shape="rect" id="node9" href="$d2/d05/classproject_1_1_project.html#a27a95c17ab708b94f585f7565d4ff7d0" title="Get the description (in HTML) of the project. " alt="" coords="248,128,451,157"/>
-<area shape="rect" id="node13" href="$d2/d05/classproject_1_1_project.html#ad545ee643bb9bd8cd018f72eb66d625b" title="Get the author of the project. " alt="" coords="263,181,436,211"/>
-<area shape="rect" id="node15" href="$d2/d05/classproject_1_1_project.html#aa07500c5fe30da1bdd09acdb07899c29" title="Get the date and time when the project was created. " alt="" coords="259,235,440,264"/>
-<area shape="rect" id="node5" href="$dc/d45/class_ui___project_properties_editor_dialog.html#a8ff4078847bc0ce0f4b231aa4f85735b" title="Ui_ProjectPropertiesEditor\lDialog::retranslateUi" alt="" coords="499,5,675,51"/>
-<area shape="rect" id="node11" href="$db/deb/class_smart_text_file.html#a52bd435ffe3ce6827dd7810245aa8ba8" title="Get the content of the file. " alt="" coords="499,128,675,157"/>
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#ab0c96f485564e41206ce9a4ce42ba389" title="Get the name of the project. " alt="" coords="264,5,435,35"/>
+<area shape="rect" id="node5" href="$d2/d05/classproject_1_1_project.html#a27a95c17ab708b94f585f7565d4ff7d0" title="Get the description (in HTML) of the project. " alt="" coords="248,59,451,88"/>
+<area shape="rect" id="node9" href="$d2/d05/classproject_1_1_project.html#ad545ee643bb9bd8cd018f72eb66d625b" title="Get the author of the project. " alt="" coords="263,112,436,141"/>
+<area shape="rect" id="node11" href="$d2/d05/classproject_1_1_project.html#aa07500c5fe30da1bdd09acdb07899c29" title="Get the date and time when the project was created. " alt="" coords="259,165,440,195"/>
+<area shape="rect" id="node7" href="$db/deb/class_smart_text_file.html#a52bd435ffe3ce6827dd7810245aa8ba8" title="Get the content of the file. " alt="" coords="499,59,675,88"/>
 </map>

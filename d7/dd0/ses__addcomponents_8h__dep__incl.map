@@ -1,5 +1,4 @@
 <map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/schematiceditor/fsm/ses_addcomponents.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/schematiceditor/fsm/ses_addcomponents.h">
-<area shape="rect" id="node3" href="$d8/dcc/moc__ses__addcomponents_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/moc/moc_ses_addcomponents.cpp" alt="" coords="5,161,237,242"/>
-<area shape="rect" id="node5" href="$d8/df2/ses__addcomponents_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addcomponents.cpp" alt="" coords="261,152,429,251"/>
-<area shape="rect" id="node7" href="$d1/daa/ses__fsm_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_fsm.cpp" alt="" coords="453,152,621,251"/>
+<area shape="rect" id="node3" href="$d8/df2/ses__addcomponents_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addcomponents.cpp" alt="" coords="5,152,173,251"/>
+<area shape="rect" id="node5" href="$d1/daa/ses__fsm_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_fsm.cpp" alt="" coords="197,152,365,251"/>
 </map>

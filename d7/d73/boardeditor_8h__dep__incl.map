@@ -1,15 +1,11 @@
 <map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/boardeditor/boardeditor.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/boardeditor/boardeditor.h">
 <area shape="rect" id="node3" href="$de/de5/boardeditor_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/boardeditor.cpp" alt="" coords="5,398,187,479"/>
-<area shape="rect" id="node5" href="$d1/deb/bes__base_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_base.h" alt="" coords="633,137,820,218"/>
-<area shape="rect" id="node10" href="$da/d7b/bes__fsm_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_fsm.cpp" alt="" coords="400,398,595,479"/>
-<area shape="rect" id="node14" href="$d1/dbd/bes__base_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_base.cpp" alt="" coords="848,267,1048,349"/>
-<area shape="rect" id="node19" href="$d7/d20/bes__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_select.cpp" alt="" coords="909,398,1117,479"/>
-<area shape="rect" id="node28" href="$d4/d7f/boardeditorevent_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/boardeditorevent.cpp" alt="" coords="1100,137,1340,218"/>
-<area shape="rect" id="node30" href="$d1/d11/moc__boardeditor_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/moc/moc_boardeditor.cpp" alt="" coords="1364,137,1540,218"/>
-<area shape="rect" id="node32" href="$da/d1e/projecteditor_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/projecteditor.cpp" alt="" coords="1564,137,1729,218"/>
-<area shape="rect" id="node7" href="$d8/d1d/bes__fsm_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_fsm.h" alt="" coords="181,267,363,349"/>
-<area shape="rect" id="node16" href="$d1/d62/bes__select_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_select.h" alt="" coords="629,267,824,349"/>
-<area shape="rect" id="node23" href="$d7/df8/moc__bes__base_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/moc/moc_bes_base.cpp" alt="" coords="437,267,605,349"/>
-<area shape="rect" id="node12" href="$dd/d54/moc__bes__fsm_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/moc/moc_bes_fsm.cpp" alt="" coords="211,398,376,479"/>
-<area shape="rect" id="node21" href="$dd/df1/moc__bes__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/moc/moc_bes_select.cpp" alt="" coords="640,398,813,479"/>
+<area shape="rect" id="node5" href="$d1/deb/bes__base_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_base.h" alt="" coords="439,137,625,218"/>
+<area shape="rect" id="node10" href="$da/d7b/bes__fsm_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_fsm.cpp" alt="" coords="211,398,405,479"/>
+<area shape="rect" id="node12" href="$d1/dbd/bes__base_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_base.cpp" alt="" coords="608,267,808,349"/>
+<area shape="rect" id="node17" href="$d7/d20/bes__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_select.cpp" alt="" coords="585,398,793,479"/>
+<area shape="rect" id="node22" href="$d4/d7f/boardeditorevent_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/boardeditorevent.cpp" alt="" coords="883,137,1123,218"/>
+<area shape="rect" id="node24" href="$da/d1e/projecteditor_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/projecteditor.cpp" alt="" coords="1147,137,1312,218"/>
+<area shape="rect" id="node7" href="$d8/d1d/bes__fsm_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_fsm.h" alt="" coords="184,267,365,349"/>
+<area shape="rect" id="node14" href="$d1/d62/bes__select_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_select.h" alt="" coords="389,267,584,349"/>
 </map>

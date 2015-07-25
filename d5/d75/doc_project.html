@@ -131,7 +131,7 @@ The undo/redo system (Command Design Pattern)</h1>
 <a href="http://qt-project.org/doc/qt-5/qundo.html">http://qt-project.org/doc/qt-5/qundo.html</a> (Overview of Qt's Undo Framework)</dd></dl>
 <h1><a class="anchor" id="doc_project_compatibility"></a>
 Compatibility between different application versions</h1>
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000028">Todo:</a></b></dt><dd></dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000027">Todo:</a></b></dt><dd></dd></dl>
 <p>We need a system to ensure that a project with all its files can be loaded and saved with different application versions without corrupting the project.</p>
 <p>For this purpose, the *.lpp XML file of each project has two attributes in the root XML element: "project_version" and "compatible_downto". Both are unsigned integer values, with a minimum value of "1". Zero is invalid.</p>
 <p>"project_version" describes the version of all project files. For example, the version "1" is a very old version. <a class="el" href="../../de/d34/class_version.html" title="The Version class represents a version number in the format &quot;1.42.7&quot;. ">Version</a> "2" supports some more features. <a class="el" href="../../de/d34/class_version.html" title="The Version class represents a version number in the format &quot;1.42.7&quot;. ">Version</a> "3" has a new file format, which is not compatible to the older versions. If a project is saved, the value from Project::sProjectFileVersion is written to the "project_version" attribute of the project file.</p>
@@ -156,7 +156,7 @@ Saving Procedere / Automatic Periodically Saving</h1>
 </div><!-- fragment --><p>This method will be called to save all the changes of the corresponding object <b>and all its child objects</b>. So, the class <a class="el" href="../../d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. ">project::Project</a> provides such a method to save <b>the whole project with all its content</b> (circuit, schematics and so on). If the parameter "toOriginal" is false, all changes will be saved to the temporary files. Otherwise they are saved to the original files. Error messages must be appended the QStringList "errors" (after translation). All entries in the list will be printet out in a message box. The return value is true if the saving proccess was successful, and false if there was an error. These methods should never throw an exception (keyword "noexcept")!</p>
 <p>If an error occurs while saving the project, you should not abort the saving proccess. "Save all what you can" is the name of the game :-) Simply add the error message to the error list and return "false" after the job is finished.</p>
 <p>The class <a class="el" href="../../d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. ">project::Project</a> also provides the public slot <a class="el" href="../../d2/d05/classproject_1_1_project.html#ace118ad4801f373b6e0691051f917247" title="Save the whole project to the harddisc. ">project::Project::save()</a>. This is the only method you are allowed to call from outside the Project class to save the whole project! This method will try to save the whole project to the temporary files (this-&gt;save(false)). <b>Only if this call has returned "true" (project successful saved to temporary files), it will also save the project to the original files (this-&gt;save(true))!</b></p>
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000029">Todo:</a></b></dt><dd>add the ability to show the saving progress in a progress bar</dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000028">Todo:</a></b></dt><dd>add the ability to show the saving progress in a progress bar</dd></dl>
 <p>Each project also contains a QTimer for automatic backups. This timer will call Project::save(false) periodically. So, the project will be saved only to the temporary files, NOT to the original files (because the user did NOT click on the "Save" button). </p>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
@@ -164,7 +164,7 @@ Saving Procedere / Automatic Periodically Saving</h1>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../index.html">LibrePCB Developers Documentation</a></li>
-    <li class="footer">Generated on Sat Jul 25 2015 17:55:26 for LibrePCB Developers Documentation by
+    <li class="footer">Generated on Sat Jul 25 2015 21:09:01 for LibrePCB Developers Documentation by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

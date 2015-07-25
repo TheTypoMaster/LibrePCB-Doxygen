@@ -233,145 +233,16 @@ var hierarchy =
         [ "WSI_ProjectAutosaveInterval", "d6/d31/class_w_s_i___project_autosave_interval.html", null ]
       ] ]
     ] ],
-    [ "qt_meta_stringdata_Application_t", "d2/d81/structqt__meta__stringdata___application__t.html", null ],
-    [ "qt_meta_stringdata_BoardLayer_t", "d1/d9b/structqt__meta__stringdata___board_layer__t.html", null ],
-    [ "qt_meta_stringdata_ControlPanel_t", "d7/dfa/structqt__meta__stringdata___control_panel__t.html", null ],
-    [ "qt_meta_stringdata_FavoriteProjectsModel_t", "d1/dae/structqt__meta__stringdata___favorite_projects_model__t.html", null ],
-    [ "qt_meta_stringdata_GraphicsScene_t", "d5/d7e/structqt__meta__stringdata___graphics_scene__t.html", null ],
-    [ "qt_meta_stringdata_GraphicsView_t", "dd/da3/structqt__meta__stringdata___graphics_view__t.html", null ],
-    [ "qt_meta_stringdata_GridSettingsDialog_t", "de/d2a/structqt__meta__stringdata___grid_settings_dialog__t.html", null ],
-    [ "qt_meta_stringdata_library__CategoryTreeModel_t", "d9/dde/structqt__meta__stringdata__library_____category_tree_model__t.html", null ],
-    [ "qt_meta_stringdata_library__Component_t", "db/d36/structqt__meta__stringdata__library_____component__t.html", null ],
-    [ "qt_meta_stringdata_library__ComponentCategory_t", "d9/dd0/structqt__meta__stringdata__library_____component_category__t.html", null ],
-    [ "qt_meta_stringdata_library__Footprint_t", "d6/da3/structqt__meta__stringdata__library_____footprint__t.html", null ],
-    [ "qt_meta_stringdata_library__GenericComponent_t", "d1/d76/structqt__meta__stringdata__library_____generic_component__t.html", null ],
-    [ "qt_meta_stringdata_library__Library_t", "d0/dab/structqt__meta__stringdata__library_____library__t.html", null ],
-    [ "qt_meta_stringdata_library__LibraryBaseElement_t", "d9/dfd/structqt__meta__stringdata__library_____library_base_element__t.html", null ],
-    [ "qt_meta_stringdata_library__LibraryCategory_t", "d7/d74/structqt__meta__stringdata__library_____library_category__t.html", null ],
-    [ "qt_meta_stringdata_library__LibraryElement_t", "d7/d21/structqt__meta__stringdata__library_____library_element__t.html", null ],
-    [ "qt_meta_stringdata_library__Model3D_t", "d3/d86/structqt__meta__stringdata__library_____model3_d__t.html", null ],
-    [ "qt_meta_stringdata_library__Package_t", "dc/d55/structqt__meta__stringdata__library_____package__t.html", null ],
-    [ "qt_meta_stringdata_library__PackageCategory_t", "dd/d87/structqt__meta__stringdata__library_____package_category__t.html", null ],
-    [ "qt_meta_stringdata_library__SpiceModel_t", "d6/d0f/structqt__meta__stringdata__library_____spice_model__t.html", null ],
-    [ "qt_meta_stringdata_library__Symbol_t", "df/daa/structqt__meta__stringdata__library_____symbol__t.html", null ],
-    [ "qt_meta_stringdata_library_editor__LibraryEditor_t", "db/d5e/structqt__meta__stringdata__library__editor_____library_editor__t.html", null ],
-    [ "qt_meta_stringdata_project__AddGenCompDialog_t", "db/d3f/structqt__meta__stringdata__project_____add_gen_comp_dialog__t.html", null ],
-    [ "qt_meta_stringdata_project__BES_Base_t", "d3/d17/structqt__meta__stringdata__project_____b_e_s___base__t.html", null ],
-    [ "qt_meta_stringdata_project__BES_FSM_t", "db/ddb/structqt__meta__stringdata__project_____b_e_s___f_s_m__t.html", null ],
-    [ "qt_meta_stringdata_project__BES_Select_t", "dc/dfc/structqt__meta__stringdata__project_____b_e_s___select__t.html", null ],
-    [ "qt_meta_stringdata_project__BI_Base_t", "d9/d9c/structqt__meta__stringdata__project_____b_i___base__t.html", null ],
-    [ "qt_meta_stringdata_project__BI_Footprint_t", "dd/d52/structqt__meta__stringdata__project_____b_i___footprint__t.html", null ],
-    [ "qt_meta_stringdata_project__BI_FootprintPad_t", "d8/de5/structqt__meta__stringdata__project_____b_i___footprint_pad__t.html", null ],
-    [ "qt_meta_stringdata_project__Board_t", "da/d29/structqt__meta__stringdata__project_____board__t.html", null ],
-    [ "qt_meta_stringdata_project__BoardEditor_t", "d9/d5b/structqt__meta__stringdata__project_____board_editor__t.html", null ],
-    [ "qt_meta_stringdata_project__Circuit_t", "d9/d28/structqt__meta__stringdata__project_____circuit__t.html", null ],
-    [ "qt_meta_stringdata_project__ComponentInstance_t", "d7/d80/structqt__meta__stringdata__project_____component_instance__t.html", null ],
-    [ "qt_meta_stringdata_project__EditNetClassesDialog_t", "da/d91/structqt__meta__stringdata__project_____edit_net_classes_dialog__t.html", null ],
-    [ "qt_meta_stringdata_project__ErcMsgDock_t", "d0/d85/structqt__meta__stringdata__project_____erc_msg_dock__t.html", null ],
-    [ "qt_meta_stringdata_project__ErcMsgList_t", "d5/dc2/structqt__meta__stringdata__project_____erc_msg_list__t.html", null ],
-    [ "qt_meta_stringdata_project__GenCompInstance_t", "d6/d14/structqt__meta__stringdata__project_____gen_comp_instance__t.html", null ],
-    [ "qt_meta_stringdata_project__GenCompSignalInstance_t", "d3/d09/structqt__meta__stringdata__project_____gen_comp_signal_instance__t.html", null ],
-    [ "qt_meta_stringdata_project__Project_t", "d3/d01/structqt__meta__stringdata__project_____project__t.html", null ],
-    [ "qt_meta_stringdata_project__ProjectEditor_t", "dd/dd6/structqt__meta__stringdata__project_____project_editor__t.html", null ],
-    [ "qt_meta_stringdata_project__ProjectLibrary_t", "d1/d8b/structqt__meta__stringdata__project_____project_library__t.html", null ],
-    [ "qt_meta_stringdata_project__ProjectPropertiesEditorDialog_t", "d4/d9f/structqt__meta__stringdata__project_____project_properties_editor_dialog__t.html", null ],
-    [ "qt_meta_stringdata_project__ProjectSettings_t", "dd/dbb/structqt__meta__stringdata__project_____project_settings__t.html", null ],
-    [ "qt_meta_stringdata_project__ProjectSettingsDialog_t", "d8/d8c/structqt__meta__stringdata__project_____project_settings_dialog__t.html", null ],
-    [ "qt_meta_stringdata_project__Schematic_t", "dc/d58/structqt__meta__stringdata__project_____schematic__t.html", null ],
-    [ "qt_meta_stringdata_project__SchematicClipboard_t", "df/d8b/structqt__meta__stringdata__project_____schematic_clipboard__t.html", null ],
-    [ "qt_meta_stringdata_project__SchematicEditor_t", "d2/d07/structqt__meta__stringdata__project_____schematic_editor__t.html", null ],
-    [ "qt_meta_stringdata_project__SchematicPagesDock_t", "da/d57/structqt__meta__stringdata__project_____schematic_pages_dock__t.html", null ],
-    [ "qt_meta_stringdata_project__SES_AddComponents_t", "d3/dc9/structqt__meta__stringdata__project_____s_e_s___add_components__t.html", null ],
-    [ "qt_meta_stringdata_project__SES_AddNetLabel_t", "d9/d8d/structqt__meta__stringdata__project_____s_e_s___add_net_label__t.html", null ],
-    [ "qt_meta_stringdata_project__SES_Base_t", "d5/dfe/structqt__meta__stringdata__project_____s_e_s___base__t.html", null ],
-    [ "qt_meta_stringdata_project__SES_DrawCircle_t", "d8/dd1/structqt__meta__stringdata__project_____s_e_s___draw_circle__t.html", null ],
-    [ "qt_meta_stringdata_project__SES_DrawEllipse_t", "d6/db4/structqt__meta__stringdata__project_____s_e_s___draw_ellipse__t.html", null ],
-    [ "qt_meta_stringdata_project__SES_DrawPolygon_t", "d2/dab/structqt__meta__stringdata__project_____s_e_s___draw_polygon__t.html", null ],
-    [ "qt_meta_stringdata_project__SES_DrawRect_t", "d5/dbc/structqt__meta__stringdata__project_____s_e_s___draw_rect__t.html", null ],
-    [ "qt_meta_stringdata_project__SES_DrawText_t", "d2/dde/structqt__meta__stringdata__project_____s_e_s___draw_text__t.html", null ],
-    [ "qt_meta_stringdata_project__SES_DrawWire_t", "d8/dcf/structqt__meta__stringdata__project_____s_e_s___draw_wire__t.html", null ],
-    [ "qt_meta_stringdata_project__SES_FSM_t", "d1/d72/structqt__meta__stringdata__project_____s_e_s___f_s_m__t.html", null ],
-    [ "qt_meta_stringdata_project__SES_Move_t", "dc/d9c/structqt__meta__stringdata__project_____s_e_s___move__t.html", null ],
-    [ "qt_meta_stringdata_project__SES_Select_t", "d0/d33/structqt__meta__stringdata__project_____s_e_s___select__t.html", null ],
-    [ "qt_meta_stringdata_project__SI_Base_t", "db/d49/structqt__meta__stringdata__project_____s_i___base__t.html", null ],
-    [ "qt_meta_stringdata_project__SI_NetLabel_t", "dd/da5/structqt__meta__stringdata__project_____s_i___net_label__t.html", null ],
-    [ "qt_meta_stringdata_project__SI_NetLine_t", "da/d9e/structqt__meta__stringdata__project_____s_i___net_line__t.html", null ],
-    [ "qt_meta_stringdata_project__SI_NetPoint_t", "df/d5b/structqt__meta__stringdata__project_____s_i___net_point__t.html", null ],
-    [ "qt_meta_stringdata_project__SI_Symbol_t", "d7/d5b/structqt__meta__stringdata__project_____s_i___symbol__t.html", null ],
-    [ "qt_meta_stringdata_project__SI_SymbolPin_t", "db/d03/structqt__meta__stringdata__project_____s_i___symbol_pin__t.html", null ],
-    [ "qt_meta_stringdata_project__SymbolInstancePropertiesDialog_t", "dd/dea/structqt__meta__stringdata__project_____symbol_instance_properties_dialog__t.html", null ],
-    [ "qt_meta_stringdata_project__UnplacedComponentsDock_t", "d0/d94/structqt__meta__stringdata__project_____unplaced_components_dock__t.html", null ],
-    [ "qt_meta_stringdata_ProjectTreeModel_t", "d2/d56/structqt__meta__stringdata___project_tree_model__t.html", null ],
-    [ "qt_meta_stringdata_RecentProjectsModel_t", "dd/d52/structqt__meta__stringdata___recent_projects_model__t.html", null ],
-    [ "qt_meta_stringdata_SchematicLayer_t", "d9/d4d/structqt__meta__stringdata___schematic_layer__t.html", null ],
-    [ "qt_meta_stringdata_UndoStack_t", "d7/de7/structqt__meta__stringdata___undo_stack__t.html", null ],
-    [ "qt_meta_stringdata_Workspace_t", "df/d5d/structqt__meta__stringdata___workspace__t.html", null ],
-    [ "qt_meta_stringdata_WorkspaceSettings_t", "de/dd1/structqt__meta__stringdata___workspace_settings__t.html", null ],
-    [ "qt_meta_stringdata_WorkspaceSettingsDialog_t", "d5/dbd/structqt__meta__stringdata___workspace_settings_dialog__t.html", null ],
-    [ "qt_meta_stringdata_WSI_AppDefaultMeasurementUnits_t", "db/d4d/structqt__meta__stringdata___w_s_i___app_default_measurement_units__t.html", null ],
-    [ "qt_meta_stringdata_WSI_Appearance_t", "db/d1c/structqt__meta__stringdata___w_s_i___appearance__t.html", null ],
-    [ "qt_meta_stringdata_WSI_AppLocale_t", "d9/d3d/structqt__meta__stringdata___w_s_i___app_locale__t.html", null ],
-    [ "qt_meta_stringdata_WSI_Base_t", "d5/d8c/structqt__meta__stringdata___w_s_i___base__t.html", null ],
-    [ "qt_meta_stringdata_WSI_DebugTools_t", "db/df2/structqt__meta__stringdata___w_s_i___debug_tools__t.html", null ],
-    [ "qt_meta_stringdata_WSI_LibraryLocaleOrder_t", "d5/d51/structqt__meta__stringdata___w_s_i___library_locale_order__t.html", null ],
-    [ "qt_meta_stringdata_WSI_LibraryNormOrder_t", "de/dac/structqt__meta__stringdata___w_s_i___library_norm_order__t.html", null ],
-    [ "qt_meta_stringdata_WSI_ProjectAutosaveInterval_t", "d5/d4c/structqt__meta__stringdata___w_s_i___project_autosave_interval__t.html", null ],
     [ "SEE_Base", "d1/d51/classproject_1_1_s_e_e___base.html", [
       [ "SEE_RedirectedQEvent", "d5/db7/classproject_1_1_s_e_e___redirected_q_event.html", null ],
       [ "SEE_StartAddComponent", "dd/d40/classproject_1_1_s_e_e___start_add_component.html", null ],
       [ "SEE_SwitchToSchematicPage", "d7/d58/classproject_1_1_s_e_e___switch_to_schematic_page.html", null ]
     ] ],
     [ "SmartFile", "d1/d7f/class_smart_file.html", [
-      [ "SmartIniFile", "dc/d03/class_smart_ini_file.html", null ],
       [ "SmartTextFile", "db/deb/class_smart_text_file.html", null ],
       [ "SmartXmlFile", "da/db0/class_smart_xml_file.html", null ]
     ] ],
     [ "SystemInfo", "d7/deb/class_system_info.html", null ],
-    [ "Ui_AddGenCompDialog", "d8/d4e/class_ui___add_gen_comp_dialog.html", [
-      [ "AddGenCompDialog", "dd/d63/class_ui_1_1_add_gen_comp_dialog.html", null ]
-    ] ],
-    [ "Ui_BoardEditor", "db/de0/class_ui___board_editor.html", [
-      [ "BoardEditor", "d9/d31/class_ui_1_1_board_editor.html", null ]
-    ] ],
-    [ "Ui_ControlPanel", "d5/dd9/class_ui___control_panel.html", [
-      [ "ControlPanel", "dd/d55/class_ui_1_1_control_panel.html", null ]
-    ] ],
-    [ "Ui_EditNetClassesDialog", "d5/d92/class_ui___edit_net_classes_dialog.html", [
-      [ "EditNetClassesDialog", "d7/dfb/class_ui_1_1_edit_net_classes_dialog.html", null ]
-    ] ],
-    [ "Ui_ErcMsgDock", "d3/dee/class_ui___erc_msg_dock.html", [
-      [ "ErcMsgDock", "d4/db3/class_ui_1_1_erc_msg_dock.html", null ]
-    ] ],
-    [ "Ui_GridSettingsDialog", "da/d8f/class_ui___grid_settings_dialog.html", [
-      [ "GridSettingsDialog", "dc/d54/class_ui_1_1_grid_settings_dialog.html", null ]
-    ] ],
-    [ "Ui_LibraryEditor", "d7/d11/class_ui___library_editor.html", [
-      [ "LibraryEditor", "d8/d12/class_ui_1_1_library_editor.html", null ]
-    ] ],
-    [ "Ui_ProjectPropertiesEditorDialog", "dc/d45/class_ui___project_properties_editor_dialog.html", [
-      [ "ProjectPropertiesEditorDialog", "d8/d09/class_ui_1_1_project_properties_editor_dialog.html", null ]
-    ] ],
-    [ "Ui_ProjectSettingsDialog", "d0/d08/class_ui___project_settings_dialog.html", [
-      [ "ProjectSettingsDialog", "d4/dc5/class_ui_1_1_project_settings_dialog.html", null ]
-    ] ],
-    [ "Ui_SchematicEditor", "d0/d0d/class_ui___schematic_editor.html", [
-      [ "SchematicEditor", "df/df4/class_ui_1_1_schematic_editor.html", null ]
-    ] ],
-    [ "Ui_SchematicPagesDock", "d6/dd3/class_ui___schematic_pages_dock.html", [
-      [ "SchematicPagesDock", "df/df8/class_ui_1_1_schematic_pages_dock.html", null ]
-    ] ],
-    [ "Ui_SymbolInstancePropertiesDialog", "de/d34/class_ui___symbol_instance_properties_dialog.html", [
-      [ "SymbolInstancePropertiesDialog", "de/df4/class_ui_1_1_symbol_instance_properties_dialog.html", null ]
-    ] ],
-    [ "Ui_UnplacedComponentsDock", "dc/d06/class_ui___unplaced_components_dock.html", [
-      [ "UnplacedComponentsDock", "d7/dcf/class_ui_1_1_unplaced_components_dock.html", null ]
-    ] ],
-    [ "Ui_WorkspaceChooserDialog", "db/d3a/class_ui___workspace_chooser_dialog.html", [
-      [ "WorkspaceChooserDialog", "d7/d9b/class_ui_1_1_workspace_chooser_dialog.html", null ]
-    ] ],
-    [ "Ui_WorkspaceSettingsDialog", "d2/d84/class_ui___workspace_settings_dialog.html", [
-      [ "WorkspaceSettingsDialog", "d6/d6c/class_ui_1_1_workspace_settings_dialog.html", null ]
-    ] ],
     [ "UndoCommand", "d3/d26/class_undo_command.html", [
       [ "CmdBoardAdd", "d0/d91/classproject_1_1_cmd_board_add.html", null ],
       [ "CmdComponentInstanceAdd", "d6/d6a/classproject_1_1_cmd_component_instance_add.html", null ],

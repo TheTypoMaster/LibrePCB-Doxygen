@@ -1,23 +1,5 @@
 var searchData=
 [
-  ['ui_5faddgencompdialog',['Ui_AddGenCompDialog',['../d8/d4e/class_ui___add_gen_comp_dialog.html',1,'']]],
-  ['ui_5fboardeditor',['Ui_BoardEditor',['../db/de0/class_ui___board_editor.html',1,'']]],
-  ['ui_5fcontrolpanel',['Ui_ControlPanel',['../d5/dd9/class_ui___control_panel.html',1,'']]],
-  ['ui_5feditnetclassesdialog',['Ui_EditNetClassesDialog',['../d5/d92/class_ui___edit_net_classes_dialog.html',1,'']]],
-  ['ui_5fercmsgdock',['Ui_ErcMsgDock',['../d3/dee/class_ui___erc_msg_dock.html',1,'']]],
-  ['ui_5fgridsettingsdialog',['Ui_GridSettingsDialog',['../da/d8f/class_ui___grid_settings_dialog.html',1,'']]],
-  ['ui_5flibraryeditor',['Ui_LibraryEditor',['../d7/d11/class_ui___library_editor.html',1,'']]],
-  ['ui_5fprojectpropertieseditordialog',['Ui_ProjectPropertiesEditorDialog',['../dc/d45/class_ui___project_properties_editor_dialog.html',1,'']]],
-  ['ui_5fprojectsettingsdialog',['Ui_ProjectSettingsDialog',['../d0/d08/class_ui___project_settings_dialog.html',1,'']]],
-  ['ui_5fschematiceditor',['Ui_SchematicEditor',['../d0/d0d/class_ui___schematic_editor.html',1,'']]],
-  ['ui_5fschematicpagesdock',['Ui_SchematicPagesDock',['../d6/dd3/class_ui___schematic_pages_dock.html',1,'']]],
-  ['ui_5fsymbolinstancepropertiesdialog',['Ui_SymbolInstancePropertiesDialog',['../de/d34/class_ui___symbol_instance_properties_dialog.html',1,'']]],
-  ['ui_5funplacedcomponentsdock',['Ui_UnplacedComponentsDock',['../dc/d06/class_ui___unplaced_components_dock.html',1,'']]],
-  ['ui_5fworkspacechooserdialog',['Ui_WorkspaceChooserDialog',['../db/d3a/class_ui___workspace_chooser_dialog.html',1,'']]],
-  ['ui_5fworkspacesettingsdialog',['Ui_WorkspaceSettingsDialog',['../d2/d84/class_ui___workspace_settings_dialog.html',1,'']]],
-  ['undocommand',['UndoCommand',['../d3/d26/class_undo_command.html',1,'']]],
-  ['undostack',['UndoStack',['../d4/d90/class_undo_stack.html',1,'']]],
-  ['unplacedcomponentsdock',['UnplacedComponentsDock',['../dc/dbb/classproject_1_1_unplaced_components_dock.html',1,'project']]],
-  ['unplacedcomponentsdock',['UnplacedComponentsDock',['../d7/dcf/class_ui_1_1_unplaced_components_dock.html',1,'Ui']]],
-  ['usercanceled',['UserCanceled',['../db/d5f/class_user_canceled.html',1,'']]]
+  ['valign',['VAlign',['../d9/dbc/class_v_align.html',1,'']]],
+  ['version',['Version',['../de/d34/class_version.html',1,'']]]
 ];

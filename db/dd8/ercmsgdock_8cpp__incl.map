@@ -1,15 +1,14 @@
 <map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/docks/ercmsgdock.cpp" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/docks/ercmsgdock.cpp">
-<area shape="rect" id="node7" href="$d2/d6c/ercmsgdock_8h.html" title="ercmsgdock.h" alt="" coords="451,145,555,175"/>
-<area shape="rect" id="node11" href="$d0/db4/ui__ercmsgdock_8h.html" title="ui_ercmsgdock.h" alt="" coords="2327,145,2447,175"/>
-<area shape="rect" id="node33" href="$dc/d8d/project_8h.html" title="librepcbproject/project.h" alt="" coords="730,145,890,175"/>
-<area shape="rect" id="node58" href="$d3/ddf/circuit_8h.html" title="librepcbproject/circuit\l/circuit.h" alt="" coords="962,137,1106,183"/>
-<area shape="rect" id="node64" href="$df/d2c/ercmsg_8h.html" title="librepcbproject/erc\l/ercmsg.h" alt="" coords="1519,329,1647,375"/>
-<area shape="rect" id="node67" href="$db/d85/ercmsglist_8h.html" title="librepcbproject/erc\l/ercmsglist.h" alt="" coords="1266,137,1394,183"/>
-<area shape="rect" id="node36" href="$d0/d1d/if__xmlserializableobject_8h.html" title="librepcbcommon/fileio\l/if_xmlserializableobject.h" alt="" coords="1122,233,1292,279"/>
-<area shape="rect" id="node38" href="$d4/d03/exceptions_8h.html" title="../exceptions.h" alt="" coords="1182,337,1288,367"/>
-<area shape="rect" id="node41" href="$da/d81/if__attributeprovider_8h.html" title="librepcbcommon/if_attributeprovider.h" alt="" coords="720,337,958,367"/>
-<area shape="rect" id="node44" href="$d4/d45/if__schematiclayerprovider_8h.html" title="librepcbcommon/if_schematiclayerprovider.h" alt="" coords="91,337,371,367"/>
-<area shape="rect" id="node47" href="$d4/dba/if__boardlayerprovider_8h.html" title="librepcbcommon/if_boardlayerprovider.h" alt="" coords="395,337,646,367"/>
-<area shape="rect" id="node51" href="$d5/db9/filelock_8h.html" title="librepcbcommon/fileio\l/filelock.h" alt="" coords="850,233,996,279"/>
-<area shape="rect" id="node54" href="$dd/dec/filepath_8h.html" title="filepath.h" alt="" coords="1083,337,1158,367"/>
+<area shape="rect" id="node7" href="$d2/d6c/ercmsgdock_8h.html" title="ercmsgdock.h" alt="" coords="111,145,215,175"/>
+<area shape="rect" id="node13" href="$dc/d8d/project_8h.html" title="librepcbproject/project.h" alt="" coords="387,145,547,175"/>
+<area shape="rect" id="node38" href="$d3/ddf/circuit_8h.html" title="librepcbproject/circuit\l/circuit.h" alt="" coords="1075,137,1219,183"/>
+<area shape="rect" id="node44" href="$df/d2c/ercmsg_8h.html" title="librepcbproject/erc\l/ercmsg.h" alt="" coords="1336,233,1464,279"/>
+<area shape="rect" id="node47" href="$db/d85/ercmsglist_8h.html" title="librepcbproject/erc\l/ercmsglist.h" alt="" coords="910,137,1038,183"/>
+<area shape="rect" id="node16" href="$d0/d1d/if__xmlserializableobject_8h.html" title="librepcbcommon/fileio\l/if_xmlserializableobject.h" alt="" coords="888,233,1059,279"/>
+<area shape="rect" id="node18" href="$d4/d03/exceptions_8h.html" title="../exceptions.h" alt="" coords="907,328,1014,357"/>
+<area shape="rect" id="node21" href="$da/d81/if__attributeprovider_8h.html" title="librepcbcommon/if_attributeprovider.h" alt="" coords="240,328,478,357"/>
+<area shape="rect" id="node24" href="$d4/d45/if__schematiclayerprovider_8h.html" title="librepcbcommon/if_schematiclayerprovider.h" alt="" coords="502,328,782,357"/>
+<area shape="rect" id="node27" href="$d4/dba/if__boardlayerprovider_8h.html" title="librepcbcommon/if_boardlayerprovider.h" alt="" coords="342,241,592,271"/>
+<area shape="rect" id="node31" href="$d5/db9/filelock_8h.html" title="librepcbcommon/fileio\l/filelock.h" alt="" coords="616,233,763,279"/>
+<area shape="rect" id="node34" href="$dd/dec/filepath_8h.html" title="filepath.h" alt="" coords="1048,328,1123,357"/>
 </map>

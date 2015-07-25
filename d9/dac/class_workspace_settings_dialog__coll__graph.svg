@@ -14,7 +14,7 @@
 <polygon fill="#bfbfbf" stroke="black" points="449.5,-1248 449.5,-1402 600.5,-1402 600.5,-1248 449.5,-1248"/>
 <text text-anchor="middle" x="525" y="-1389" font-family="Helvetica,sans-Serif" font-size="10.00">WorkspaceSettingsDialog</text>
 <polyline fill="none" stroke="black" points="449.5,-1381 600.5,-1381 "/>
-<text text-anchor="middle" x="525" y="-1368" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="457.5" y="-1368" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mUi</text>
 <polyline fill="none" stroke="black" points="449.5,-1360 600.5,-1360 "/>
 <text text-anchor="start" x="457.5" y="-1347" font-family="Helvetica,sans-Serif" font-size="10.00">+ WorkspaceSettingsDialog()</text>
 <text text-anchor="start" x="457.5" y="-1334" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~WorkspaceSettingsDialog()</text>
@@ -25,14 +25,8 @@
 <text text-anchor="start" x="457.5" y="-1269" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
 <text text-anchor="start" x="457.5" y="-1256" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_buttonBox_clicked()</text>
 </g>
-<!-- Node1&#45;&gt;Node1 -->
-<g id="edge2" class="edge"><title>Node1&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M600.535,-1362.81C611.003,-1356.58 618,-1343.98 618,-1325 618,-1312.25 614.841,-1302.37 609.594,-1295.38"/>
-<polygon fill="none" stroke="#404040" points="609.436,-1295.24 602.303,-1294.18 600.535,-1287.19 607.668,-1288.24 609.436,-1295.24"/>
-<text text-anchor="middle" x="630.5" y="-1322.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mUi</text>
-</g>
 <!-- Node2 -->
-<g id="node3" class="node"><title>Node2</title>
+<g id="node2" class="node"><title>Node2</title>
 <a xlink:href="../../de/d52/class_workspace_settings.html" target="_top" xlink:title="The WorkspaceSettings class manages all workspace related settings (and more) ">
 <polygon fill="white" stroke="black" points="524.5,-815 524.5,-1073 673.5,-1073 673.5,-815 524.5,-815"/>
 <text text-anchor="middle" x="599" y="-1060" font-family="Helvetica,sans-Serif" font-size="10.00">WorkspaceSettings</text>
@@ -58,19 +52,19 @@
 </a>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
-<g id="edge6" class="edge"><title>Node1&#45;&gt;Node2</title>
+<g id="edge4" class="edge"><title>Node1&#45;&gt;Node2</title>
 <path fill="none" stroke="#404040" d="M545.272,-1247.86C555.755,-1206.08 568.168,-1153.45 577,-1106 578.265,-1099.21 579.488,-1092.24 580.665,-1085.2"/>
 <polygon fill="none" stroke="#404040" points="580.677,-1085.13 577.692,-1078.56 582.605,-1073.28 585.589,-1079.85 580.677,-1085.13"/>
-<text text-anchor="middle" x="601.5" y="-1096.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mDialog</text>
+<text text-anchor="middle" x="600.5" y="-1096.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mDialog</text>
 </g>
 <!-- Node2&#45;&gt;Node1 -->
-<g id="edge4" class="edge"><title>Node2&#45;&gt;Node1</title>
+<g id="edge2" class="edge"><title>Node2&#45;&gt;Node1</title>
 <path fill="none" stroke="#404040" d="M531.28,-1073.11C529.259,-1079.41 527.478,-1085.73 526,-1092 515.025,-1138.61 513.986,-1191.93 516.04,-1235.79"/>
 <polygon fill="none" stroke="#404040" points="516.047,-1235.92 520.365,-1241.69 516.696,-1247.9 512.377,-1242.12 516.047,-1235.92"/>
 <text text-anchor="middle" x="551.5" y="-1096.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mSettings</text>
 </g>
 <!-- Node4 -->
-<g id="node8" class="node"><title>Node4</title>
+<g id="node7" class="node"><title>Node4</title>
 <a xlink:href="../../d4/dda/class_w_s_i___base.html" target="_top" xlink:title="The WSI_Base class is the base class of all workspace settings items. ">
 <polygon fill="white" stroke="black" points="504.5,-505 504.5,-685 597.5,-685 597.5,-505 504.5,-505"/>
 <text text-anchor="middle" x="551" y="-672" font-family="Helvetica,sans-Serif" font-size="10.00">WSI_Base</text>
@@ -90,13 +84,13 @@
 </a>
 </g>
 <!-- Node2&#45;&gt;Node4 -->
-<g id="edge12" class="edge"><title>Node2&#45;&gt;Node4</title>
+<g id="edge10" class="edge"><title>Node2&#45;&gt;Node4</title>
 <path fill="none" stroke="#404040" d="M569.024,-814.656C567.923,-808.363 566.906,-802.12 566,-796 561.275,-764.078 558.008,-729.071 555.762,-697.345"/>
 <polygon fill="none" stroke="#404040" points="555.761,-697.332 551.364,-691.616 554.949,-685.36 559.346,-691.076 555.761,-697.332"/>
 <text text-anchor="middle" x="592.5" y="-786.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mSettings</text>
 </g>
 <!-- Node3 -->
-<g id="node6" class="node"><title>Node3</title>
+<g id="node5" class="node"><title>Node3</title>
 <a xlink:href="../../db/d82/class_w_s_i___app_locale.html" target="_top" xlink:title="The WSI_AppLocale class represents the application&#39;s locale settings (for translation and localizatio...">
 <polygon fill="white" stroke="black" points="501.5,-46.5 501.5,-317.5 642.5,-317.5 642.5,-46.5 501.5,-46.5"/>
 <text text-anchor="middle" x="572" y="-304.5" font-family="Helvetica,sans-Serif" font-size="10.00">WSI_AppLocale</text>
@@ -123,18 +117,18 @@
 </a>
 </g>
 <!-- Node3&#45;&gt;Node2 -->
-<g id="edge8" class="edge"><title>Node3&#45;&gt;Node2</title>
+<g id="edge6" class="edge"><title>Node3&#45;&gt;Node2</title>
 <path fill="none" stroke="#404040" d="M593.391,-317.555C598.262,-352.784 602.908,-390.743 606,-426 619.832,-583.722 616.111,-623.699 619,-782 619.114,-788.221 619.418,-789.792 619,-796 618.85,-798.231 618.687,-800.48 618.513,-802.743"/>
 <polygon fill="none" stroke="#404040" points="618.491,-802.999 621.97,-809.316 617.477,-814.956 613.998,-808.639 618.491,-802.999"/>
 <text text-anchor="middle" x="648.5" y="-592.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mAppLocale</text>
 </g>
 <!-- Node4&#45;&gt;Node3 -->
-<g id="edge10" class="edge"><title>Node4&#45;&gt;Node3</title>
+<g id="edge8" class="edge"><title>Node4&#45;&gt;Node3</title>
 <path fill="none" stroke="midnightblue" d="M556.097,-494.766C558.799,-441.618 562.158,-375.561 565.092,-317.867"/>
 <polygon fill="none" stroke="midnightblue" points="552.595,-494.711 555.583,-504.876 559.586,-495.066 552.595,-494.711"/>
 </g>
 <!-- Node5 -->
-<g id="node11" class="node"><title>Node5</title>
+<g id="node10" class="node"><title>Node5</title>
 <a xlink:href="../../d8/dcb/class_w_s_i___appearance.html" target="_top" xlink:title="The WSI_Appearance class. ">
 <polygon fill="white" stroke="black" points="161.5,-79 161.5,-285 300.5,-285 300.5,-79 161.5,-79"/>
 <text text-anchor="middle" x="231" y="-272" font-family="Helvetica,sans-Serif" font-size="10.00">WSI_Appearance</text>
@@ -156,12 +150,12 @@
 </a>
 </g>
 <!-- Node4&#45;&gt;Node5 -->
-<g id="edge16" class="edge"><title>Node4&#45;&gt;Node5</title>
+<g id="edge14" class="edge"><title>Node4&#45;&gt;Node5</title>
 <path fill="none" stroke="midnightblue" d="M531.975,-495.3C523.081,-470.063 510.057,-444.814 491,-426 430.189,-365.964 371.693,-422.068 309,-364 286.175,-342.859 269.741,-313.921 258.03,-285.339"/>
 <polygon fill="none" stroke="midnightblue" points="528.71,-496.572 535.186,-504.958 535.353,-494.364 528.71,-496.572"/>
 </g>
 <!-- Node6 -->
-<g id="node14" class="node"><title>Node6</title>
+<g id="node13" class="node"><title>Node6</title>
 <a xlink:href="../../d5/da3/class_w_s_i___library_norm_order.html" target="_top" xlink:title="The WSI_LibraryNormOrder class contains a list of norms which should be used for all library elements...">
 <polygon fill="white" stroke="black" points="660,-1 660,-363 800,-363 800,-1 660,-1"/>
 <text text-anchor="middle" x="730" y="-350" font-family="Helvetica,sans-Serif" font-size="10.00">WSI_LibraryNormOrder</text>
@@ -195,12 +189,12 @@
 </a>
 </g>
 <!-- Node4&#45;&gt;Node6 -->
-<g id="edge20" class="edge"><title>Node4&#45;&gt;Node6</title>
+<g id="edge18" class="edge"><title>Node4&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M582.068,-495.311C590.471,-472.132 600.252,-447.854 611,-426 625.472,-396.573 635.531,-392.915 651,-364 654.006,-358.381 656.99,-352.624 659.94,-346.778"/>
 <polygon fill="none" stroke="midnightblue" points="578.74,-494.226 578.675,-504.821 585.332,-496.579 578.74,-494.226"/>
 </g>
 <!-- Node7 -->
-<g id="node17" class="node"><title>Node7</title>
+<g id="node16" class="node"><title>Node7</title>
 <a xlink:href="../../de/ded/class_w_s_i___library_locale_order.html" target="_top" xlink:title="The WSI_LibraryLocaleOrder class contains a list of locales which should be used for all (translatabl...">
 <polygon fill="white" stroke="black" points="0,-1 0,-363 144,-363 144,-1 0,-1"/>
 <text text-anchor="middle" x="72" y="-350" font-family="Helvetica,sans-Serif" font-size="10.00">WSI_LibraryLocaleOrder</text>
@@ -234,12 +228,12 @@
 </a>
 </g>
 <!-- Node4&#45;&gt;Node7 -->
-<g id="edge24" class="edge"><title>Node4&#45;&gt;Node7</title>
+<g id="edge22" class="edge"><title>Node4&#45;&gt;Node7</title>
 <path fill="none" stroke="midnightblue" d="M535.434,-495.132C526.582,-468.946 512.714,-443.245 491,-426 463.154,-403.885 367.004,-414.257 332,-408 251.354,-393.585 215.841,-416.56 153,-364 149.949,-361.448 147.009,-358.759 144.176,-355.948"/>
 <polygon fill="none" stroke="midnightblue" points="532.132,-496.299 538.474,-504.786 538.809,-494.197 532.132,-496.299"/>
 </g>
 <!-- Node8 -->
-<g id="node20" class="node"><title>Node8</title>
+<g id="node19" class="node"><title>Node8</title>
 <a xlink:href="../../df/def/class_w_s_i___debug_tools.html" target="_top" xlink:title="The WSI_DebugTools class contains some tools/settings which are useful for debugging. ">
 <polygon fill="white" stroke="black" points="817.5,-98.5 817.5,-265.5 932.5,-265.5 932.5,-98.5 817.5,-98.5"/>
 <text text-anchor="middle" x="875" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">WSI_DebugTools</text>
@@ -258,12 +252,12 @@
 </a>
 </g>
 <!-- Node4&#45;&gt;Node8 -->
-<g id="edge28" class="edge"><title>Node4&#45;&gt;Node8</title>
+<g id="edge26" class="edge"><title>Node4&#45;&gt;Node8</title>
 <path fill="none" stroke="midnightblue" d="M569.717,-494.984C578.61,-469.747 591.711,-444.576 611,-426 644.211,-394.018 775.682,-395.87 809,-364 836.082,-338.096 852.093,-300.231 861.54,-265.738"/>
 <polygon fill="none" stroke="midnightblue" points="566.338,-494.053 566.511,-504.646 572.982,-496.258 566.338,-494.053"/>
 </g>
 <!-- Node9 -->
-<g id="node23" class="node"><title>Node9</title>
+<g id="node22" class="node"><title>Node9</title>
 <a xlink:href="../../d6/d31/class_w_s_i___project_autosave_interval.html" target="_top" xlink:title="The WSI_ProjectAutosaveInterval class represents the project autosave interval setting. ">
 <polygon fill="white" stroke="black" points="317.5,-59.5 317.5,-304.5 484.5,-304.5 484.5,-59.5 317.5,-59.5"/>
 <text text-anchor="middle" x="401" y="-291.5" font-family="Helvetica,sans-Serif" font-size="10.00">WSI_ProjectAutosaveInterval</text>
@@ -288,12 +282,12 @@
 </a>
 </g>
 <!-- Node4&#45;&gt;Node9 -->
-<g id="edge32" class="edge"><title>Node4&#45;&gt;Node9</title>
+<g id="edge30" class="edge"><title>Node4&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M515.708,-494.952C507.64,-472.262 499.066,-448.286 491,-426 476.71,-386.516 460.925,-343.518 446.617,-304.77"/>
 <polygon fill="none" stroke="midnightblue" points="512.486,-496.338 519.131,-504.589 519.082,-493.994 512.486,-496.338"/>
 </g>
 <!-- Node11 -->
-<g id="node28" class="node"><title>Node11</title>
+<g id="node27" class="node"><title>Node11</title>
 <a xlink:href="../../d3/d01/class_w_s_i___app_default_measurement_units.html" target="_top" xlink:title="The WSI_AppDefaultMeasurementUnits class represents the application&#39;s default measurement units (for ...">
 <polygon fill="white" stroke="black" points="950,-33.5 950,-330.5 1138,-330.5 1138,-33.5 950,-33.5"/>
 <text text-anchor="start" x="958" y="-317.5" font-family="Helvetica,sans-Serif" font-size="10.00">WSI_AppDefaultMeasurement</text>
@@ -322,91 +316,91 @@
 </a>
 </g>
 <!-- Node4&#45;&gt;Node11 -->
-<g id="edge38" class="edge"><title>Node4&#45;&gt;Node11</title>
+<g id="edge36" class="edge"><title>Node4&#45;&gt;Node11</title>
 <path fill="none" stroke="midnightblue" d="M567.219,-495.379C576.088,-469.342 589.8,-443.658 611,-426 649.739,-393.733 673.391,-416.989 723,-408 820.259,-390.377 860.986,-422.031 941,-364 953.785,-354.728 965.199,-343.352 975.338,-330.854"/>
 <polygon fill="none" stroke="midnightblue" points="563.864,-494.383 564.166,-504.973 570.534,-496.506 563.864,-494.383"/>
 </g>
 <!-- Node5&#45;&gt;Node2 -->
-<g id="edge14" class="edge"><title>Node5&#45;&gt;Node2</title>
+<g id="edge12" class="edge"><title>Node5&#45;&gt;Node2</title>
 <path fill="none" stroke="#404040" d="M224.853,-285.114C218.137,-430.653 214.087,-687.175 263,-764 318.864,-851.742 432.795,-899.596 512.427,-923.466"/>
 <polygon fill="none" stroke="#404040" points="512.886,-923.599 519.765,-921.436 524.407,-926.955 517.528,-929.117 512.886,-923.599"/>
 <text text-anchor="middle" x="296.5" y="-592.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mAppearance</text>
 </g>
 <!-- Node6&#45;&gt;Node2 -->
-<g id="edge18" class="edge"><title>Node6&#45;&gt;Node2</title>
+<g id="edge16" class="edge"><title>Node6&#45;&gt;Node2</title>
 <path fill="none" stroke="#404040" d="M731.819,-363.081C728.987,-479.376 717.738,-632.68 683,-764 679.555,-777.022 675.207,-790.26 670.31,-803.345"/>
 <polygon fill="none" stroke="#404040" points="670.208,-803.607 671.771,-810.646 665.874,-814.796 664.311,-807.757 670.208,-803.607"/>
 <text text-anchor="middle" x="775" y="-592.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mLibraryNormOrder</text>
 </g>
 <!-- Node7&#45;&gt;Node2 -->
-<g id="edge22" class="edge"><title>Node7&#45;&gt;Node2</title>
+<g id="edge20" class="edge"><title>Node7&#45;&gt;Node2</title>
 <path fill="none" stroke="#404040" d="M39.8826,-363.098C28.1478,-487.874 34.6139,-650.934 120,-764 168.493,-828.214 388.217,-891.683 512.549,-923.306"/>
 <polygon fill="none" stroke="#404040" points="512.639,-923.329 519.436,-920.919 524.274,-926.266 517.477,-928.676 512.639,-923.329"/>
 <text text-anchor="middle" x="168.5" y="-592.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mLibraryLocaleOrder</text>
 </g>
 <!-- Node8&#45;&gt;Node2 -->
-<g id="edge26" class="edge"><title>Node8&#45;&gt;Node2</title>
+<g id="edge24" class="edge"><title>Node8&#45;&gt;Node2</title>
 <path fill="none" stroke="#404040" d="M871.458,-265.775C864.557,-416.366 847.949,-721.178 825,-764 793.59,-822.611 734.104,-868.79 684.045,-899.694"/>
 <polygon fill="none" stroke="#404040" points="683.789,-899.848 680.723,-906.375 673.519,-906.055 676.585,-899.529 683.789,-899.848"/>
 <text text-anchor="middle" x="895.5" y="-592.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mDebugTools</text>
 </g>
 <!-- Node9&#45;&gt;Node2 -->
-<g id="edge30" class="edge"><title>Node9&#45;&gt;Node2</title>
+<g id="edge28" class="edge"><title>Node9&#45;&gt;Node2</title>
 <path fill="none" stroke="#404040" d="M364.038,-304.528C334.165,-427.109 307.387,-617.936 377,-764 405.35,-823.485 464.03,-869.694 513.942,-900.392"/>
 <polygon fill="none" stroke="#404040" points="514.161,-900.524 521.365,-900.187 524.446,-906.707 517.243,-907.043 514.161,-900.524"/>
 <text text-anchor="middle" x="436.5" y="-592.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProjectAutosaveInterval</text>
 </g>
 <!-- Node10 -->
-<g id="node26" class="node"><title>Node10</title>
+<g id="node25" class="node"><title>Node10</title>
 <a xlink:href="../../d4/d1c/class_file_path.html" target="_top" xlink:title="This class represents absolute, well&#45;formatted paths to files or directories. ">
-<polygon fill="white" stroke="black" points="661,-1124.5 661,-1525.5 795,-1525.5 795,-1124.5 661,-1124.5"/>
-<text text-anchor="middle" x="728" y="-1512.5" font-family="Helvetica,sans-Serif" font-size="10.00">FilePath</text>
-<polyline fill="none" stroke="black" points="661,-1504.5 795,-1504.5 "/>
-<text text-anchor="start" x="669" y="-1491.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mIsValid</text>
-<text text-anchor="start" x="669" y="-1478.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFileInfo</text>
-<polyline fill="none" stroke="black" points="661,-1470.5 795,-1470.5 "/>
-<text text-anchor="start" x="669" y="-1457.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ FilePath()</text>
-<text text-anchor="start" x="669" y="-1444.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ FilePath()</text>
-<text text-anchor="start" x="669" y="-1431.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ FilePath()</text>
-<text text-anchor="start" x="669" y="-1418.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPath()</text>
-<text text-anchor="start" x="669" y="-1405.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
-<text text-anchor="start" x="669" y="-1392.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isExistingFile()</text>
-<text text-anchor="start" x="669" y="-1379.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isExistingDir()</text>
-<text text-anchor="start" x="669" y="-1366.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isEmptyDir()</text>
-<text text-anchor="start" x="669" y="-1353.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isRoot()</text>
-<text text-anchor="start" x="669" y="-1340.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toStr()</text>
-<text text-anchor="start" x="669" y="-1327.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toNative()</text>
-<text text-anchor="start" x="669" y="-1314.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toUnique()</text>
-<text text-anchor="start" x="669" y="-1301.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toRelative()</text>
-<text text-anchor="start" x="669" y="-1288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toQUrl()</text>
-<text text-anchor="start" x="669" y="-1275.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBasename()</text>
-<text text-anchor="start" x="669" y="-1262.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCompleteBasename()</text>
-<text text-anchor="start" x="669" y="-1249.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSuffix()</text>
-<text text-anchor="start" x="669" y="-1236.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCompleteSuffix()</text>
-<text text-anchor="start" x="669" y="-1223.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFilename()</text>
-<text text-anchor="start" x="669" y="-1210.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getParentDir()</text>
-<text text-anchor="start" x="669" y="-1197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPathTo()</text>
-<text text-anchor="start" x="669" y="-1184.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ mkPath()</text>
-<text text-anchor="start" x="669" y="-1171.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator=()</text>
-<text text-anchor="start" x="669" y="-1158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator==()</text>
-<text text-anchor="start" x="669" y="-1145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromRelative()</text>
-<text text-anchor="start" x="669" y="-1132.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; makeWellFormatted()</text>
+<polygon fill="white" stroke="black" points="618,-1124.5 618,-1525.5 752,-1525.5 752,-1124.5 618,-1124.5"/>
+<text text-anchor="middle" x="685" y="-1512.5" font-family="Helvetica,sans-Serif" font-size="10.00">FilePath</text>
+<polyline fill="none" stroke="black" points="618,-1504.5 752,-1504.5 "/>
+<text text-anchor="start" x="626" y="-1491.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mIsValid</text>
+<text text-anchor="start" x="626" y="-1478.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFileInfo</text>
+<polyline fill="none" stroke="black" points="618,-1470.5 752,-1470.5 "/>
+<text text-anchor="start" x="626" y="-1457.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ FilePath()</text>
+<text text-anchor="start" x="626" y="-1444.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ FilePath()</text>
+<text text-anchor="start" x="626" y="-1431.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ FilePath()</text>
+<text text-anchor="start" x="626" y="-1418.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPath()</text>
+<text text-anchor="start" x="626" y="-1405.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
+<text text-anchor="start" x="626" y="-1392.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isExistingFile()</text>
+<text text-anchor="start" x="626" y="-1379.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isExistingDir()</text>
+<text text-anchor="start" x="626" y="-1366.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isEmptyDir()</text>
+<text text-anchor="start" x="626" y="-1353.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isRoot()</text>
+<text text-anchor="start" x="626" y="-1340.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toStr()</text>
+<text text-anchor="start" x="626" y="-1327.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toNative()</text>
+<text text-anchor="start" x="626" y="-1314.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toUnique()</text>
+<text text-anchor="start" x="626" y="-1301.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toRelative()</text>
+<text text-anchor="start" x="626" y="-1288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toQUrl()</text>
+<text text-anchor="start" x="626" y="-1275.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBasename()</text>
+<text text-anchor="start" x="626" y="-1262.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCompleteBasename()</text>
+<text text-anchor="start" x="626" y="-1249.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSuffix()</text>
+<text text-anchor="start" x="626" y="-1236.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCompleteSuffix()</text>
+<text text-anchor="start" x="626" y="-1223.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFilename()</text>
+<text text-anchor="start" x="626" y="-1210.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getParentDir()</text>
+<text text-anchor="start" x="626" y="-1197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPathTo()</text>
+<text text-anchor="start" x="626" y="-1184.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ mkPath()</text>
+<text text-anchor="start" x="626" y="-1171.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator=()</text>
+<text text-anchor="start" x="626" y="-1158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator==()</text>
+<text text-anchor="start" x="626" y="-1145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromRelative()</text>
+<text text-anchor="start" x="626" y="-1132.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; makeWellFormatted()</text>
 </a>
 </g>
 <!-- Node10&#45;&gt;Node2 -->
-<g id="edge34" class="edge"><title>Node10&#45;&gt;Node2</title>
-<path fill="none" stroke="#404040" d="M660.95,-1126.97C656.114,-1112.68 651.297,-1098.46 646.609,-1084.61"/>
-<polygon fill="none" stroke="#404040" points="646.551,-1084.44 640.838,-1080.04 642.703,-1073.08 648.416,-1077.48 646.551,-1084.44"/>
-<text text-anchor="middle" x="689" y="-1096.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mMetadataPath</text>
+<g id="edge32" class="edge"><title>Node10&#45;&gt;Node2</title>
+<path fill="none" stroke="#404040" d="M639.733,-1124.46C636.728,-1111.14 633.738,-1097.9 630.821,-1084.97"/>
+<polygon fill="none" stroke="#404040" points="630.807,-1084.91 625.584,-1079.94 628.165,-1073.21 633.388,-1078.18 630.807,-1084.91"/>
+<text text-anchor="middle" x="672" y="-1096.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mMetadataPath</text>
 </g>
 <!-- Node11&#45;&gt;Node2 -->
-<g id="edge36" class="edge"><title>Node11&#45;&gt;Node2</title>
+<g id="edge34" class="edge"><title>Node11&#45;&gt;Node2</title>
 <path fill="none" stroke="#404040" d="M994.166,-330.561C985.034,-361.813 976.387,-394.775 970,-426 954.859,-500.027 975.212,-701.331 933,-764 875.509,-849.353 763.795,-897.567 685.452,-922.183"/>
 <polygon fill="none" stroke="#404040" points="685.138,-922.279 680.57,-927.859 673.663,-925.789 678.23,-920.209 685.138,-922.279"/>
 <text text-anchor="middle" x="1017.5" y="-592.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mAppDefMeasUnits</text>
 </g>
 <!-- Node12 -->
-<g id="node31" class="node"><title>Node12</title>
+<g id="node30" class="node"><title>Node12</title>
 <a xlink:href="../../dd/d55/class_length_unit.html" target="_top" xlink:title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth...">
 <polygon fill="white" stroke="black" points="1074,-427 1074,-763 1178,-763 1178,-427 1074,-427"/>
 <text text-anchor="middle" x="1126" y="-750" font-family="Helvetica,sans-Serif" font-size="10.00">LengthUnit</text>
@@ -438,7 +432,7 @@
 </a>
 </g>
 <!-- Node12&#45;&gt;Node11 -->
-<g id="edge40" class="edge"><title>Node12&#45;&gt;Node11</title>
+<g id="edge38" class="edge"><title>Node12&#45;&gt;Node11</title>
 <path fill="none" stroke="#404040" d="M1092.59,-426.719C1087.09,-399.015 1081.4,-370.36 1075.94,-342.844"/>
 <polygon fill="none" stroke="#404040" points="1075.86,-342.48 1070.77,-337.374 1073.53,-330.71 1078.62,-335.816 1075.86,-342.48"/>
 <text text-anchor="middle" x="1128" y="-399" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mLengthUnitTmp</text>

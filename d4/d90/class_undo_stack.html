@@ -231,13 +231,13 @@ Private Attributes</h2></td></tr>
 <ul>
 <li><b>Support for exceptions:</b> If an exception is throwed in a <a class="el" href="../../d3/d26/class_undo_command.html" title="The UndoCommand class represents a command which you can undo/redo. ">UndoCommand</a> object, this undo stack always tries to keep the whole stack consistent (update the index only if the last undo/redo was successful, try to rollback failed changes, ...).</li>
 <li><b>Removed support for nested macros (QUndoStack::beginMacro() and QUndoStack::endMacro())</b>: I think we do need this feature (but we have a similar mechanism, see next line)...</li>
-<li><b>Added support for exclusive macro command creation:</b><dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000013">Todo:</a></b></dt><dd>Don't sure if this is a good way, we need some tests first... If the tests are successful, we should complete this documentation (explain how this feature works).</dd></dl>
+<li><b>Added support for exclusive macro command creation:</b><dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000012">Todo:</a></b></dt><dd>Don't sure if this is a good way, we need some tests first... If the tests are successful, we should complete this documentation (explain how this feature works).</dd></dl>
 </li>
 </ul>
 <dl class="section see"><dt>See Also</dt><dd><a class="el" href="../../d3/d26/class_undo_command.html" title="The UndoCommand class represents a command which you can undo/redo. ">UndoCommand</a></dd></dl>
 <dl class="section author"><dt>Author</dt><dd>ubruhin </dd></dl>
 <dl class="section date"><dt>Date</dt><dd>2014-08-20</dd></dl>
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000014">Todo:</a></b></dt><dd>This class is not yet tested very well. Does it work correctly when destroying an <a class="el" href="../../d4/d90/class_undo_stack.html" title="The UndoStack class holds UndoCommand objects and provides undo/redo commands. ">UndoStack</a> object while the current index is not the index of the last command? </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000013">Todo:</a></b></dt><dd>This class is not yet tested very well. Does it work correctly when destroying an <a class="el" href="../../d4/d90/class_undo_stack.html" title="The UndoStack class holds UndoCommand objects and provides undo/redo commands. ">UndoStack</a> object while the current index is not the index of the last command? </dd></dl>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="ac1637fa10c2e46b0e7b298ad6a5050b9"></a>
 <div class="memitem">
@@ -1305,7 +1305,6 @@ Private Attributes</h2></td></tr>
 </div>
 <hr/>The documentation for this class was generated from the following files:<ul>
 <li>/home/travis/build/LibrePCB/LibrePCB/libs/librepcbcommon/<a class="el" href="../../d9/d4b/undostack_8h_source.html">undostack.h</a></li>
-<li>/home/travis/build/LibrePCB/LibrePCB/libs/librepcbcommon/moc/<a class="el" href="../../d7/d26/moc__undostack_8cpp.html">moc_undostack.cpp</a></li>
 <li>/home/travis/build/LibrePCB/LibrePCB/libs/librepcbcommon/<a class="el" href="../../d6/d33/undostack_8cpp.html">undostack.cpp</a></li>
 </ul>
 </div><!-- contents -->
@@ -1314,7 +1313,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d90/class_undo_stack.html">UndoStack</a></li>
-    <li class="footer">Generated on Sat Jul 25 2015 17:55:27 for LibrePCB Developers Documentation by
+    <li class="footer">Generated on Sat Jul 25 2015 21:09:01 for LibrePCB Developers Documentation by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

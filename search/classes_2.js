@@ -42,6 +42,5 @@ var searchData=
   ['component',['Component',['../d3/dad/classlibrary_1_1_component.html',1,'library']]],
   ['componentcategory',['ComponentCategory',['../da/dc5/classlibrary_1_1_component_category.html',1,'library']]],
   ['componentinstance',['ComponentInstance',['../d0/d7d/classproject_1_1_component_instance.html',1,'project']]],
-  ['controlpanel',['ControlPanel',['../dd/d55/class_ui_1_1_control_panel.html',1,'Ui']]],
   ['controlpanel',['ControlPanel',['../d1/def/class_control_panel.html',1,'']]]
 ];

@@ -7,11 +7,9 @@ var searchData=
   ['project',['Project',['../d2/d05/classproject_1_1_project.html',1,'project']]],
   ['projecteditor',['ProjectEditor',['../d3/dd6/classproject_1_1_project_editor.html',1,'project']]],
   ['projectlibrary',['ProjectLibrary',['../d9/d30/classproject_1_1_project_library.html',1,'project']]],
-  ['projectpropertieseditordialog',['ProjectPropertiesEditorDialog',['../d8/d09/class_ui_1_1_project_properties_editor_dialog.html',1,'Ui']]],
   ['projectpropertieseditordialog',['ProjectPropertiesEditorDialog',['../dd/db6/classproject_1_1_project_properties_editor_dialog.html',1,'project']]],
   ['projectsettings',['ProjectSettings',['../d7/d04/classproject_1_1_project_settings.html',1,'project']]],
   ['projectsettingsdialog',['ProjectSettingsDialog',['../d1/d44/classproject_1_1_project_settings_dialog.html',1,'project']]],
-  ['projectsettingsdialog',['ProjectSettingsDialog',['../d4/dc5/class_ui_1_1_project_settings_dialog.html',1,'Ui']]],
   ['projecttreeitem',['ProjectTreeItem',['../db/d9c/class_project_tree_item.html',1,'']]],
   ['projecttreemodel',['ProjectTreeModel',['../db/d76/class_project_tree_model.html',1,'']]]
 ];

@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['xmldomdocument',['XmlDomDocument',['../da/d50/class_xml_dom_document.html#a2a4eea6bb17c60390c2b1345c74e9929',1,'XmlDomDocument::XmlDomDocument(XmlDomElement &amp;root) noexcept'],['../da/d50/class_xml_dom_document.html#a142385a7f086d28ba81624d073ce2e7c',1,'XmlDomDocument::XmlDomDocument(const QByteArray &amp;xmlFileContent, const FilePath &amp;filepath)'],['../da/d50/class_xml_dom_document.html#a6b00f25aab80266a60faed448077c5bb',1,'XmlDomDocument::XmlDomDocument()'],['../da/d50/class_xml_dom_document.html#ab8d8c39b8375afdadd566b896aa71092',1,'XmlDomDocument::XmlDomDocument(const XmlDomDocument &amp;other)']]],
-  ['xmldomelement',['XmlDomElement',['../d1/d1f/class_xml_dom_element.html#afa3c0827b5581b37af877504ff5d31fd',1,'XmlDomElement::XmlDomElement(const QString &amp;name, const QString &amp;text=QString()) noexcept'],['../d1/d1f/class_xml_dom_element.html#a7579af7e8044495b2385abd3afc29d7f',1,'XmlDomElement::XmlDomElement()=delete'],['../d1/d1f/class_xml_dom_element.html#adbd214dfb94bf2ccff67b74ffb2283b6',1,'XmlDomElement::XmlDomElement(const XmlDomElement &amp;other)=delete'],['../d1/d1f/class_xml_dom_element.html#aa83e51de1750a54e607feb8c8ca0d0d0',1,'XmlDomElement::XmlDomElement(QDomElement domElement, XmlDomElement *parent=nullptr, XmlDomDocument *doc=nullptr) noexcept']]]
+  ['zoomall',['zoomAll',['../dd/dd5/class_graphics_view.html#a0b0ff363db364ea5ce364fe2e27ef1aa',1,'GraphicsView']]],
+  ['zoomanimationvaluechanged',['zoomAnimationValueChanged',['../dd/dd5/class_graphics_view.html#a549054a3d41a0fe6b073678f5b22d9f8',1,'GraphicsView']]],
+  ['zoomin',['zoomIn',['../dd/dd5/class_graphics_view.html#a8bcfae1253e8a88ee56b2d0e38dd7d77',1,'GraphicsView']]],
+  ['zoomout',['zoomOut',['../dd/dd5/class_graphics_view.html#a4ec565aefab2e63fe623c84cb690733c',1,'GraphicsView']]]
 ];

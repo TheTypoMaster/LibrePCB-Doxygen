@@ -1,25 +1,7 @@
 var searchData=
 [
-  ['workspace_2ecpp',['workspace.cpp',['../d8/dad/workspace_8cpp.html',1,'']]],
-  ['workspace_2eh',['workspace.h',['../d4/de6/workspace_8h.html',1,'']]],
-  ['workspacesettings_2ecpp',['workspacesettings.cpp',['../df/d5a/workspacesettings_8cpp.html',1,'']]],
-  ['workspacesettings_2eh',['workspacesettings.h',['../d7/dfd/workspacesettings_8h.html',1,'']]],
-  ['workspacesettingsdialog_2ecpp',['workspacesettingsdialog.cpp',['../d3/d42/workspacesettingsdialog_8cpp.html',1,'']]],
-  ['workspacesettingsdialog_2eh',['workspacesettingsdialog.h',['../db/dec/workspacesettingsdialog_8h.html',1,'']]],
-  ['wsi_5fappdefaultmeasurementunits_2ecpp',['wsi_appdefaultmeasurementunits.cpp',['../d1/dd2/wsi__appdefaultmeasurementunits_8cpp.html',1,'']]],
-  ['wsi_5fappdefaultmeasurementunits_2eh',['wsi_appdefaultmeasurementunits.h',['../dd/d8d/wsi__appdefaultmeasurementunits_8h.html',1,'']]],
-  ['wsi_5fappearance_2ecpp',['wsi_appearance.cpp',['../dd/dce/wsi__appearance_8cpp.html',1,'']]],
-  ['wsi_5fappearance_2eh',['wsi_appearance.h',['../db/d31/wsi__appearance_8h.html',1,'']]],
-  ['wsi_5fapplocale_2ecpp',['wsi_applocale.cpp',['../dd/d44/wsi__applocale_8cpp.html',1,'']]],
-  ['wsi_5fapplocale_2eh',['wsi_applocale.h',['../d1/df7/wsi__applocale_8h.html',1,'']]],
-  ['wsi_5fbase_2ecpp',['wsi_base.cpp',['../d1/daf/wsi__base_8cpp.html',1,'']]],
-  ['wsi_5fbase_2eh',['wsi_base.h',['../dd/d8c/wsi__base_8h.html',1,'']]],
-  ['wsi_5fdebugtools_2ecpp',['wsi_debugtools.cpp',['../d9/d83/wsi__debugtools_8cpp.html',1,'']]],
-  ['wsi_5fdebugtools_2eh',['wsi_debugtools.h',['../d4/dc7/wsi__debugtools_8h.html',1,'']]],
-  ['wsi_5flibrarylocaleorder_2ecpp',['wsi_librarylocaleorder.cpp',['../df/d4b/wsi__librarylocaleorder_8cpp.html',1,'']]],
-  ['wsi_5flibrarylocaleorder_2eh',['wsi_librarylocaleorder.h',['../d8/d06/wsi__librarylocaleorder_8h.html',1,'']]],
-  ['wsi_5flibrarynormorder_2ecpp',['wsi_librarynormorder.cpp',['../d1/d2b/wsi__librarynormorder_8cpp.html',1,'']]],
-  ['wsi_5flibrarynormorder_2eh',['wsi_librarynormorder.h',['../dd/d39/wsi__librarynormorder_8h.html',1,'']]],
-  ['wsi_5fprojectautosaveinterval_2ecpp',['wsi_projectautosaveinterval.cpp',['../dc/d55/wsi__projectautosaveinterval_8cpp.html',1,'']]],
-  ['wsi_5fprojectautosaveinterval_2eh',['wsi_projectautosaveinterval.h',['../d8/d1a/wsi__projectautosaveinterval_8h.html',1,'']]]
+  ['xmldomdocument_2ecpp',['xmldomdocument.cpp',['../d4/d95/xmldomdocument_8cpp.html',1,'']]],
+  ['xmldomdocument_2eh',['xmldomdocument.h',['../d8/d67/xmldomdocument_8h.html',1,'']]],
+  ['xmldomelement_2ecpp',['xmldomelement.cpp',['../d9/dfc/xmldomelement_8cpp.html',1,'']]],
+  ['xmldomelement_2eh',['xmldomelement.h',['../d1/d68/xmldomelement_8h.html',1,'']]]
 ];

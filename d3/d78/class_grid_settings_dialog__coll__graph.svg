@@ -14,7 +14,7 @@
 <polygon fill="#bfbfbf" stroke="black" points="150,-0.5 150,-219.5 306,-219.5 306,-0.5 150,-0.5"/>
 <text text-anchor="middle" x="228" y="-206.5" font-family="Helvetica,sans-Serif" font-size="10.00">GridSettingsDialog</text>
 <polyline fill="none" stroke="black" points="150,-198.5 306,-198.5 "/>
-<text text-anchor="middle" x="228" y="-185.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<text text-anchor="start" x="158" y="-185.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mUi</text>
 <polyline fill="none" stroke="black" points="150,-177.5 306,-177.5 "/>
 <text text-anchor="start" x="158" y="-164.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ GridSettingsDialog()</text>
 <text text-anchor="start" x="158" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~GridSettingsDialog()</text>
@@ -29,12 +29,6 @@
 <text text-anchor="start" x="158" y="-34.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; btnMul2Clicked()</text>
 <text text-anchor="start" x="158" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; btnDiv2Clicked()</text>
 <text text-anchor="start" x="158" y="-8.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; buttonBoxClicked()</text>
-</g>
-<!-- Node1&#45;&gt;Node1 -->
-<g id="edge10" class="edge"><title>Node1&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M306.347,-133.288C316.944,-129.384 324,-121.621 324,-110 324,-102.918 321.38,-97.2696 316.935,-93.0537"/>
-<polygon fill="none" stroke="#404040" points="316.642,-92.8782 309.439,-93.2269 306.347,-86.7124 313.55,-86.3637 316.642,-92.8782"/>
-<text text-anchor="middle" x="336.5" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mUi</text>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>

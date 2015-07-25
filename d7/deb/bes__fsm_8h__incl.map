@@ -1,14 +1,13 @@
 <map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/boardeditor/fsm/bes_fsm.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/boardeditor/fsm/bes_fsm.h">
-<area shape="rect" id="node5" href="$d1/deb/bes__base_8h.html" title="bes_base.h" alt="" coords="2458,136,2546,165"/>
-<area shape="rect" id="node8" href="$db/d67/boardeditorevent_8h.html" title="boardeditorevent.h" alt="" coords="448,223,576,252"/>
-<area shape="rect" id="node11" href="$dd/dec/boardeditor_8h.html" title="../boardeditor.h" alt="" coords="2448,396,2557,425"/>
-<area shape="rect" id="node19" href="$d2/d0d/ui__boardeditor_8h.html" title="ui_boardeditor.h" alt="" coords="1124,223,1238,252"/>
-<area shape="rect" id="node45" href="$d1/da8/all__length__units_8h.html" title="librepcbcommon/units\l/all_length_units.h" alt="" coords="2194,214,2344,261"/>
-<area shape="rect" id="node65" href="$df/dfc/graphicsview_8h.html" title="librepcbcommon/graphics\l/graphicsview.h" alt="" coords="2581,387,2752,434"/>
-<area shape="rect" id="node16" href="$df/df9/if__graphicsvieweventhandler_8h.html" title="librepcbcommon/graphics\l/if_graphicsvieweventhandler.h" alt="" coords="2348,483,2548,530"/>
-<area shape="rect" id="node47" href="$d0/d09/lengthunit_8h.html" title="lengthunit.h" alt="" coords="2276,396,2364,425"/>
-<area shape="rect" id="node53" href="$dd/db9/length_8h.html" title="length.h" alt="" coords="2097,396,2164,425"/>
-<area shape="rect" id="node57" href="$d2/d91/point_8h.html" title="point.h" alt="" coords="2120,309,2181,339"/>
-<area shape="rect" id="node61" href="$da/dac/angle_8h.html" title="angle.h" alt="" coords="2188,396,2252,425"/>
-<area shape="rect" id="node50" href="$d4/d03/exceptions_8h.html" title="../exceptions.h" alt="" coords="2166,492,2273,521"/>
+<area shape="rect" id="node5" href="$d1/deb/bes__base_8h.html" title="bes_base.h" alt="" coords="537,136,625,165"/>
+<area shape="rect" id="node8" href="$db/d67/boardeditorevent_8h.html" title="boardeditorevent.h" alt="" coords="5,309,133,339"/>
+<area shape="rect" id="node11" href="$dd/dec/boardeditor_8h.html" title="../boardeditor.h" alt="" coords="527,396,636,425"/>
+<area shape="rect" id="node21" href="$d1/da8/all__length__units_8h.html" title="librepcbcommon/units\l/all_length_units.h" alt="" coords="279,214,428,261"/>
+<area shape="rect" id="node41" href="$df/dfc/graphicsview_8h.html" title="librepcbcommon/graphics\l/graphicsview.h" alt="" coords="660,387,831,434"/>
+<area shape="rect" id="node16" href="$df/df9/if__graphicsvieweventhandler_8h.html" title="librepcbcommon/graphics\l/if_graphicsvieweventhandler.h" alt="" coords="427,483,627,530"/>
+<area shape="rect" id="node23" href="$d0/d09/lengthunit_8h.html" title="lengthunit.h" alt="" coords="345,396,433,425"/>
+<area shape="rect" id="node29" href="$dd/db9/length_8h.html" title="length.h" alt="" coords="167,396,233,425"/>
+<area shape="rect" id="node33" href="$d2/d91/point_8h.html" title="point.h" alt="" coords="169,309,231,339"/>
+<area shape="rect" id="node37" href="$da/dac/angle_8h.html" title="angle.h" alt="" coords="257,396,321,425"/>
+<area shape="rect" id="node26" href="$d4/d03/exceptions_8h.html" title="../exceptions.h" alt="" coords="245,492,352,521"/>
 </map>
