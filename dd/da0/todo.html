@@ -139,9 +139,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../');});
 <dt><a class="anchor" id="_todo000030"></a>Member <a class="el" href="../../d2/d05/classproject_1_1_project.html#a99eee361639de631f17e5b6115810c7c">Project::exportSchematicsAsPdf</a>  (const <a class="el" href="../../d4/d1c/class_file_path.html" title="This class represents absolute, well-formatted paths to files or directories. ">FilePath</a> &amp;filepath)</dt>
 <dd>add more parameters (paper size, orientation, pages to print, ...)  </dd>
 <dt><a class="anchor" id="_todo000025"></a>Class <a class="el" href="../../d9/d30/classproject_1_1_project_library.html">ProjectLibrary</a>  </dt>
-<dd><p class="startdd">When adding new elements, the directory should be copied only to a temporary location. Then after saving the project, the directory must be copied to the project library's directory. The same applies to removed elements. </p>
-<p class="enddd">When removing elements, the objects should not be deleted! Undo commands need to add removed elements again, and the pointer to the object should remain the same.  </p>
-</dd>
+<dd>Adding and removing elements is very provisional. It does not really work together with the automatic backup/restore feature of projects.  </dd>
 <dt><a class="anchor" id="_todo000007"></a>Page <a class="el" href="../../d0/d1b/doc_schematic_layers.html">Schematic Layers Documentation</a>  </dt>
 <dd><p class="startdd">Add more layers:</p>
 <ul>
@@ -190,7 +188,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Wed Jul 22 2015 21:26:11 for LibrePCB Developers Documentation by
+    <li class="footer">Generated on Sat Jul 25 2015 17:54:42 for LibrePCB Developers Documentation by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

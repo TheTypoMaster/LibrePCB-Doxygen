@@ -13,10 +13,10 @@
 <area shape="rect" id="node42" href="$db/deb/class_smart_text_file.html" title="The SmartTextFile class represents a text file and provides access to its content. " alt="" coords="1886,1730,2017,1971"/>
 <area shape="rect" id="node15" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="1795,5,1974,541"/>
 <area shape="rect" id="node57" href="$d9/d57/class_file_lock.html" title="This class can be used to implement file&#45;based file locks. " alt="" coords="2054,1013,2217,1272"/>
-<area shape="rect" id="node60" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="1946,3760,2151,4573"/>
+<area shape="rect" id="node60" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="1935,3673,2151,4660"/>
 <area shape="rect" id="node17" href="$dc/dcc/class_graphics_scene.html" title="The GraphicsScene class. " alt="" coords="10,2940,159,3095"/>
 <area shape="rect" id="node34" href="$d1/d2c/classproject_1_1_board_layer_provider.html" title="The BoardLayerProvider class provides and manages all available board layers which are used in the pr..." alt="" coords="1366,4063,1529,4270"/>
-<area shape="rect" id="node38" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="1730,4063,1922,4270"/>
+<area shape="rect" id="node38" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="1719,4063,1911,4270"/>
 <area shape="rect" id="node22" href="$d5/d3f/class_i_f___schematic_layer_provider.html" title="The IF_SchematicLayerProvider class defines an interface for classes which provide schematic layers..." alt="" coords="2229,1773,2439,1928"/>
 <area shape="rect" id="node24" href="$d6/db7/class_i_f___board_layer_provider.html" title="The IF_BoardLayerProvider class defines an interface for classes which provide board layers..." alt="" coords="1618,1773,1799,1928"/>
 <area shape="rect" id="node69" href="$df/df0/class_length.html" title="The Length class is used to represent a length (for example 12.75 millimeters) " alt="" coords="306,1297,461,2405"/>

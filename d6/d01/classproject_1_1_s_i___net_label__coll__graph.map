@@ -19,7 +19,7 @@
 <area shape="rect" id="node51" href="$db/deb/class_smart_text_file.html" title="The SmartTextFile class represents a text file and provides access to its content. " alt="" coords="1712,1730,1843,1971"/>
 <area shape="rect" id="node24" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="1165,5,1344,541"/>
 <area shape="rect" id="node66" href="$d9/d57/class_file_lock.html" title="This class can be used to implement file&#45;based file locks. " alt="" coords="1948,1013,2111,1272"/>
-<area shape="rect" id="node69" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="1928,4728,2133,5541"/>
+<area shape="rect" id="node69" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="1928,4641,2144,5628"/>
 <area shape="rect" id="node26" href="$dc/dcc/class_graphics_scene.html" title="The GraphicsScene class. " alt="" coords="408,2956,557,3111"/>
 <area shape="rect" id="node43" href="$d1/d2c/classproject_1_1_board_layer_provider.html" title="The BoardLayerProvider class provides and manages all available board layers which are used in the pr..." alt="" coords="2225,5031,2388,5238"/>
 <area shape="rect" id="node47" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="2428,5031,2620,5238"/>

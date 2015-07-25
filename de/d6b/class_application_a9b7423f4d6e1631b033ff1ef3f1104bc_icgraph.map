@@ -1,11 +1,10 @@
 <map id="applicationVersion" name="applicationVersion">
-<area shape="rect" id="node3" href="$d1/def/class_control_panel.html#ae12cfb17fef4222f1db5a1b356cddeb4" title="ControlPanel::ControlPanel" alt="" coords="183,205,361,235"/>
-<area shape="rect" id="node5" href="$de/d6b/class_application.html#a71dfd4d8f6708f9d9eb0f0c507c1e9ef" title="majorVersion" alt="" coords="223,259,321,288"/>
+<area shape="rect" id="node3" href="$d1/def/class_control_panel.html#ae12cfb17fef4222f1db5a1b356cddeb4" title="ControlPanel::ControlPanel" alt="" coords="183,175,361,204"/>
+<area shape="rect" id="node5" href="$de/d6b/class_application.html#a71dfd4d8f6708f9d9eb0f0c507c1e9ef" title="majorVersion" alt="" coords="223,228,321,257"/>
 <area shape="rect" id="node7" href="$da/db0/class_smart_xml_file.html#a6685c26dd2c2668f47d5fae96c4c319f" title="Open and parse the XML file and build the whole DOM tree. " alt="" coords="412,127,596,174"/>
 <area shape="rect" id="node21" href="$da/db0/class_smart_xml_file.html#a1a15afd39982b84d2cedd7e4c2d54faa" title="Write the XML DOM tree to the file system. " alt="" coords="436,197,572,227"/>
 <area shape="rect" id="node23" href="$d9/d30/classproject_1_1_project_library.html#a66be7fb27dfb9ffcd6333afaff0c8d77" title="project::ProjectLibrary\l::loadElements" alt="" coords="429,250,579,297"/>
-<area shape="rect" id="node25" href="$d9/d30/classproject_1_1_project_library.html#a1e29f19ed2c107f51630ad26f1640083" title="project::ProjectLibrary\l::addElement" alt="" coords="429,319,579,366"/>
-<area shape="rect" id="node27" href="$d2/d05/classproject_1_1_project.html#ac7d08ce581d4e4a78c488c12c30d1120" title="The constructor to create or open a project with all its content. " alt="" coords="425,389,583,419"/>
+<area shape="rect" id="node25" href="$d2/d05/classproject_1_1_project.html#ac7d08ce581d4e4a78c488c12c30d1120" title="The constructor to create or open a project with all its content. " alt="" coords="425,320,583,349"/>
 <area shape="rect" id="node9" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" title="library::LibraryBaseElement\l::readFromFile" alt="" coords="647,93,828,139"/>
 <area shape="rect" id="node19" href="$d1/dd6/classproject_1_1_erc_msg_list.html#a5d9cb0a79e8e14d8d02c3b1388935eb2" title="project::ErcMsgList\l::restoreIgnoreState" alt="" coords="669,162,805,209"/>
 <area shape="rect" id="node11" href="$da/dae/classlibrary_1_1_model3_d.html#ac8b4ef6474fe7628b5bbfaae0ca72217" title="library::Model3D::Model3D" alt="" coords="883,5,1059,35"/>

@@ -24,13 +24,13 @@
 <area shape="rect" id="node55" href="$db/deb/class_smart_text_file.html" title="The SmartTextFile class represents a text file and provides access to its content. " alt="" coords="1929,1961,2060,2202"/>
 <area shape="rect" id="node29" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="2548,5,2727,541"/>
 <area shape="rect" id="node65" href="$d9/d57/class_file_lock.html" title="This class can be used to implement file&#45;based file locks. " alt="" coords="2491,1633,2653,1892"/>
-<area shape="rect" id="node68" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="2924,4811,3129,5624"/>
+<area shape="rect" id="node68" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="2913,4724,3129,5711"/>
 <area shape="rect" id="node78" href="$d5/d56/class_workspace.html" title="The Workspace class represents a workspace with all its data (library, projects, settings, ...) " alt="" coords="3320,2548,3584,3015"/>
 <area shape="rect" id="node83" href="$de/d02/classlibrary_1_1_library.html" title="The Library class. " alt="" coords="3197,1029,3445,1565"/>
 <area shape="rect" id="node86" href="$de/d52/class_workspace_settings.html" title="The WorkspaceSettings class manages all workspace related settings (and more) " alt="" coords="4267,1590,4464,1935"/>
 <area shape="rect" id="node119" href="$db/d9c/class_project_tree_item.html" title="The ProjectTreeItem class. " alt="" coords="3025,643,3167,1005"/>
 <area shape="rect" id="node47" href="$d1/d2c/classproject_1_1_board_layer_provider.html" title="The BoardLayerProvider class provides and manages all available board layers which are used in the pr..." alt="" coords="2347,5114,2509,5321"/>
-<area shape="rect" id="node51" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="2708,5114,2900,5321"/>
+<area shape="rect" id="node51" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="2697,5114,2889,5321"/>
 <area shape="rect" id="node143" href="$dc/d67/classproject_1_1_erc_msg.html" title="The ErcMsg class represents a message in the ERC (Electrical Rule Check) list. " alt="" coords="961,5838,1081,6253"/>
 <area shape="rect" id="node33" href="$d9/d41/class_i_f___attribute_provider.html" title="The IF_AttributeProvider class defines an interface for classes which provides some attributes which ..." alt="" coords="1613,2687,1835,2876"/>
 <area shape="rect" id="node35" href="$d5/d3f/class_i_f___schematic_layer_provider.html" title="The IF_SchematicLayerProvider class defines an interface for classes which provide schematic layers..." alt="" coords="2740,2704,2951,2859"/>

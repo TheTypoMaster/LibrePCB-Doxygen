@@ -5,6 +5,5 @@
 <area shape="rect" id="node9" href="$da/d7d/class_debug.html#abf99ba3cfe818f23590097b74f16b3ef" title="Set the debug level for the log file. " alt="" coords="156,213,353,243"/>
 <area shape="rect" id="node11" href="$d9/d57/class_file_lock.html#aa81aed607133209dade63a226818224d" title="Lock the specified file (create/update the lock file) " alt="" coords="204,267,305,296"/>
 <area shape="rect" id="node13" href="$d1/d7f/class_smart_file.html#a3d8fdc7779d16c086f29129e2fd52dd3" title="Prepare to save the file and return the filepath to the file. " alt="" coords="164,319,345,366"/>
-<area shape="rect" id="node15" href="$d9/d30/classproject_1_1_project_library.html#a6fd6a1458d1adb6ca6e52f012316943d" title="project::ProjectLibrary\l::removeElement" alt="" coords="180,389,329,435"/>
-<area shape="rect" id="node17" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#adfd98cfc3245571b0c2b05c7c1c9f3c9" title="project::SES_AddComponents\l::startAddingComponent" alt="" coords="155,458,355,505"/>
+<area shape="rect" id="node15" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" title="library::LibraryBaseElement\l::getDirectory" alt="" coords="164,389,345,435"/>
 </map>

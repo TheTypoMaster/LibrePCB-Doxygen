@@ -1,5 +1,17 @@
 var NAVTREEINDEX20 =
 {
+"de/d52/class_workspace_settings.html#a4dddba976f1d068a5ded41cc3e8a813e":[3,0,153,24],
+"de/d52/class_workspace_settings.html#a56483cfdfc5c000ec686209d2136e8f6":[3,0,153,15],
+"de/d52/class_workspace_settings.html#a5bc0f0d3031418d5afd33af2d41e076e":[3,0,153,12],
+"de/d52/class_workspace_settings.html#a63fe84285787b2e4b01412fbd96e3e57":[3,0,153,25],
+"de/d52/class_workspace_settings.html#a72d1ebc6c2eb79af040e45be547422d1":[3,0,153,18],
+"de/d52/class_workspace_settings.html#a89db108216386abbdb034844da9485c9":[3,0,153,0],
+"de/d52/class_workspace_settings.html#a97726cdd347a141c08af042e9c0922aa":[3,0,153,1],
+"de/d52/class_workspace_settings.html#a98d5936db3d45501d9c17dd4c310ecaa":[3,0,153,21],
+"de/d52/class_workspace_settings.html#aa8dce192d4178a1f7fcc2db5825bcd17":[3,0,153,8],
+"de/d52/class_workspace_settings.html#aa9f0124a076e4ac7b0525170b0eccfdd":[3,0,153,7],
+"de/d52/class_workspace_settings.html#ab40cb9ff5e69944f40f376af56cf63a8":[3,0,153,17],
+"de/d52/class_workspace_settings.html#ad1d507e6e68d4b8bd40982b78da7c5bd":[3,0,153,3],
 "de/d52/class_workspace_settings.html#ad59385e2b83064738e8974bbe8195cb4":[3,0,153,11],
 "de/d52/class_workspace_settings.html#ad6f862900c4957afe9c8173224cdb9a2":[3,0,153,13],
 "de/d52/class_workspace_settings.html#ae618bffea0533f54ce89366010d6d842":[3,0,153,10],
@@ -237,17 +249,5 @@ var NAVTREEINDEX20 =
 "df/d64/classproject_1_1_s_e_s___draw_wire.html#a015bbdd4f3fe9cee3a8da3fb369c8afeaefd3d7d88f5386c9c6dd58ae0ee5cc2b":[3,0,2,93,1,2],
 "df/d64/classproject_1_1_s_e_s___draw_wire.html#a03cc65e01360f705c6879474739afe60":[3,0,2,93,23],
 "df/d64/classproject_1_1_s_e_s___draw_wire.html#a058e178be2165cf47e16745d82b59452":[3,0,2,93,7],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a0b1d485febfa0140b5dfa8d297d3211d":[3,0,2,93,34],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a27b96384a298f509db75fc10950bc40a":[3,0,2,93,19],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a2ea0411f2205f268018013128e972f79":[3,0,2,93,31],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a345589f181e5a36cf41f51ae499c1136":[3,0,2,93,22],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a34d0f0c7195141ec0256cfb3d2eabd3c":[3,0,2,93,25],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a3b9ee41683706e488c9a65c500558b76":[3,0,2,93,4],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a40aa441f590854f158d711bf3ca12900":[3,0,2,93,2],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a484e9fd34b81af881673834d2eb20cdf":[3,0,2,93,24],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a4f629dfad14979f70dd1b8374c881d35":[3,0,2,93,15],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a5f6816d46dd379b7dcdd5c1bfc14df11":[3,0,2,93,33],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a625d6af68a91adbc27a357f0fcc08245":[3,0,2,93,26],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a6775c8020916cc076a279c2d80bd7403":[3,0,2,93,8],
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a6779daf31fbe653c1b13166fa4e8f332":[3,0,2,93,18]
+"df/d64/classproject_1_1_s_e_s___draw_wire.html#a0b1d485febfa0140b5dfa8d297d3211d":[3,0,2,93,34]
 };

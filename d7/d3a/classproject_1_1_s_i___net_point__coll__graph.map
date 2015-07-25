@@ -13,7 +13,7 @@
 <area shape="rect" id="node94" href="$d0/dfd/classlibrary_1_1_symbol_pin.html" title="The SymbolPin class. " alt="" coords="769,9033,972,9482"/>
 <area shape="rect" id="node100" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html" title="The GenCompSignalInstance class. " alt="" coords="1680,9015,1898,9499"/>
 <area shape="rect" id="node104" href="$de/d67/classproject_1_1_gen_comp_instance.html" title="The GenCompInstance class. " alt="" coords="701,6459,944,7290"/>
-<area shape="rect" id="node113" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="202,2236,405,2980"/>
+<area shape="rect" id="node113" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="202,2210,405,3006"/>
 <area shape="rect" id="node120" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html" title="The GenCompSymbVar class. " alt="" coords="642,3187,845,3741"/>
 <area shape="rect" id="node123" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html" title="The GenCompSignal class. " alt="" coords="1533,8030,1736,8687"/>
 <area shape="rect" id="node127" href="$d3/d93/classproject_1_1_net_signal.html" title="The NetSignal class. " alt="" coords="2114,8030,2328,8687"/>
@@ -26,7 +26,7 @@
 <area shape="rect" id="node41" href="$db/deb/class_smart_text_file.html" title="The SmartTextFile class represents a text file and provides access to its content. " alt="" coords="2806,1787,2937,2029"/>
 <area shape="rect" id="node15" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="2713,5,2892,541"/>
 <area shape="rect" id="node51" href="$d9/d57/class_file_lock.html" title="This class can be used to implement file&#45;based file locks. " alt="" coords="3077,1013,3240,1272"/>
-<area shape="rect" id="node54" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="3741,5432,3946,6245"/>
+<area shape="rect" id="node54" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="3736,5345,3952,6332"/>
 <area shape="rect" id="node33" href="$d1/d2c/classproject_1_1_board_layer_provider.html" title="The BoardLayerProvider class provides and manages all available board layers which are used in the pr..." alt="" coords="3153,5735,3316,5942"/>
 <area shape="rect" id="node37" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="3340,5735,3532,5942"/>
 <area shape="rect" id="node19" href="$d9/d41/class_i_f___attribute_provider.html" title="The IF_AttributeProvider class defines an interface for classes which provides some attributes which ..." alt="" coords="728,2513,949,2703"/>

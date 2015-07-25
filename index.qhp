@@ -126,8 +126,8 @@
               <section title="parseDomTree" ref="da/dc5/classlibrary_1_1_component_category.html#ad6c2bb438fe200b1224b2d8e05d3eca0" />
             </section>
             <section title="LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html">
-              <section title="LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a553d0f4063ad619b7e0bf783d7ddc6c5" />
-              <section title="LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a1e58fdc0162b26cfdda61f9d87b49cb3" />
+              <section title="LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a219f60cf844315121b009fbbf9eb7ae1" />
+              <section title="LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a43097da48309786e4f64eb08cc2b5ba4" />
               <section title="~LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a7ba02fe2816e369993b39d89497eb4c9" />
               <section title="LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a963dafc2f1bb9c678518c14878c2737b" />
               <section title="getParentUuid" ref="d3/d60/classlibrary_1_1_library_category.html#af532776da64a60302141529982cf0cd8" />
@@ -540,11 +540,12 @@
               <section title="mLibDatabase" ref="de/d02/classlibrary_1_1_library.html#a0b4abecb5f5e31d104306f7ed59e6a93" />
             </section>
             <section title="LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html">
-              <section title="LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-              <section title="LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+              <section title="LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+              <section title="LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
               <section title="~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
               <section title="LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a357438bf0fffd28c4a559e9b6f3f6bf3" />
               <section title="getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+              <section title="getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
               <section title="getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
               <section title="getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
               <section title="getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -563,7 +564,8 @@
               <section title="setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
               <section title="setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
               <section title="setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-              <section title="saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+              <section title="save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+              <section title="saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
               <section title="readLocaleDomNodes" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6082cb826f55941403d9bf4fb771928f" />
               <section title="localeStringFromList" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" />
               <section title="operator=" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a462cb51b6f044aee8d72d1c3716c2c7c" />
@@ -572,6 +574,7 @@
               <section title="serializeToXmlDomElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a8747acbd54e52d4fcb3bb74f1bb2a88a" />
               <section title="checkAttributesValidity" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a524ed0dd8a5522b754411728dfe5c752" />
               <section title="mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+              <section title="mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
               <section title="mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
               <section title="mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
               <section title="mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -584,8 +587,8 @@
               <section title="mKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad9e66099bae19a9c85454e0ea7ebce4c" />
             </section>
             <section title="LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html">
-              <section title="LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a1b112824a2a84dd39b352b03a0e57477" />
-              <section title="LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a443e60e056a3af0daee5fd89141b8f9e" />
+              <section title="LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af2a7ac2cbebfd7027f08e2cc1d77a73a" />
+              <section title="LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a7a13a385a08271727182fb6f273540ab" />
               <section title="~LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af3b9ff17f437fcfc0e88ed2c7d4b0ecc" />
               <section title="LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a8cc4633630d022bc36d2dab809e026b9" />
               <section title="getCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" />
@@ -1571,20 +1574,20 @@
               <section title="getErcMsgOwnerClassName" ref="d7/d3c/classproject_1_1_i_f___erc_msg_provider.html#a57d33ba67895488b2b30dd1abe2ebc13" />
             </section>
             <section title="CmdProjectLibraryAddElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html">
-              <section title="CmdProjectLibraryAddElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a897399bd6c30ee8bbfb1bcc9f79bb4b0" />
+              <section title="CmdProjectLibraryAddElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a1cfb7db19ef84523916cfea95a156cf6" />
               <section title="~CmdProjectLibraryAddElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64dbbe233c68a889034b681b5ad91242" />
-              <section title="getElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#ab54678f9a8e1759a9a4a872419a0275c" />
+              <section title="getElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a0dc2ad559a4eb71671428a8eca77ced6" />
               <section title="redo" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a91ca7652063093da57fc1bd0141dcc95" />
               <section title="undo" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a19e8778088bfe76b16745470981bb913" />
-              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a2f2932c4f0131dd7c07a973c706f2da5" />
+              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a82ceff5e08f30d6e1584a341d8688253" />
               <section title="removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a9e4323d6525d2662dcf66baf1264eb52" />
-              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#aa7bb5cb19365a9adbff076af5010f5d1" />
-              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a6e60b1ab76b9185a13defc364b520c72" />
-              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a02e28e2063ac6f883fd8e9d89b1c629b" />
-              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#afad126e27dd8b94920a0cde17537976a" />
-              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a798fbef7e1e8e047852151ede29e7b15" />
-              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a76bc19db599a319ff8d704494cea1773" />
-              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#aeeb47c120f0ce47c4dc7a16fa358424a" />
+              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+              <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
               <section title="removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
               <section title="removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
               <section title="removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
@@ -1593,8 +1596,7 @@
               <section title="removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
               <section title="removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
               <section title="mLibrary" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a38e6a0344d0da2898a9cbb91d480162b" />
-              <section title="mElemDirPath" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a1b9adc5213a0040214f9c9e4c9763a4d" />
-              <section title="mElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a355d692938e617ce6006e4d0f77b491d" />
+              <section title="mElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#abdec4531760c019bc2649fd7919206ab" />
             </section>
             <section title="ProjectLibrary" ref="d9/d30/classproject_1_1_project_library.html">
               <section title="ProjectLibrary" ref="d9/d30/classproject_1_1_project_library.html#ab99edc081898954e244075ff57df0876" />
@@ -1616,24 +1618,27 @@
               <section title="getGenComp" ref="d9/d30/classproject_1_1_project_library.html#abcd6b7bbffadd253c66d10d46fa4a46f" />
               <section title="getComponent" ref="d9/d30/classproject_1_1_project_library.html#a8a9dbd8d8b4d469c974dea2808d62eb1" />
               <section title="getComponentsOfGenComp" ref="d9/d30/classproject_1_1_project_library.html#acc16ec02378a1c17f0b883ff8002e402" />
-              <section title="addSymbol" ref="d9/d30/classproject_1_1_project_library.html#aa4bf7287598a49ad15ad7afecdc7d60f" />
-              <section title="addFootprint" ref="d9/d30/classproject_1_1_project_library.html#ade03a1ae2c663e5864cd5059eed47c85" />
-              <section title="add3dModel" ref="d9/d30/classproject_1_1_project_library.html#a2aa02d6e73119a7a756f3364f081925c" />
-              <section title="addSpiceModel" ref="d9/d30/classproject_1_1_project_library.html#a70c919fb9dfdbdb0b68fc473a510f7c3" />
-              <section title="addPackage" ref="d9/d30/classproject_1_1_project_library.html#ad675b539acb340dc9add329456d85ba5" />
-              <section title="addGenComp" ref="d9/d30/classproject_1_1_project_library.html#a405d7798449e2291c6209f686a168841" />
-              <section title="addComp" ref="d9/d30/classproject_1_1_project_library.html#ae2c80f2f98fa4cd1240c4f44e6bed40d" />
-              <section title="removeSymbol" ref="d9/d30/classproject_1_1_project_library.html#ace4a0f2b0a4be6a75771ac1913f817e1" />
-              <section title="removeFootprint" ref="d9/d30/classproject_1_1_project_library.html#a0b5b2a479baf11a30083c8e5d12e6467" />
-              <section title="remove3dModel" ref="d9/d30/classproject_1_1_project_library.html#a706d3b529949bf4eafb4f328fb0dfe60" />
-              <section title="removeSpiceModel" ref="d9/d30/classproject_1_1_project_library.html#ae206493a036b76a9656028010f6d8e40" />
-              <section title="removePackage" ref="d9/d30/classproject_1_1_project_library.html#a7929e87a9e9a1597633f9f84ba528a8a" />
-              <section title="removeGenComp" ref="d9/d30/classproject_1_1_project_library.html#a65e8947731d7732c8f4563bea94e27cb" />
-              <section title="removeComp" ref="d9/d30/classproject_1_1_project_library.html#acffba7b156f5071e1a210f68a11b9c30" />
+              <section title="addSymbol" ref="d9/d30/classproject_1_1_project_library.html#ac9104c3fab1431a4ad642b6cf8e4acf9" />
+              <section title="addFootprint" ref="d9/d30/classproject_1_1_project_library.html#aff43a80caf76a47a084aa982d39a19e7" />
+              <section title="add3dModel" ref="d9/d30/classproject_1_1_project_library.html#a7b30fd1f84b2fcea7bf2c02f15e85aa7" />
+              <section title="addSpiceModel" ref="d9/d30/classproject_1_1_project_library.html#a3dc43c76d9c7daeb8903db9875696067" />
+              <section title="addPackage" ref="d9/d30/classproject_1_1_project_library.html#aeed066b2c03fe41c549a422ab06ebf38" />
+              <section title="addGenComp" ref="d9/d30/classproject_1_1_project_library.html#adb3848508e357c8afbdab71c10ea31bd" />
+              <section title="addComp" ref="d9/d30/classproject_1_1_project_library.html#a75952e92646170c192cecc7bb6388d0c" />
+              <section title="removeSymbol" ref="d9/d30/classproject_1_1_project_library.html#ae71b55e1417bbbef939007353327f7a3" />
+              <section title="removeFootprint" ref="d9/d30/classproject_1_1_project_library.html#a1de260929a258fae712326a7851f1684" />
+              <section title="remove3dModel" ref="d9/d30/classproject_1_1_project_library.html#a969003aaef2dce29eaee8dcc8a09b84e" />
+              <section title="removeSpiceModel" ref="d9/d30/classproject_1_1_project_library.html#afdaaeed198b0d64c0a92d9d9885926f7" />
+              <section title="removePackage" ref="d9/d30/classproject_1_1_project_library.html#a03fd99b2cff7ea7e410b3bf2d31254a6" />
+              <section title="removeGenComp" ref="d9/d30/classproject_1_1_project_library.html#ac3a69ab343e36eede637f8d52da0ec66" />
+              <section title="removeComp" ref="d9/d30/classproject_1_1_project_library.html#a3537c590a35f8d5977466bc68e81ef3a" />
+              <section title="save" ref="d9/d30/classproject_1_1_project_library.html#aa0776eb8c171dfda592a8314a410c63f" />
               <section title="operator=" ref="d9/d30/classproject_1_1_project_library.html#a9c18af2fb1fad1ae6f6dc1c04e806de6" />
               <section title="loadElements" ref="d9/d30/classproject_1_1_project_library.html#a66be7fb27dfb9ffcd6333afaff0c8d77" />
-              <section title="addElement" ref="d9/d30/classproject_1_1_project_library.html#a1e29f19ed2c107f51630ad26f1640083" />
-              <section title="removeElement" ref="d9/d30/classproject_1_1_project_library.html#a6fd6a1458d1adb6ca6e52f012316943d" />
+              <section title="addElement" ref="d9/d30/classproject_1_1_project_library.html#a0dc3b74578e884d811ae60a73171cdd8" />
+              <section title="removeElement" ref="d9/d30/classproject_1_1_project_library.html#a196929454cd3a3090cd8e5e0cb202e28" />
+              <section title="saveElements" ref="d9/d30/classproject_1_1_project_library.html#a00513ba22368a54960a812c22b60ec54" />
+              <section title="cleanupRemovedElements" ref="d9/d30/classproject_1_1_project_library.html#a667bb57d27cca68430c11ea655c1df31" />
               <section title="mProject" ref="d9/d30/classproject_1_1_project_library.html#a9887e07d0b08a071e02e6d1fd6cf9ab9" />
               <section title="mLibraryPath" ref="d9/d30/classproject_1_1_project_library.html#a37cd53cc207d06e1f3146b14de4078b1" />
               <section title="mSymbols" ref="d9/d30/classproject_1_1_project_library.html#a22ad5e56ecfc7310bb83f1b8e9d1002a" />
@@ -1643,6 +1648,13 @@
               <section title="mPackages" ref="d9/d30/classproject_1_1_project_library.html#a59e608d377c8b55a22ffc3fdbccf34ec" />
               <section title="mGenericComponents" ref="d9/d30/classproject_1_1_project_library.html#a7a421a941aea20864068e513cc62056b" />
               <section title="mComponents" ref="d9/d30/classproject_1_1_project_library.html#a1b9d6535386374c184c946601433cca6" />
+              <section title="mRemovedSymbols" ref="d9/d30/classproject_1_1_project_library.html#ab4e641e1e5c01f4ca9bc2428b7efa81c" />
+              <section title="mRemovedFootprints" ref="d9/d30/classproject_1_1_project_library.html#a059ce75c9d7b7eb2bcce5c3676167b42" />
+              <section title="mRemovedModels" ref="d9/d30/classproject_1_1_project_library.html#a0f21fbb1464903ad8fa1dc0c440dedd2" />
+              <section title="mRemovedSpiceModels" ref="d9/d30/classproject_1_1_project_library.html#a40f9fbc04291f743e50834d8d726ccee" />
+              <section title="mRemovedPackages" ref="d9/d30/classproject_1_1_project_library.html#a0cc1473abaee10d3f1ee36c534c3a6bc" />
+              <section title="mRemovedGenericComponents" ref="d9/d30/classproject_1_1_project_library.html#a6d2dcec89fcfc9e160b07d81076d6d54" />
+              <section title="mRemovedComponents" ref="d9/d30/classproject_1_1_project_library.html#abb564c0a8305af694be265cf5768de9b" />
             </section>
             <section title="Project" ref="d2/d05/classproject_1_1_project.html">
               <section title="Project" ref="d2/d05/classproject_1_1_project.html#afaa925d29f66885dcadcf748bef1fc88" />
@@ -6989,8 +7001,8 @@
                 <section title="librarycategory.cpp" ref="d9/dab/librarycategory_8cpp.html" />
                 <section title="librarycategory.h" ref="d1/db7/librarycategory_8h.html">
                   <section title="LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html">
-                    <section title="LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a553d0f4063ad619b7e0bf783d7ddc6c5" />
-                    <section title="LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a1e58fdc0162b26cfdda61f9d87b49cb3" />
+                    <section title="LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a219f60cf844315121b009fbbf9eb7ae1" />
+                    <section title="LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a43097da48309786e4f64eb08cc2b5ba4" />
                     <section title="~LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a7ba02fe2816e369993b39d89497eb4c9" />
                     <section title="LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a963dafc2f1bb9c678518c14878c2737b" />
                     <section title="getParentUuid" ref="d3/d60/classlibrary_1_1_library_category.html#af532776da64a60302141529982cf0cd8" />
@@ -7866,11 +7878,12 @@
               <section title="librarybaseelement.cpp" ref="d2/dca/librarybaseelement_8cpp.html" />
               <section title="librarybaseelement.h" ref="de/dd7/librarybaseelement_8h.html">
                 <section title="LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html">
-                  <section title="LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-                  <section title="LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+                  <section title="LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+                  <section title="LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
                   <section title="~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
                   <section title="LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a357438bf0fffd28c4a559e9b6f3f6bf3" />
                   <section title="getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+                  <section title="getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
                   <section title="getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
                   <section title="getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
                   <section title="getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -7889,7 +7902,8 @@
                   <section title="setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
                   <section title="setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
                   <section title="setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-                  <section title="saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+                  <section title="save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+                  <section title="saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
                   <section title="readLocaleDomNodes" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6082cb826f55941403d9bf4fb771928f" />
                   <section title="localeStringFromList" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" />
                   <section title="operator=" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a462cb51b6f044aee8d72d1c3716c2c7c" />
@@ -7898,6 +7912,7 @@
                   <section title="serializeToXmlDomElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a8747acbd54e52d4fcb3bb74f1bb2a88a" />
                   <section title="checkAttributesValidity" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a524ed0dd8a5522b754411728dfe5c752" />
                   <section title="mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+                  <section title="mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
                   <section title="mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
                   <section title="mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
                   <section title="mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -7913,8 +7928,8 @@
               <section title="libraryelement.cpp" ref="d2/d13/libraryelement_8cpp.html" />
               <section title="libraryelement.h" ref="d0/db0/libraryelement_8h.html">
                 <section title="LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html">
-                  <section title="LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a1b112824a2a84dd39b352b03a0e57477" />
-                  <section title="LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a443e60e056a3af0daee5fd89141b8f9e" />
+                  <section title="LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af2a7ac2cbebfd7027f08e2cc1d77a73a" />
+                  <section title="LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a7a13a385a08271727182fb6f273540ab" />
                   <section title="~LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af3b9ff17f437fcfc0e88ed2c7d4b0ecc" />
                   <section title="LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a8cc4633630d022bc36d2dab809e026b9" />
                   <section title="getCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" />
@@ -8825,20 +8840,20 @@
                   <section title="cmdprojectlibraryaddelement.cpp" ref="da/d6c/cmdprojectlibraryaddelement_8cpp.html" />
                   <section title="cmdprojectlibraryaddelement.h" ref="d9/d27/cmdprojectlibraryaddelement_8h.html">
                     <section title="CmdProjectLibraryAddElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html">
-                      <section title="CmdProjectLibraryAddElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a897399bd6c30ee8bbfb1bcc9f79bb4b0" />
+                      <section title="CmdProjectLibraryAddElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a1cfb7db19ef84523916cfea95a156cf6" />
                       <section title="~CmdProjectLibraryAddElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64dbbe233c68a889034b681b5ad91242" />
-                      <section title="getElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#ab54678f9a8e1759a9a4a872419a0275c" />
+                      <section title="getElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a0dc2ad559a4eb71671428a8eca77ced6" />
                       <section title="redo" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a91ca7652063093da57fc1bd0141dcc95" />
                       <section title="undo" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a19e8778088bfe76b16745470981bb913" />
-                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a2f2932c4f0131dd7c07a973c706f2da5" />
+                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a82ceff5e08f30d6e1584a341d8688253" />
                       <section title="removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a9e4323d6525d2662dcf66baf1264eb52" />
-                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#aa7bb5cb19365a9adbff076af5010f5d1" />
-                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a6e60b1ab76b9185a13defc364b520c72" />
-                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a02e28e2063ac6f883fd8e9d89b1c629b" />
-                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#afad126e27dd8b94920a0cde17537976a" />
-                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a798fbef7e1e8e047852151ede29e7b15" />
-                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a76bc19db599a319ff8d704494cea1773" />
-                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#aeeb47c120f0ce47c4dc7a16fa358424a" />
+                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+                      <section title="addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
                       <section title="removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
                       <section title="removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
                       <section title="removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
@@ -8847,8 +8862,7 @@
                       <section title="removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
                       <section title="removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
                       <section title="mLibrary" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a38e6a0344d0da2898a9cbb91d480162b" />
-                      <section title="mElemDirPath" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a1b9adc5213a0040214f9c9e4c9763a4d" />
-                      <section title="mElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a355d692938e617ce6006e4d0f77b491d" />
+                      <section title="mElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#abdec4531760c019bc2649fd7919206ab" />
                     </section>
                   </section>
                 </section>
@@ -8874,24 +8888,27 @@
                     <section title="getGenComp" ref="d9/d30/classproject_1_1_project_library.html#abcd6b7bbffadd253c66d10d46fa4a46f" />
                     <section title="getComponent" ref="d9/d30/classproject_1_1_project_library.html#a8a9dbd8d8b4d469c974dea2808d62eb1" />
                     <section title="getComponentsOfGenComp" ref="d9/d30/classproject_1_1_project_library.html#acc16ec02378a1c17f0b883ff8002e402" />
-                    <section title="addSymbol" ref="d9/d30/classproject_1_1_project_library.html#aa4bf7287598a49ad15ad7afecdc7d60f" />
-                    <section title="addFootprint" ref="d9/d30/classproject_1_1_project_library.html#ade03a1ae2c663e5864cd5059eed47c85" />
-                    <section title="add3dModel" ref="d9/d30/classproject_1_1_project_library.html#a2aa02d6e73119a7a756f3364f081925c" />
-                    <section title="addSpiceModel" ref="d9/d30/classproject_1_1_project_library.html#a70c919fb9dfdbdb0b68fc473a510f7c3" />
-                    <section title="addPackage" ref="d9/d30/classproject_1_1_project_library.html#ad675b539acb340dc9add329456d85ba5" />
-                    <section title="addGenComp" ref="d9/d30/classproject_1_1_project_library.html#a405d7798449e2291c6209f686a168841" />
-                    <section title="addComp" ref="d9/d30/classproject_1_1_project_library.html#ae2c80f2f98fa4cd1240c4f44e6bed40d" />
-                    <section title="removeSymbol" ref="d9/d30/classproject_1_1_project_library.html#ace4a0f2b0a4be6a75771ac1913f817e1" />
-                    <section title="removeFootprint" ref="d9/d30/classproject_1_1_project_library.html#a0b5b2a479baf11a30083c8e5d12e6467" />
-                    <section title="remove3dModel" ref="d9/d30/classproject_1_1_project_library.html#a706d3b529949bf4eafb4f328fb0dfe60" />
-                    <section title="removeSpiceModel" ref="d9/d30/classproject_1_1_project_library.html#ae206493a036b76a9656028010f6d8e40" />
-                    <section title="removePackage" ref="d9/d30/classproject_1_1_project_library.html#a7929e87a9e9a1597633f9f84ba528a8a" />
-                    <section title="removeGenComp" ref="d9/d30/classproject_1_1_project_library.html#a65e8947731d7732c8f4563bea94e27cb" />
-                    <section title="removeComp" ref="d9/d30/classproject_1_1_project_library.html#acffba7b156f5071e1a210f68a11b9c30" />
+                    <section title="addSymbol" ref="d9/d30/classproject_1_1_project_library.html#ac9104c3fab1431a4ad642b6cf8e4acf9" />
+                    <section title="addFootprint" ref="d9/d30/classproject_1_1_project_library.html#aff43a80caf76a47a084aa982d39a19e7" />
+                    <section title="add3dModel" ref="d9/d30/classproject_1_1_project_library.html#a7b30fd1f84b2fcea7bf2c02f15e85aa7" />
+                    <section title="addSpiceModel" ref="d9/d30/classproject_1_1_project_library.html#a3dc43c76d9c7daeb8903db9875696067" />
+                    <section title="addPackage" ref="d9/d30/classproject_1_1_project_library.html#aeed066b2c03fe41c549a422ab06ebf38" />
+                    <section title="addGenComp" ref="d9/d30/classproject_1_1_project_library.html#adb3848508e357c8afbdab71c10ea31bd" />
+                    <section title="addComp" ref="d9/d30/classproject_1_1_project_library.html#a75952e92646170c192cecc7bb6388d0c" />
+                    <section title="removeSymbol" ref="d9/d30/classproject_1_1_project_library.html#ae71b55e1417bbbef939007353327f7a3" />
+                    <section title="removeFootprint" ref="d9/d30/classproject_1_1_project_library.html#a1de260929a258fae712326a7851f1684" />
+                    <section title="remove3dModel" ref="d9/d30/classproject_1_1_project_library.html#a969003aaef2dce29eaee8dcc8a09b84e" />
+                    <section title="removeSpiceModel" ref="d9/d30/classproject_1_1_project_library.html#afdaaeed198b0d64c0a92d9d9885926f7" />
+                    <section title="removePackage" ref="d9/d30/classproject_1_1_project_library.html#a03fd99b2cff7ea7e410b3bf2d31254a6" />
+                    <section title="removeGenComp" ref="d9/d30/classproject_1_1_project_library.html#ac3a69ab343e36eede637f8d52da0ec66" />
+                    <section title="removeComp" ref="d9/d30/classproject_1_1_project_library.html#a3537c590a35f8d5977466bc68e81ef3a" />
+                    <section title="save" ref="d9/d30/classproject_1_1_project_library.html#aa0776eb8c171dfda592a8314a410c63f" />
                     <section title="operator=" ref="d9/d30/classproject_1_1_project_library.html#a9c18af2fb1fad1ae6f6dc1c04e806de6" />
                     <section title="loadElements" ref="d9/d30/classproject_1_1_project_library.html#a66be7fb27dfb9ffcd6333afaff0c8d77" />
-                    <section title="addElement" ref="d9/d30/classproject_1_1_project_library.html#a1e29f19ed2c107f51630ad26f1640083" />
-                    <section title="removeElement" ref="d9/d30/classproject_1_1_project_library.html#a6fd6a1458d1adb6ca6e52f012316943d" />
+                    <section title="addElement" ref="d9/d30/classproject_1_1_project_library.html#a0dc3b74578e884d811ae60a73171cdd8" />
+                    <section title="removeElement" ref="d9/d30/classproject_1_1_project_library.html#a196929454cd3a3090cd8e5e0cb202e28" />
+                    <section title="saveElements" ref="d9/d30/classproject_1_1_project_library.html#a00513ba22368a54960a812c22b60ec54" />
+                    <section title="cleanupRemovedElements" ref="d9/d30/classproject_1_1_project_library.html#a667bb57d27cca68430c11ea655c1df31" />
                     <section title="mProject" ref="d9/d30/classproject_1_1_project_library.html#a9887e07d0b08a071e02e6d1fd6cf9ab9" />
                     <section title="mLibraryPath" ref="d9/d30/classproject_1_1_project_library.html#a37cd53cc207d06e1f3146b14de4078b1" />
                     <section title="mSymbols" ref="d9/d30/classproject_1_1_project_library.html#a22ad5e56ecfc7310bb83f1b8e9d1002a" />
@@ -8901,6 +8918,13 @@
                     <section title="mPackages" ref="d9/d30/classproject_1_1_project_library.html#a59e608d377c8b55a22ffc3fdbccf34ec" />
                     <section title="mGenericComponents" ref="d9/d30/classproject_1_1_project_library.html#a7a421a941aea20864068e513cc62056b" />
                     <section title="mComponents" ref="d9/d30/classproject_1_1_project_library.html#a1b9d6535386374c184c946601433cca6" />
+                    <section title="mRemovedSymbols" ref="d9/d30/classproject_1_1_project_library.html#ab4e641e1e5c01f4ca9bc2428b7efa81c" />
+                    <section title="mRemovedFootprints" ref="d9/d30/classproject_1_1_project_library.html#a059ce75c9d7b7eb2bcce5c3676167b42" />
+                    <section title="mRemovedModels" ref="d9/d30/classproject_1_1_project_library.html#a0f21fbb1464903ad8fa1dc0c440dedd2" />
+                    <section title="mRemovedSpiceModels" ref="d9/d30/classproject_1_1_project_library.html#a40f9fbc04291f743e50834d8d726ccee" />
+                    <section title="mRemovedPackages" ref="d9/d30/classproject_1_1_project_library.html#a0cc1473abaee10d3f1ee36c534c3a6bc" />
+                    <section title="mRemovedGenericComponents" ref="d9/d30/classproject_1_1_project_library.html#a6d2dcec89fcfc9e160b07d81076d6d54" />
+                    <section title="mRemovedComponents" ref="d9/d30/classproject_1_1_project_library.html#abb564c0a8305af694be265cf5768de9b" />
                   </section>
                 </section>
               </section>
@@ -14141,14 +14165,15 @@
       <keyword name="library::Model3D" id="library::Model3D" ref="da/dae/classlibrary_1_1_model3_d.html" />
       <keyword name="Model3D" id="library::Model3D::Model3D" ref="da/dae/classlibrary_1_1_model3_d.html#ac8b4ef6474fe7628b5bbfaae0ca72217" />
       <keyword name="~Model3D" id="library::Model3D::~Model3D" ref="da/dae/classlibrary_1_1_model3_d.html#ad96b2ce79bcef9c7f5001967dddac30b" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a1b112824a2a84dd39b352b03a0e57477" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a443e60e056a3af0daee5fd89141b8f9e" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af2a7ac2cbebfd7027f08e2cc1d77a73a" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a7a13a385a08271727182fb6f273540ab" />
       <keyword name="~LibraryElement" id="library::LibraryElement::~LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af3b9ff17f437fcfc0e88ed2c7d4b0ecc" />
       <keyword name="getCategories" id="library::LibraryElement::getCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
       <keyword name="~LibraryBaseElement" id="library::LibraryBaseElement::~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
       <keyword name="getXmlFilepath" id="library::LibraryBaseElement::getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+      <keyword name="getDirectory" id="library::LibraryBaseElement::getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
       <keyword name="getUuid" id="library::LibraryBaseElement::getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getVersion" id="library::LibraryBaseElement::getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
       <keyword name="getAuthor" id="library::LibraryBaseElement::getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -14167,7 +14192,8 @@
       <keyword name="setKeywords" id="library::LibraryBaseElement::setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
       <keyword name="setVersion" id="library::LibraryBaseElement::setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
       <keyword name="setAuthor" id="library::LibraryBaseElement::setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-      <keyword name="saveToFile" id="library::LibraryBaseElement::saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+      <keyword name="save" id="library::LibraryBaseElement::save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+      <keyword name="saveTo" id="library::LibraryBaseElement::saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
       <keyword name="IF_XmlSerializableObject" id="IF_XmlSerializableObject::IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67" />
       <keyword name="~IF_XmlSerializableObject" id="IF_XmlSerializableObject::~IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a5deac35137f1cb28335447f87150ca1c" />
       <keyword name="Model3D" id="library::Model3D::Model3D" ref="da/dae/classlibrary_1_1_model3_d.html#a69606b4dff44a81dd6110b34720e4571" />
@@ -14181,6 +14207,7 @@
       <keyword name="readFromFile" id="library::LibraryBaseElement::readFromFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" />
       <keyword name="mCategories" id="library::LibraryElement::mCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a81125b08ce9253590398303d60dee937" />
       <keyword name="mXmlFilepath" id="library::LibraryBaseElement::mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+      <keyword name="mXmlFileNamePrefix" id="library::LibraryBaseElement::mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
       <keyword name="mXmlRootNodeName" id="library::LibraryBaseElement::mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
       <keyword name="mDomTreeParsed" id="library::LibraryBaseElement::mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
       <keyword name="mUuid" id="library::LibraryBaseElement::mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -14227,15 +14254,16 @@
       <keyword name="library::ComponentCategory" id="library::ComponentCategory" ref="da/dc5/classlibrary_1_1_component_category.html" />
       <keyword name="ComponentCategory" id="library::ComponentCategory::ComponentCategory" ref="da/dc5/classlibrary_1_1_component_category.html#ab4f102b62e0b8f8d6c9f54ca418789c0" />
       <keyword name="~ComponentCategory" id="library::ComponentCategory::~ComponentCategory" ref="da/dc5/classlibrary_1_1_component_category.html#abcfad1f60ea87fc5aa76aa2c4e7311fa" />
-      <keyword name="LibraryCategory" id="library::LibraryCategory::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a553d0f4063ad619b7e0bf783d7ddc6c5" />
-      <keyword name="LibraryCategory" id="library::LibraryCategory::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a1e58fdc0162b26cfdda61f9d87b49cb3" />
+      <keyword name="LibraryCategory" id="library::LibraryCategory::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a219f60cf844315121b009fbbf9eb7ae1" />
+      <keyword name="LibraryCategory" id="library::LibraryCategory::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a43097da48309786e4f64eb08cc2b5ba4" />
       <keyword name="~LibraryCategory" id="library::LibraryCategory::~LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a7ba02fe2816e369993b39d89497eb4c9" />
       <keyword name="getParentUuid" id="library::LibraryCategory::getParentUuid" ref="d3/d60/classlibrary_1_1_library_category.html#af532776da64a60302141529982cf0cd8" />
       <keyword name="setParentUuid" id="library::LibraryCategory::setParentUuid" ref="d3/d60/classlibrary_1_1_library_category.html#a24dce56a3902ea46c450a0e21659d019" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
       <keyword name="~LibraryBaseElement" id="library::LibraryBaseElement::~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
       <keyword name="getXmlFilepath" id="library::LibraryBaseElement::getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+      <keyword name="getDirectory" id="library::LibraryBaseElement::getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
       <keyword name="getUuid" id="library::LibraryBaseElement::getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getVersion" id="library::LibraryBaseElement::getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
       <keyword name="getAuthor" id="library::LibraryBaseElement::getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -14254,7 +14282,8 @@
       <keyword name="setKeywords" id="library::LibraryBaseElement::setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
       <keyword name="setVersion" id="library::LibraryBaseElement::setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
       <keyword name="setAuthor" id="library::LibraryBaseElement::setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-      <keyword name="saveToFile" id="library::LibraryBaseElement::saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+      <keyword name="save" id="library::LibraryBaseElement::save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+      <keyword name="saveTo" id="library::LibraryBaseElement::saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
       <keyword name="IF_XmlSerializableObject" id="IF_XmlSerializableObject::IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67" />
       <keyword name="~IF_XmlSerializableObject" id="IF_XmlSerializableObject::~IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a5deac35137f1cb28335447f87150ca1c" />
       <keyword name="ComponentCategory" id="library::ComponentCategory::ComponentCategory" ref="da/dc5/classlibrary_1_1_component_category.html#afe3b71bb6c182d1da43e92f0086f63f8" />
@@ -14268,6 +14297,7 @@
       <keyword name="readFromFile" id="library::LibraryBaseElement::readFromFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" />
       <keyword name="mParentUuid" id="library::LibraryCategory::mParentUuid" ref="d3/d60/classlibrary_1_1_library_category.html#aed0f2b05be3ebc987c9e33dab20bc3b4" />
       <keyword name="mXmlFilepath" id="library::LibraryBaseElement::mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+      <keyword name="mXmlFileNamePrefix" id="library::LibraryBaseElement::mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
       <keyword name="mXmlRootNodeName" id="library::LibraryBaseElement::mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
       <keyword name="mDomTreeParsed" id="library::LibraryBaseElement::mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
       <keyword name="mUuid" id="library::LibraryBaseElement::mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -14279,15 +14309,16 @@
       <keyword name="mDescriptions" id="library::LibraryBaseElement::mDescriptions" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a4fc154a17bff454bba131b069594e5a3" />
       <keyword name="mKeywords" id="library::LibraryBaseElement::mKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad9e66099bae19a9c85454e0ea7ebce4c" />
       <keyword name="library::LibraryCategory" id="library::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html" />
-      <keyword name="LibraryCategory" id="library::LibraryCategory::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a553d0f4063ad619b7e0bf783d7ddc6c5" />
-      <keyword name="LibraryCategory" id="library::LibraryCategory::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a1e58fdc0162b26cfdda61f9d87b49cb3" />
+      <keyword name="LibraryCategory" id="library::LibraryCategory::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a219f60cf844315121b009fbbf9eb7ae1" />
+      <keyword name="LibraryCategory" id="library::LibraryCategory::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a43097da48309786e4f64eb08cc2b5ba4" />
       <keyword name="~LibraryCategory" id="library::LibraryCategory::~LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a7ba02fe2816e369993b39d89497eb4c9" />
       <keyword name="getParentUuid" id="library::LibraryCategory::getParentUuid" ref="d3/d60/classlibrary_1_1_library_category.html#af532776da64a60302141529982cf0cd8" />
       <keyword name="setParentUuid" id="library::LibraryCategory::setParentUuid" ref="d3/d60/classlibrary_1_1_library_category.html#a24dce56a3902ea46c450a0e21659d019" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
       <keyword name="~LibraryBaseElement" id="library::LibraryBaseElement::~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
       <keyword name="getXmlFilepath" id="library::LibraryBaseElement::getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+      <keyword name="getDirectory" id="library::LibraryBaseElement::getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
       <keyword name="getUuid" id="library::LibraryBaseElement::getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getVersion" id="library::LibraryBaseElement::getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
       <keyword name="getAuthor" id="library::LibraryBaseElement::getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -14306,7 +14337,8 @@
       <keyword name="setKeywords" id="library::LibraryBaseElement::setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
       <keyword name="setVersion" id="library::LibraryBaseElement::setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
       <keyword name="setAuthor" id="library::LibraryBaseElement::setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-      <keyword name="saveToFile" id="library::LibraryBaseElement::saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+      <keyword name="save" id="library::LibraryBaseElement::save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+      <keyword name="saveTo" id="library::LibraryBaseElement::saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
       <keyword name="IF_XmlSerializableObject" id="IF_XmlSerializableObject::IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67" />
       <keyword name="~IF_XmlSerializableObject" id="IF_XmlSerializableObject::~IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a5deac35137f1cb28335447f87150ca1c" />
       <keyword name="parseDomTree" id="library::LibraryCategory::parseDomTree" ref="d3/d60/classlibrary_1_1_library_category.html#ad6c2bb438fe200b1224b2d8e05d3eca0" />
@@ -14315,6 +14347,7 @@
       <keyword name="readFromFile" id="library::LibraryBaseElement::readFromFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" />
       <keyword name="mParentUuid" id="library::LibraryCategory::mParentUuid" ref="d3/d60/classlibrary_1_1_library_category.html#aed0f2b05be3ebc987c9e33dab20bc3b4" />
       <keyword name="mXmlFilepath" id="library::LibraryBaseElement::mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+      <keyword name="mXmlFileNamePrefix" id="library::LibraryBaseElement::mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
       <keyword name="mXmlRootNodeName" id="library::LibraryBaseElement::mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
       <keyword name="mDomTreeParsed" id="library::LibraryBaseElement::mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
       <keyword name="mUuid" id="library::LibraryBaseElement::mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -14332,15 +14365,16 @@
       <keyword name="library::PackageCategory" id="library::PackageCategory" ref="df/d5f/classlibrary_1_1_package_category.html" />
       <keyword name="PackageCategory" id="library::PackageCategory::PackageCategory" ref="df/d5f/classlibrary_1_1_package_category.html#a06ccc04d83f9ffbaf45619c8c5cc61ad" />
       <keyword name="~PackageCategory" id="library::PackageCategory::~PackageCategory" ref="df/d5f/classlibrary_1_1_package_category.html#a26db5b1abad4879f128cc83ef92ffde9" />
-      <keyword name="LibraryCategory" id="library::LibraryCategory::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a553d0f4063ad619b7e0bf783d7ddc6c5" />
-      <keyword name="LibraryCategory" id="library::LibraryCategory::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a1e58fdc0162b26cfdda61f9d87b49cb3" />
+      <keyword name="LibraryCategory" id="library::LibraryCategory::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a219f60cf844315121b009fbbf9eb7ae1" />
+      <keyword name="LibraryCategory" id="library::LibraryCategory::LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a43097da48309786e4f64eb08cc2b5ba4" />
       <keyword name="~LibraryCategory" id="library::LibraryCategory::~LibraryCategory" ref="d3/d60/classlibrary_1_1_library_category.html#a7ba02fe2816e369993b39d89497eb4c9" />
       <keyword name="getParentUuid" id="library::LibraryCategory::getParentUuid" ref="d3/d60/classlibrary_1_1_library_category.html#af532776da64a60302141529982cf0cd8" />
       <keyword name="setParentUuid" id="library::LibraryCategory::setParentUuid" ref="d3/d60/classlibrary_1_1_library_category.html#a24dce56a3902ea46c450a0e21659d019" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
       <keyword name="~LibraryBaseElement" id="library::LibraryBaseElement::~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
       <keyword name="getXmlFilepath" id="library::LibraryBaseElement::getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+      <keyword name="getDirectory" id="library::LibraryBaseElement::getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
       <keyword name="getUuid" id="library::LibraryBaseElement::getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getVersion" id="library::LibraryBaseElement::getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
       <keyword name="getAuthor" id="library::LibraryBaseElement::getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -14359,7 +14393,8 @@
       <keyword name="setKeywords" id="library::LibraryBaseElement::setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
       <keyword name="setVersion" id="library::LibraryBaseElement::setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
       <keyword name="setAuthor" id="library::LibraryBaseElement::setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-      <keyword name="saveToFile" id="library::LibraryBaseElement::saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+      <keyword name="save" id="library::LibraryBaseElement::save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+      <keyword name="saveTo" id="library::LibraryBaseElement::saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
       <keyword name="IF_XmlSerializableObject" id="IF_XmlSerializableObject::IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67" />
       <keyword name="~IF_XmlSerializableObject" id="IF_XmlSerializableObject::~IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a5deac35137f1cb28335447f87150ca1c" />
       <keyword name="PackageCategory" id="library::PackageCategory::PackageCategory" ref="df/d5f/classlibrary_1_1_package_category.html#ad381e38a4577ef16b775fde663f369fb" />
@@ -14373,6 +14408,7 @@
       <keyword name="readFromFile" id="library::LibraryBaseElement::readFromFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" />
       <keyword name="mParentUuid" id="library::LibraryCategory::mParentUuid" ref="d3/d60/classlibrary_1_1_library_category.html#aed0f2b05be3ebc987c9e33dab20bc3b4" />
       <keyword name="mXmlFilepath" id="library::LibraryBaseElement::mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+      <keyword name="mXmlFileNamePrefix" id="library::LibraryBaseElement::mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
       <keyword name="mXmlRootNodeName" id="library::LibraryBaseElement::mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
       <keyword name="mDomTreeParsed" id="library::LibraryBaseElement::mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
       <keyword name="mUuid" id="library::LibraryBaseElement::mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -14395,14 +14431,15 @@
       <keyword name="setPackageUuid" id="library::Component::setPackageUuid" ref="d3/dad/classlibrary_1_1_component.html#a5080ec5a426976f57b9a1a5cef158ba5" />
       <keyword name="clearPadSignalMap" id="library::Component::clearPadSignalMap" ref="d3/dad/classlibrary_1_1_component.html#a97dd3f784834fd2370f83d6471701804" />
       <keyword name="addPadSignalMapping" id="library::Component::addPadSignalMapping" ref="d3/dad/classlibrary_1_1_component.html#af53f6d39d06458aec1cbe12f7bb1d4d3" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a1b112824a2a84dd39b352b03a0e57477" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a443e60e056a3af0daee5fd89141b8f9e" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af2a7ac2cbebfd7027f08e2cc1d77a73a" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a7a13a385a08271727182fb6f273540ab" />
       <keyword name="~LibraryElement" id="library::LibraryElement::~LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af3b9ff17f437fcfc0e88ed2c7d4b0ecc" />
       <keyword name="getCategories" id="library::LibraryElement::getCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
       <keyword name="~LibraryBaseElement" id="library::LibraryBaseElement::~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
       <keyword name="getXmlFilepath" id="library::LibraryBaseElement::getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+      <keyword name="getDirectory" id="library::LibraryBaseElement::getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
       <keyword name="getUuid" id="library::LibraryBaseElement::getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getVersion" id="library::LibraryBaseElement::getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
       <keyword name="getAuthor" id="library::LibraryBaseElement::getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -14421,7 +14458,8 @@
       <keyword name="setKeywords" id="library::LibraryBaseElement::setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
       <keyword name="setVersion" id="library::LibraryBaseElement::setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
       <keyword name="setAuthor" id="library::LibraryBaseElement::setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-      <keyword name="saveToFile" id="library::LibraryBaseElement::saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+      <keyword name="save" id="library::LibraryBaseElement::save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+      <keyword name="saveTo" id="library::LibraryBaseElement::saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
       <keyword name="IF_XmlSerializableObject" id="IF_XmlSerializableObject::IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67" />
       <keyword name="~IF_XmlSerializableObject" id="IF_XmlSerializableObject::~IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a5deac35137f1cb28335447f87150ca1c" />
       <keyword name="Component" id="library::Component::Component" ref="d3/dad/classlibrary_1_1_component.html#a0171e1571f18dc6a27c8b041de55feec" />
@@ -14438,6 +14476,7 @@
       <keyword name="readFromFile" id="library::LibraryBaseElement::readFromFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" />
       <keyword name="mCategories" id="library::LibraryElement::mCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a81125b08ce9253590398303d60dee937" />
       <keyword name="mXmlFilepath" id="library::LibraryBaseElement::mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+      <keyword name="mXmlFileNamePrefix" id="library::LibraryBaseElement::mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
       <keyword name="mXmlRootNodeName" id="library::LibraryBaseElement::mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
       <keyword name="mDomTreeParsed" id="library::LibraryBaseElement::mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
       <keyword name="mUuid" id="library::LibraryBaseElement::mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -14463,14 +14502,15 @@
       <keyword name="addText" id="library::Footprint::addText" ref="d8/dea/classlibrary_1_1_footprint.html#a320d058b6e13b63bcc8e45a7a39b48e9" />
       <keyword name="addEllipse" id="library::Footprint::addEllipse" ref="d8/dea/classlibrary_1_1_footprint.html#a237920dd97b0ce69e089e4e2b8e5a5c3" />
       <keyword name="addHole" id="library::Footprint::addHole" ref="d8/dea/classlibrary_1_1_footprint.html#a79928f0b6ce18ff518a2c7e26e8f8ff2" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a1b112824a2a84dd39b352b03a0e57477" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a443e60e056a3af0daee5fd89141b8f9e" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af2a7ac2cbebfd7027f08e2cc1d77a73a" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a7a13a385a08271727182fb6f273540ab" />
       <keyword name="~LibraryElement" id="library::LibraryElement::~LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af3b9ff17f437fcfc0e88ed2c7d4b0ecc" />
       <keyword name="getCategories" id="library::LibraryElement::getCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
       <keyword name="~LibraryBaseElement" id="library::LibraryBaseElement::~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
       <keyword name="getXmlFilepath" id="library::LibraryBaseElement::getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+      <keyword name="getDirectory" id="library::LibraryBaseElement::getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
       <keyword name="getUuid" id="library::LibraryBaseElement::getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getVersion" id="library::LibraryBaseElement::getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
       <keyword name="getAuthor" id="library::LibraryBaseElement::getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -14489,7 +14529,8 @@
       <keyword name="setKeywords" id="library::LibraryBaseElement::setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
       <keyword name="setVersion" id="library::LibraryBaseElement::setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
       <keyword name="setAuthor" id="library::LibraryBaseElement::setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-      <keyword name="saveToFile" id="library::LibraryBaseElement::saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+      <keyword name="save" id="library::LibraryBaseElement::save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+      <keyword name="saveTo" id="library::LibraryBaseElement::saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
       <keyword name="IF_XmlSerializableObject" id="IF_XmlSerializableObject::IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67" />
       <keyword name="~IF_XmlSerializableObject" id="IF_XmlSerializableObject::~IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a5deac35137f1cb28335447f87150ca1c" />
       <keyword name="Footprint" id="library::Footprint::Footprint" ref="d8/dea/classlibrary_1_1_footprint.html#a746d7cc6209b5f8a80176a65a69a2c19" />
@@ -14508,6 +14549,7 @@
       <keyword name="readFromFile" id="library::LibraryBaseElement::readFromFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" />
       <keyword name="mCategories" id="library::LibraryElement::mCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a81125b08ce9253590398303d60dee937" />
       <keyword name="mXmlFilepath" id="library::LibraryBaseElement::mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+      <keyword name="mXmlFileNamePrefix" id="library::LibraryBaseElement::mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
       <keyword name="mXmlRootNodeName" id="library::LibraryBaseElement::mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
       <keyword name="mDomTreeParsed" id="library::LibraryBaseElement::mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
       <keyword name="mUuid" id="library::LibraryBaseElement::mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -14815,14 +14857,15 @@
       <keyword name="clearSymbolVariants" id="library::GenericComponent::clearSymbolVariants" ref="d7/d7c/classlibrary_1_1_generic_component.html#af496b316f178dcc5be0e469a2b2e7661" />
       <keyword name="addSymbolVariant" id="library::GenericComponent::addSymbolVariant" ref="d7/d7c/classlibrary_1_1_generic_component.html#a225d1310aeb5e77d306cc063ab9e459e" />
       <keyword name="getSymbVarItem" id="library::GenericComponent::getSymbVarItem" ref="d7/d7c/classlibrary_1_1_generic_component.html#a72f234ecafab01eed575a48d9d33dd49" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a1b112824a2a84dd39b352b03a0e57477" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a443e60e056a3af0daee5fd89141b8f9e" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af2a7ac2cbebfd7027f08e2cc1d77a73a" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a7a13a385a08271727182fb6f273540ab" />
       <keyword name="~LibraryElement" id="library::LibraryElement::~LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af3b9ff17f437fcfc0e88ed2c7d4b0ecc" />
       <keyword name="getCategories" id="library::LibraryElement::getCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
       <keyword name="~LibraryBaseElement" id="library::LibraryBaseElement::~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
       <keyword name="getXmlFilepath" id="library::LibraryBaseElement::getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+      <keyword name="getDirectory" id="library::LibraryBaseElement::getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
       <keyword name="getUuid" id="library::LibraryBaseElement::getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getVersion" id="library::LibraryBaseElement::getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
       <keyword name="getAuthor" id="library::LibraryBaseElement::getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -14841,7 +14884,8 @@
       <keyword name="setKeywords" id="library::LibraryBaseElement::setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
       <keyword name="setVersion" id="library::LibraryBaseElement::setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
       <keyword name="setAuthor" id="library::LibraryBaseElement::setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-      <keyword name="saveToFile" id="library::LibraryBaseElement::saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+      <keyword name="save" id="library::LibraryBaseElement::save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+      <keyword name="saveTo" id="library::LibraryBaseElement::saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
       <keyword name="IF_XmlSerializableObject" id="IF_XmlSerializableObject::IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67" />
       <keyword name="~IF_XmlSerializableObject" id="IF_XmlSerializableObject::~IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a5deac35137f1cb28335447f87150ca1c" />
       <keyword name="GenericComponent" id="library::GenericComponent::GenericComponent" ref="d7/d7c/classlibrary_1_1_generic_component.html#a207999c591f622c26b5fd1710d3d4a2f" />
@@ -14863,6 +14907,7 @@
       <keyword name="readFromFile" id="library::LibraryBaseElement::readFromFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" />
       <keyword name="mCategories" id="library::LibraryElement::mCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a81125b08ce9253590398303d60dee937" />
       <keyword name="mXmlFilepath" id="library::LibraryBaseElement::mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+      <keyword name="mXmlFileNamePrefix" id="library::LibraryBaseElement::mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
       <keyword name="mXmlRootNodeName" id="library::LibraryBaseElement::mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
       <keyword name="mDomTreeParsed" id="library::LibraryBaseElement::mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
       <keyword name="mUuid" id="library::LibraryBaseElement::mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -14905,10 +14950,11 @@
       <keyword name="mLibFilePath" id="library::Library::mLibFilePath" ref="de/d02/classlibrary_1_1_library.html#aa2fcb470011322819bfad6953f7ca2e3" />
       <keyword name="mLibDatabase" id="library::Library::mLibDatabase" ref="de/d02/classlibrary_1_1_library.html#a0b4abecb5f5e31d104306f7ed59e6a93" />
       <keyword name="library::LibraryBaseElement" id="library::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
       <keyword name="~LibraryBaseElement" id="library::LibraryBaseElement::~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
       <keyword name="getXmlFilepath" id="library::LibraryBaseElement::getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+      <keyword name="getDirectory" id="library::LibraryBaseElement::getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
       <keyword name="getUuid" id="library::LibraryBaseElement::getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getVersion" id="library::LibraryBaseElement::getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
       <keyword name="getAuthor" id="library::LibraryBaseElement::getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -14927,7 +14973,8 @@
       <keyword name="setKeywords" id="library::LibraryBaseElement::setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
       <keyword name="setVersion" id="library::LibraryBaseElement::setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
       <keyword name="setAuthor" id="library::LibraryBaseElement::setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-      <keyword name="saveToFile" id="library::LibraryBaseElement::saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+      <keyword name="save" id="library::LibraryBaseElement::save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+      <keyword name="saveTo" id="library::LibraryBaseElement::saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
       <keyword name="IF_XmlSerializableObject" id="IF_XmlSerializableObject::IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67" />
       <keyword name="~IF_XmlSerializableObject" id="IF_XmlSerializableObject::~IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a5deac35137f1cb28335447f87150ca1c" />
       <keyword name="readLocaleDomNodes" id="library::LibraryBaseElement::readLocaleDomNodes" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6082cb826f55941403d9bf4fb771928f" />
@@ -14937,6 +14984,7 @@
       <keyword name="serializeToXmlDomElement" id="library::LibraryBaseElement::serializeToXmlDomElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a8747acbd54e52d4fcb3bb74f1bb2a88a" />
       <keyword name="checkAttributesValidity" id="library::LibraryBaseElement::checkAttributesValidity" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a524ed0dd8a5522b754411728dfe5c752" />
       <keyword name="mXmlFilepath" id="library::LibraryBaseElement::mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+      <keyword name="mXmlFileNamePrefix" id="library::LibraryBaseElement::mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
       <keyword name="mXmlRootNodeName" id="library::LibraryBaseElement::mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
       <keyword name="mDomTreeParsed" id="library::LibraryBaseElement::mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
       <keyword name="mUuid" id="library::LibraryBaseElement::mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -14950,14 +14998,15 @@
       <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a357438bf0fffd28c4a559e9b6f3f6bf3" />
       <keyword name="operator=" id="library::LibraryBaseElement::operator=" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a462cb51b6f044aee8d72d1c3716c2c7c" />
       <keyword name="library::LibraryElement" id="library::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a1b112824a2a84dd39b352b03a0e57477" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a443e60e056a3af0daee5fd89141b8f9e" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af2a7ac2cbebfd7027f08e2cc1d77a73a" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a7a13a385a08271727182fb6f273540ab" />
       <keyword name="~LibraryElement" id="library::LibraryElement::~LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af3b9ff17f437fcfc0e88ed2c7d4b0ecc" />
       <keyword name="getCategories" id="library::LibraryElement::getCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
       <keyword name="~LibraryBaseElement" id="library::LibraryBaseElement::~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
       <keyword name="getXmlFilepath" id="library::LibraryBaseElement::getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+      <keyword name="getDirectory" id="library::LibraryBaseElement::getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
       <keyword name="getUuid" id="library::LibraryBaseElement::getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getVersion" id="library::LibraryBaseElement::getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
       <keyword name="getAuthor" id="library::LibraryBaseElement::getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -14976,7 +15025,8 @@
       <keyword name="setKeywords" id="library::LibraryBaseElement::setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
       <keyword name="setVersion" id="library::LibraryBaseElement::setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
       <keyword name="setAuthor" id="library::LibraryBaseElement::setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-      <keyword name="saveToFile" id="library::LibraryBaseElement::saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+      <keyword name="save" id="library::LibraryBaseElement::save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+      <keyword name="saveTo" id="library::LibraryBaseElement::saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
       <keyword name="IF_XmlSerializableObject" id="IF_XmlSerializableObject::IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67" />
       <keyword name="~IF_XmlSerializableObject" id="IF_XmlSerializableObject::~IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a5deac35137f1cb28335447f87150ca1c" />
       <keyword name="parseDomTree" id="library::LibraryElement::parseDomTree" ref="d8/dff/classlibrary_1_1_library_element.html#ad6c2bb438fe200b1224b2d8e05d3eca0" />
@@ -14985,6 +15035,7 @@
       <keyword name="readFromFile" id="library::LibraryBaseElement::readFromFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" />
       <keyword name="mCategories" id="library::LibraryElement::mCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a81125b08ce9253590398303d60dee937" />
       <keyword name="mXmlFilepath" id="library::LibraryBaseElement::mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+      <keyword name="mXmlFileNamePrefix" id="library::LibraryBaseElement::mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
       <keyword name="mXmlRootNodeName" id="library::LibraryBaseElement::mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
       <keyword name="mDomTreeParsed" id="library::LibraryBaseElement::mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
       <keyword name="mUuid" id="library::LibraryBaseElement::mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -15030,14 +15081,15 @@
       <keyword name="~Package" id="library::Package::~Package" ref="d1/dcf/classlibrary_1_1_package.html#ac5e620b1d98ac591a7cd71d3508d4866" />
       <keyword name="getFootprintUuid" id="library::Package::getFootprintUuid" ref="d1/dcf/classlibrary_1_1_package.html#a2f56ac0d7791d53afa6b21e426b59428" />
       <keyword name="setFootprintUuid" id="library::Package::setFootprintUuid" ref="d1/dcf/classlibrary_1_1_package.html#a10bb77c9e9cec5e0773da7b206ea8801" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a1b112824a2a84dd39b352b03a0e57477" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a443e60e056a3af0daee5fd89141b8f9e" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af2a7ac2cbebfd7027f08e2cc1d77a73a" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a7a13a385a08271727182fb6f273540ab" />
       <keyword name="~LibraryElement" id="library::LibraryElement::~LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af3b9ff17f437fcfc0e88ed2c7d4b0ecc" />
       <keyword name="getCategories" id="library::LibraryElement::getCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
       <keyword name="~LibraryBaseElement" id="library::LibraryBaseElement::~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
       <keyword name="getXmlFilepath" id="library::LibraryBaseElement::getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+      <keyword name="getDirectory" id="library::LibraryBaseElement::getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
       <keyword name="getUuid" id="library::LibraryBaseElement::getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getVersion" id="library::LibraryBaseElement::getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
       <keyword name="getAuthor" id="library::LibraryBaseElement::getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -15056,7 +15108,8 @@
       <keyword name="setKeywords" id="library::LibraryBaseElement::setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
       <keyword name="setVersion" id="library::LibraryBaseElement::setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
       <keyword name="setAuthor" id="library::LibraryBaseElement::setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-      <keyword name="saveToFile" id="library::LibraryBaseElement::saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+      <keyword name="save" id="library::LibraryBaseElement::save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+      <keyword name="saveTo" id="library::LibraryBaseElement::saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
       <keyword name="IF_XmlSerializableObject" id="IF_XmlSerializableObject::IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67" />
       <keyword name="~IF_XmlSerializableObject" id="IF_XmlSerializableObject::~IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a5deac35137f1cb28335447f87150ca1c" />
       <keyword name="Package" id="library::Package::Package" ref="d1/dcf/classlibrary_1_1_package.html#abd5c38248bc4159ff334033396c5f106" />
@@ -15071,6 +15124,7 @@
       <keyword name="readFromFile" id="library::LibraryBaseElement::readFromFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" />
       <keyword name="mCategories" id="library::LibraryElement::mCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a81125b08ce9253590398303d60dee937" />
       <keyword name="mXmlFilepath" id="library::LibraryBaseElement::mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+      <keyword name="mXmlFileNamePrefix" id="library::LibraryBaseElement::mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
       <keyword name="mXmlRootNodeName" id="library::LibraryBaseElement::mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
       <keyword name="mDomTreeParsed" id="library::LibraryBaseElement::mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
       <keyword name="mUuid" id="library::LibraryBaseElement::mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -15084,14 +15138,15 @@
       <keyword name="library::SpiceModel" id="library::SpiceModel" ref="da/d3b/classlibrary_1_1_spice_model.html" />
       <keyword name="SpiceModel" id="library::SpiceModel::SpiceModel" ref="da/d3b/classlibrary_1_1_spice_model.html#a90adff110b400d7328dad39e2937f93f" />
       <keyword name="~SpiceModel" id="library::SpiceModel::~SpiceModel" ref="da/d3b/classlibrary_1_1_spice_model.html#ad2bb77811d31a2168c763c509906a5c8" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a1b112824a2a84dd39b352b03a0e57477" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a443e60e056a3af0daee5fd89141b8f9e" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af2a7ac2cbebfd7027f08e2cc1d77a73a" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a7a13a385a08271727182fb6f273540ab" />
       <keyword name="~LibraryElement" id="library::LibraryElement::~LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af3b9ff17f437fcfc0e88ed2c7d4b0ecc" />
       <keyword name="getCategories" id="library::LibraryElement::getCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
       <keyword name="~LibraryBaseElement" id="library::LibraryBaseElement::~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
       <keyword name="getXmlFilepath" id="library::LibraryBaseElement::getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+      <keyword name="getDirectory" id="library::LibraryBaseElement::getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
       <keyword name="getUuid" id="library::LibraryBaseElement::getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getVersion" id="library::LibraryBaseElement::getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
       <keyword name="getAuthor" id="library::LibraryBaseElement::getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -15110,7 +15165,8 @@
       <keyword name="setKeywords" id="library::LibraryBaseElement::setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
       <keyword name="setVersion" id="library::LibraryBaseElement::setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
       <keyword name="setAuthor" id="library::LibraryBaseElement::setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-      <keyword name="saveToFile" id="library::LibraryBaseElement::saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+      <keyword name="save" id="library::LibraryBaseElement::save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+      <keyword name="saveTo" id="library::LibraryBaseElement::saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
       <keyword name="IF_XmlSerializableObject" id="IF_XmlSerializableObject::IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67" />
       <keyword name="~IF_XmlSerializableObject" id="IF_XmlSerializableObject::~IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a5deac35137f1cb28335447f87150ca1c" />
       <keyword name="SpiceModel" id="library::SpiceModel::SpiceModel" ref="da/d3b/classlibrary_1_1_spice_model.html#a05a8a52981d9dd05f95ccf3b47dcebfc" />
@@ -15124,6 +15180,7 @@
       <keyword name="readFromFile" id="library::LibraryBaseElement::readFromFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" />
       <keyword name="mCategories" id="library::LibraryElement::mCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a81125b08ce9253590398303d60dee937" />
       <keyword name="mXmlFilepath" id="library::LibraryBaseElement::mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+      <keyword name="mXmlFileNamePrefix" id="library::LibraryBaseElement::mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
       <keyword name="mXmlRootNodeName" id="library::LibraryBaseElement::mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
       <keyword name="mDomTreeParsed" id="library::LibraryBaseElement::mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
       <keyword name="mUuid" id="library::LibraryBaseElement::mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -15148,14 +15205,15 @@
       <keyword name="removePolygon" id="library::Symbol::removePolygon" ref="d9/db9/classlibrary_1_1_symbol.html#a87098f858bc9700c1bac0c893bd8024f" />
       <keyword name="addText" id="library::Symbol::addText" ref="d9/db9/classlibrary_1_1_symbol.html#a9a5cffe9d1f7ca0f9d7e746994f2ec8b" />
       <keyword name="addEllipse" id="library::Symbol::addEllipse" ref="d9/db9/classlibrary_1_1_symbol.html#a623d4ef3b61b806a3b47ad722b03bde6" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a1b112824a2a84dd39b352b03a0e57477" />
-      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a443e60e056a3af0daee5fd89141b8f9e" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af2a7ac2cbebfd7027f08e2cc1d77a73a" />
+      <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a7a13a385a08271727182fb6f273540ab" />
       <keyword name="~LibraryElement" id="library::LibraryElement::~LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af3b9ff17f437fcfc0e88ed2c7d4b0ecc" />
       <keyword name="getCategories" id="library::LibraryElement::getCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9eb16e1caad2b7ceee027501ab95aed7" />
-      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6daa12087663402dbd5745ce83fecc5d" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20" />
+      <keyword name="LibraryBaseElement" id="library::LibraryBaseElement::LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387" />
       <keyword name="~LibraryBaseElement" id="library::LibraryBaseElement::~LibraryBaseElement" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab" />
       <keyword name="getXmlFilepath" id="library::LibraryBaseElement::getXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" />
+      <keyword name="getDirectory" id="library::LibraryBaseElement::getDirectory" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade" />
       <keyword name="getUuid" id="library::LibraryBaseElement::getUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getVersion" id="library::LibraryBaseElement::getVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" />
       <keyword name="getAuthor" id="library::LibraryBaseElement::getAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b" />
@@ -15174,7 +15232,8 @@
       <keyword name="setKeywords" id="library::LibraryBaseElement::setKeywords" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ad0d5ddd44861b369aabb95091953df0b" />
       <keyword name="setVersion" id="library::LibraryBaseElement::setVersion" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858" />
       <keyword name="setAuthor" id="library::LibraryBaseElement::setAuthor" ref="dd/d8a/classlibrary_1_1_library_base_element.html#af6383ae26f1813069dc585c6baaf3126" />
-      <keyword name="saveToFile" id="library::LibraryBaseElement::saveToFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a679fcc1e6ce82976db01316338d677c1" />
+      <keyword name="save" id="library::LibraryBaseElement::save" ref="dd/d8a/classlibrary_1_1_library_base_element.html#abe8169d5d37da9d5e123658a382b1d73" />
+      <keyword name="saveTo" id="library::LibraryBaseElement::saveTo" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a5b6d37df7a5908317ac10797d163bfc9" />
       <keyword name="IF_XmlSerializableObject" id="IF_XmlSerializableObject::IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67" />
       <keyword name="~IF_XmlSerializableObject" id="IF_XmlSerializableObject::~IF_XmlSerializableObject" ref="d9/d3d/class_i_f___xml_serializable_object.html#a5deac35137f1cb28335447f87150ca1c" />
       <keyword name="Symbol" id="library::Symbol::Symbol" ref="d9/db9/classlibrary_1_1_symbol.html#a71b8fb7e67d77da42d68d8e4d571fc65" />
@@ -15191,6 +15250,7 @@
       <keyword name="readFromFile" id="library::LibraryBaseElement::readFromFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" />
       <keyword name="mCategories" id="library::LibraryElement::mCategories" ref="d8/dff/classlibrary_1_1_library_element.html#a81125b08ce9253590398303d60dee937" />
       <keyword name="mXmlFilepath" id="library::LibraryBaseElement::mXmlFilepath" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67" />
+      <keyword name="mXmlFileNamePrefix" id="library::LibraryBaseElement::mXmlFileNamePrefix" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b" />
       <keyword name="mXmlRootNodeName" id="library::LibraryBaseElement::mXmlRootNodeName" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8" />
       <keyword name="mDomTreeParsed" id="library::LibraryBaseElement::mDomTreeParsed" ref="dd/d8a/classlibrary_1_1_library_base_element.html#aeaf866591a2a2a49c20bf613ee510b3a" />
       <keyword name="mUuid" id="library::LibraryBaseElement::mUuid" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
@@ -16331,9 +16391,9 @@
       <keyword name="~IF_ErcMsgProvider" id="project::IF_ErcMsgProvider::~IF_ErcMsgProvider" ref="d7/d3c/classproject_1_1_i_f___erc_msg_provider.html#a555ceb066d84dc74a1f7c8949a571e75" />
       <keyword name="getErcMsgOwnerClassName" id="project::IF_ErcMsgProvider::getErcMsgOwnerClassName" ref="d7/d3c/classproject_1_1_i_f___erc_msg_provider.html#a57d33ba67895488b2b30dd1abe2ebc13" />
       <keyword name="project::CmdProjectLibraryAddElement" id="project::CmdProjectLibraryAddElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html" />
-      <keyword name="CmdProjectLibraryAddElement" id="project::CmdProjectLibraryAddElement::CmdProjectLibraryAddElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a897399bd6c30ee8bbfb1bcc9f79bb4b0" />
+      <keyword name="CmdProjectLibraryAddElement" id="project::CmdProjectLibraryAddElement::CmdProjectLibraryAddElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a1cfb7db19ef84523916cfea95a156cf6" />
       <keyword name="~CmdProjectLibraryAddElement" id="project::CmdProjectLibraryAddElement::~CmdProjectLibraryAddElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64dbbe233c68a889034b681b5ad91242" />
-      <keyword name="getElement" id="project::CmdProjectLibraryAddElement::getElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#ab54678f9a8e1759a9a4a872419a0275c" />
+      <keyword name="getElement" id="project::CmdProjectLibraryAddElement::getElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a0dc2ad559a4eb71671428a8eca77ced6" />
       <keyword name="redo" id="project::CmdProjectLibraryAddElement::redo" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a91ca7652063093da57fc1bd0141dcc95" />
       <keyword name="undo" id="project::CmdProjectLibraryAddElement::undo" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a19e8778088bfe76b16745470981bb913" />
       <keyword name="UndoCommand" id="UndoCommand::UndoCommand" ref="d3/d26/class_undo_command.html#acfb7f0c2e25230e24e48cc54e0245460" />
@@ -16345,15 +16405,15 @@
       <keyword name="mergeWith" id="UndoCommand::mergeWith" ref="d3/d26/class_undo_command.html#abf26a1decdae3d723a37e9204a28e32f" />
       <keyword name="appendChild" id="UndoCommand::appendChild" ref="d3/d26/class_undo_command.html#aa6957d2cefd8037e1292fa92317bb020" />
       <keyword name="removeChild" id="UndoCommand::removeChild" ref="d3/d26/class_undo_command.html#aea99233cc2240857bda1a5f449266f4a" />
-      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a2f2932c4f0131dd7c07a973c706f2da5" />
+      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a82ceff5e08f30d6e1584a341d8688253" />
       <keyword name="removeElement" id="project::CmdProjectLibraryAddElement::removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a9e4323d6525d2662dcf66baf1264eb52" />
-      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#aa7bb5cb19365a9adbff076af5010f5d1" />
-      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a6e60b1ab76b9185a13defc364b520c72" />
-      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a02e28e2063ac6f883fd8e9d89b1c629b" />
-      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#afad126e27dd8b94920a0cde17537976a" />
-      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a798fbef7e1e8e047852151ede29e7b15" />
-      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a76bc19db599a319ff8d704494cea1773" />
-      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#aeeb47c120f0ce47c4dc7a16fa358424a" />
+      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
+      <keyword name="addElement" id="project::CmdProjectLibraryAddElement::addElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a4c2b9f6f6f39fc6ba392f9a55676d5b1" />
       <keyword name="removeElement" id="project::CmdProjectLibraryAddElement::removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
       <keyword name="removeElement" id="project::CmdProjectLibraryAddElement::removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
       <keyword name="removeElement" id="project::CmdProjectLibraryAddElement::removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
@@ -16362,8 +16422,7 @@
       <keyword name="removeElement" id="project::CmdProjectLibraryAddElement::removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
       <keyword name="removeElement" id="project::CmdProjectLibraryAddElement::removeElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a64db43638dd2162790146313b309b0cb" />
       <keyword name="mLibrary" id="project::CmdProjectLibraryAddElement::mLibrary" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a38e6a0344d0da2898a9cbb91d480162b" />
-      <keyword name="mElemDirPath" id="project::CmdProjectLibraryAddElement::mElemDirPath" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a1b9adc5213a0040214f9c9e4c9763a4d" />
-      <keyword name="mElement" id="project::CmdProjectLibraryAddElement::mElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#a355d692938e617ce6006e4d0f77b491d" />
+      <keyword name="mElement" id="project::CmdProjectLibraryAddElement::mElement" ref="de/d4c/classproject_1_1_cmd_project_library_add_element.html#abdec4531760c019bc2649fd7919206ab" />
       <keyword name="mRedoCount" id="UndoCommand::mRedoCount" ref="d3/d26/class_undo_command.html#a7ae4683cb0974474e3f9252b8b2ad6c7" />
       <keyword name="mUndoCount" id="UndoCommand::mUndoCount" ref="d3/d26/class_undo_command.html#a3a7bfb2ebb9fcb0b95fe1aa738bc2f65" />
       <keyword name="project::ProjectLibrary" id="project::ProjectLibrary" ref="d9/d30/classproject_1_1_project_library.html" />
@@ -16384,26 +16443,29 @@
       <keyword name="getGenComp" id="project::ProjectLibrary::getGenComp" ref="d9/d30/classproject_1_1_project_library.html#abcd6b7bbffadd253c66d10d46fa4a46f" />
       <keyword name="getComponent" id="project::ProjectLibrary::getComponent" ref="d9/d30/classproject_1_1_project_library.html#a8a9dbd8d8b4d469c974dea2808d62eb1" />
       <keyword name="getComponentsOfGenComp" id="project::ProjectLibrary::getComponentsOfGenComp" ref="d9/d30/classproject_1_1_project_library.html#acc16ec02378a1c17f0b883ff8002e402" />
-      <keyword name="addSymbol" id="project::ProjectLibrary::addSymbol" ref="d9/d30/classproject_1_1_project_library.html#aa4bf7287598a49ad15ad7afecdc7d60f" />
-      <keyword name="addFootprint" id="project::ProjectLibrary::addFootprint" ref="d9/d30/classproject_1_1_project_library.html#ade03a1ae2c663e5864cd5059eed47c85" />
-      <keyword name="add3dModel" id="project::ProjectLibrary::add3dModel" ref="d9/d30/classproject_1_1_project_library.html#a2aa02d6e73119a7a756f3364f081925c" />
-      <keyword name="addSpiceModel" id="project::ProjectLibrary::addSpiceModel" ref="d9/d30/classproject_1_1_project_library.html#a70c919fb9dfdbdb0b68fc473a510f7c3" />
-      <keyword name="addPackage" id="project::ProjectLibrary::addPackage" ref="d9/d30/classproject_1_1_project_library.html#ad675b539acb340dc9add329456d85ba5" />
-      <keyword name="addGenComp" id="project::ProjectLibrary::addGenComp" ref="d9/d30/classproject_1_1_project_library.html#a405d7798449e2291c6209f686a168841" />
-      <keyword name="addComp" id="project::ProjectLibrary::addComp" ref="d9/d30/classproject_1_1_project_library.html#ae2c80f2f98fa4cd1240c4f44e6bed40d" />
-      <keyword name="removeSymbol" id="project::ProjectLibrary::removeSymbol" ref="d9/d30/classproject_1_1_project_library.html#ace4a0f2b0a4be6a75771ac1913f817e1" />
-      <keyword name="removeFootprint" id="project::ProjectLibrary::removeFootprint" ref="d9/d30/classproject_1_1_project_library.html#a0b5b2a479baf11a30083c8e5d12e6467" />
-      <keyword name="remove3dModel" id="project::ProjectLibrary::remove3dModel" ref="d9/d30/classproject_1_1_project_library.html#a706d3b529949bf4eafb4f328fb0dfe60" />
-      <keyword name="removeSpiceModel" id="project::ProjectLibrary::removeSpiceModel" ref="d9/d30/classproject_1_1_project_library.html#ae206493a036b76a9656028010f6d8e40" />
-      <keyword name="removePackage" id="project::ProjectLibrary::removePackage" ref="d9/d30/classproject_1_1_project_library.html#a7929e87a9e9a1597633f9f84ba528a8a" />
-      <keyword name="removeGenComp" id="project::ProjectLibrary::removeGenComp" ref="d9/d30/classproject_1_1_project_library.html#a65e8947731d7732c8f4563bea94e27cb" />
-      <keyword name="removeComp" id="project::ProjectLibrary::removeComp" ref="d9/d30/classproject_1_1_project_library.html#acffba7b156f5071e1a210f68a11b9c30" />
+      <keyword name="addSymbol" id="project::ProjectLibrary::addSymbol" ref="d9/d30/classproject_1_1_project_library.html#ac9104c3fab1431a4ad642b6cf8e4acf9" />
+      <keyword name="addFootprint" id="project::ProjectLibrary::addFootprint" ref="d9/d30/classproject_1_1_project_library.html#aff43a80caf76a47a084aa982d39a19e7" />
+      <keyword name="add3dModel" id="project::ProjectLibrary::add3dModel" ref="d9/d30/classproject_1_1_project_library.html#a7b30fd1f84b2fcea7bf2c02f15e85aa7" />
+      <keyword name="addSpiceModel" id="project::ProjectLibrary::addSpiceModel" ref="d9/d30/classproject_1_1_project_library.html#a3dc43c76d9c7daeb8903db9875696067" />
+      <keyword name="addPackage" id="project::ProjectLibrary::addPackage" ref="d9/d30/classproject_1_1_project_library.html#aeed066b2c03fe41c549a422ab06ebf38" />
+      <keyword name="addGenComp" id="project::ProjectLibrary::addGenComp" ref="d9/d30/classproject_1_1_project_library.html#adb3848508e357c8afbdab71c10ea31bd" />
+      <keyword name="addComp" id="project::ProjectLibrary::addComp" ref="d9/d30/classproject_1_1_project_library.html#a75952e92646170c192cecc7bb6388d0c" />
+      <keyword name="removeSymbol" id="project::ProjectLibrary::removeSymbol" ref="d9/d30/classproject_1_1_project_library.html#ae71b55e1417bbbef939007353327f7a3" />
+      <keyword name="removeFootprint" id="project::ProjectLibrary::removeFootprint" ref="d9/d30/classproject_1_1_project_library.html#a1de260929a258fae712326a7851f1684" />
+      <keyword name="remove3dModel" id="project::ProjectLibrary::remove3dModel" ref="d9/d30/classproject_1_1_project_library.html#a969003aaef2dce29eaee8dcc8a09b84e" />
+      <keyword name="removeSpiceModel" id="project::ProjectLibrary::removeSpiceModel" ref="d9/d30/classproject_1_1_project_library.html#afdaaeed198b0d64c0a92d9d9885926f7" />
+      <keyword name="removePackage" id="project::ProjectLibrary::removePackage" ref="d9/d30/classproject_1_1_project_library.html#a03fd99b2cff7ea7e410b3bf2d31254a6" />
+      <keyword name="removeGenComp" id="project::ProjectLibrary::removeGenComp" ref="d9/d30/classproject_1_1_project_library.html#ac3a69ab343e36eede637f8d52da0ec66" />
+      <keyword name="removeComp" id="project::ProjectLibrary::removeComp" ref="d9/d30/classproject_1_1_project_library.html#a3537c590a35f8d5977466bc68e81ef3a" />
+      <keyword name="save" id="project::ProjectLibrary::save" ref="d9/d30/classproject_1_1_project_library.html#aa0776eb8c171dfda592a8314a410c63f" />
       <keyword name="ProjectLibrary" id="project::ProjectLibrary::ProjectLibrary" ref="d9/d30/classproject_1_1_project_library.html#a993d3d41eb07da8c6786591a372e6212" />
       <keyword name="ProjectLibrary" id="project::ProjectLibrary::ProjectLibrary" ref="d9/d30/classproject_1_1_project_library.html#acaf996075e91ef0beb65b90a3fe7aead" />
       <keyword name="operator=" id="project::ProjectLibrary::operator=" ref="d9/d30/classproject_1_1_project_library.html#a9c18af2fb1fad1ae6f6dc1c04e806de6" />
       <keyword name="loadElements" id="project::ProjectLibrary::loadElements" ref="d9/d30/classproject_1_1_project_library.html#a66be7fb27dfb9ffcd6333afaff0c8d77" />
-      <keyword name="addElement" id="project::ProjectLibrary::addElement" ref="d9/d30/classproject_1_1_project_library.html#a1e29f19ed2c107f51630ad26f1640083" />
-      <keyword name="removeElement" id="project::ProjectLibrary::removeElement" ref="d9/d30/classproject_1_1_project_library.html#a6fd6a1458d1adb6ca6e52f012316943d" />
+      <keyword name="addElement" id="project::ProjectLibrary::addElement" ref="d9/d30/classproject_1_1_project_library.html#a0dc3b74578e884d811ae60a73171cdd8" />
+      <keyword name="removeElement" id="project::ProjectLibrary::removeElement" ref="d9/d30/classproject_1_1_project_library.html#a196929454cd3a3090cd8e5e0cb202e28" />
+      <keyword name="saveElements" id="project::ProjectLibrary::saveElements" ref="d9/d30/classproject_1_1_project_library.html#a00513ba22368a54960a812c22b60ec54" />
+      <keyword name="cleanupRemovedElements" id="project::ProjectLibrary::cleanupRemovedElements" ref="d9/d30/classproject_1_1_project_library.html#a667bb57d27cca68430c11ea655c1df31" />
       <keyword name="mProject" id="project::ProjectLibrary::mProject" ref="d9/d30/classproject_1_1_project_library.html#a9887e07d0b08a071e02e6d1fd6cf9ab9" />
       <keyword name="mLibraryPath" id="project::ProjectLibrary::mLibraryPath" ref="d9/d30/classproject_1_1_project_library.html#a37cd53cc207d06e1f3146b14de4078b1" />
       <keyword name="mSymbols" id="project::ProjectLibrary::mSymbols" ref="d9/d30/classproject_1_1_project_library.html#a22ad5e56ecfc7310bb83f1b8e9d1002a" />
@@ -16413,6 +16475,13 @@
       <keyword name="mPackages" id="project::ProjectLibrary::mPackages" ref="d9/d30/classproject_1_1_project_library.html#a59e608d377c8b55a22ffc3fdbccf34ec" />
       <keyword name="mGenericComponents" id="project::ProjectLibrary::mGenericComponents" ref="d9/d30/classproject_1_1_project_library.html#a7a421a941aea20864068e513cc62056b" />
       <keyword name="mComponents" id="project::ProjectLibrary::mComponents" ref="d9/d30/classproject_1_1_project_library.html#a1b9d6535386374c184c946601433cca6" />
+      <keyword name="mRemovedSymbols" id="project::ProjectLibrary::mRemovedSymbols" ref="d9/d30/classproject_1_1_project_library.html#ab4e641e1e5c01f4ca9bc2428b7efa81c" />
+      <keyword name="mRemovedFootprints" id="project::ProjectLibrary::mRemovedFootprints" ref="d9/d30/classproject_1_1_project_library.html#a059ce75c9d7b7eb2bcce5c3676167b42" />
+      <keyword name="mRemovedModels" id="project::ProjectLibrary::mRemovedModels" ref="d9/d30/classproject_1_1_project_library.html#a0f21fbb1464903ad8fa1dc0c440dedd2" />
+      <keyword name="mRemovedSpiceModels" id="project::ProjectLibrary::mRemovedSpiceModels" ref="d9/d30/classproject_1_1_project_library.html#a40f9fbc04291f743e50834d8d726ccee" />
+      <keyword name="mRemovedPackages" id="project::ProjectLibrary::mRemovedPackages" ref="d9/d30/classproject_1_1_project_library.html#a0cc1473abaee10d3f1ee36c534c3a6bc" />
+      <keyword name="mRemovedGenericComponents" id="project::ProjectLibrary::mRemovedGenericComponents" ref="d9/d30/classproject_1_1_project_library.html#a6d2dcec89fcfc9e160b07d81076d6d54" />
+      <keyword name="mRemovedComponents" id="project::ProjectLibrary::mRemovedComponents" ref="d9/d30/classproject_1_1_project_library.html#abb564c0a8305af694be265cf5768de9b" />
       <keyword name="project::Project" id="project::Project" ref="d2/d05/classproject_1_1_project.html" />
       <keyword name="attributesChanged" id="project::Project::attributesChanged" ref="d2/d05/classproject_1_1_project.html#a6f15290c411b59a902b38d07962c5449" />
       <keyword name="schematicAdded" id="project::Project::schematicAdded" ref="d2/d05/classproject_1_1_project.html#a5a304382795bedf7f5c502eb213f6709" />
@@ -20009,7 +20078,6 @@
       <file>d4/d1c/class_file_path_af7ebe5b84330753a4d61b36199f3da48_icgraph.svg</file>
       <file>d4/d1c/class_file_path_aed11b2f2b9590d9ac21e452b8ad11c46_icgraph.svg</file>
       <file>d4/d1c/class_file_path_abb1a303df12a931efec94f17183f3a2c_cgraph.svg</file>
-      <file>d4/d1c/class_file_path_abb1a303df12a931efec94f17183f3a2c_icgraph.svg</file>
       <file>d4/d1c/class_file_path_a329a3fd87c1339c347833a8026e24c80_icgraph.svg</file>
       <file>d4/d1c/class_file_path_a39a0bbf3901de18041fb5c324ecf412a_icgraph.svg</file>
       <file>d4/d1c/class_file_path_af27e4f117ace775ab38ae937c12cd37a_icgraph.svg</file>
@@ -21131,6 +21199,7 @@
       <file>dd/df7/classlibrary_1_1_library_base_element__inherit__graph.svg</file>
       <file>d5/d09/classlibrary_1_1_library_base_element__coll__graph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_a7d1a61339da05cc25ae2d8dc84c2aad4_icgraph.svg</file>
+      <file>dd/d8a/classlibrary_1_1_library_base_element_a6f4f6d9a8dd89dbef03d3aa553a8eade_cgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_ada9b237a8629c03e16491a72730b456b_icgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_aca4dbb3f44caf7609755d9b9b1bd97e9_icgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_a01f0309d43de518f4e94c724d22f4502_cgraph.svg</file>
@@ -21138,7 +21207,7 @@
       <file>dd/d8a/classlibrary_1_1_library_base_element_a0e5b7dc7eca3c6468aa85375bf2c3dde_cgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_a0e5b7dc7eca3c6468aa85375bf2c3dde_icgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_aa727a7c7c573ac31926f21ec507aec76_cgraph.svg</file>
-      <file>dd/d8a/classlibrary_1_1_library_base_element_a679fcc1e6ce82976db01316338d677c1_cgraph.svg</file>
+      <file>dd/d8a/classlibrary_1_1_library_base_element_abe8169d5d37da9d5e123658a382b1d73_cgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_a6082cb826f55941403d9bf4fb771928f_cgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_a6082cb826f55941403d9bf4fb771928f_icgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_a3de489fd5ff14ef1709e7ba41628ab3e_icgraph.svg</file>
@@ -21708,7 +21777,6 @@
       <file>de/d4c/classproject_1_1_cmd_project_library_add_element.html</file>
       <file>d7/dae/classproject_1_1_cmd_project_library_add_element__inherit__graph.svg</file>
       <file>df/da6/classproject_1_1_cmd_project_library_add_element__coll__graph.svg</file>
-      <file>de/d4c/classproject_1_1_cmd_project_library_add_element_ab54678f9a8e1759a9a4a872419a0275c_icgraph.svg</file>
       <file>de/d4c/classproject_1_1_cmd_project_library_add_element_a91ca7652063093da57fc1bd0141dcc95_cgraph.svg</file>
       <file>de/d4c/classproject_1_1_cmd_project_library_add_element_a19e8778088bfe76b16745470981bb913_cgraph.svg</file>
       <file>dd/dff/classproject_1_1_cmd_project_library_add_element-members.html</file>
@@ -21719,8 +21787,7 @@
       <file>d9/d30/classproject_1_1_project_library_acc16ec02378a1c17f0b883ff8002e402_cgraph.svg</file>
       <file>d9/d30/classproject_1_1_project_library_acc16ec02378a1c17f0b883ff8002e402_icgraph.svg</file>
       <file>d9/d30/classproject_1_1_project_library_a66be7fb27dfb9ffcd6333afaff0c8d77_cgraph.svg</file>
-      <file>d9/d30/classproject_1_1_project_library_a1e29f19ed2c107f51630ad26f1640083_cgraph.svg</file>
-      <file>d9/d30/classproject_1_1_project_library_a6fd6a1458d1adb6ca6e52f012316943d_cgraph.svg</file>
+      <file>d9/d30/classproject_1_1_project_library_a00513ba22368a54960a812c22b60ec54_cgraph.svg</file>
       <file>d7/dd6/classproject_1_1_project_library-members.html</file>
       <file>d2/d05/classproject_1_1_project.html</file>
       <file>d2/d36/classproject_1_1_project__inherit__graph.svg</file>

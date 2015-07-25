@@ -1,5 +1,15 @@
 var NAVTREEINDEX15 =
 {
+"db/d0a/moc__projectlibrary_8cpp.html":[4,0,1,3,5,10],
+"db/d0a/moc__projectlibrary_8cpp.html#a5e7ddac82b296ffae7bd1e3b040fa9d1":[4,0,1,3,5,10,2],
+"db/d0a/moc__projectlibrary_8cpp.html#a75bb9482d242cde0a06c9dbdc6b83abe":[4,0,1,3,5,10,1],
+"db/d0a/moc__projectlibrary_8cpp.html#aee315f7fabb5a558b7aff42ee07b8ae2":[4,0,1,3,5,10,3],
+"db/d0e/ui__symbolinstancepropertiesdialog_8h.html":[4,0,1,4,5,8],
+"db/d0e/ui__symbolinstancepropertiesdialog_8h_source.html":[4,0,1,4,5,8],
+"db/d10/undocommand_8cpp.html":[4,0,1,0,27],
+"db/d16/debug_8h.html":[4,0,1,0,14],
+"db/d16/debug_8h_source.html":[4,0,1,0,14],
+"db/d1c/structqt__meta__stringdata___w_s_i___appearance__t.html":[3,0,116],
 "db/d1c/structqt__meta__stringdata___w_s_i___appearance__t.html#a1155711797fc0c37e7273f2efb9c79eb":[3,0,116,1],
 "db/d1c/structqt__meta__stringdata___w_s_i___appearance__t.html#af5ccd32c47ea71369a47ae414454740f":[3,0,116,0],
 "db/d27/ses__move_8cpp.html":[4,0,1,4,4,0,22],
@@ -239,15 +249,5 @@ var NAVTREEINDEX15 =
 "db/de0/class_ui___board_editor.html#a50b83d972e038d3e329defb1c208daf2":[3,0,133,0],
 "db/de0/class_ui___board_editor.html#a559c6ce3e571f0ba3cc03f484d5d64ac":[3,0,133,15],
 "db/de0/class_ui___board_editor.html#a571068e0a16649ff883efb2f076d93fa":[3,0,133,38],
-"db/de0/class_ui___board_editor.html#a618722db7e93c02653a3d651a21a5522":[3,0,133,31],
-"db/de0/class_ui___board_editor.html#a61cc6baa5b034e84ceca1119b13631ff":[3,0,133,1],
-"db/de0/class_ui___board_editor.html#a6581b4b0ccc9992944f630877432fabf":[3,0,133,28],
-"db/de0/class_ui___board_editor.html#a660cb3ca35319e1ee572eb57d5b1852d":[3,0,133,25],
-"db/de0/class_ui___board_editor.html#a6728cd69cb53db04f3749660600671e7":[3,0,133,13],
-"db/de0/class_ui___board_editor.html#a69025fdcd095481bb48071ab00d78345":[3,0,133,30],
-"db/de0/class_ui___board_editor.html#a6b98b7f22656b91df5e3e4420c2b7190":[3,0,133,6],
-"db/de0/class_ui___board_editor.html#a7aa5f8119f9d010ce15abfb9cdc97cf0":[3,0,133,16],
-"db/de0/class_ui___board_editor.html#a8805f1823f056e334f1fddac4eb03a4a":[3,0,133,10],
-"db/de0/class_ui___board_editor.html#a8bc6174beffe808b84f4f4c9f00787bd":[3,0,133,33],
-"db/de0/class_ui___board_editor.html#a92f281769ba37147cadd3a5fb09296d8":[3,0,133,8]
+"db/de0/class_ui___board_editor.html#a618722db7e93c02653a3d651a21a5522":[3,0,133,31]
 };

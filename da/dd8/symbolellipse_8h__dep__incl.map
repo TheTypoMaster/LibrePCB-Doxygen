@@ -1,16 +1,17 @@
 <map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcblibrary/sym/symbolellipse.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcblibrary/sym/symbolellipse.h">
-<area shape="rect" id="node3" href="$df/d70/symbol_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/sym/symbol.h" alt="" coords="1188,117,1380,181"/>
-<area shape="rect" id="node29" href="$d0/d11/symbolellipse_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/sym/symbolellipse.cpp" alt="" coords="1404,117,1647,181"/>
-<area shape="rect" id="node5" href="$de/d98/elements_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/elements.h" alt="" coords="41,239,215,303"/>
-<area shape="rect" id="node9" href="$d7/d7d/library_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/library.cpp" alt="" coords="239,239,409,303"/>
-<area shape="rect" id="node11" href="$dc/d3d/moc__symbol_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/moc/moc\l_symbol.cpp" alt="" coords="433,230,599,311"/>
-<area shape="rect" id="node13" href="$d8/d67/symbol_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/sym/symbol.cpp" alt="" coords="623,239,828,303"/>
-<area shape="rect" id="node15" href="$d0/d05/symbolpreviewgraphicsitem_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/sym/symbolpreviewgraphicsitem.cpp" alt="" coords="852,239,1177,303"/>
-<area shape="rect" id="node17" href="$d4/d20/projectlibrary_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/projectlibrary.cpp" alt="" coords="1201,230,1367,311"/>
-<area shape="rect" id="node19" href="$de/dd8/sgi__symbol_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/graphicsitems/sgi_symbol.cpp" alt="" coords="1391,230,1593,311"/>
-<area shape="rect" id="node21" href="$d0/da6/si__symbol_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_symbol.cpp" alt="" coords="1617,230,1799,311"/>
-<area shape="rect" id="node23" href="$d5/d35/si__symbolpin_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_symbolpin.cpp" alt="" coords="1823,230,2004,311"/>
-<area shape="rect" id="node25" href="$da/d64/addgencompdialog_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/dialogs/addgencompdialog.cpp" alt="" coords="2028,230,2231,311"/>
-<area shape="rect" id="node27" href="$da/d89/symbolinstancepropertiesdialog_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/symbolinstancepropertiesdialog.cpp" alt="" coords="2255,230,2583,311"/>
-<area shape="rect" id="node7" href="$da/d6c/cmdprojectlibraryaddelement_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/cmd/cmdprojectlibraryaddelement.cpp" alt="" coords="5,361,251,442"/>
+<area shape="rect" id="node3" href="$df/d70/symbol_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/sym/symbol.h" alt="" coords="1292,117,1484,181"/>
+<area shape="rect" id="node31" href="$d0/d11/symbolellipse_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/sym/symbolellipse.cpp" alt="" coords="1508,117,1751,181"/>
+<area shape="rect" id="node5" href="$de/d98/elements_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/elements.h" alt="" coords="41,247,215,311"/>
+<area shape="rect" id="node9" href="$d7/d7d/library_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/library.cpp" alt="" coords="239,247,409,311"/>
+<area shape="rect" id="node11" href="$dc/d3d/moc__symbol_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/moc/moc\l_symbol.cpp" alt="" coords="433,238,599,319"/>
+<area shape="rect" id="node13" href="$d8/d67/symbol_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/sym/symbol.cpp" alt="" coords="623,247,828,311"/>
+<area shape="rect" id="node15" href="$d0/d05/symbolpreviewgraphicsitem_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/sym/symbolpreviewgraphicsitem.cpp" alt="" coords="852,247,1177,311"/>
+<area shape="rect" id="node17" href="$d4/d20/projectlibrary_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/projectlibrary.cpp" alt="" coords="1201,238,1367,319"/>
+<area shape="rect" id="node19" href="$de/dd8/sgi__symbol_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/graphicsitems/sgi_symbol.cpp" alt="" coords="1391,238,1593,319"/>
+<area shape="rect" id="node21" href="$d0/da6/si__symbol_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_symbol.cpp" alt="" coords="1617,238,1799,319"/>
+<area shape="rect" id="node23" href="$d5/d35/si__symbolpin_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_symbolpin.cpp" alt="" coords="1823,238,2004,319"/>
+<area shape="rect" id="node25" href="$da/d64/addgencompdialog_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/dialogs/addgencompdialog.cpp" alt="" coords="2028,238,2231,319"/>
+<area shape="rect" id="node27" href="$d8/df2/ses__addcomponents_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addcomponents.cpp" alt="" coords="2255,229,2423,328"/>
+<area shape="rect" id="node29" href="$da/d89/symbolinstancepropertiesdialog_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/symbolinstancepropertiesdialog.cpp" alt="" coords="2447,238,2775,319"/>
+<area shape="rect" id="node7" href="$da/d6c/cmdprojectlibraryaddelement_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/cmd/cmdprojectlibraryaddelement.cpp" alt="" coords="5,377,251,458"/>
 </map>

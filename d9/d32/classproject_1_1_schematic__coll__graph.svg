@@ -544,60 +544,70 @@
 <!-- Node18 -->
 <g id="node55" class="node"><title>Node18</title>
 <a xlink:href="../../d9/d30/classproject_1_1_project_library.html" target="_top" xlink:title="The ProjectLibrary class. ">
-<polygon fill="white" stroke="black" points="1613.5,-98.5 1613.5,-707.5 1768.5,-707.5 1768.5,-98.5 1613.5,-98.5"/>
-<text text-anchor="middle" x="1691" y="-694.5" font-family="Helvetica,sans-Serif" font-size="10.00">ProjectLibrary</text>
-<polyline fill="none" stroke="black" points="1613.5,-686.5 1768.5,-686.5 "/>
-<text text-anchor="start" x="1621.5" y="-673.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mSymbols</text>
-<text text-anchor="start" x="1621.5" y="-660.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFootprints</text>
-<text text-anchor="start" x="1621.5" y="-647.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mModels</text>
-<text text-anchor="start" x="1621.5" y="-634.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mSpiceModels</text>
-<text text-anchor="start" x="1621.5" y="-621.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPackages</text>
-<text text-anchor="start" x="1621.5" y="-608.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGenericComponents</text>
-<text text-anchor="start" x="1621.5" y="-595.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mComponents</text>
-<polyline fill="none" stroke="black" points="1613.5,-587.5 1768.5,-587.5 "/>
-<text text-anchor="start" x="1621.5" y="-574.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ProjectLibrary()</text>
-<text text-anchor="start" x="1621.5" y="-561.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~ProjectLibrary()</text>
-<text text-anchor="start" x="1621.5" y="-548.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSymbols()</text>
-<text text-anchor="start" x="1621.5" y="-535.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFootprints()</text>
-<text text-anchor="start" x="1621.5" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getModels()</text>
-<text text-anchor="start" x="1621.5" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSpiceModels()</text>
-<text text-anchor="start" x="1621.5" y="-496.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPackages()</text>
-<text text-anchor="start" x="1621.5" y="-483.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGenericComponents()</text>
-<text text-anchor="start" x="1621.5" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getComponents()</text>
-<text text-anchor="start" x="1621.5" y="-457.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSymbol()</text>
-<text text-anchor="start" x="1621.5" y="-444.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFootprint()</text>
-<text text-anchor="start" x="1621.5" y="-431.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getModel()</text>
-<text text-anchor="start" x="1621.5" y="-418.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSpiceModel()</text>
-<text text-anchor="start" x="1621.5" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPackage()</text>
-<text text-anchor="start" x="1621.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGenComp()</text>
-<text text-anchor="start" x="1621.5" y="-379.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getComponent()</text>
-<text text-anchor="start" x="1621.5" y="-366.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getComponentsOfGenComp()</text>
-<text text-anchor="start" x="1621.5" y="-353.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addSymbol()</text>
-<text text-anchor="start" x="1621.5" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addFootprint()</text>
-<text text-anchor="start" x="1621.5" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ add3dModel()</text>
-<text text-anchor="start" x="1621.5" y="-314.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addSpiceModel()</text>
-<text text-anchor="start" x="1621.5" y="-301.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addPackage()</text>
-<text text-anchor="start" x="1621.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addGenComp()</text>
-<text text-anchor="start" x="1621.5" y="-275.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addComp()</text>
-<text text-anchor="start" x="1621.5" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeSymbol()</text>
-<text text-anchor="start" x="1621.5" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFootprint()</text>
-<text text-anchor="start" x="1621.5" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ remove3dModel()</text>
-<text text-anchor="start" x="1621.5" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeSpiceModel()</text>
-<text text-anchor="start" x="1621.5" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removePackage()</text>
-<text text-anchor="start" x="1621.5" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeGenComp()</text>
-<text text-anchor="start" x="1621.5" y="-184.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeComp()</text>
-<text text-anchor="start" x="1621.5" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; ProjectLibrary()</text>
-<text text-anchor="start" x="1621.5" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; ProjectLibrary()</text>
-<text text-anchor="start" x="1621.5" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
-<text text-anchor="start" x="1621.5" y="-132.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; loadElements()</text>
-<text text-anchor="start" x="1621.5" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; addElement()</text>
-<text text-anchor="start" x="1621.5" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; removeElement()</text>
+<polygon fill="white" stroke="black" points="1610,-33.5 1610,-772.5 1772,-772.5 1772,-33.5 1610,-33.5"/>
+<text text-anchor="middle" x="1691" y="-759.5" font-family="Helvetica,sans-Serif" font-size="10.00">ProjectLibrary</text>
+<polyline fill="none" stroke="black" points="1610,-751.5 1772,-751.5 "/>
+<text text-anchor="start" x="1618" y="-738.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mSymbols</text>
+<text text-anchor="start" x="1618" y="-725.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFootprints</text>
+<text text-anchor="start" x="1618" y="-712.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mModels</text>
+<text text-anchor="start" x="1618" y="-699.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mSpiceModels</text>
+<text text-anchor="start" x="1618" y="-686.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPackages</text>
+<text text-anchor="start" x="1618" y="-673.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGenericComponents</text>
+<text text-anchor="start" x="1618" y="-660.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mComponents</text>
+<text text-anchor="start" x="1618" y="-647.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRemovedSymbols</text>
+<text text-anchor="start" x="1618" y="-634.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRemovedFootprints</text>
+<text text-anchor="start" x="1618" y="-621.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRemovedModels</text>
+<text text-anchor="start" x="1618" y="-608.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRemovedSpiceModels</text>
+<text text-anchor="start" x="1618" y="-595.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRemovedPackages</text>
+<text text-anchor="start" x="1618" y="-582.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRemovedGenericComponents</text>
+<text text-anchor="start" x="1618" y="-569.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRemovedComponents</text>
+<polyline fill="none" stroke="black" points="1610,-561.5 1772,-561.5 "/>
+<text text-anchor="start" x="1618" y="-548.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ProjectLibrary()</text>
+<text text-anchor="start" x="1618" y="-535.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~ProjectLibrary()</text>
+<text text-anchor="start" x="1618" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSymbols()</text>
+<text text-anchor="start" x="1618" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFootprints()</text>
+<text text-anchor="start" x="1618" y="-496.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getModels()</text>
+<text text-anchor="start" x="1618" y="-483.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSpiceModels()</text>
+<text text-anchor="start" x="1618" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPackages()</text>
+<text text-anchor="start" x="1618" y="-457.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGenericComponents()</text>
+<text text-anchor="start" x="1618" y="-444.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getComponents()</text>
+<text text-anchor="start" x="1618" y="-431.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSymbol()</text>
+<text text-anchor="start" x="1618" y="-418.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFootprint()</text>
+<text text-anchor="start" x="1618" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getModel()</text>
+<text text-anchor="start" x="1618" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSpiceModel()</text>
+<text text-anchor="start" x="1618" y="-379.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPackage()</text>
+<text text-anchor="start" x="1618" y="-366.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGenComp()</text>
+<text text-anchor="start" x="1618" y="-353.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getComponent()</text>
+<text text-anchor="start" x="1618" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getComponentsOfGenComp()</text>
+<text text-anchor="start" x="1618" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addSymbol()</text>
+<text text-anchor="start" x="1618" y="-314.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addFootprint()</text>
+<text text-anchor="start" x="1618" y="-301.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ add3dModel()</text>
+<text text-anchor="start" x="1618" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addSpiceModel()</text>
+<text text-anchor="start" x="1618" y="-275.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addPackage()</text>
+<text text-anchor="start" x="1618" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addGenComp()</text>
+<text text-anchor="start" x="1618" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addComp()</text>
+<text text-anchor="start" x="1618" y="-236.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeSymbol()</text>
+<text text-anchor="start" x="1618" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFootprint()</text>
+<text text-anchor="start" x="1618" y="-210.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ remove3dModel()</text>
+<text text-anchor="start" x="1618" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeSpiceModel()</text>
+<text text-anchor="start" x="1618" y="-184.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removePackage()</text>
+<text text-anchor="start" x="1618" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeGenComp()</text>
+<text text-anchor="start" x="1618" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeComp()</text>
+<text text-anchor="start" x="1618" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ save()</text>
+<text text-anchor="start" x="1618" y="-132.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; ProjectLibrary()</text>
+<text text-anchor="start" x="1618" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; ProjectLibrary()</text>
+<text text-anchor="start" x="1618" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<text text-anchor="start" x="1618" y="-93.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; loadElements()</text>
+<text text-anchor="start" x="1618" y="-80.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; addElement()</text>
+<text text-anchor="start" x="1618" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; removeElement()</text>
+<text text-anchor="start" x="1618" y="-54.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; saveElements()</text>
+<text text-anchor="start" x="1618" y="-41.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; cleanupRemovedElements()</text>
 </a>
 </g>
 <!-- Node6&#45;&gt;Node18 -->
 <g id="edge80" class="edge"><title>Node6&#45;&gt;Node18</title>
-<path fill="none" stroke="#404040" d="M1237.08,-3320.18C1430.08,-3308.13 1973,-3245 1973,-2916 1973,-2916 1973,-2916 1973,-1265 1973,-1067.64 2052.92,-970.793 1921,-824 1896.93,-797.215 1869.12,-829.695 1842,-806 1813.95,-781.49 1791.1,-751.243 1772.49,-718.422"/>
-<polygon fill="none" stroke="#404040" points="1772.36,-718.199 1765.97,-714.864 1766.59,-707.679 1772.98,-711.015 1772.36,-718.199"/>
+<path fill="none" stroke="#404040" d="M1237.08,-3320.18C1430.08,-3308.13 1973,-3245 1973,-2916 1973,-2916 1973,-2916 1973,-1265 1973,-1067.69 2053.92,-970.723 1922,-824 1897.63,-796.899 1869.48,-829.943 1842,-806 1816.92,-784.141 1795.99,-757.693 1778.53,-728.913"/>
+<polygon fill="none" stroke="#404040" points="1778.33,-728.561 1771.84,-725.408 1772.26,-718.209 1778.74,-721.362 1778.33,-728.561"/>
 <text text-anchor="middle" x="2005" y="-2137.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mLibraryPath</text>
 </g>
 <!-- Node7 -->
@@ -653,9 +663,9 @@
 </g>
 <!-- Node8&#45;&gt;Node12 -->
 <g id="edge40" class="edge"><title>Node8&#45;&gt;Node12</title>
-<path fill="none" stroke="#404040" d="M1298.3,-1147.39C1367.51,-1050.56 1479.57,-919.29 1614,-856 1664.19,-832.368 1822.99,-876.436 1863,-838 1954.54,-750.051 1947.49,-591.682 1931.53,-492.229"/>
-<polygon fill="none" stroke="#404040" points="1931.48,-491.936 1926.54,-486.681 1929.49,-480.102 1934.43,-485.356 1931.48,-491.936"/>
-<text text-anchor="middle" x="1894" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
+<path fill="none" stroke="#404040" d="M1298.3,-1147.39C1367.5,-1050.55 1479.57,-919.27 1614,-856 1664.4,-832.281 1823.87,-876.63 1864,-838 1955.43,-749.983 1947.98,-591.635 1931.76,-492.204"/>
+<polygon fill="none" stroke="#404040" points="1931.71,-491.909 1926.76,-486.667 1929.7,-480.08 1934.65,-485.322 1931.71,-491.909"/>
+<text text-anchor="middle" x="1895" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
 <!-- Node13 -->
 <g id="node33" class="node"><title>Node13</title>
@@ -695,8 +705,8 @@
 </g>
 <!-- Node8&#45;&gt;Node18 -->
 <g id="edge78" class="edge"><title>Node8&#45;&gt;Node18</title>
-<path fill="none" stroke="#404040" d="M1298.23,-1178.43C1367.31,-1095.54 1468.84,-964.689 1536,-838 1563.62,-785.895 1588.16,-727.82 1609.12,-671.506"/>
-<polygon fill="none" stroke="#404040" points="1609.25,-671.154 1607.57,-664.141 1613.4,-659.895 1615.08,-666.908 1609.25,-671.154"/>
+<path fill="none" stroke="#404040" d="M1298.23,-1178.43C1367.31,-1095.54 1468.84,-964.689 1536,-838 1562.12,-788.732 1585.48,-734.126 1605.67,-680.718"/>
+<polygon fill="none" stroke="#404040" points="1605.72,-680.581 1604.07,-673.559 1609.92,-669.342 1611.57,-676.364 1605.72,-680.581"/>
 <text text-anchor="middle" x="1564" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
 <!-- Node9 -->
@@ -746,8 +756,8 @@
 </g>
 <!-- Node10&#45;&gt;Node12 -->
 <g id="edge38" class="edge"><title>Node10&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M1414.88,-2072.15C1425.82,-1988.63 1448.94,-1843.23 1489,-1724 1628.53,-1308.72 1822.48,-1264.87 1921,-838 1949.28,-715.453 1936.97,-568.304 1924.9,-480.394"/>
-<polygon fill="none" stroke="midnightblue" points="1411.38,-2071.9 1413.58,-2082.27 1418.33,-2072.8 1411.38,-2071.9"/>
+<path fill="none" stroke="midnightblue" d="M1414.86,-2072.14C1425.79,-1988.62 1448.88,-1843.21 1489,-1724 1628.78,-1308.6 1823.24,-1265.02 1922,-838 1950.38,-715.275 1937.55,-567.867 1925.15,-480.001"/>
+<polygon fill="none" stroke="midnightblue" points="1411.37,-2071.9 1413.56,-2082.26 1418.31,-2072.79 1411.37,-2071.9"/>
 </g>
 <!-- Node11&#45;&gt;Node8 -->
 <g id="edge26" class="edge"><title>Node11&#45;&gt;Node8</title>
@@ -757,9 +767,9 @@
 </g>
 <!-- Node12&#45;&gt;Node8 -->
 <g id="edge36" class="edge"><title>Node12&#45;&gt;Node8</title>
-<path fill="none" stroke="#404040" d="M1900.86,-480.142C1885.26,-566.521 1850.17,-707.308 1777,-806 1762.38,-825.714 1754.75,-828.789 1732,-838 1682.83,-857.912 1661.07,-831.519 1614,-856 1485.85,-922.657 1375.91,-1047.68 1305.55,-1142.03"/>
+<path fill="none" stroke="#404040" d="M1902.52,-480.272C1888.57,-567.09 1855.56,-708.584 1781,-806 1733.91,-867.524 1682.74,-820.248 1614,-856 1485.85,-922.657 1375.91,-1047.68 1305.55,-1142.03"/>
 <polygon fill="none" stroke="#404040" points="1305.36,-1142.28 1305.01,-1149.48 1298.23,-1151.93 1298.58,-1144.72 1305.36,-1142.28"/>
-<text text-anchor="middle" x="1809" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mBoardLayerProvider</text>
+<text text-anchor="middle" x="1810" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mBoardLayerProvider</text>
 </g>
 <!-- Node13&#45;&gt;Node8 -->
 <g id="edge42" class="edge"><title>Node13&#45;&gt;Node8</title>
@@ -793,7 +803,7 @@
 </g>
 <!-- Node18&#45;&gt;Node8 -->
 <g id="edge76" class="edge"><title>Node18&#45;&gt;Node8</title>
-<path fill="none" stroke="#404040" d="M1698.06,-707.682C1688.71,-753.984 1672.77,-799.189 1647,-838 1637.76,-851.918 1627.26,-845.841 1614,-856 1495.75,-946.575 1380.4,-1073.35 1306.01,-1161.66"/>
+<path fill="none" stroke="#404040" d="M1679.85,-772.561C1671.28,-795.619 1660.49,-817.685 1647,-838 1637.76,-851.918 1627.26,-845.841 1614,-856 1495.75,-946.575 1380.4,-1073.35 1306.01,-1161.66"/>
 <polygon fill="none" stroke="#404040" points="1305.98,-1161.69 1305.19,-1168.86 1298.26,-1170.88 1299.06,-1163.72 1305.98,-1161.69"/>
 <text text-anchor="middle" x="1690.5" y="-828.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProjectLibrary</text>
 </g>

@@ -9,13 +9,13 @@
 <area shape="rect" id="node13" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="1737,2305,1956,2911"/>
 <area shape="rect" id="node22" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="887,3765,1087,4856"/>
 <area shape="rect" id="node32" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="1305,5692,1505,5985"/>
-<area shape="rect" id="node50" href="$d7/d04/classproject_1_1_project_settings.html" title="The ProjectSettings class. " alt="" coords="252,5666,452,6011"/>
+<area shape="rect" id="node50" href="$d7/d04/classproject_1_1_project_settings.html" title="The ProjectSettings class. " alt="" coords="255,5666,455,6011"/>
 <area shape="rect" id="node65" href="$dd/d2d/classproject_1_1_schematic.html" title="The Schematic class represents one schematic page of a project and is always part of a circuit..." alt="" coords="2285,5302,2485,6375"/>
 <area shape="rect" id="node74" href="$d8/dbf/class_grid_properties.html" title="The GridProperties class. " alt="" coords="2477,4138,2680,4483"/>
 <area shape="rect" id="node99" href="$d0/dfd/classlibrary_1_1_symbol_pin.html" title="The SymbolPin class. " alt="" coords="3904,9033,4107,9482"/>
 <area shape="rect" id="node105" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html" title="The GenCompSignalInstance class. " alt="" coords="2421,9015,2640,9499"/>
 <area shape="rect" id="node109" href="$de/d67/classproject_1_1_gen_comp_instance.html" title="The GenCompInstance class. " alt="" coords="2800,6459,3043,7290"/>
-<area shape="rect" id="node118" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="3733,2236,3936,2980"/>
+<area shape="rect" id="node118" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="3733,2210,3936,3006"/>
 <area shape="rect" id="node125" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html" title="The GenCompSymbVar class. " alt="" coords="3031,3187,3233,3741"/>
 <area shape="rect" id="node128" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html" title="The GenCompSignal class. " alt="" coords="2668,8030,2871,8687"/>
 <area shape="rect" id="node132" href="$d3/d93/classproject_1_1_net_signal.html" title="The NetSignal class. " alt="" coords="1997,8030,2211,8687"/>
@@ -28,7 +28,7 @@
 <area shape="rect" id="node46" href="$db/deb/class_smart_text_file.html" title="The SmartTextFile class represents a text file and provides access to its content. " alt="" coords="844,1787,975,2029"/>
 <area shape="rect" id="node20" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="937,5,1116,541"/>
 <area shape="rect" id="node56" href="$d9/d57/class_file_lock.html" title="This class can be used to implement file&#45;based file locks. " alt="" coords="741,1013,904,1272"/>
-<area shape="rect" id="node59" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="23,5432,228,6245"/>
+<area shape="rect" id="node59" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="15,5345,231,6332"/>
 <area shape="rect" id="node38" href="$d1/d2c/classproject_1_1_board_layer_provider.html" title="The BoardLayerProvider class provides and manages all available board layers which are used in the pr..." alt="" coords="639,5735,801,5942"/>
 <area shape="rect" id="node42" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="1072,5735,1264,5942"/>
 <area shape="rect" id="node24" href="$d9/d41/class_i_f___attribute_provider.html" title="The IF_AttributeProvider class defines an interface for classes which provides some attributes which ..." alt="" coords="2791,2513,3012,2703"/>

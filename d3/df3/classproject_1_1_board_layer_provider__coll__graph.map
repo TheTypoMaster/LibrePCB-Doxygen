@@ -1,11 +1,11 @@
 <map id="BoardLayerProvider" name="BoardLayerProvider">
 <area shape="rect" id="node4" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="1027,1605,1227,2696"/>
 <area shape="rect" id="node2" href="$d6/db7/class_i_f___board_layer_provider.html" title="The IF_BoardLayerProvider class defines an interface for classes which provide board layers..." alt="" coords="1212,739,1393,893"/>
-<area shape="rect" id="node19" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="836,3023,1036,3316"/>
-<area shape="rect" id="node26" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="1140,3066,1332,3273"/>
-<area shape="rect" id="node33" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="145,2867,364,3472"/>
-<area shape="rect" id="node39" href="$d7/d04/classproject_1_1_project_settings.html" title="The ProjectSettings class. " alt="" coords="469,2997,669,3342"/>
-<area shape="rect" id="node48" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="1456,2763,1661,3576"/>
+<area shape="rect" id="node19" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="836,3109,1036,3403"/>
+<area shape="rect" id="node26" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="1140,3153,1332,3359"/>
+<area shape="rect" id="node33" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="145,2953,364,3559"/>
+<area shape="rect" id="node39" href="$d7/d04/classproject_1_1_project_settings.html" title="The ProjectSettings class. " alt="" coords="469,3083,669,3429"/>
+<area shape="rect" id="node48" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="1451,2763,1667,3749"/>
 <area shape="rect" id="node6" href="$d9/d41/class_i_f___attribute_provider.html" title="The IF_AttributeProvider class defines an interface for classes which provides some attributes which ..." alt="" coords="861,1323,1083,1512"/>
 <area shape="rect" id="node8" href="$d5/d3f/class_i_f___schematic_layer_provider.html" title="The IF_SchematicLayerProvider class defines an interface for classes which provide schematic layers..." alt="" coords="1512,1340,1723,1495"/>
 <area shape="rect" id="node11" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="256,1349,459,1486"/>
