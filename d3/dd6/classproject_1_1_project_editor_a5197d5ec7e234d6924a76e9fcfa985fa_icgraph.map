@@ -1,5 +1,0 @@
-<map id="getUndoStack" name="getUndoStack">
-<area shape="rect" id="node3" href="$d4/dfb/classproject_1_1_board_editor.html#a2622890007f7f744656c64f1e2326ed4" title="project::BoardEditor\l::BoardEditor" alt="" coords="196,5,332,51"/>
-<area shape="rect" id="node5" href="$da/dda/classproject_1_1_schematic_pages_dock.html#a938f7728f2f2c7842cee733b742e9c8e" title="project::SchematicPagesDock\l::on_btnNewSchematic_clicked" alt="" coords="161,74,367,121"/>
-<area shape="rect" id="node7" href="$da/dda/classproject_1_1_schematic_pages_dock.html#aee51faa82ade6e01c6e15d02fee32c50" title="project::SchematicPagesDock\l::on_btnRemoveSchematic\l_clicked" alt="" coords="165,144,363,208"/>
-</map>

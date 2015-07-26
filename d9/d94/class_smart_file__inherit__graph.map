@@ -1,4 +1,0 @@
-<map id="SmartFile" name="SmartFile">
-<area shape="rect" id="node3" href="$db/deb/class_smart_text_file.html" title="The SmartTextFile class represents a text file and provides access to its content. " alt="" coords="5,451,136,693"/>
-<area shape="rect" id="node5" href="$da/db0/class_smart_xml_file.html" title="The SmartXmlFile class represents a XML file and provides methods to load/save XML DOM trees (XmlDomD..." alt="" coords="160,460,360,684"/>
-</map>

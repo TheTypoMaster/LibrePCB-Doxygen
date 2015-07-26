@@ -1,7 +1,0 @@
-<map id="readLocaleDomNodes" name="readLocaleDomNodes">
-<area shape="rect" id="node3" href="$d2/d4e/classlibrary_1_1_footprint_pad.html#a02f3343c2d3add90b7a029912ad4c477" title="library::FootprintPad\l::FootprintPad" alt="" coords="237,5,376,51"/>
-<area shape="rect" id="node5" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#ad500334edf2114d058e2010633a60e08" title="library::GenCompSignal\l::GenCompSignal" alt="" coords="227,74,387,121"/>
-<area shape="rect" id="node7" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#aaf658e6730f690b372dde7bb8173f54d" title="library::GenCompSymbVar\l::GenCompSymbVar" alt="" coords="217,143,396,190"/>
-<area shape="rect" id="node9" href="$d5/d40/classlibrary_1_1_library_element_attribute.html#ac4e221bdc91d964218f3b2c1ab3fc826" title="library::LibraryElementAttribute\l::LibraryElementAttribute" alt="" coords="207,213,407,259"/>
-<area shape="rect" id="node11" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#ad59733fe4076bf9210183dbade26054a" title="library::SymbolPin\l::SymbolPin" alt="" coords="243,282,371,329"/>
-</map>

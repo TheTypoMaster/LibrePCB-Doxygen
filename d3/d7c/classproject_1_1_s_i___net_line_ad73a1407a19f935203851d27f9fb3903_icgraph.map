@@ -1,7 +1,0 @@
-<map id="setSelected" name="setSelected">
-<area shape="rect" id="node3" href="$dd/d2d/classproject_1_1_schematic.html#a1e81bd3e07987e2b02f760b3d6d75c21" title="project::Schematic\l::setSelectionRect" alt="" coords="144,19,275,66"/>
-<area shape="rect" id="node7" href="$dd/d2d/classproject_1_1_schematic.html#a8dd1dc788ad5d6d55d3833b0a0d31fbe" title="project::Schematic\l::clearSelection" alt="" coords="144,93,275,139"/>
-<area shape="rect" id="node5" href="$d8/d8b/classproject_1_1_s_e_s___select.html#ae7b1d9775f8e164e825c0cdecf27eff5" title="project::SES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="332,5,519,69"/>
-<area shape="rect" id="node9" href="$d2/d05/classproject_1_1_project.html#a5dcc152e887c5baf47cf7dd375e602f0" title="Print some schematics to a QPrinter (printer or file) " alt="" coords="323,93,528,139"/>
-<area shape="rect" id="node11" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::SES_Select\l::removeSelectedItems" alt="" coords="347,162,504,209"/>
-</map>

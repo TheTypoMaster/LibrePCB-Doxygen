@@ -1,7 +1,0 @@
-<map id="removeFromCircuit" name="removeFromCircuit">
-<area shape="rect" id="node3" href="$d3/d21/classproject_1_1_net_class.html#abbdecf982a79371c10d098f78b8b88e3" title="project::NetClass::\lunregisterNetSignal" alt="" coords="189,5,325,51"/>
-<area shape="rect" id="node5" href="$d3/d93/classproject_1_1_net_signal.html#a56ae9f28c406912ae4a5a893087a72ca" title="updateErcMessages" alt="" coords="187,75,328,104"/>
-<area shape="rect" id="node7" href="$d1/d03/classproject_1_1_circuit.html#ac48a585009b5ee63f88e0c2b5357d6e9" title="project::Circuit::getProject" alt="" coords="379,21,552,51"/>
-<area shape="rect" id="node9" href="$dc/d67/classproject_1_1_erc_msg.html#ab86c338b9353cde576c312f22f24aad3" title="project::ErcMsg::setMsg" alt="" coords="383,75,548,104"/>
-<area shape="rect" id="node11" href="$dc/d67/classproject_1_1_erc_msg.html#ab595fff9e78566c762faebf84e25112d" title="project::ErcMsg::setVisible" alt="" coords="376,128,555,157"/>
-</map>

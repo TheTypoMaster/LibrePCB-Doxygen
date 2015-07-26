@@ -1,7 +1,0 @@
-<map id="removeGenCompInstance" name="removeGenCompInstance">
-<area shape="rect" id="node3" href="$d1/d03/classproject_1_1_circuit.html#a226cc7570bf533c9946775c2fc5b361e" title="~Circuit" alt="" coords="309,5,376,35"/>
-<area shape="rect" id="node5" href="$dd/d69/classproject_1_1_cmd_gen_comp_inst_add.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="243,58,443,105"/>
-<area shape="rect" id="node7" href="$dd/d69/classproject_1_1_cmd_gen_comp_inst_add.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="243,127,443,174"/>
-<area shape="rect" id="node9" href="$db/de6/classproject_1_1_cmd_gen_comp_inst_remove.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="229,197,456,243"/>
-<area shape="rect" id="node11" href="$db/de6/classproject_1_1_cmd_gen_comp_inst_remove.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="229,266,456,313"/>
-</map>

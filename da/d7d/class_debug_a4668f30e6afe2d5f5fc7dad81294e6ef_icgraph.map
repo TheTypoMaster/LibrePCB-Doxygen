@@ -1,5 +1,0 @@
-<map id="print" name="print">
-<area shape="rect" id="node3" href="$da/d7d/class_debug.html#a9606ad1b9a909a366a2d8317438d2e58" title="The message handler for qDebug(), qWarning(), qCritical() and qFatal() " alt="" coords="115,5,235,35"/>
-<area shape="rect" id="node7" href="$df/d70/class_exception.html#aec30fe49c0e3fe864ad1e83ebc988bbc" title="The constructor which is used to throw an exception. " alt="" coords="101,59,248,88"/>
-<area shape="rect" id="node5" href="$da/d7d/class_debug.html#a5c9669009a84eb650c9c00436f9b217c" title="Debug" alt="" coords="297,5,356,35"/>
-</map>

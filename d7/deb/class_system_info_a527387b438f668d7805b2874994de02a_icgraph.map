@@ -1,5 +1,0 @@
-<map id="getFullUsername" name="getFullUsername">
-<area shape="rect" id="node3" href="$d9/d57/class_file_lock.html#ae51d0a675a61d6f5aae0967c8b23f7f1" title="Get the lock status of the specified file. " alt="" coords="189,5,323,35"/>
-<area shape="rect" id="node5" href="$d9/d57/class_file_lock.html#aa81aed607133209dade63a226818224d" title="Lock the specified file (create/update the lock file) " alt="" coords="205,59,307,88"/>
-<area shape="rect" id="node7" href="$d2/d05/classproject_1_1_project.html#ac7d08ce581d4e4a78c488c12c30d1120" title="The constructor to create or open a project with all its content. " alt="" coords="177,112,335,141"/>
-</map>

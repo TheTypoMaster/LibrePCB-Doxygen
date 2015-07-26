@@ -1,6 +1,0 @@
-<map id="paint" name="paint">
-<area shape="rect" id="node3" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a7b7ad6f6434c5a98612c3a4520f33901" title="library::GenCompSignal\l::isRequired" alt="" coords="111,5,271,51"/>
-<area shape="rect" id="node5" href="$dc/d5a/class_schematic_layer.html#aab73dfcfb2d157cdf8df0db760f6cb53" title="SchematicLayer::getColor" alt="" coords="104,75,277,104"/>
-<area shape="rect" id="node7" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="143,128,239,157"/>
-<area shape="rect" id="node9" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#a2e17cfc864c3d153e0f25bfd79277cd1" title="library::SymbolPin\l::getLength" alt="" coords="127,181,255,227"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="setDebugLevelLogFile" name="setDebugLevelLogFile">
-<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#ab03554821fd99cccf6f55a6686bcdc0d" title="Get the filepath of the parent directory of the file or directory. " alt="" coords="207,32,356,61"/>
-<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a90e27cd1fab85a56a4b346b11c08404b" title="Create all directories of this filepath (with all parent directories) " alt="" coords="220,85,343,115"/>
-<area shape="rect" id="node11" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="228,139,335,168"/>
-<area shape="rect" id="node13" href="$d4/d1c/class_file_path.html#af27e4f117ace775ab38ae937c12cd37a" title="Get the absolute filepath with native directory separators (&quot;/&quot; resp. &quot;\&quot;) " alt="" coords="219,192,344,221"/>
-<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#a329a3fd87c1339c347833a8026e24c80" title="Check if the specified filepath is the root directory. " alt="" coords="412,5,527,35"/>
-<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#abad2142d090ea829d85560b03d47d98f" title="The default constructor (this will create an invalid object!) " alt="" coords="407,59,532,88"/>
-</map>

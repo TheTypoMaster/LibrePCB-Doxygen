@@ -1,6 +1,0 @@
-<map id="isAttached" name="isAttached">
-<area shape="rect" id="node3" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a174b423c6228da0a901a1e8ded7f772e" title="project::SI_NetLine\l::isAttachedToSymbol" alt="" coords="140,5,289,51"/>
-<area shape="rect" id="node5" href="$dd/d2d/classproject_1_1_schematic.html#a0784e33cb985a56c1ac86c631ee3ee1b" title="project::Schematic\l::getSelectedItems" alt="" coords="340,51,471,98"/>
-<area shape="rect" id="node9" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::SES_Select\l::removeSelectedItems" alt="" coords="520,115,677,162"/>
-<area shape="rect" id="node7" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::SES_Select\l::rotateSelectedItems" alt="" coords="525,46,672,93"/>
-</map>

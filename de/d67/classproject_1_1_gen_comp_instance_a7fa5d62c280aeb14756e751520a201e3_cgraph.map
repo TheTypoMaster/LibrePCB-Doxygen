@@ -1,9 +1,0 @@
-<map id="GenCompInstance" name="GenCompInstance">
-<area shape="rect" id="node3" href="$d1/d1f/class_xml_dom_element.html#a95f6de04ddcc9336005e890a5bca080a" title="Get the first child element of this element. " alt="" coords="191,5,393,35"/>
-<area shape="rect" id="node5" href="$d1/d1f/class_xml_dom_element.html#a3cd8526c7b8169654ac3b2357af7392e" title="Get the next sibling element (with a specific name) " alt="" coords="185,59,399,88"/>
-<area shape="rect" id="node11" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#aa966546cdb8297bfa36dc77b3e7e2b37" title="project::GenCompAttribute\lInstance::getKey" alt="" coords="204,111,380,158"/>
-<area shape="rect" id="node13" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a374e51a45f06f0aa88f6b80f4735a05e" title="project::GenCompSignalInstance\l::getCompSignal" alt="" coords="185,181,399,227"/>
-<area shape="rect" id="node15" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSignal\l::getUuid" alt="" coords="212,250,372,297"/>
-<area shape="rect" id="node7" href="$d1/d1f/class_xml_dom_element.html#adc4e44d2a70ffd20acf6f46952f44723" title="Get the next child (with a specific name) of a specific child. " alt="" coords="448,59,653,88"/>
-<area shape="rect" id="node9" href="$d1/d1f/class_xml_dom_element.html#ab0c96f485564e41206ce9a4ce42ba389" title="Get the tag name of this element. " alt="" coords="703,59,884,88"/>
-</map>

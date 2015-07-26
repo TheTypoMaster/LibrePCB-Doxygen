@@ -1,8 +1,0 @@
-<map id="toQPainterPathPx" name="toQPainterPathPx">
-<area shape="rect" id="node3" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="196,5,329,35"/>
-<area shape="rect" id="node7" href="$da/d46/classlibrary_1_1_footprint_polygon_segment.html#a894842161e505b56d67b0cf5b0f50087" title="library::FootprintPolygon\lSegment::getAngle" alt="" coords="181,58,344,105"/>
-<area shape="rect" id="node9" href="$da/d46/classlibrary_1_1_footprint_polygon_segment.html#af89771a9eb5882eaee9f298f663f89dc" title="library::FootprintPolygon\lSegment::getEndPos" alt="" coords="181,127,344,174"/>
-<area shape="rect" id="node11" href="$d2/d39/class_angle.html#a70d223e0c1188606f971188d6f23b66f" title="Get the angle in radians. " alt="" coords="213,197,312,227"/>
-<area shape="rect" id="node13" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="213,251,312,280"/>
-<area shape="rect" id="node5" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="392,5,488,35"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="getBoard" name="getBoard">
-<area shape="rect" id="node3" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="129,5,268,51"/>
-<area shape="rect" id="node5" href="$da/d96/classproject_1_1_b_i___footprint.html#afe04a02184016f666f32516f84c95803" title="project::BI_Footprint\l::getBoard" alt="" coords="129,74,268,121"/>
-<area shape="rect" id="node7" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#afe04a02184016f666f32516f84c95803" title="project::BI_FootprintPad\l::getBoard" alt="" coords="317,74,480,121"/>
-</map>

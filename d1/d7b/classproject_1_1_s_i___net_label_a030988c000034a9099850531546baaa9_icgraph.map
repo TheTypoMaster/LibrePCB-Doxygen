@@ -1,6 +1,0 @@
-<map id="getNetSignal" name="getNetSignal">
-<area shape="rect" id="node3" href="$d1/d60/classproject_1_1_s_g_i___net_label.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_NetLabel\l::updateCacheAndRepaint" alt="" coords="172,5,345,51"/>
-<area shape="rect" id="node9" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a58ba7fdde2fa62c25504d4acbec0bde6" title="project::SES_Select\l::proccessIdleSceneDoubleClick" alt="" coords="153,74,364,121"/>
-<area shape="rect" id="node5" href="$d1/d7b/classproject_1_1_s_i___net_label.html#a185915e00afcfe0b1e4adf43adad873c" title="updateText" alt="" coords="415,13,500,43"/>
-<area shape="rect" id="node7" href="$d3/d93/classproject_1_1_net_signal.html#a8f5e5ef232fd487e10ae0684bbf73ebf" title="project::NetSignal\l::setName" alt="" coords="551,5,676,51"/>
-</map>

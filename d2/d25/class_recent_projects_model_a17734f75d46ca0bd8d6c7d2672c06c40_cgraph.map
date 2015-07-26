@@ -1,7 +1,0 @@
-<map id="setLastRecentProject" name="setLastRecentProject">
-<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="345,5,452,35"/>
-<area shape="rect" id="node5" href="$d2/d25/class_recent_projects_model.html#aae2c382151ef7c9aa913361172b30db6" title="save" alt="" coords="203,59,253,88"/>
-<area shape="rect" id="node7" href="$d5/d56/class_workspace.html#ad1d507e6e68d4b8bd40982b78da7c5bd" title="Get the filepath to the &quot;.metadata&quot; directory in the workspace. " alt="" coords="301,59,496,88"/>
-<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="329,112,468,141"/>
-<area shape="rect" id="node12" href="$d5/d56/class_workspace.html#af7f148ec01c9f5b993b0cac385a64abd" title="Get the filepath to the workspace directory. " alt="" coords="328,165,469,195"/>
-</map>

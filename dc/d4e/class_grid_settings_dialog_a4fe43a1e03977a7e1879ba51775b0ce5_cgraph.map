@@ -1,9 +1,0 @@
-<map id="buttonBoxClicked" name="buttonBoxClicked">
-<area shape="rect" id="node3" href="$d8/dbf/class_grid_properties.html#a47a795a41aee9a66cbd32ed0f0298e42" title="GridProperties::getType" alt="" coords="195,5,355,35"/>
-<area shape="rect" id="node5" href="$d8/dbf/class_grid_properties.html#ae797bce934ee26330c308e2f366599d5" title="GridProperties::getUnit" alt="" coords="197,59,352,88"/>
-<area shape="rect" id="node7" href="$dd/d55/class_length_unit.html#a3a0faa78cfa0f741a5fa16c29d1b2ebd" title="Get the Index of the length unit of this object. " alt="" coords="204,112,345,141"/>
-<area shape="rect" id="node9" href="$dd/d55/class_length_unit.html#a453173c885803b8610cd343eef5e2072" title="Convert a Length to this length unit. " alt="" coords="188,165,361,195"/>
-<area shape="rect" id="node11" href="$d8/dbf/class_grid_properties.html#a4cc9437a41e81f8f0f873ce9fbd67900" title="GridProperties::getInterval" alt="" coords="420,217,593,247"/>
-<area shape="rect" id="node13" href="$dc/d4e/class_grid_settings_dialog.html#af3cf0113554071b6e59c4dda5fc62260" title="updateInternalRepresentation" alt="" coords="179,269,371,299"/>
-<area shape="rect" id="node16" href="$df/df0/class_length.html#ae8a552dd96c343a0a609cebf7731cd26" title="Get the length in nanometers. " alt="" coords="456,271,557,300"/>
-</map>

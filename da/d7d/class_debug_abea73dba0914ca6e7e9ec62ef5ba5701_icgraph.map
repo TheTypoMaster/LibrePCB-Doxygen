@@ -1,6 +1,0 @@
-<map id="instance" name="instance">
-<area shape="rect" id="node3" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="173,5,224,35"/>
-<area shape="rect" id="node5" href="$da/d7d/class_debug.html#a9606ad1b9a909a366a2d8317438d2e58" title="The message handler for qDebug(), qWarning(), qCritical() and qFatal() " alt="" coords="139,59,259,88"/>
-<area shape="rect" id="node9" href="$df/d70/class_exception.html#aec30fe49c0e3fe864ad1e83ebc988bbc" title="The constructor which is used to throw an exception. " alt="" coords="125,112,272,141"/>
-<area shape="rect" id="node7" href="$da/d7d/class_debug.html#a5c9669009a84eb650c9c00436f9b217c" title="Debug" alt="" coords="321,59,380,88"/>
-</map>

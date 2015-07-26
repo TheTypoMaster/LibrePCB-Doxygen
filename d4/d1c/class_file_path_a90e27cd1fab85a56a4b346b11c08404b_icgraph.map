@@ -1,5 +1,0 @@
-<map id="mkPath" name="mkPath">
-<area shape="rect" id="node3" href="$da/d7d/class_debug.html#abf99ba3cfe818f23590097b74f16b3ef" title="Set the debug level for the log file. " alt="" coords="120,5,317,35"/>
-<area shape="rect" id="node5" href="$d9/d57/class_file_lock.html#aa81aed607133209dade63a226818224d" title="Lock the specified file (create/update the lock file) " alt="" coords="168,59,269,88"/>
-<area shape="rect" id="node7" href="$d1/d7f/class_smart_file.html#a3d8fdc7779d16c086f29129e2fd52dd3" title="Prepare to save the file and return the filepath to the file. " alt="" coords="128,111,309,158"/>
-</map>

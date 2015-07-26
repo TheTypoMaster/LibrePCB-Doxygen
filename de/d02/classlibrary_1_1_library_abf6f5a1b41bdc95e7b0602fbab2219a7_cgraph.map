@@ -1,7 +1,0 @@
-<map id="rescan" name="rescan">
-<area shape="rect" id="node3" href="$de/d02/classlibrary_1_1_library.html#a7252d2908c652122452d1f47b8c7bb16" title="clearDatabaseAndCreateTables" alt="" coords="116,59,321,88"/>
-<area shape="rect" id="node9" href="$de/d02/classlibrary_1_1_library.html#af2169476bf038e2de29eb968e25c561e" title="getAllXmlFilesInLibDir" alt="" coords="144,112,293,141"/>
-<area shape="rect" id="node5" href="$de/d02/classlibrary_1_1_library.html#a4e341ac749738a97962a224277794303" title="prepareQuery" alt="" coords="375,5,473,35"/>
-<area shape="rect" id="node7" href="$de/d02/classlibrary_1_1_library.html#aa3f504ec425bb6a3578ffd34ccc51cb7" title="execQuery" alt="" coords="381,59,467,88"/>
-<area shape="rect" id="node11" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="371,112,477,141"/>
-</map>

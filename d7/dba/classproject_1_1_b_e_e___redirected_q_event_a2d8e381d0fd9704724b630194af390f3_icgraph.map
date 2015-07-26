@@ -1,5 +1,0 @@
-<map id="getQEventFromBEE" name="getQEventFromBEE">
-<area shape="rect" id="node3" href="$db/d99/classproject_1_1_b_e_s___f_s_m.html#ad0202fcf725dff7028763e74f630a985" title="returns the next state " alt="" coords="208,5,392,51"/>
-<area shape="rect" id="node5" href="$db/dd3/classproject_1_1_b_e_s___select.html#ab12d84cb06f265f00f6130fc5e801000" title="project::BES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="207,75,393,139"/>
-<area shape="rect" id="node7" href="$db/dd3/classproject_1_1_b_e_s___select.html#add3bb6fd0f0d1ec1558bb1fc5be938ed" title="project::BES_Select\l::processSubStateMovingScene\lEvent" alt="" coords="196,163,404,227"/>
-</map>

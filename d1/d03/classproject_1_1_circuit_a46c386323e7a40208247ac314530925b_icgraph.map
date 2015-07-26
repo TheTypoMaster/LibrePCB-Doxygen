@@ -1,4 +1,0 @@
-<map id="setNetSignalName" name="setNetSignalName">
-<area shape="rect" id="node3" href="$d5/dc4/classproject_1_1_cmd_net_signal_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="188,5,364,51"/>
-<area shape="rect" id="node5" href="$d5/dc4/classproject_1_1_cmd_net_signal_edit.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="188,74,364,121"/>
-</map>

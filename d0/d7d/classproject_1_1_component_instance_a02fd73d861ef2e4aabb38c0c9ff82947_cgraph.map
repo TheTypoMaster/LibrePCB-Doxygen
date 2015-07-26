@@ -1,6 +1,0 @@
-<map id="init" name="init">
-<area shape="rect" id="node3" href="$d3/dad/classlibrary_1_1_component.html#a09e550ea32a67562c9a68d63c44390c9" title="library::Component\l::getPadSignalMap" alt="" coords="120,5,251,51"/>
-<area shape="rect" id="node5" href="$de/d67/classproject_1_1_gen_comp_instance.html#a6dce1e628b5eee0b673f5dfa0f4f3527" title="project::GenCompInstance\l::getSignalInstance" alt="" coords="96,74,275,121"/>
-<area shape="rect" id="node7" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" title="library::LibraryBaseElement\l::getUuid" alt="" coords="95,143,276,190"/>
-<area shape="rect" id="node9" href="$d0/d7d/classproject_1_1_component_instance.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="108,213,263,243"/>
-</map>

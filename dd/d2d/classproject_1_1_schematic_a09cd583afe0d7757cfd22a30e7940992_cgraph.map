@@ -1,5 +1,0 @@
-<map id="getNetPointsAtScenePos" name="getNetPointsAtScenePos">
-<area shape="rect" id="node3" href="$d3/d43/classproject_1_1_s_i___net_point.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::SI_NetPoint\l::getGrabAreaScenePx" alt="" coords="225,5,380,51"/>
-<area shape="rect" id="node5" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="431,13,564,43"/>
-<area shape="rect" id="node7" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="613,13,709,43"/>
-</map>

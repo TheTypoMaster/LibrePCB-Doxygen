@@ -1,9 +1,0 @@
-<map id="parseDomTree" name="parseDomTree">
-<area shape="rect" id="node3" href="$d8/dff/classlibrary_1_1_library_element.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::LibraryElement\l::parseDomTree" alt="" coords="163,58,315,105"/>
-<area shape="rect" id="node7" href="$d1/d1f/class_xml_dom_element.html#a95f6de04ddcc9336005e890a5bca080a" title="Get the first child element of this element. " alt="" coords="369,5,572,35"/>
-<area shape="rect" id="node9" href="$d1/d1f/class_xml_dom_element.html#a3cd8526c7b8169654ac3b2357af7392e" title="Get the next sibling element (with a specific name) " alt="" coords="364,128,577,157"/>
-<area shape="rect" id="node17" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#ada9b237a8629c03e16491a72730b456b" title="library::SymbolPin\l::getUuid" alt="" coords="175,178,303,225"/>
-<area shape="rect" id="node5" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::LibraryBaseElement\l::parseDomTree" alt="" coords="380,58,561,105"/>
-<area shape="rect" id="node11" href="$d1/d1f/class_xml_dom_element.html#adc4e44d2a70ffd20acf6f46952f44723" title="Get the next child (with a specific name) of a specific child. " alt="" coords="627,128,832,157"/>
-<area shape="rect" id="node13" href="$d1/d1f/class_xml_dom_element.html#ab0c96f485564e41206ce9a4ce42ba389" title="Get the tag name of this element. " alt="" coords="881,128,1063,157"/>
-</map>

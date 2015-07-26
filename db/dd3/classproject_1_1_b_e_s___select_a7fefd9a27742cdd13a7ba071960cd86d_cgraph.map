@@ -1,6 +1,0 @@
-<map id="proccessIdleSceneLeftClick" name="proccessIdleSceneLeftClick">
-<area shape="rect" id="node3" href="$d0/d69/class_point.html#a3da9ee2bc3910d0f0c43c30798906fdd" title="Point::fromPx" alt="" coords="241,44,343,73"/>
-<area shape="rect" id="node5" href="$df/df0/class_length.html#a5aef66a62c626dea314f1a1e1716534b" title="Set the length in pixels (from QGraphics* objects) " alt="" coords="393,5,535,35"/>
-<area shape="rect" id="node9" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="403,83,525,112"/>
-<area shape="rect" id="node7" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="585,5,769,35"/>
-</map>

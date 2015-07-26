@@ -1,6 +1,0 @@
-<map id="setSelectedGenComp" name="setSelectedGenComp">
-<area shape="rect" id="node3" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a5951d1d20ef2d9675b3b1690d6799fa7" title="on_listGenericComponents\l_currentItemChanged" alt="" coords="205,5,384,51"/>
-<area shape="rect" id="node5" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="setSelectedCategory" alt="" coords="223,75,367,104"/>
-<area shape="rect" id="node7" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25" title="on_treeCategories_current\lItemChanged" alt="" coords="433,66,607,113"/>
-<area shape="rect" id="node9" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="AddGenCompDialog" alt="" coords="656,75,797,104"/>
-</map>

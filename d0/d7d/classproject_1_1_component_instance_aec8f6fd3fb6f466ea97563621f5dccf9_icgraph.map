@@ -1,5 +1,0 @@
-<map id="setPosition" name="setPosition">
-<area shape="rect" id="node3" href="$d8/d2c/classproject_1_1_cmd_component_instance_edit.html#a801a73edec2e24e96b5bbfcd5774d5d9" title="project::CmdComponentInstance\lEdit::~CmdComponentInstanceEdit" alt="" coords="141,5,371,51"/>
-<area shape="rect" id="node5" href="$d8/d2c/classproject_1_1_cmd_component_instance_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="149,74,363,121"/>
-<area shape="rect" id="node7" href="$d8/d2c/classproject_1_1_cmd_component_instance_edit.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="149,143,363,190"/>
-</map>

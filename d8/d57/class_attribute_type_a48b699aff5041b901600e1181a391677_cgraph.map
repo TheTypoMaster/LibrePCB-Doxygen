@@ -1,8 +1,0 @@
-<map id="getAllTypes" name="getAllTypes">
-<area shape="rect" id="node3" href="$dc/d13/class_attr_type_string.html#a88d8e23a17e2cbcb9ea71bd1ebff35f3" title="AttrTypeString::instance" alt="" coords="149,5,312,35"/>
-<area shape="rect" id="node5" href="$d6/dc0/class_attr_type_resistance.html#abc01acd4762ffef6f61e7be45dbca07d" title="AttrTypeResistance\l::instance" alt="" coords="161,58,300,105"/>
-<area shape="rect" id="node7" href="$d0/d14/class_attr_type_capacitance.html#a60437b97dbb198bbea5920cebc2c2059" title="AttrTypeCapacitance\l::instance" alt="" coords="159,127,303,174"/>
-<area shape="rect" id="node9" href="$d0/d9c/class_attr_type_inductance.html#a521fc12589f03f9ff502c53c765354b3" title="AttrTypeInductance\l::instance" alt="" coords="163,197,299,243"/>
-<area shape="rect" id="node11" href="$d9/d21/class_attr_type_voltage.html#ac987bea2d7c06eca15ab204116606c88" title="AttrTypeVoltage::instance" alt="" coords="144,267,317,296"/>
-<area shape="rect" id="node13" href="$df/da7/class_attr_type_frequency.html#a64d71743271995904885f235c0cbdb9c" title="AttrTypeFrequency::\linstance" alt="" coords="160,319,301,366"/>
-</map>

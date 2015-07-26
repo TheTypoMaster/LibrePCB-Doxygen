@@ -1,5 +1,0 @@
-<map id="fromPx" name="fromPx">
-<area shape="rect" id="node3" href="$df/df0/class_length.html#a5aef66a62c626dea314f1a1e1716534b" title="Set the length in pixels (from QGraphics* objects) " alt="" coords="119,5,260,35"/>
-<area shape="rect" id="node7" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="147,83,232,112"/>
-<area shape="rect" id="node5" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="311,5,495,35"/>
-</map>

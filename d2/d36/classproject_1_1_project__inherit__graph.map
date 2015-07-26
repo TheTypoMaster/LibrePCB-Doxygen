@@ -1,6 +1,0 @@
-<map id="Project" name="Project">
-<area shape="rect" id="node2" href="$d9/d41/class_i_f___attribute_provider.html" title="The IF_AttributeProvider class defines an interface for classes which provides some attributes which ..." alt="" coords="5,5,227,195"/>
-<area shape="rect" id="node4" href="$d5/d3f/class_i_f___schematic_layer_provider.html" title="The IF_SchematicLayerProvider class defines an interface for classes which provide schematic layers..." alt="" coords="251,23,461,177"/>
-<area shape="rect" id="node6" href="$d6/db7/class_i_f___board_layer_provider.html" title="The IF_BoardLayerProvider class defines an interface for classes which provide board layers..." alt="" coords="485,23,667,177"/>
-<area shape="rect" id="node8" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="691,31,893,169"/>
-</map>

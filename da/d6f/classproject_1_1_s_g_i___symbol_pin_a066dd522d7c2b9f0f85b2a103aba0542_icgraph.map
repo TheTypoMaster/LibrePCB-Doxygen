@@ -1,7 +1,0 @@
-<map id="shape" name="shape">
-<area shape="rect" id="node3" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::SI_SymbolPin\l::getGrabAreaScenePx" alt="" coords="113,74,268,121"/>
-<area shape="rect" id="node5" href="$dd/d2d/classproject_1_1_schematic.html#ac6709a9f69bbe2647444abaccbc8403e" title="project::Schematic\l::getItemsAtScenePos" alt="" coords="317,5,472,51"/>
-<area shape="rect" id="node7" href="$dd/d2d/classproject_1_1_schematic.html#af74dab3072b8fc7894549c35ac90a050" title="project::Schematic\l::getPinsAtScenePos" alt="" coords="321,74,468,121"/>
-<area shape="rect" id="node9" href="$dd/d2d/classproject_1_1_schematic.html#a1e81bd3e07987e2b02f760b3d6d75c21" title="project::Schematic\l::setSelectionRect" alt="" coords="329,143,460,190"/>
-<area shape="rect" id="node11" href="$d8/d8b/classproject_1_1_s_e_s___select.html#ae7b1d9775f8e164e825c0cdecf27eff5" title="project::SES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="521,135,708,199"/>
-</map>

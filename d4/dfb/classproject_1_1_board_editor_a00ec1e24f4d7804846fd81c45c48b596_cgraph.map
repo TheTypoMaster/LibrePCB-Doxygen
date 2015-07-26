@@ -1,6 +1,0 @@
-<map id="setActiveBoardIndex" name="setActiveBoardIndex">
-<area shape="rect" id="node3" href="$d5/d07/classproject_1_1_board.html#aba0aa0c67ac48bb21578ba3eb612006e" title="project::Board::saveView\lSceneRect" alt="" coords="220,5,388,51"/>
-<area shape="rect" id="node5" href="$d5/d07/classproject_1_1_board.html#a84e2c13543874ea06bf4165f60980bac" title="project::Board::showInView" alt="" coords="213,75,395,104"/>
-<area shape="rect" id="node7" href="$d5/d07/classproject_1_1_board.html#ac8e29852637e2e3ab1d2c917bf417841" title="project::Board::restoreView\lSceneRect" alt="" coords="215,127,393,174"/>
-<area shape="rect" id="node9" href="$d5/d07/classproject_1_1_board.html#a8fdde458ce65c4d4a40545c222303ae9" title="project::Board::getGridProperties" alt="" coords="199,197,409,227"/>
-</map>

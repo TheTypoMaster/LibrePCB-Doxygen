@@ -1,7 +1,0 @@
-<map id="Exception" name="Exception">
-<area shape="rect" id="node3" href="$df/d34/class_logic_error.html" title="The LogicError class. " alt="" coords="5,347,107,501"/>
-<area shape="rect" id="node5" href="$d0/d14/class_runtime_error.html" title="The RuntimeError class. " alt="" coords="131,347,248,501"/>
-<area shape="rect" id="node11" href="$db/d5f/class_user_canceled.html" title="The UserCanceled class. " alt="" coords="272,347,397,501"/>
-<area shape="rect" id="node7" href="$dd/d1a/class_file_parse_error.html" title="The FileParseError class. " alt="" coords="56,549,181,704"/>
-<area shape="rect" id="node9" href="$d6/d94/class_range_error.html" title="The RangeError class. " alt="" coords="205,549,312,704"/>
-</map>

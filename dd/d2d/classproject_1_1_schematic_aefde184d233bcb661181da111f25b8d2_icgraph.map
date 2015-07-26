@@ -1,7 +1,0 @@
-<map id="removeNetLine" name="removeNetLine">
-<area shape="rect" id="node3" href="$d7/dba/classproject_1_1_cmd_schematic_net_line_add.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="167,5,345,51"/>
-<area shape="rect" id="node5" href="$d7/dba/classproject_1_1_cmd_schematic_net_line_add.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="167,74,345,121"/>
-<area shape="rect" id="node7" href="$dd/d36/classproject_1_1_cmd_schematic_net_line_remove.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="167,143,345,190"/>
-<area shape="rect" id="node9" href="$dd/d36/classproject_1_1_cmd_schematic_net_line_remove.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="167,213,345,259"/>
-<area shape="rect" id="node11" href="$dd/d2d/classproject_1_1_schematic.html#a9d2b171705c992ace4155d02176f0022" title="~Schematic" alt="" coords="211,283,301,312"/>
-</map>

@@ -1,3 +1,0 @@
-<map id="AddGenCompDialog" name="AddGenCompDialog">
-<area shape="rect" id="node2" href="$d8/d4e/class_ui___add_gen_comp_dialog.html" title="{Ui_AddGenCompDialog\n|+ verticalLayout\l+ scrollArea\l+ scrollAreaWidgetContents_2\l+ horizontalLayout\l+ treeCategories\l+ listGenericComponents\l+ verticalLayout_2\l+ gbxGenComp\l+ formLayout\l+ label_4\l+ lblGenCompName\l+ label_2\l+ lblGenCompUuid\l+ label_6\l+ lblGenCompDescription\l+ gbxSymbVar\l+ verticalLayout_3\l+ formLayout_3\l+ label_5\l+ cbxSymbVar\l+ label\l+ lblSymbVarUuid\l+ label_11\l+ lblSymbVarDescription\l+ label_3\l+ lblSymbVarNorm\l+ graphicsView\l+ buttonBox\l|+ setupUi()\l+ retranslateUi()\l}" alt="" coords="5,5,205,576"/>
-</map>

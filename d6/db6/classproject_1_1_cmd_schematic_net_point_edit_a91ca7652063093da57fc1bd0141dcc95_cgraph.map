@@ -1,7 +1,0 @@
-<map id="redo" name="redo">
-<area shape="rect" id="node3" href="$d3/d43/classproject_1_1_s_i___net_point.html#a8e2fb43c2d7f2c094cef4811ea04f10a" title="Change the netsignal of this netpoint. " alt="" coords="105,5,244,51"/>
-<area shape="rect" id="node5" href="$d3/d43/classproject_1_1_s_i___net_point.html#aed08011e6158136fd130624f64f14307" title="project::SI_NetPoint\l::setPosition" alt="" coords="105,74,244,121"/>
-<area shape="rect" id="node7" href="$d3/d26/class_undo_command.html#a93c48d6ed036e1a381be53ac67643284" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="101,144,248,173"/>
-<area shape="rect" id="node9" href="$d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" title="This method shows whether that command is executed (redo() called one time more than undo()) ..." alt="" coords="493,119,680,148"/>
-<area shape="rect" id="node11" href="$d3/d26/class_undo_command.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the command (and all child commands in reverse order) " alt="" coords="296,144,445,173"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="serializeToXmlDomElement" name="serializeToXmlDomElement">
-<area shape="rect" id="node3" href="$d8/dff/classlibrary_1_1_library_element.html#a8747acbd54e52d4fcb3bb74f1bb2a88a" title="Serialize the object to a XML DOM element. " alt="" coords="240,61,432,107"/>
-<area shape="rect" id="node7" href="$d1/d1f/class_xml_dom_element.html#af2ee1b74300d31ca889b32ddd96d51ac" title="Append a child to the end of the child list of this element. " alt="" coords="724,104,924,133"/>
-<area shape="rect" id="node14" href="$d1/d1f/class_xml_dom_element.html#a7dbc10bec6de11bf7a444b8bf048f296" title="Set or add an attribute to this element. " alt="" coords="239,207,433,236"/>
-<area shape="rect" id="node5" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a8747acbd54e52d4fcb3bb74f1bb2a88a" title="Serialize the object to a XML DOM element. " alt="" coords="483,35,675,82"/>
-<area shape="rect" id="node9" href="$d1/d1f/class_xml_dom_element.html#a22b3ed6c99338244f5855c446f66d702" title="Create a new text child and append it to the list of childs. " alt="" coords="725,5,923,51"/>
-</map>

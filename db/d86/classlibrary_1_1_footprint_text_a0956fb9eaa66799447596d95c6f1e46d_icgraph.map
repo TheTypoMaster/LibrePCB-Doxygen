@@ -1,6 +1,0 @@
-<map id="getHeight" name="getHeight">
-<area shape="rect" id="node3" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_Footprint\l::updateCacheAndRepaint" alt="" coords="135,14,308,61"/>
-<area shape="rect" id="node9" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::BGI_Footprint\l::paint" alt="" coords="147,83,296,130"/>
-<area shape="rect" id="node5" href="$da/d96/classproject_1_1_b_i___footprint.html#a80db668afe30ac6b6c9e5eb061b61cfc" title="project::BI_Footprint\l::componentInstanceAttributes\lChanged" alt="" coords="357,5,557,69"/>
-<area shape="rect" id="node7" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="607,14,745,61"/>
-</map>

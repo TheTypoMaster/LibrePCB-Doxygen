@@ -1,8 +1,0 @@
-<map id="loadSettings" name="loadSettings">
-<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#aeb37554b75918a9262a0c09df1205fff" title="Build an absolute and well&#45;formatted filepath from a relative filepath. " alt="" coords="155,5,307,35"/>
-<area shape="rect" id="node5" href="$d5/d56/class_workspace.html#af7f148ec01c9f5b993b0cac385a64abd" title="Get the filepath to the workspace directory. " alt="" coords="160,59,301,88"/>
-<area shape="rect" id="node7" href="$db/d76/class_project_tree_model.html#a78a2f89d1c2554356cf93a072b5fe7aa" title="ProjectTreeModel::index" alt="" coords="149,112,312,141"/>
-<area shape="rect" id="node13" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="177,165,284,195"/>
-<area shape="rect" id="node9" href="$db/d76/class_project_tree_model.html#a097d5cab45248ecb3614b1d427e05369" title="ProjectTreeModel::getItem" alt="" coords="360,85,536,115"/>
-<area shape="rect" id="node11" href="$db/d9c/class_project_tree_item.html#a3eaac67b81ffb70ba55a3757ffcceedb" title="ProjectTreeItem::getChild" alt="" coords="363,139,533,168"/>
-</map>

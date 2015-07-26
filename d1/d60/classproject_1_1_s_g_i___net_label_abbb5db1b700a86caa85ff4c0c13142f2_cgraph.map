@@ -1,7 +1,0 @@
-<map id="updateCacheAndRepaint" name="updateCacheAndRepaint">
-<area shape="rect" id="node3" href="$d1/d7b/classproject_1_1_s_i___net_label.html#a894842161e505b56d67b0cf5b0f50087" title="project::SI_NetLabel\l::getAngle" alt="" coords="221,5,363,51"/>
-<area shape="rect" id="node5" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="243,75,341,104"/>
-<area shape="rect" id="node9" href="$d1/d7b/classproject_1_1_s_i___net_label.html#a030988c000034a9099850531546baaa9" title="project::SI_NetLabel\l::getNetSignal" alt="" coords="221,127,363,174"/>
-<area shape="rect" id="node11" href="$d3/d93/classproject_1_1_net_signal.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::NetSignal\l::getName" alt="" coords="229,197,355,243"/>
-<area shape="rect" id="node7" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="411,75,507,104"/>
-</map>

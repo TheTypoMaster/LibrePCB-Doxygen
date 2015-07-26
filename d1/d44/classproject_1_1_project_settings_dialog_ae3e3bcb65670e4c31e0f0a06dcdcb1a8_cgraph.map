@@ -1,6 +1,0 @@
-<map id="applySettings" name="applySettings">
-<area shape="rect" id="node3" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#a50424f32061290175b08d295c880577e" title="project::CmdProjectSettings\lChange::setLocaleOrder" alt="" coords="155,5,341,51"/>
-<area shape="rect" id="node5" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#a6d4d10e573d7cd7a1f44788d7b22f576" title="project::CmdProjectSettings\lChange::setNormOrder" alt="" coords="155,74,341,121"/>
-<area shape="rect" id="node7" href="$d4/d90/class_undo_stack.html#a6649c687fca96c8e65cec90e50551d28" title="Execute a command and push it to the stack (similar to QUndoStack::push()) " alt="" coords="173,144,323,173"/>
-<area shape="rect" id="node9" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="169,197,327,227"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="isVisible" name="isVisible">
-<area shape="rect" id="node3" href="$da/db5/classproject_1_1_s_g_i___net_point.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_NetPoint\l::updateCacheAndRepaint" alt="" coords="127,39,300,86"/>
-<area shape="rect" id="node11" href="$dd/d2d/classproject_1_1_schematic.html#ac6709a9f69bbe2647444abaccbc8403e" title="project::Schematic\l::getItemsAtScenePos" alt="" coords="136,109,291,155"/>
-<area shape="rect" id="node5" href="$d3/d43/classproject_1_1_s_i___net_point.html#a1894cd9c0e70404c048068221df5135d" title="detachFromPin" alt="" coords="351,48,460,77"/>
-<area shape="rect" id="node7" href="$d1/d92/classproject_1_1_cmd_schematic_net_point_detach.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="511,5,689,51"/>
-<area shape="rect" id="node9" href="$d1/d92/classproject_1_1_cmd_schematic_net_point_detach.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="511,74,689,121"/>
-</map>

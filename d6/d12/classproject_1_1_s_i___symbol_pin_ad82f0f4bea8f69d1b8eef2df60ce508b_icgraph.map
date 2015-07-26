@@ -1,5 +1,0 @@
-<map id="unregisterNetPoint" name="unregisterNetPoint">
-<area shape="rect" id="node3" href="$d3/d43/classproject_1_1_s_i___net_point.html#a1894cd9c0e70404c048068221df5135d" title="project::SI_NetPoint\l::detachFromPin" alt="" coords="185,39,324,86"/>
-<area shape="rect" id="node5" href="$d1/d92/classproject_1_1_cmd_schematic_net_point_detach.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="375,5,553,51"/>
-<area shape="rect" id="node7" href="$d1/d92/classproject_1_1_cmd_schematic_net_point_detach.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="375,74,553,121"/>
-</map>
