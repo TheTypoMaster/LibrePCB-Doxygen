@@ -1,0 +1,11 @@
+<map id="ControlPanel" name="ControlPanel">
+<area shape="rect" id="node3" href="$de/d6b/class_application.html#a9b7423f4d6e1631b033ff1ef3f1104bc" title="Application::application\lVersion" alt="" coords="180,5,335,51"/>
+<area shape="rect" id="node7" href="$d5/d56/class_workspace.html#af7f148ec01c9f5b993b0cac385a64abd" title="Get the filepath to the workspace directory. " alt="" coords="187,75,328,104"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#af27e4f117ace775ab38ae937c12cd37a" title="Get the absolute filepath with native directory separators (&quot;/&quot; resp. &quot;\&quot;) " alt="" coords="195,128,320,157"/>
+<area shape="rect" id="node11" href="$d5/d56/class_workspace.html#a6d762ea27ae2be65a4b25fb4f82e043f" title="Get the workspace settings. " alt="" coords="176,181,339,211"/>
+<area shape="rect" id="node13" href="$de/d52/class_workspace_settings.html#a1936315cc004b5b979baac915e89f6da" title="Open the workspace settings dialog. " alt="" coords="185,234,329,281"/>
+<area shape="rect" id="node15" href="$d5/d56/class_workspace.html#a5524aeb2c53837d8b6f12787e31edab2" title="Workspace::getProjectTree\lModel" alt="" coords="167,303,348,350"/>
+<area shape="rect" id="node17" href="$d5/d56/class_workspace.html#a3550573dc12f51994b6801fcc957c879" title="Workspace::getRecentProjects\lModel" alt="" coords="156,373,359,419"/>
+<area shape="rect" id="node19" href="$d5/d56/class_workspace.html#a527ef355be3f902e048cefd3c0d1c84a" title="Workspace::getFavoriteProjects\lModel" alt="" coords="153,442,361,489"/>
+<area shape="rect" id="node5" href="$de/d34/class_version.html#a0a886a9edf5bf682f5245159661bfc94" title="Check if the object represents a valid version number. " alt="" coords="412,13,524,43"/>
+</map>

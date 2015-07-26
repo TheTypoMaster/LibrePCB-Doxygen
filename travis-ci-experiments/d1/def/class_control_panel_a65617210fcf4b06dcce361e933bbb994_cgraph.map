@@ -1,0 +1,10 @@
+<map id="on_actionRescanLibrary_triggered" name="on_actionRescanLibrary_triggered">
+<area shape="rect" id="node3" href="$d5/d56/class_workspace.html#a0aaab7f8db4623adc7227460a859db51" title="Get the workspace library. " alt="" coords="220,48,372,77"/>
+<area shape="rect" id="node5" href="$de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. " alt="" coords="221,101,371,131"/>
+<area shape="rect" id="node17" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="217,155,375,184"/>
+<area shape="rect" id="node7" href="$de/d02/classlibrary_1_1_library.html#a7252d2908c652122452d1f47b8c7bb16" title="library::Library::clearDatabase\lAndCreateTables" alt="" coords="425,58,620,105"/>
+<area shape="rect" id="node13" href="$de/d02/classlibrary_1_1_library.html#af2169476bf038e2de29eb968e25c561e" title="library::Library::getAll\lXmlFilesInLibDir" alt="" coords="451,127,595,174"/>
+<area shape="rect" id="node9" href="$de/d02/classlibrary_1_1_library.html#a4e341ac749738a97962a224277794303" title="library::Library::prepare\lQuery" alt="" coords="680,5,835,51"/>
+<area shape="rect" id="node11" href="$de/d02/classlibrary_1_1_library.html#aa3f504ec425bb6a3578ffd34ccc51cb7" title="library::Library::execQuery" alt="" coords="671,75,844,104"/>
+<area shape="rect" id="node15" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="704,136,811,165"/>
+</map>

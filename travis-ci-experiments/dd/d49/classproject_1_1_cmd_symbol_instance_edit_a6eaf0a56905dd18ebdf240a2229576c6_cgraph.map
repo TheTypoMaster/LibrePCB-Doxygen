@@ -1,0 +1,27 @@
+<map id="~CmdSymbolInstanceEdit" name="~CmdSymbolInstanceEdit">
+<area shape="rect" id="node3" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" title="project::SI_Symbol\l::setPosition" alt="" coords="229,445,363,491"/>
+<area shape="rect" id="node58" href="$de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597" title="project::SI_Symbol\l::setAngle" alt="" coords="229,514,363,561"/>
+<area shape="rect" id="node5" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a212e36e19edc323ddeb73387d2f011a5" title="project::SI_SymbolPin\l::updatePosition" alt="" coords="411,479,563,526"/>
+<area shape="rect" id="node7" href="$de/d50/classproject_1_1_s_i___symbol.html#a56e275d18632ae7d863b45e405563e26" title="project::SI_Symbol\l::mapToScene" alt="" coords="632,175,765,222"/>
+<area shape="rect" id="node32" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#ae23dd3ab799e9f70a4037eea91f69a82" title="library::SymbolPin\l::getPosition" alt="" coords="635,566,763,613"/>
+<area shape="rect" id="node34" href="$de/d50/classproject_1_1_s_i___symbol.html#a894842161e505b56d67b0cf5b0f50087" title="project::SI_Symbol\l::getAngle" alt="" coords="844,203,977,250"/>
+<area shape="rect" id="node36" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#a894842161e505b56d67b0cf5b0f50087" title="library::SymbolPin\l::getAngle" alt="" coords="847,531,975,578"/>
+<area shape="rect" id="node38" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="632,513,765,543"/>
+<area shape="rect" id="node42" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="649,636,748,665"/>
+<area shape="rect" id="node44" href="$da/d6f/classproject_1_1_s_g_i___symbol_pin.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_SymbolPin\l::updateCacheAndRepaint" alt="" coords="612,393,785,439"/>
+<area shape="rect" id="node56" href="$d3/d43/classproject_1_1_s_i___net_point.html#aed08011e6158136fd130624f64f14307" title="project::SI_NetPoint\l::setPosition" alt="" coords="629,689,768,735"/>
+<area shape="rect" id="node9" href="$d0/d69/class_point.html#a5234cfe8b9f31ba928745912067f90b4" title="Get the point rotated by a specific angle with respect to a specific center. " alt="" coords="861,151,960,180"/>
+<area shape="rect" id="node11" href="$d0/d69/class_point.html#af8998fd1f88de65f9467a5d2012710a4" title="Rotate the point by a specific angle with respect to a specific center. " alt="" coords="1035,151,1128,180"/>
+<area shape="rect" id="node13" href="$d2/d39/class_angle.html#afba236b33bef9614cb43142b02c79187" title="Get an Angle object which is mapped to [0..360[ degrees. " alt="" coords="1177,5,1356,35"/>
+<area shape="rect" id="node17" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="1217,272,1316,301"/>
+<area shape="rect" id="node21" href="$d2/d39/class_angle.html#a1cb5c1054de209f807098188714339d8" title="180 degrees " alt="" coords="1215,219,1319,248"/>
+<area shape="rect" id="node24" href="$d2/d39/class_angle.html#a7600a8b34a9d1abb484a7d459cc45bba" title="270 degrees " alt="" coords="1215,59,1319,88"/>
+<area shape="rect" id="node27" href="$d2/d39/class_angle.html#a0bb104c9f39ddaeb30f14b4320e34f2a" title="0 degrees " alt="" coords="1221,165,1312,195"/>
+<area shape="rect" id="node30" href="$df/df0/class_length.html#ae8a552dd96c343a0a609cebf7731cd26" title="Get the length in nanometers. " alt="" coords="1216,112,1317,141"/>
+<area shape="rect" id="node15" href="$d2/d39/class_angle.html#aa6a6fad8c7af06e21bec6a5fc2b521cc" title="Map this Angle object to [0..360[ degrees. " alt="" coords="1407,5,1564,35"/>
+<area shape="rect" id="node19" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="1437,192,1533,221"/>
+<area shape="rect" id="node40" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="863,601,959,631"/>
+<area shape="rect" id="node47" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#ac719981a1c0cd287330632a443776bec" title="project::SI_SymbolPin\l::getSymbol" alt="" coords="835,323,987,370"/>
+<area shape="rect" id="node51" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#a2e17cfc864c3d153e0f25bfd79277cd1" title="library::SymbolPin\l::getLength" alt="" coords="847,393,975,439"/>
+<area shape="rect" id="node54" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a82d223627d0c08ce323661100eb289bd" title="project::SI_SymbolPin\l::getDisplayText" alt="" coords="835,462,987,509"/>
+</map>

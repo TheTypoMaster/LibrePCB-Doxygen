@@ -1,0 +1,7 @@
+<map id="undo" name="undo">
+<area shape="rect" id="node3" href="$d5/d07/classproject_1_1_board.html#a4761539100ab074ec84d6552841e7b69" title="project::Board::removeComponent\lInstance" alt="" coords="104,5,325,51"/>
+<area shape="rect" id="node5" href="$d3/d26/class_undo_command.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the command (and all child commands in reverse order) " alt="" coords="140,75,289,104"/>
+<area shape="rect" id="node13" href="$d5/d07/classproject_1_1_board.html#a0b8a16d4df2e648ece742d9090d48ab2" title="project::Board::addComponent\lInstance" alt="" coords="116,127,313,174"/>
+<area shape="rect" id="node7" href="$d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" title="This method shows whether that command is executed (redo() called one time more than undo()) ..." alt="" coords="568,49,755,79"/>
+<area shape="rect" id="node9" href="$d3/d26/class_undo_command.html#a93c48d6ed036e1a381be53ac67643284" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="373,75,520,104"/>
+</map>

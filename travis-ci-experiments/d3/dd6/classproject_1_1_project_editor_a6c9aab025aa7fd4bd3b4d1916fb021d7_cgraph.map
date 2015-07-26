@@ -1,0 +1,6 @@
+<map id="saveProject" name="saveProject">
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#ace118ad4801f373b6e0691051f917247" title="Save the whole project to the harddisc. " alt="" coords="151,5,297,35"/>
+<area shape="rect" id="node5" href="$d4/d90/class_undo_stack.html#ac6d446d586f7bd5b310d1f19c9ce5923" title="Set the current state as the clean state (see also isClean()) " alt="" coords="151,59,297,88"/>
+<area shape="rect" id="node9" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="145,112,303,141"/>
+<area shape="rect" id="node7" href="$d4/d90/class_undo_stack.html#ac94ae4017f4a9133369c65c0fdb6f4c7" title="Check if the stack is in a clean state (the state of the last setClean()) " alt="" coords="352,59,491,88"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="BoardEditor" name="BoardEditor">
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a053e9baeb9ba6a37ed66e6cf03319ed8" title="Check whether this project was opened in read&#45;only mode or not. " alt="" coords="157,5,344,35"/>
+<area shape="rect" id="node5" href="$d2/d05/classproject_1_1_project.html#afbdab4a0b61e83c059a2901660e2df25" title="Get the filepath of the project file (*.lpp) " alt="" coords="160,59,341,88"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a2cc965936000d08100b8b2e503d975a4" title="Get the whole filename (without the path) of the file or directory. " alt="" coords="176,112,325,141"/>
+<area shape="rect" id="node9" href="$d3/dd6/classproject_1_1_project_editor.html#a5197d5ec7e234d6924a76e9fcfa985fa" title="Get a reference to the undo stack of the project. " alt="" coords="179,165,323,211"/>
+<area shape="rect" id="node11" href="$dd/dd5/class_graphics_view.html#a4801b71126e10a454a0b148beffb13bf" title="GraphicsView::setGridProperties" alt="" coords="145,235,356,264"/>
+<area shape="rect" id="node13" href="$d2/d05/classproject_1_1_project.html#a46ccfa0fa920843d0626be456879b382" title="Get all boards. " alt="" coords="163,288,339,317"/>
+<area shape="rect" id="node15" href="$d4/dfb/classproject_1_1_board_editor.html#a39a2f2e2adc828c82fd650e2f33e7c92" title="boardAdded" alt="" coords="205,341,296,371"/>
+<area shape="rect" id="node19" href="$d4/dfb/classproject_1_1_board_editor.html#acda89dda24153450977ebfe680917e69" title="boardRemoved" alt="" coords="196,395,305,424"/>
+<area shape="rect" id="node21" href="$d4/dfb/classproject_1_1_board_editor.html#a9d16e102246c9116167fdaf66936bed1" title="boardListActionGroupTriggered" alt="" coords="151,448,351,477"/>
+<area shape="rect" id="node23" href="$d3/dd6/classproject_1_1_project_editor.html#a6c9aab025aa7fd4bd3b4d1916fb021d7" title="Save the whole project to the harddisc. " alt="" coords="179,501,323,547"/>
+<area shape="rect" id="node33" href="$dd/dd5/class_graphics_view.html#a8bcfae1253e8a88ee56b2d0e38dd7d77" title="GraphicsView::zoomIn" alt="" coords="173,571,328,600"/>
+<area shape="rect" id="node35" href="$dd/dd5/class_graphics_view.html#a4ec565aefab2e63fe623c84cb690733c" title="GraphicsView::zoomOut" alt="" coords="169,624,332,653"/>
+<area shape="rect" id="node37" href="$dd/dd5/class_graphics_view.html#a0b0ff363db364ea5ce364fe2e27ef1aa" title="GraphicsView::zoomAll" alt="" coords="172,677,329,707"/>
+<area shape="rect" id="node41" href="$d3/dd6/classproject_1_1_project_editor.html#af2239632bc976a73559dbfe5383e3c08" title="Open the schematic editor window and bring it to the front. " alt="" coords="172,730,329,777"/>
+<area shape="rect" id="node43" href="$d3/dd6/classproject_1_1_project_editor.html#acb84e06926743dcb0b0aeee7a102931a" title="Execute the netclasses editor dialog (blocking!) " alt="" coords="152,799,349,846"/>
+<area shape="rect" id="node17" href="$d5/d07/classproject_1_1_board.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::Board::getName" alt="" coords="408,341,571,371"/>
+<area shape="rect" id="node25" href="$d2/d05/classproject_1_1_project.html#ace118ad4801f373b6e0691051f917247" title="Save the whole project to the harddisc. " alt="" coords="416,456,563,485"/>
+<area shape="rect" id="node27" href="$d4/d90/class_undo_stack.html#ac6d446d586f7bd5b310d1f19c9ce5923" title="Set the current state as the clean state (see also isClean()) " alt="" coords="416,509,563,539"/>
+<area shape="rect" id="node31" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="411,563,568,592"/>
+<area shape="rect" id="node29" href="$d4/d90/class_undo_stack.html#ac94ae4017f4a9133369c65c0fdb6f4c7" title="Check if the stack is in a clean state (the state of the last setClean()) " alt="" coords="621,509,760,539"/>
+<area shape="rect" id="node39" href="$dd/dd5/class_graphics_view.html#a79f98dafea5083f10c64488e0cabba04" title="GraphicsView::getVisible\lSceneRect" alt="" coords="405,669,573,715"/>
+</map>

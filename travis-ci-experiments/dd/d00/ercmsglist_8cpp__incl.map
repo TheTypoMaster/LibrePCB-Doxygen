@@ -1,0 +1,17 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/erc/ercmsglist.cpp" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/erc/ercmsglist.cpp">
+<area shape="rect" id="node5" href="$db/d85/ercmsglist_8h.html" title="ercmsglist.h" alt="" coords="1105,127,1199,156"/>
+<area shape="rect" id="node17" href="$df/d2c/ercmsg_8h.html" title="ercmsg.h" alt="" coords="1805,127,1880,156"/>
+<area shape="rect" id="node20" href="$da/dfb/if__ercmsgprovider_8h.html" title="if_ercmsgprovider.h" alt="" coords="1399,127,1535,156"/>
+<area shape="rect" id="node22" href="$dc/d8d/project_8h.html" title="../project.h" alt="" coords="644,127,727,156"/>
+<area shape="rect" id="node41" href="$d9/d10/smartxmlfile_8h.html" title="librepcbcommon/fileio\l/smartxmlfile.h" alt="" coords="1228,118,1375,165"/>
+<area shape="rect" id="node49" href="$d8/d67/xmldomdocument_8h.html" title="librepcbcommon/fileio\l/xmldomdocument.h" alt="" coords="1397,214,1544,261"/>
+<area shape="rect" id="node56" href="$d1/d68/xmldomelement_8h.html" title="librepcbcommon/fileio\l/xmldomelement.h" alt="" coords="1568,214,1715,261"/>
+<area shape="rect" id="node8" href="$d0/d1d/if__xmlserializableobject_8h.html" title="librepcbcommon/fileio\l/if_xmlserializableobject.h" alt="" coords="944,214,1115,261"/>
+<area shape="rect" id="node10" href="$d4/d03/exceptions_8h.html" title="../exceptions.h" alt="" coords="976,319,1083,348"/>
+<area shape="rect" id="node14" href="$dd/dec/filepath_8h.html" title="librepcbcommon/fileio\l/filepath.h" alt="" coords="1157,310,1304,357"/>
+<area shape="rect" id="node26" href="$da/d81/if__attributeprovider_8h.html" title="librepcbcommon/if_attributeprovider.h" alt="" coords="5,319,243,348"/>
+<area shape="rect" id="node29" href="$d4/d45/if__schematiclayerprovider_8h.html" title="librepcbcommon/if_schematiclayerprovider.h" alt="" coords="267,319,547,348"/>
+<area shape="rect" id="node32" href="$d4/dba/if__boardlayerprovider_8h.html" title="librepcbcommon/if_boardlayerprovider.h" alt="" coords="347,223,597,252"/>
+<area shape="rect" id="node36" href="$d5/db9/filelock_8h.html" title="librepcbcommon/fileio\l/filelock.h" alt="" coords="773,214,920,261"/>
+<area shape="rect" id="node44" href="$d3/d9d/smartfile_8h.html" title="smartfile.h" alt="" coords="1189,223,1272,252"/>
+</map>

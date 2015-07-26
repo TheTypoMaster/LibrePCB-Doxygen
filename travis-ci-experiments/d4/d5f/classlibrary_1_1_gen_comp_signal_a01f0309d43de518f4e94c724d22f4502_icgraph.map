@@ -1,0 +1,9 @@
+<map id="getName" name="getName">
+<area shape="rect" id="node3" href="$da/d20/classlibrary_1_1_symbol_pin_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" title="library::SymbolPinPreview\lGraphicsItem::updateCacheAndRepaint" alt="" coords="128,5,381,51"/>
+<area shape="rect" id="node5" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::GenCompSignalInstance\l::updateErcMessages" alt="" coords="148,74,361,121"/>
+<area shape="rect" id="node7" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::GenCompSignalInstance\l::init" alt="" coords="431,5,644,51"/>
+<area shape="rect" id="node9" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#af00f21a639ab7a55e814293e9bd76c0f" title="project::GenCompSignalInstance\l::addToCircuit" alt="" coords="431,74,644,121"/>
+<area shape="rect" id="node13" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#ac295ebdc117f47883b0a7af285b69a5e" title="project::GenCompSignalInstance\l::removeFromCircuit" alt="" coords="431,143,644,190"/>
+<area shape="rect" id="node11" href="$de/d67/classproject_1_1_gen_comp_instance.html#af00f21a639ab7a55e814293e9bd76c0f" title="project::GenCompInstance\l::addToCircuit" alt="" coords="693,74,872,121"/>
+<area shape="rect" id="node15" href="$de/d67/classproject_1_1_gen_comp_instance.html#ac295ebdc117f47883b0a7af285b69a5e" title="project::GenCompInstance\l::removeFromCircuit" alt="" coords="693,143,872,190"/>
+</map>

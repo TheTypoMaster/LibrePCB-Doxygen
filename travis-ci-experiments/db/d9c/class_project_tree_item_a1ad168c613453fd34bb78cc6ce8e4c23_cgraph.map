@@ -1,0 +1,7 @@
+<map id="ProjectTreeItem" name="ProjectTreeItem">
+<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="193,5,300,35"/>
+<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#aed11b2f2b9590d9ac21e452b8ad11c46" title="Check if the specified filepath is an existing directory. " alt="" coords="171,59,323,88"/>
+<area shape="rect" id="node7" href="$db/d9c/class_project_tree_item.html#ad0f155565195c17fcb28bd54cf6ac680" title="ProjectTreeItem" alt="" coords="189,112,304,141"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#af7ebe5b84330753a4d61b36199f3da48" title="Check if the specified filepath is an existing file. " alt="" coords="169,165,324,195"/>
+<area shape="rect" id="node11" href="$d4/d1c/class_file_path.html#ae4da7d99427ecd117d58b563caf9ea88" title="Get the suffix of the file or directory. " alt="" coords="181,219,312,248"/>
+</map>

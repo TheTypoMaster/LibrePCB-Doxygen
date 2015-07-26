@@ -1,0 +1,11 @@
+<map id="redo" name="redo">
+<area shape="rect" id="node3" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#a182114340986a804a9befcd377b5a64d" title="applyNewSettings" alt="" coords="121,91,249,120"/>
+<area shape="rect" id="node11" href="$d3/d26/class_undo_command.html#a93c48d6ed036e1a381be53ac67643284" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="112,212,259,241"/>
+<area shape="rect" id="node19" href="$d7/d04/classproject_1_1_project_settings.html#aa6b34508aa98198a7b81d8a33bcfeede" title="project::ProjectSettings\l::triggerSettingsChanged" alt="" coords="103,265,268,311"/>
+<area shape="rect" id="node21" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#adb97a0ce75e5351b3dc9fd29285eadf3" title="applyOldSettings" alt="" coords="125,152,245,181"/>
+<area shape="rect" id="node5" href="$d7/d04/classproject_1_1_project_settings.html#ad59385e2b83064738e8974bbe8195cb4" title="project::ProjectSettings\l::restoreDefaults" alt="" coords="319,5,476,51"/>
+<area shape="rect" id="node7" href="$d7/d04/classproject_1_1_project_settings.html#a50424f32061290175b08d295c880577e" title="project::ProjectSettings\l::setLocaleOrder" alt="" coords="319,143,476,190"/>
+<area shape="rect" id="node9" href="$d7/d04/classproject_1_1_project_settings.html#a6d4d10e573d7cd7a1f44788d7b22f576" title="project::ProjectSettings\l::setNormOrder" alt="" coords="319,74,476,121"/>
+<area shape="rect" id="node13" href="$d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" title="This method shows whether that command is executed (redo() called one time more than undo()) ..." alt="" coords="525,239,712,268"/>
+<area shape="rect" id="node15" href="$d3/d26/class_undo_command.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the command (and all child commands in reverse order) " alt="" coords="323,264,472,293"/>
+</map>

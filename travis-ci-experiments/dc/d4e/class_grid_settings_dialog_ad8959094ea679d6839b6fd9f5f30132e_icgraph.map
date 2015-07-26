@@ -1,0 +1,9 @@
+<map id="gridPropertiesChanged" name="gridPropertiesChanged">
+<area shape="rect" id="node3" href="$dc/d4e/class_grid_settings_dialog.html#a8e47da22816749aeadb005f1d0fc6ecc" title="rbtnGroupClicked" alt="" coords="231,5,353,35"/>
+<area shape="rect" id="node7" href="$dc/d4e/class_grid_settings_dialog.html#a1d0a287161effff06f3a2dd172475420" title="spbxIntervalChanged" alt="" coords="220,59,364,88"/>
+<area shape="rect" id="node10" href="$dc/d4e/class_grid_settings_dialog.html#a8c6b24c281de39bab23a247e236f39c0" title="cbxUnitsChanged" alt="" coords="229,112,355,141"/>
+<area shape="rect" id="node13" href="$dc/d4e/class_grid_settings_dialog.html#a4fe43a1e03977a7e1879ba51775b0ce5" title="buttonBoxClicked" alt="" coords="229,165,355,195"/>
+<area shape="rect" id="node16" href="$d4/dfb/classproject_1_1_board_editor.html#a33b0d0df4f626390be896c8ce1159cd9" title="project::BoardEditor\l::on_actionGrid_triggered" alt="" coords="209,218,375,265"/>
+<area shape="rect" id="node18" href="$dd/d24/classproject_1_1_schematic_editor.html#a33b0d0df4f626390be896c8ce1159cd9" title="project::SchematicEditor\l::on_actionGrid_triggered" alt="" coords="209,287,375,334"/>
+<area shape="rect" id="node5" href="$dc/d4e/class_grid_settings_dialog.html#accb85452fe6ac5e053dcaae228cd9866" title="GridSettingsDialog" alt="" coords="424,85,555,115"/>
+</map>

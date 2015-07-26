@@ -1,0 +1,13 @@
+<map id="paint" name="paint">
+<area shape="rect" id="node3" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#ab5b561a43f4b266305c0385115b7972e" title="project::SI_SymbolPin\l::getGenCompSignal" alt="" coords="136,5,288,51"/>
+<area shape="rect" id="node5" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#aa861213ae91d51750e3091eaeb3bf9af" title="project::SI_SymbolPin\l::getGenCompSignalInstance" alt="" coords="116,74,308,121"/>
+<area shape="rect" id="node7" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a2367e5cb623f3a1f5789aa3499c9219b" title="project::GenCompSignalInstance\l::getNetSignal" alt="" coords="105,143,319,190"/>
+<area shape="rect" id="node9" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a7b7ad6f6434c5a98612c3a4520f33901" title="library::GenCompSignal\l::isRequired" alt="" coords="132,213,292,259"/>
+<area shape="rect" id="node11" href="$da/d6f/classproject_1_1_s_g_i___symbol_pin.html#a3e27ff4e11646f72326f18984d5dd8ca" title="getSchematicLayer" alt="" coords="145,283,279,312"/>
+<area shape="rect" id="node13" href="$dc/d5a/class_schematic_layer.html#afb49c937aaabbe05a0e5368f8bf9d497" title="SchematicLayer::isVisible" alt="" coords="125,336,299,365"/>
+<area shape="rect" id="node15" href="$dc/d5a/class_schematic_layer.html#aab73dfcfb2d157cdf8df0db760f6cb53" title="SchematicLayer::getColor" alt="" coords="125,389,299,419"/>
+<area shape="rect" id="node17" href="$d4/dbe/classproject_1_1_s_i___base.html#afe4e9ea4eba8862c8e6dd56d0b9712ce" title="project::SI_Base::isSelected" alt="" coords="119,443,305,472"/>
+<area shape="rect" id="node19" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="164,496,260,525"/>
+<area shape="rect" id="node21" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#a2e17cfc864c3d153e0f25bfd79277cd1" title="library::SymbolPin\l::getLength" alt="" coords="148,549,276,595"/>
+<area shape="rect" id="node23" href="$d3/d93/classproject_1_1_net_signal.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::NetSignal\l::getName" alt="" coords="149,618,275,665"/>
+</map>

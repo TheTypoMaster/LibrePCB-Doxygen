@@ -1,0 +1,8 @@
+<map id="getIndex" name="getIndex">
+<area shape="rect" id="node3" href="$dc/d4e/class_grid_settings_dialog.html#accb85452fe6ac5e053dcaae228cd9866" title="GridSettingsDialog\l::GridSettingsDialog" alt="" coords="500,10,639,56"/>
+<area shape="rect" id="node5" href="$dc/d4e/class_grid_settings_dialog.html#a4fe43a1e03977a7e1879ba51775b0ce5" title="GridSettingsDialog\l::buttonBoxClicked" alt="" coords="189,46,323,92"/>
+<area shape="rect" id="node8" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a03e8889c79d47c2b4e92db649482ea89" title="WSI_AppDefaultMeasurement\lUnits::WSI_AppDefaultMeasurementUnits" alt="" coords="435,103,704,150"/>
+<area shape="rect" id="node10" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a5302c5f4ca4d262c46a4406f80e10bcb" title="WSI_AppDefaultMeasurement\lUnits::updateLengthUnitComboBoxIndex" alt="" coords="127,170,385,216"/>
+<area shape="rect" id="node13" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#af81bafa457fe65224135b2349b8d0f13" title="WSI_AppDefaultMeasurement\lUnits::restoreDefault" alt="" coords="471,172,668,219"/>
+<area shape="rect" id="node15" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a9cf620340e16aa417bb112e0294038df" title="WSI_AppDefaultMeasurement\lUnits::revert" alt="" coords="471,242,668,288"/>
+</map>

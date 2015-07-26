@@ -1,0 +1,7 @@
+<map id="updateErcMessages" name="updateErcMessages">
+<area shape="rect" id="node3" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab56d32f3df77886336513524c2adbf00" title="getUnplacedRequiredSymbols\lCount" alt="" coords="196,39,393,86"/>
+<area shape="rect" id="node11" href="$de/d67/classproject_1_1_gen_comp_instance.html#a590c3eaacaa9f4ce8ed630d7f00f47a4" title="getUnplacedOptionalSymbols\lCount" alt="" coords="197,109,392,155"/>
+<area shape="rect" id="node5" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a95be340ed5134b5b4fc05ab47e4c9c34" title="library::GenCompSymbVar\l::getItems" alt="" coords="456,5,635,51"/>
+<area shape="rect" id="node7" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#a7b7ad6f6434c5a98612c3a4520f33901" title="library::GenCompSymbVarItem\l::isRequired" alt="" coords="444,74,647,121"/>
+<area shape="rect" id="node9" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVarItem\l::getUuid" alt="" coords="444,143,647,190"/>
+</map>

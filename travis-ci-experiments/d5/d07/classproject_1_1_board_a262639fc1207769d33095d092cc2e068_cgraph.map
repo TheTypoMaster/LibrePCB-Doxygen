@@ -1,0 +1,5 @@
+<map id="getSelectedItems" name="getSelectedItems">
+<area shape="rect" id="node3" href="$d0/d7d/classproject_1_1_component_instance.html#a43009465a74e4ea29421f269c876916d" title="project::ComponentInstance\l::getFootprint" alt="" coords="180,5,367,51"/>
+<area shape="rect" id="node5" href="$da/dc8/classproject_1_1_b_i___base.html#afe4e9ea4eba8862c8e6dd56d0b9712ce" title="project::BI_Base::isSelected" alt="" coords="180,75,367,104"/>
+<area shape="rect" id="node7" href="$da/d96/classproject_1_1_b_i___footprint.html#a9fc9c8d9cc96383e297ae50445941007" title="project::BI_Footprint\l::getPads" alt="" coords="204,127,343,174"/>
+</map>

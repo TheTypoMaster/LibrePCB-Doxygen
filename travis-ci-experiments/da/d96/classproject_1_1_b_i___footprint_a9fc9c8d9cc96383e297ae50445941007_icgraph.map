@@ -1,0 +1,7 @@
+<map id="getPads" name="getPads">
+<area shape="rect" id="node3" href="$d5/d07/classproject_1_1_board.html#a262639fc1207769d33095d092cc2e068" title="project::Board::getSelected\lItems" alt="" coords="141,5,320,51"/>
+<area shape="rect" id="node7" href="$d5/d07/classproject_1_1_board.html#ae5be3f46f5e311d7c5c3b950ce60e3b1" title="project::Board::getItems\lAtScenePos" alt="" coords="149,74,312,121"/>
+<area shape="rect" id="node9" href="$d5/d07/classproject_1_1_board.html#a1e81bd3e07987e2b02f760b3d6d75c21" title="project::Board::setSelectionRect" alt="" coords="125,144,336,173"/>
+<area shape="rect" id="node5" href="$db/dd3/classproject_1_1_b_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::BES_Select\l::rotateSelectedItems" alt="" coords="405,5,552,51"/>
+<area shape="rect" id="node11" href="$db/dd3/classproject_1_1_b_e_s___select.html#ab12d84cb06f265f00f6130fc5e801000" title="project::BES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="385,127,572,191"/>
+</map>

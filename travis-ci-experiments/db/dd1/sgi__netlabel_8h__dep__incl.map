@@ -1,0 +1,12 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/schematics/graphicsitems/sgi_netlabel.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/schematics/graphicsitems/sgi_netlabel.h">
+<area shape="rect" id="node3" href="$d5/dff/si__netlabel_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_netlabel.h" alt="" coords="1081,137,1263,218"/>
+<area shape="rect" id="node13" href="$d4/d9c/sgi__netlabel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/graphicsitems/sgi_netlabel.cpp" alt="" coords="1773,275,1979,357"/>
+<area shape="rect" id="node5" href="$df/d3c/netsignal_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/netsignal.cpp" alt="" coords="5,275,171,357"/>
+<area shape="rect" id="node7" href="$d0/d3d/cmdschematicnetlabeladd_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/cmd/cmdschematicnetlabeladd.cpp" alt="" coords="195,275,424,357"/>
+<area shape="rect" id="node9" href="$d7/dfb/cmdschematicnetlabeledit_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/cmd/cmdschematicnetlabeledit.cpp" alt="" coords="448,275,677,357"/>
+<area shape="rect" id="node11" href="$df/de9/cmdschematicnetlabelremove_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/cmd/cmdschematicnetlabelremove.cpp" alt="" coords="701,275,955,357"/>
+<area shape="rect" id="node15" href="$d6/dad/si__netlabel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_netlabel.cpp" alt="" coords="979,275,1160,357"/>
+<area shape="rect" id="node17" href="$dc/db2/schematic_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/schematic.cpp" alt="" coords="1184,275,1365,357"/>
+<area shape="rect" id="node19" href="$d3/dbd/ses__addnetlabel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addnetlabel.cpp" alt="" coords="1389,267,1557,365"/>
+<area shape="rect" id="node21" href="$d5/d03/ses__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_select.cpp" alt="" coords="1581,267,1749,365"/>
+</map>

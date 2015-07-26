@@ -1,0 +1,17 @@
+<map id="BI_FootprintPad" name="BI_FootprintPad">
+<area shape="rect" id="node3" href="$da/d96/classproject_1_1_b_i___footprint.html#a547bb3180f07d20d47f310c1410b6a79" title="project::BI_Footprint\l::getLibFootprint" alt="" coords="172,54,311,101"/>
+<area shape="rect" id="node5" href="$d8/dea/classlibrary_1_1_footprint.html#ab70b0cd8b0c83b6ab3f40815839edbda" title="library::Footprint\l::getPadByUuid" alt="" coords="184,123,299,170"/>
+<area shape="rect" id="node7" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#a212e36e19edc323ddeb73387d2f011a5" title="updatePosition" alt="" coords="188,193,295,223"/>
+<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a56e275d18632ae7d863b45e405563e26" title="project::BI_Footprint\l::mapToScene" alt="" coords="379,5,517,51"/>
+<area shape="rect" id="node11" href="$d2/d4e/classlibrary_1_1_footprint_pad.html#ae23dd3ab799e9f70a4037eea91f69a82" title="library::FootprintPad\l::getPosition" alt="" coords="379,74,517,121"/>
+<area shape="rect" id="node13" href="$da/d96/classproject_1_1_b_i___footprint.html#a1220d662c6088cae7ec3f1a2427bc6c5" title="project::BI_Footprint\l::getRotation" alt="" coords="585,115,724,162"/>
+<area shape="rect" id="node17" href="$d2/d4e/classlibrary_1_1_footprint_pad.html#a01f0e165edb023b0c50cdbfd70f36021" title="library::FootprintPad\l::getRotation" alt="" coords="585,185,724,231"/>
+<area shape="rect" id="node19" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="381,315,515,344"/>
+<area shape="rect" id="node23" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="399,368,497,397"/>
+<area shape="rect" id="node25" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_FootprintPad\l::updateCacheAndRepaint" alt="" coords="361,245,535,291"/>
+<area shape="rect" id="node15" href="$d0/d7d/classproject_1_1_component_instance.html#a01f0e165edb023b0c50cdbfd70f36021" title="project::ComponentInstance\l::getRotation" alt="" coords="773,115,960,162"/>
+<area shape="rect" id="node21" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="607,361,703,391"/>
+<area shape="rect" id="node28" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#a43009465a74e4ea29421f269c876916d" title="getFootprint" alt="" coords="609,308,700,337"/>
+<area shape="rect" id="node31" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="605,255,704,284"/>
+<area shape="rect" id="node33" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="819,255,915,284"/>
+</map>

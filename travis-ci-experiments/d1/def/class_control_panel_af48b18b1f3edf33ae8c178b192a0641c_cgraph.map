@@ -1,0 +1,23 @@
+<map id="on_projectTreeView_customContextMenuRequested" name="on_projectTreeView_customContextMenuRequested">
+<area shape="rect" id="node3" href="$db/d9c/class_project_tree_item.html#a7a771b95050ee2c5ba3371a1e7da0d7a" title="ProjectTreeItem::getType" alt="" coords="284,57,455,87"/>
+<area shape="rect" id="node5" href="$d1/def/class_control_panel.html#aa73c83ca16dd4f73647dfcbb1c0fbc8e" title="Get the pointer to an already open project editor by its project filepath. " alt="" coords="313,111,425,140"/>
+<area shape="rect" id="node7" href="$db/d9c/class_project_tree_item.html#a758783796424f4ee2fb3efe4e71a5b72" title="ProjectTreeItem::getFilePath" alt="" coords="275,164,464,193"/>
+<area shape="rect" id="node9" href="$d5/d56/class_workspace.html#acbf3bc0ef80f0ff1c8e753ccc69fb755" title="Check whether a project is in the favorite project list or not. " alt="" coords="272,217,467,247"/>
+<area shape="rect" id="node11" href="$d1/def/class_control_panel.html#a00fbb51d24ad11e028629d3dcb376e94" title="Open a project with the editor (or bring an already opened editor to front) " alt="" coords="324,271,415,300"/>
+<area shape="rect" id="node19" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="788,373,895,403"/>
+<area shape="rect" id="node35" href="$d1/def/class_control_panel.html#af264400d9a6d158953b8229e24f782f4" title="Close an opened project editor. " alt="" coords="323,375,416,404"/>
+<area shape="rect" id="node42" href="$d5/d56/class_workspace.html#aa102b655b0f5dc32ee2e5eadaabd09fb" title="Remove a project from the favorite projects list. " alt="" coords="276,427,463,474"/>
+<area shape="rect" id="node44" href="$d5/d56/class_workspace.html#a421874287cc5a9266350a1eacb4bf28e" title="Add a project to the favorite projects list. " alt="" coords="267,497,472,527"/>
+<area shape="rect" id="node13" href="$d1/def/class_control_panel.html#afeedb76a1e09757b558fbecd83556964" title="projectEditorClosed" alt="" coords="537,271,673,300"/>
+<area shape="rect" id="node21" href="$d1/def/class_control_panel.html#a01a3882004f773857225fa808894b663" title="showControlPanel" alt="" coords="541,81,669,111"/>
+<area shape="rect" id="node23" href="$d3/dd6/classproject_1_1_project_editor.html#a9f14b9293fefcadb6df3288b459fd470" title="Open the schematic and/or the board editor window. " alt="" coords="521,134,689,181"/>
+<area shape="rect" id="node33" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="527,217,684,247"/>
+<area shape="rect" id="node15" href="$d3/dd6/classproject_1_1_project_editor.html#ac48a585009b5ee63f88e0c2b5357d6e9" title="project::ProjectEditor\l::getProject" alt="" coords="769,250,913,297"/>
+<area shape="rect" id="node17" href="$d2/d05/classproject_1_1_project.html#afbdab4a0b61e83c059a2901660e2df25" title="Get the filepath of the project file (*.lpp) " alt="" coords="751,320,932,349"/>
+<area shape="rect" id="node25" href="$d2/d05/classproject_1_1_project.html#a46ccfa0fa920843d0626be456879b382" title="Get all boards. " alt="" coords="753,5,929,35"/>
+<area shape="rect" id="node27" href="$d3/dd6/classproject_1_1_project_editor.html#a58d9a85f9ad7a9ae10eccf08589d6f62" title="Open the board editor window and bring it to the front. " alt="" coords="769,58,913,105"/>
+<area shape="rect" id="node29" href="$d2/d05/classproject_1_1_project.html#a1054eea6077b28d10d37c5e4c1b602fe" title="Get all schematics. " alt="" coords="739,128,944,157"/>
+<area shape="rect" id="node31" href="$d3/dd6/classproject_1_1_project_editor.html#af2239632bc976a73559dbfe5383e3c08" title="Open the schematic editor window and bring it to the front. " alt="" coords="763,181,920,227"/>
+<area shape="rect" id="node37" href="$d4/d1c/class_file_path.html#abc618721e122dd12c5e98053f75803cc" title="Get a unique version of the filepath (resolve symbolic links if possible) " alt="" coords="540,427,671,456"/>
+<area shape="rect" id="node39" href="$d4/d1c/class_file_path.html#abad2142d090ea829d85560b03d47d98f" title="The default constructor (this will create an invalid object!) " alt="" coords="779,427,904,456"/>
+</map>

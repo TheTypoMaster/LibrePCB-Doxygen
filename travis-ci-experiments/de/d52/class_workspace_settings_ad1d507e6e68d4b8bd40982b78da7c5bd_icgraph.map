@@ -1,0 +1,17 @@
+<map id="getMetadataPath" name="getMetadataPath">
+<area shape="rect" id="node3" href="$d4/dda/class_w_s_i___base.html#a0f7bb55258f34aed2dd7d672da9ab551" title="WSI_Base::saveValue" alt="" coords="176,189,331,219"/>
+<area shape="rect" id="node17" href="$d4/dda/class_w_s_i___base.html#a5605b64c01b2ac306d1291d437d47f82" title="WSI_Base::loadValue" alt="" coords="179,520,328,549"/>
+<area shape="rect" id="node5" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a95067243b72a23863ec07c821797455c" title="WSI_AppDefaultMeasurement\lUnits::apply" alt="" coords="415,5,612,51"/>
+<area shape="rect" id="node7" href="$d8/dcb/class_w_s_i___appearance.html#a95067243b72a23863ec07c821797455c" title="WSI_Appearance::apply" alt="" coords="432,75,595,104"/>
+<area shape="rect" id="node9" href="$db/d82/class_w_s_i___app_locale.html#a95067243b72a23863ec07c821797455c" title="WSI_AppLocale::apply" alt="" coords="436,128,591,157"/>
+<area shape="rect" id="node11" href="$de/ded/class_w_s_i___library_locale_order.html#a95067243b72a23863ec07c821797455c" title="WSI_LibraryLocaleOrder\l::apply" alt="" coords="432,181,595,227"/>
+<area shape="rect" id="node13" href="$d5/da3/class_w_s_i___library_norm_order.html#a95067243b72a23863ec07c821797455c" title="WSI_LibraryNormOrder\l::apply" alt="" coords="435,250,592,297"/>
+<area shape="rect" id="node15" href="$d6/d31/class_w_s_i___project_autosave_interval.html#a95067243b72a23863ec07c821797455c" title="WSI_ProjectAutosaveInterval\l::apply" alt="" coords="416,319,611,366"/>
+<area shape="rect" id="node19" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a03e8889c79d47c2b4e92db649482ea89" title="WSI_AppDefaultMeasurement\lUnits::WSI_AppDefaultMeasurementUnits" alt="" coords="379,389,648,435"/>
+<area shape="rect" id="node21" href="$d8/dcb/class_w_s_i___appearance.html#a9cf620340e16aa417bb112e0294038df" title="WSI_Appearance::revert" alt="" coords="431,459,596,488"/>
+<area shape="rect" id="node25" href="$db/d82/class_w_s_i___app_locale.html#a3347b76430f2ceefbb57ed5840939cac" title="WSI_AppLocale::WSI\l_AppLocale" alt="" coords="439,511,588,558"/>
+<area shape="rect" id="node27" href="$de/ded/class_w_s_i___library_locale_order.html#a023f5c45e58a3266fb69f0c66b442a40" title="WSI_LibraryLocaleOrder\l::WSI_LibraryLocaleOrder" alt="" coords="428,581,599,627"/>
+<area shape="rect" id="node29" href="$d5/da3/class_w_s_i___library_norm_order.html#a07b6b69b35c9e4bc91f9a27c8dabeb0a" title="WSI_LibraryNormOrder\l::WSI_LibraryNormOrder" alt="" coords="431,650,596,697"/>
+<area shape="rect" id="node31" href="$d6/d31/class_w_s_i___project_autosave_interval.html#af7d72a882dce1d0c39b7716899958ddf" title="WSI_ProjectAutosaveInterval\l::WSI_ProjectAutosaveInterval" alt="" coords="412,719,615,766"/>
+<area shape="rect" id="node23" href="$d8/dcb/class_w_s_i___appearance.html#a44d1a1a26da2f0cc612f11c2f30d745e" title="WSI_Appearance::WSI\l_Appearance" alt="" coords="697,450,855,497"/>
+</map>

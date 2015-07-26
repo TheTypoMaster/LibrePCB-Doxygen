@@ -1,0 +1,14 @@
+<map id="init" name="init">
+<area shape="rect" id="node3" href="$df/df0/class_length.html#a5bd5292fcf66a49fad586500fa6038a0" title="Get the length in millimeters as a QString. " alt="" coords="104,5,240,35"/>
+<area shape="rect" id="node7" href="$d3/d43/classproject_1_1_s_i___net_point.html#a2367e5cb623f3a1f5789aa3499c9219b" title="project::SI_NetPoint\l::getNetSignal" alt="" coords="103,58,241,105"/>
+<area shape="rect" id="node9" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a47af38f5c88a1613e220affee2fd2203" title="updateLine" alt="" coords="129,128,215,157"/>
+<area shape="rect" id="node27" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="95,181,249,211"/>
+<area shape="rect" id="node5" href="$df/df0/class_length.html#a69ee36729eae0511280f89e3efa240ae" title="Get the length in millimeters. " alt="" coords="336,5,437,35"/>
+<area shape="rect" id="node11" href="$d3/d43/classproject_1_1_s_i___net_point.html#a98612bae828cddb2f664368397d27fe3" title="project::SI_NetPoint\l::getPosition" alt="" coords="524,57,663,103"/>
+<area shape="rect" id="node13" href="$df/dd1/classproject_1_1_s_g_i___net_line.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_NetLine\l::updateCacheAndRepaint" alt="" coords="300,171,473,218"/>
+<area shape="rect" id="node15" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a6929abd2275d042081cee93fc3e4de6f" title="getStartPoint" alt="" coords="544,127,643,156"/>
+<area shape="rect" id="node18" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="527,180,660,209"/>
+<area shape="rect" id="node20" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="712,207,808,236"/>
+<area shape="rect" id="node22" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a4450993ecd2c4470af5e277e7581424e" title="getEndPoint" alt="" coords="547,284,640,313"/>
+<area shape="rect" id="node24" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a69af915a70be9a59f27a36ef42fe7606" title="getWidth" alt="" coords="556,337,631,367"/>
+</map>

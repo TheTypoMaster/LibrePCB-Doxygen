@@ -1,0 +1,7 @@
+<map id="getAngle" name="getAngle">
+<area shape="rect" id="node3" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::FootprintPolygon\l::toQPainterPathPx" alt="" coords="128,49,291,95"/>
+<area shape="rect" id="node5" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_Footprint\l::updateCacheAndRepaint" alt="" coords="340,14,513,61"/>
+<area shape="rect" id="node11" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::BGI_Footprint\l::paint" alt="" coords="352,83,501,130"/>
+<area shape="rect" id="node7" href="$da/d96/classproject_1_1_b_i___footprint.html#a80db668afe30ac6b6c9e5eb061b61cfc" title="project::BI_Footprint\l::componentInstanceAttributes\lChanged" alt="" coords="563,5,763,69"/>
+<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="812,14,951,61"/>
+</map>

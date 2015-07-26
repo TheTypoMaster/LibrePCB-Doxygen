@@ -1,0 +1,9 @@
+<map id="updateErcMessages" name="updateErcMessages">
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a8fac03aa9a740943b9193a49a31bd6ae" title="Get the Circuit object. " alt="" coords="197,5,371,35"/>
+<area shape="rect" id="node5" href="$d1/d03/classproject_1_1_circuit.html#af9d9d6ca29e9ad4c4591eeae0197ff08" title="project::Circuit::getGen\lCompInstances" alt="" coords="205,58,363,105"/>
+<area shape="rect" id="node7" href="$de/d67/classproject_1_1_gen_comp_instance.html#abcd40fa7fd6f8d3d8e6f9630daa8b861" title="project::GenCompInstance\l::getGenComp" alt="" coords="195,127,373,174"/>
+<area shape="rect" id="node9" href="$d7/d7c/classlibrary_1_1_generic_component.html#a9f78a2a936ffbbb66f8865343e93aed7" title="library::GenericComponent\l::isSchematicOnly" alt="" coords="196,197,372,243"/>
+<area shape="rect" id="node11" href="$de/d67/classproject_1_1_gen_comp_instance.html#ada9b237a8629c03e16491a72730b456b" title="project::GenCompInstance\l::getUuid" alt="" coords="195,266,373,313"/>
+<area shape="rect" id="node13" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::GenCompInstance\l::getName" alt="" coords="195,335,373,382"/>
+<area shape="rect" id="node15" href="$dc/d67/classproject_1_1_erc_msg.html#ab595fff9e78566c762faebf84e25112d" title="project::ErcMsg::setVisible" alt="" coords="195,405,373,435"/>
+</map>

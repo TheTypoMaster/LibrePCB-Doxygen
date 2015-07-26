@@ -1,0 +1,9 @@
+<map id="serializeToXmlDomElement" name="serializeToXmlDomElement">
+<area shape="rect" id="node3" href="$d1/d1f/class_xml_dom_element.html#af2ee1b74300d31ca889b32ddd96d51ac" title="Append a child to the end of the child list of this element. " alt="" coords="239,5,439,35"/>
+<area shape="rect" id="node5" href="$dc/d67/classproject_1_1_erc_msg.html#afc260e01381f9c91d58aede69b7d980d" title="project::ErcMsg::isIgnored" alt="" coords="252,59,425,88"/>
+<area shape="rect" id="node7" href="$d1/d1f/class_xml_dom_element.html#a7dbc10bec6de11bf7a444b8bf048f296" title="Set or add an attribute to this element. " alt="" coords="241,112,436,141"/>
+<area shape="rect" id="node9" href="$dc/d67/classproject_1_1_erc_msg.html#ae397d38221e5dc7aed6e563829750367" title="project::ErcMsg::getOwner" alt="" coords="249,165,428,195"/>
+<area shape="rect" id="node11" href="$d7/d3c/classproject_1_1_i_f___erc_msg_provider.html#a57d33ba67895488b2b30dd1abe2ebc13" title="project::IF_ErcMsgProvider\l::getErcMsgOwnerClassName" alt="" coords="239,218,439,265"/>
+<area shape="rect" id="node13" href="$dc/d67/classproject_1_1_erc_msg.html#a9a65cd645004a1a53ef4293400bdd957" title="project::ErcMsg::getOwnerKey" alt="" coords="239,288,439,317"/>
+<area shape="rect" id="node15" href="$dc/d67/classproject_1_1_erc_msg.html#aa3e6c0eb39bf1418512b0c50a17b0f8f" title="project::ErcMsg::getMsgKey" alt="" coords="245,341,432,371"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="lock" name="lock">
+<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#a0a886a9edf5bf682f5245159661bfc94" title="Check whether this object contains a valid filepath or not. " alt="" coords="141,5,259,35"/>
+<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="147,59,253,88"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#af27e4f117ace775ab38ae937c12cd37a" title="Get the absolute filepath with native directory separators (&quot;/&quot; resp. &quot;\&quot;) " alt="" coords="137,112,263,141"/>
+<area shape="rect" id="node9" href="$d7/deb/class_system_info.html#a527387b438f668d7805b2874994de02a" title="Get the full name of the user which is logged in (like &quot;Homer Simpson&quot;) " alt="" coords="103,165,297,195"/>
+<area shape="rect" id="node11" href="$d7/deb/class_system_info.html#ab01a34f1c172b83ed814c86189078347" title="Get the name of the user which is logged in (like &quot;homer&quot;) " alt="" coords="113,219,287,248"/>
+<area shape="rect" id="node13" href="$d7/deb/class_system_info.html#a522af149c6385195104ab143e74c3466" title="Get the hostname of the computer (like &quot;homer&#45;workstation&quot;) " alt="" coords="113,272,287,301"/>
+<area shape="rect" id="node15" href="$d4/d1c/class_file_path.html#ab03554821fd99cccf6f55a6686bcdc0d" title="Get the filepath of the parent directory of the file or directory. " alt="" coords="125,325,275,355"/>
+<area shape="rect" id="node21" href="$d4/d1c/class_file_path.html#a90e27cd1fab85a56a4b346b11c08404b" title="Create all directories of this filepath (with all parent directories) " alt="" coords="139,379,261,408"/>
+<area shape="rect" id="node17" href="$d4/d1c/class_file_path.html#a329a3fd87c1339c347833a8026e24c80" title="Check if the specified filepath is the root directory. " alt="" coords="353,299,468,328"/>
+<area shape="rect" id="node19" href="$d4/d1c/class_file_path.html#abad2142d090ea829d85560b03d47d98f" title="The default constructor (this will create an invalid object!) " alt="" coords="348,352,473,381"/>
+</map>

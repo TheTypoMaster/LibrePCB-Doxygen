@@ -1,0 +1,8 @@
+<map id="clearSelection" name="clearSelection">
+<area shape="rect" id="node3" href="$de/d50/classproject_1_1_s_i___symbol.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_Symbol\l::setSelected" alt="" coords="161,28,295,74"/>
+<area shape="rect" id="node10" href="$d3/d43/classproject_1_1_s_i___net_point.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_NetPoint\l::setSelected" alt="" coords="353,97,492,144"/>
+<area shape="rect" id="node13" href="$d3/d7c/classproject_1_1_s_i___net_line.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_NetLine\l::setSelected" alt="" coords="356,166,489,213"/>
+<area shape="rect" id="node16" href="$d1/d7b/classproject_1_1_s_i___net_label.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_NetLabel\l::setSelected" alt="" coords="157,224,299,270"/>
+<area shape="rect" id="node5" href="$d4/dbe/classproject_1_1_s_i___base.html#ab98bb60eca6122e4def2f7d285046547" title="project::SI_Base::setSelected" alt="" coords="548,106,743,135"/>
+<area shape="rect" id="node7" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_SymbolPin\l::setSelected" alt="" coords="347,28,499,74"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="apply" name="apply">
+<area shape="rect" id="node3" href="$d4/dda/class_w_s_i___base.html#a0f7bb55258f34aed2dd7d672da9ab551" title="WSI_Base::saveValue" alt="" coords="107,75,261,104"/>
+<area shape="rect" id="node11" href="$dd/d55/class_length_unit.html#a3a7fb28174c7ae0928bc6fc4133303d0" title="Convert the length unit to a string (for example to save it in files) " alt="" coords="115,128,253,157"/>
+<area shape="rect" id="node5" href="$de/d52/class_workspace_settings.html#ad1d507e6e68d4b8bd40982b78da7c5bd" title="WorkspaceSettings::\lgetMetadataPath" alt="" coords="309,5,453,51"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="312,75,451,104"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="328,128,435,157"/>
+</map>

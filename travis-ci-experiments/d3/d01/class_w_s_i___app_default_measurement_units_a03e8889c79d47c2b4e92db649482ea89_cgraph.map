@@ -1,0 +1,16 @@
+<map id="WSI_AppDefaultMeasurementUnits" name="WSI_AppDefaultMeasurementUnits">
+<area shape="rect" id="node3" href="$d4/dda/class_w_s_i___base.html#a5605b64c01b2ac306d1291d437d47f82" title="WSI_Base::loadValue" alt="" coords="295,75,444,104"/>
+<area shape="rect" id="node11" href="$dd/d55/class_length_unit.html#aa149c73b67912845bdf27d6156af6870" title="Convert a string to a LengthUnit object (for example to load from files) " alt="" coords="293,128,445,157"/>
+<area shape="rect" id="node13" href="$dd/d55/class_length_unit.html#a90e12d755bf526428affbb86317a2740" title="LengthUnit::millimeters" alt="" coords="292,181,447,211"/>
+<area shape="rect" id="node17" href="$dd/d55/class_length_unit.html#a4ce5390f3d665c18680ef5a3f75ca5b7" title="Get all available length units. " alt="" coords="291,235,448,264"/>
+<area shape="rect" id="node19" href="$dd/d55/class_length_unit.html#a0654ceac5047be87768796182e6e5518" title="Convert the length unit to a localized string. " alt="" coords="295,288,444,317"/>
+<area shape="rect" id="node21" href="$dd/d55/class_length_unit.html#a3a0faa78cfa0f741a5fa16c29d1b2ebd" title="Get the Index of the length unit of this object. " alt="" coords="543,360,684,389"/>
+<area shape="rect" id="node23" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a5302c5f4ca4d262c46a4406f80e10bcb" title="updateLengthUnitComboBox\lIndex" alt="" coords="275,391,464,438"/>
+<area shape="rect" id="node26" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#aa2425481340ffcc80b45c2e816abe4ce" title="lengthUnitComboBoxIndexChanged" alt="" coords="255,461,484,491"/>
+<area shape="rect" id="node5" href="$de/d52/class_workspace_settings.html#ad1d507e6e68d4b8bd40982b78da7c5bd" title="WorkspaceSettings::\lgetMetadataPath" alt="" coords="541,5,685,51"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="544,75,683,104"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="560,128,667,157"/>
+<area shape="rect" id="node15" href="$dd/d55/class_length_unit.html#aa7484703b9ea7708484d45f86fb73844" title="Default constructor which uses millimeters as unit. " alt="" coords="536,181,691,211"/>
+<area shape="rect" id="node28" href="$dd/d55/class_length_unit.html#a5c1584c0e0cb57cd63c45cfb5bff3fe4" title="Get the length unit of a specific index (to use with getIndex()) " alt="" coords="539,435,688,464"/>
+<area shape="rect" id="node30" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="535,488,692,517"/>
+</map>

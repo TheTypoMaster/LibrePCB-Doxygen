@@ -1,0 +1,20 @@
+<map id="Workspace" name="Workspace">
+<area shape="rect" id="node2" href="$d6/d7e/class_favorite_projects_model.html" title="The FavoriteProjectsModel class. " alt="" coords="200,2657,379,2898"/>
+<area shape="rect" id="node46" href="$d2/d25/class_recent_projects_model.html" title="The RecentProjectsModel class. " alt="" coords="451,2674,624,2881"/>
+<area shape="rect" id="node5" href="$de/d02/classlibrary_1_1_library.html" title="The Library class. " alt="" coords="502,1011,750,1547"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="324,5,503,541"/>
+<area shape="rect" id="node9" href="$de/d52/class_workspace_settings.html" title="The WorkspaceSettings class manages all workspace related settings (and more) " alt="" coords="1315,633,1512,978"/>
+<area shape="rect" id="node42" href="$db/d9c/class_project_tree_item.html" title="The ProjectTreeItem class. " alt="" coords="134,624,275,987"/>
+<area shape="rect" id="node49" href="$d9/d57/class_file_lock.html" title="This class can be used to implement file&#45;based file locks. " alt="" coords="332,1149,495,1408"/>
+<area shape="rect" id="node11" href="$d1/d5c/class_workspace_settings_dialog.html" title="The WorkspaceSettingsDialog class. " alt="" coords="927,1693,1127,1899"/>
+<area shape="rect" id="node16" href="$d4/dda/class_w_s_i___base.html" title="The WSI_Base class is the base class of all workspace settings items. " alt="" coords="1766,1675,1888,1917"/>
+<area shape="rect" id="node14" href="$db/d82/class_w_s_i___app_locale.html" title="The WSI_AppLocale class represents the application&#39;s locale settings (for translation and localizatio..." alt="" coords="1650,2165,1836,2528"/>
+<area shape="rect" id="node19" href="$d8/dcb/class_w_s_i___appearance.html" title="The WSI_Appearance class. " alt="" coords="1226,2209,1410,2485"/>
+<area shape="rect" id="node22" href="$d5/da3/class_w_s_i___library_norm_order.html" title="The WSI_LibraryNormOrder class contains a list of norms which should be used for all library elements..." alt="" coords="1015,2105,1202,2589"/>
+<area shape="rect" id="node25" href="$de/ded/class_w_s_i___library_locale_order.html" title="The WSI_LibraryLocaleOrder class contains a list of locales which should be used for all (translatabl..." alt="" coords="1434,2105,1626,2589"/>
+<area shape="rect" id="node28" href="$df/def/class_w_s_i___debug_tools.html" title="The WSI_DebugTools class contains some tools/settings which are useful for debugging. " alt="" coords="1860,2235,2012,2459"/>
+<area shape="rect" id="node31" href="$d6/d31/class_w_s_i___project_autosave_interval.html" title="The WSI_ProjectAutosaveInterval class represents the project autosave interval setting. " alt="" coords="2036,2183,2258,2511"/>
+<area shape="rect" id="node35" href="$d3/d01/class_w_s_i___app_default_measurement_units.html" title="The WSI_AppDefaultMeasurementUnits class represents the application&#39;s default measurement units (for ..." alt="" coords="2282,2148,2532,2545"/>
+<area shape="rect" id="node38" href="$dd/d55/class_length_unit.html" title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth..." alt="" coords="2256,1571,2395,2021"/>
+<area shape="rect" id="node40" href="$db/d76/class_project_tree_model.html" title="The ProjectTreeModel class. " alt="" coords="122,1658,292,1934"/>
+</map>

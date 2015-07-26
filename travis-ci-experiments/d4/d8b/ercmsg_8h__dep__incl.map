@@ -1,0 +1,13 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/erc/ercmsg.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/erc/ercmsg.h">
+<area shape="rect" id="node3" href="$df/d6e/board_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/board.cpp" alt="" coords="5,118,171,199"/>
+<area shape="rect" id="node5" href="$d6/d55/componentinstance_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/componentinstance.cpp" alt="" coords="195,118,360,199"/>
+<area shape="rect" id="node7" href="$de/de8/gencompinstance_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/gencompinstance.cpp" alt="" coords="384,118,549,199"/>
+<area shape="rect" id="node9" href="$d2/d38/gencompsignalinstance_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/gencompsignalinstance.cpp" alt="" coords="573,118,760,199"/>
+<area shape="rect" id="node11" href="$d0/d21/netclass_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/netclass.cpp" alt="" coords="784,118,949,199"/>
+<area shape="rect" id="node13" href="$df/d3c/netsignal_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/netsignal.cpp" alt="" coords="973,118,1139,199"/>
+<area shape="rect" id="node15" href="$d7/d59/ercmsg_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/erc/ercmsg.cpp" alt="" coords="1163,127,1365,191"/>
+<area shape="rect" id="node17" href="$d0/d69/ercmsglist_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/erc/ercmsglist.cpp" alt="" coords="1389,127,1611,191"/>
+<area shape="rect" id="node19" href="$d9/d0a/si__netpoint_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_netpoint.cpp" alt="" coords="1635,118,1816,199"/>
+<area shape="rect" id="node21" href="$d5/d35/si__symbolpin_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_symbolpin.cpp" alt="" coords="1840,118,2021,199"/>
+<area shape="rect" id="node23" href="$d5/da3/ercmsgdock_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/docks/ercmsgdock.cpp" alt="" coords="2045,118,2211,199"/>
+</map>

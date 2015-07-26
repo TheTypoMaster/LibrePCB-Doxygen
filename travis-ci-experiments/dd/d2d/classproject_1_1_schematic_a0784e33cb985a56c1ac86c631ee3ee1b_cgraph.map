@@ -1,0 +1,10 @@
+<map id="getSelectedItems" name="getSelectedItems">
+<area shape="rect" id="node3" href="$d4/dbe/classproject_1_1_s_i___base.html#afe4e9ea4eba8862c8e6dd56d0b9712ce" title="project::SI_Base::isSelected" alt="" coords="180,5,367,35"/>
+<area shape="rect" id="node5" href="$de/d50/classproject_1_1_s_i___symbol.html#a16a2a98f4b0e7d1e95f44fbbfd1e3d50" title="project::SI_Symbol\l::getPins" alt="" coords="207,58,340,105"/>
+<area shape="rect" id="node7" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a503fa78dca51de82e597a5bf93d207b3" title="project::SI_SymbolPin\l::getNetPoint" alt="" coords="197,127,349,174"/>
+<area shape="rect" id="node9" href="$d3/d43/classproject_1_1_s_i___net_point.html#a33c2f3f7838c3bfa45081c1937511c99" title="project::SI_NetPoint\l::getLines" alt="" coords="204,197,343,243"/>
+<area shape="rect" id="node11" href="$d3/d43/classproject_1_1_s_i___net_point.html#a1a4306e075f1351914d92d2a4bf7310a" title="project::SI_NetPoint\l::isAttached" alt="" coords="417,287,556,334"/>
+<area shape="rect" id="node13" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a174b423c6228da0a901a1e8ded7f772e" title="project::SI_NetLine\l::isAttachedToSymbol" alt="" coords="199,317,348,363"/>
+<area shape="rect" id="node16" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a6929abd2275d042081cee93fc3e4de6f" title="project::SI_NetLine\l::getStartPoint" alt="" coords="207,386,340,433"/>
+<area shape="rect" id="node18" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a4450993ecd2c4470af5e277e7581424e" title="project::SI_NetLine\l::getEndPoint" alt="" coords="207,455,340,502"/>
+</map>

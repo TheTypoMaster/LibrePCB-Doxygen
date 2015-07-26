@@ -1,0 +1,20 @@
+<map id="setLengthMm" name="setLengthMm">
+<area shape="rect" id="node3" href="$df/df0/class_length.html#a796af485ddae7b24093b8b70f790c42b" title="Get a Length object with a specific length and map it to a specific grid. " alt="" coords="185,152,255,181"/>
+<area shape="rect" id="node25" href="$d0/d69/class_point.html#adb9043980e8c2b8b1f2289cd48a3e168" title="Point::fromMm" alt="" coords="167,220,273,249"/>
+<area shape="rect" id="node34" href="$d0/d69/class_point.html#a99609c183a905b7b06879e0c771e3a33" title="Set the X coordinate from a string in millimeters. " alt="" coords="165,273,275,303"/>
+<area shape="rect" id="node36" href="$d0/d69/class_point.html#a25fdb057a9a5c1999d66eee353221388" title="Set the Y coordinate from a string in millimeters. " alt="" coords="165,327,275,356"/>
+<area shape="rect" id="node38" href="$d0/d69/class_point.html#ad275d884f3859ee9fe1483a3167566ad" title="Point::setPointMm" alt="" coords="155,380,285,409"/>
+<area shape="rect" id="node5" href="$dd/d55/class_length_unit.html#ad66df98a1f06d30ac6f15516ce54633f" title="Convert a floating point number with this unit to a Length object. " alt="" coords="351,104,540,133"/>
+<area shape="rect" id="node11" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a41c3c33dc2c3c5545110b742d536cc76" title="project::UnplacedComponents\lDock::addComponent" alt="" coords="347,178,544,225"/>
+<area shape="rect" id="node19" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#ac5b9ac3ae6ade6886893179b59302ec1" title="project::SymbolInstanceProperties\lDialog::applyChanges" alt="" coords="335,19,556,66"/>
+<area shape="rect" id="node7" href="$dc/d4e/class_grid_settings_dialog.html#a1d0a287161effff06f3a2dd172475420" title="GridSettingsDialog\l::spbxIntervalChanged" alt="" coords="644,74,796,121"/>
+<area shape="rect" id="node9" href="$dc/d4e/class_grid_settings_dialog.html#accb85452fe6ac5e053dcaae228cd9866" title="GridSettingsDialog\l::GridSettingsDialog" alt="" coords="925,74,1064,121"/>
+<area shape="rect" id="node13" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#accd0a903591840efc04eae995ba9518a" title="project::UnplacedComponents\lDock::on_btnAdd_clicked" alt="" coords="621,282,819,329"/>
+<area shape="rect" id="node15" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="project::UnplacedComponents\lDock::on_pushButton_clicked" alt="" coords="621,143,819,190"/>
+<area shape="rect" id="node17" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="project::UnplacedComponents\lDock::on_btnAddAll_clicked" alt="" coords="621,213,819,259"/>
+<area shape="rect" id="node21" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#aadb9f3b844fb4cf98288cd3c60a3af91" title="project::SymbolInstanceProperties\lDialog::accept" alt="" coords="609,5,831,51"/>
+<area shape="rect" id="node23" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a9e53392568d47bcb31ccbde9917efb0c" title="project::SymbolInstanceProperties\lDialog::keyPressEvent" alt="" coords="884,5,1105,51"/>
+<area shape="rect" id="node27" href="$dd/d55/class_length_unit.html#ae929a880b44a3ba54b33d2b45e407cef" title="Convert floating point numbers with this unit to a Point object. " alt="" coords="351,317,540,347"/>
+<area shape="rect" id="node29" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="project::UnplacedComponents\lDock::setBoard" alt="" coords="347,247,544,294"/>
+<area shape="rect" id="node31" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" title="project::UnplacedComponents\lDock::~UnplacedComponentsDock" alt="" coords="605,351,835,398"/>
+</map>
