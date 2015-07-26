@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['general_20information_20for_20developers',['General Information for Developers',['../df/d30/doc_developers.html',1,'index']]]
+  ['code_20style_20guide',['Code Style Guide',['../df/d24/doc_code_style_guide.html',1,'index']]]
 ];

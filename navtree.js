@@ -1,7 +1,8 @@
 var NAVTREE =
 [
   [ "LibrePCB Developers Documentation", "index.html", [
-    [ "Board Layers Documentation", "d2/d22/doc_board_layers.html", [
+    [ "Todo List", "dd/da0/todo.html", null ],
+    [ "Namespaces", null, [
       [ "Documentation", "index.html#documentation_pages", null ],
       [ "Related Pages", "index.html#related_pages", null ],
       [ "General Information for Developers", "df/d30/doc_developers.html", [
@@ -20,28 +21,33 @@ var NAVTREE =
         [ "QObject", "df/d24/doc_code_style_guide.html#doc_code_style_guide_qt_qobject", null ],
         [ "Qt Macros", "df/d24/doc_code_style_guide.html#doc_code_style_guide_qt_macros", null ]
       ] ],
+      [ "Architecture Overview", "de/d34/doc_architecture_overview.html", null ],
       [ "Schematic Layers Documentation", "d0/d1b/doc_schematic_layers.html", [
         [ "Class SchematicLayer", "d0/d1b/doc_schematic_layers.html#doc_schematic_layer_class", null ],
         [ "Layer Attributes", "d0/d1b/doc_schematic_layers.html#doc_schematic_layer_attributes", null ],
         [ "Layer IDs", "d0/d1b/doc_schematic_layers.html#doc_schematic_layer_ids", null ]
       ] ],
-      [ "Library Documentation", "dc/d2d/doc_lib.html", [
-        [ "General Information", "dc/d2d/doc_lib.html#doc_lib_general", null ],
-        [ "File Structure", "dc/d2d/doc_lib.html#doc_lib_file_structure", null ],
-        [ "Anbindung an Lagerverwaltungssysteme", "dc/d2d/doc_lib.html#doc_lib_sec1", null ],
-        [ "Repositories & Updates", "dc/d2d/doc_lib.html#doc_lib_sec2", null ],
-        [ "Feedbacksystem", "dc/d2d/doc_lib.html#doc_lib_sec3", null ],
-        [ "Kennzeichnung von Elementen (UUID)", "dc/d2d/doc_lib.html#doc_lib_sec4", null ],
-        [ "Digitale Signatur von Elementen", "dc/d2d/doc_lib.html#doc_lib_sec5", null ],
-        [ "Kategorisierung von Elementen", "dc/d2d/doc_lib.html#doc_lib_sec6", null ],
-        [ "Lokalisierung (Sprachen, Übersetzungen)", "dc/d2d/doc_lib.html#doc_lib_sec7", null ],
-        [ "Import / Export von Elementen", "dc/d2d/doc_lib.html#doc_lib_sec8", null ]
+      [ "Board Layers Documentation", "d2/d22/doc_board_layers.html", [
+        [ "Class BoardLayer", "d2/d22/doc_board_layers.html#doc_board_layer_class", null ],
+        [ "Layer Attributes", "d2/d22/doc_board_layers.html#doc_board_layer_attributes", null ],
+        [ "Layer IDs", "d2/d22/doc_board_layers.html#doc_board_layer_ids", null ]
       ] ],
-      [ "Project Documentation", "d5/d75/doc_project.html", "d5/d75/doc_project" ],
-      [ "Class BoardLayer", "d2/d22/doc_board_layers.html#doc_board_layer_class", null ]
-    ] ],
-    [ "Todo List", "dd/da0/todo.html", null ],
-    [ "Namespaces", null, [
+      [ "Library Documentation", "df/d4f/doc_library.html", [
+        [ "General Information", "df/d4f/doc_library.html#doc_library_general", null ],
+        [ "File Structure", "df/d4f/doc_library.html#doc_library_file_structure", null ],
+        [ "Repositories & Updates", "df/d4f/doc_library.html#doc_library_sec2", null ],
+        [ "Feedback System", "df/d4f/doc_library.html#doc_library_sec3", null ],
+        [ "Identification of Library Elements", "df/d4f/doc_library.html#doc_library_sec4", null ],
+        [ "Element Categories", "df/d4f/doc_library.html#doc_library_sec6", null ],
+        [ "Internationalization of Library Elements", "df/d4f/doc_library.html#doc_library_sec7", null ]
+      ] ],
+      [ "Project Documentation", "d5/d75/doc_project.html", [
+        [ "The File Structure of a Project", "d5/d75/doc_project.html#doc_project_filestructure", null ],
+        [ "Compatibility between different application versions", "d5/d75/doc_project.html#doc_project_compatibility", null ],
+        [ "Avoid opening a project multiple times (File Lock)", "d5/d75/doc_project.html#doc_project_lock", null ],
+        [ "Saving Procedere / Automatic Periodically Saving", "d5/d75/doc_project.html#doc_project_save", null ],
+        [ "The undo/redo system (Command Design Pattern)", "d5/d75/doc_project.html#doc_project_undostack", null ]
+      ] ],
       [ "Namespace List", "namespaces.html", "namespaces" ]
     ] ],
     [ "Classes", null, [
@@ -74,21 +80,21 @@ var NAVTREEINDEX =
 "d0/dfd/classlibrary_1_1_symbol_pin.html#aeb305cb4fa9c30aa723aa1cc02c2e690",
 "d1/d7b/classproject_1_1_s_i___net_label.html#aed08011e6158136fd130624f64f14307",
 "d2/d05/classproject_1_1_project.html#a616a97f94b724fb1bca3dcba6ef4b238",
-"d2/dc2/projectsettingsdialog_8h_source.html",
-"d3/d93/classproject_1_1_net_signal.html#a4886b74ca39ff927cf62854b30af0b8b",
-"d4/d90/class_undo_stack.html#ac6d446d586f7bd5b310d1f19c9ce5923",
-"d5/d40/classlibrary_1_1_library_element_attribute.html#a6f1ec818129bce4ead70dfc185fd873b",
-"d6/d91/si__netline_8cpp.html",
-"d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a8747acbd54e52d4fcb3bb74f1bb2a88a",
-"d9/d07/classproject_1_1_cmd_gen_comp_attr_inst_edit.html#a1d05cffcf1b9c5433f819f29f6e659a3",
-"d9/db1/cmdgencompinstedit_8h.html",
-"da/dae/classlibrary_1_1_model3_d.html#a37e0af402264d79b07dc28ff7797dea6",
-"db/ddd/cmdschematicnetlineadd_8h.html",
-"dd/d00/classproject_1_1_s_g_i___symbol.html#a5a5c94b564322784dd2aa1486fa7901a",
-"dd/d69/classproject_1_1_cmd_gen_comp_inst_add.html#a91ca7652063093da57fc1bd0141dcc95",
-"de/d50/classproject_1_1_s_i___symbol.html#ad73a1407a19f935203851d27f9fb3903",
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#aee10aa078f188ece499e7cbebdbc8c86",
-"df/de9/class_alignment.html#ad949cb3bc66df0b45bd2d1ffd8c998af"
+"d2/dbf/schematiclayerprovider_8h_source.html",
+"d3/d93/classproject_1_1_net_signal.html#a37fa4482dbe9d4bf285b6d549e26b9a5",
+"d4/d90/class_undo_stack.html#ac45199a5fa405b01e4a81bcd46ca47d2",
+"d5/d40/classlibrary_1_1_library_element_attribute.html#a4fc154a17bff454bba131b069594e5a3",
+"d6/d7e/class_favorite_projects_model.html#aae2c382151ef7c9aa913361172b30db6",
+"d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a524ed0dd8a5522b754411728dfe5c752",
+"d9/d07/classproject_1_1_cmd_gen_comp_attr_inst_edit.html#a91ca7652063093da57fc1bd0141dcc95",
+"d9/db9/classlibrary_1_1_symbol.html#a27968e8a3fb744b6eb82d8ba13b60cba",
+"da/db0/class_smart_xml_file.html",
+"db/de6/classproject_1_1_cmd_gen_comp_inst_remove.html#a283c343bb853c213c895d86ab9eafcfd",
+"dd/d1a/class_file_parse_error.html#a73d530601d3eb93d6dc9ba6e2c100f66",
+"dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387",
+"de/d52/class_workspace_settings.html#a4abf1b2064c294b05b38047f25e3a744",
+"df/d70/class_exception.html#a3a8b158ebc8a296bf8e3b40379c2a711",
+"df/def/class_w_s_i___debug_tools.html#a384b09b551df710899cd503e632bfa2c"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

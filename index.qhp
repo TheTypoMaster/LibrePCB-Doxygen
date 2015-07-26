@@ -24,43 +24,33 @@
           <section title="QObject" ref="df/d24/doc_code_style_guide.html#doc_code_style_guide_qt_qobject" />
           <section title="Qt Macros" ref="df/d24/doc_code_style_guide.html#doc_code_style_guide_qt_macros" />
         </section>
+        <section title="Architecture Overview" ref="de/d34/doc_architecture_overview.html" />
         <section title="Schematic Layers Documentation" ref="d0/d1b/doc_schematic_layers.html">
           <section title="Class SchematicLayer" ref="d0/d1b/doc_schematic_layers.html#doc_schematic_layer_class" />
           <section title="Layer Attributes" ref="d0/d1b/doc_schematic_layers.html#doc_schematic_layer_attributes" />
           <section title="Layer IDs" ref="d0/d1b/doc_schematic_layers.html#doc_schematic_layer_ids" />
         </section>
-        <section title="Library Documentation" ref="dc/d2d/doc_lib.html">
-          <section title="General Information" ref="dc/d2d/doc_lib.html#doc_lib_general" />
-          <section title="File Structure" ref="dc/d2d/doc_lib.html#doc_lib_file_structure" />
-          <section title="Anbindung an Lagerverwaltungssysteme" ref="dc/d2d/doc_lib.html#doc_lib_sec1" />
-          <section title="Repositories &amp; Updates" ref="dc/d2d/doc_lib.html#doc_lib_sec2" />
-          <section title="Feedbacksystem" ref="dc/d2d/doc_lib.html#doc_lib_sec3" />
-          <section title="Kennzeichnung von Elementen (UUID)" ref="dc/d2d/doc_lib.html#doc_lib_sec4" />
-          <section title="Digitale Signatur von Elementen" ref="dc/d2d/doc_lib.html#doc_lib_sec5" />
-          <section title="Kategorisierung von Elementen" ref="dc/d2d/doc_lib.html#doc_lib_sec6" />
-          <section title="Lokalisierung (Sprachen, Übersetzungen)" ref="dc/d2d/doc_lib.html#doc_lib_sec7" />
-          <section title="Import / Export von Elementen" ref="dc/d2d/doc_lib.html#doc_lib_sec8" />
+        <section title="Board Layers Documentation" ref="d2/d22/doc_board_layers.html">
+          <section title="Class BoardLayer" ref="d2/d22/doc_board_layers.html#doc_board_layer_class" />
+          <section title="Layer Attributes" ref="d2/d22/doc_board_layers.html#doc_board_layer_attributes" />
+          <section title="Layer IDs" ref="d2/d22/doc_board_layers.html#doc_board_layer_ids" />
+        </section>
+        <section title="Library Documentation" ref="df/d4f/doc_library.html">
+          <section title="General Information" ref="df/d4f/doc_library.html#doc_library_general" />
+          <section title="File Structure" ref="df/d4f/doc_library.html#doc_library_file_structure" />
+          <section title="Repositories &amp; Updates" ref="df/d4f/doc_library.html#doc_library_sec2" />
+          <section title="Feedback System" ref="df/d4f/doc_library.html#doc_library_sec3" />
+          <section title="Identification of Library Elements" ref="df/d4f/doc_library.html#doc_library_sec4" />
+          <section title="Element Categories" ref="df/d4f/doc_library.html#doc_library_sec6" />
+          <section title="Internationalization of Library Elements" ref="df/d4f/doc_library.html#doc_library_sec7" />
         </section>
         <section title="Project Documentation" ref="d5/d75/doc_project.html">
           <section title="The File Structure of a Project" ref="d5/d75/doc_project.html#doc_project_filestructure" />
-          <section title="Avoid opening a project multiple times (File Lock)" ref="d5/d75/doc_project.html#doc_project_lock" />
-          <section title="The undo/redo system (Command Design Pattern)" ref="d5/d75/doc_project.html#doc_project_undostack" />
           <section title="Compatibility between different application versions" ref="d5/d75/doc_project.html#doc_project_compatibility" />
+          <section title="Avoid opening a project multiple times (File Lock)" ref="d5/d75/doc_project.html#doc_project_lock" />
           <section title="Saving Procedere / Automatic Periodically Saving" ref="d5/d75/doc_project.html#doc_project_save" />
-          <section title="Project File Structure Documentation" ref="d8/d06/doc_project_file_structure.html">
-            <section title="Project File Hierarchy" ref="d8/d06/doc_project_file_structure.html#project_file_hierarchy">
-              <section title="Directory &quot;boards/&quot;" ref="d8/d06/doc_project_file_structure.html#project_dir_boards" />
-              <section title="Directory &quot;lib/&quot;" ref="d8/d06/doc_project_file_structure.html#project_dir_lib" />
-              <section title="Directory &quot;panels/&quot;" ref="d8/d06/doc_project_file_structure.html#project_dir_panels" />
-              <section title="Directory &quot;schematics/&quot;" ref="d8/d06/doc_project_file_structure.html#project_dir_schematics" />
-              <section title="Directory &quot;simulations/&quot;" ref="d8/d06/doc_project_file_structure.html#project_dir_simulations" />
-              <section title="Directory &quot;user/&quot;" ref="d8/d06/doc_project_file_structure.html#project_dir_user" />
-            </section>
-          </section>
+          <section title="The undo/redo system (Command Design Pattern)" ref="d5/d75/doc_project.html#doc_project_undostack" />
         </section>
-      </section>
-      <section title="Board Layers Documentation" ref="d2/d22/doc_board_layers.html">
-        <section title="Class BoardLayer" ref="d2/d22/doc_board_layers.html#doc_board_layer_class" />
       </section>
       <section title="Todo List" ref="dd/da0/todo.html" />
       <section title="Namespaces">
@@ -9577,11 +9567,11 @@
       <keyword name="DECLARE_ERC_MSG_CLASS_NAME" id="if_ercmsgprovider.h::DECLARE_ERC_MSG_CLASS_NAME" ref="da/dfb/if__ercmsgprovider_8h.html#a58f037051e9db84db5eb1256da876eb6" />
       <keyword name="Board Layers Documentation" id="Board Layers Documentation" ref="d2/d22/doc_board_layers.html" />
       <keyword name="Schematic Layers Documentation" id="Schematic Layers Documentation" ref="d0/d1b/doc_schematic_layers.html" />
-      <keyword name="Project Documentation" id="Project Documentation" ref="d5/d75/doc_project.html" />
-      <keyword name="Project File Structure Documentation" id="Project File Structure Documentation" ref="d8/d06/doc_project_file_structure.html" />
+      <keyword name="Architecture Overview" id="Architecture Overview" ref="de/d34/doc_architecture_overview.html" />
       <keyword name="Code Style Guide" id="Code Style Guide" ref="df/d24/doc_code_style_guide.html" />
       <keyword name="General Information for Developers" id="General Information for Developers" ref="df/d30/doc_developers.html" />
-      <keyword name="Library Documentation" id="Library Documentation" ref="dc/d2d/doc_lib.html" />
+      <keyword name="Library Documentation" id="Library Documentation" ref="df/d4f/doc_library.html" />
+      <keyword name="Project Documentation" id="Project Documentation" ref="d5/d75/doc_project.html" />
       <keyword name="Todo List" id="Todo List" ref="dd/da0/todo.html" />
       <keyword name="Alignment" id="Alignment" ref="df/de9/class_alignment.html" />
       <keyword name="Alignment" id="Alignment::Alignment" ref="df/de9/class_alignment.html#ac2a03de30f0ea7f185b8ae3625c8b076" />
@@ -15204,10 +15194,12 @@
       <file>d7/dfd/workspacesettings_8h_source.html</file>
       <file>db/dec/workspacesettingsdialog_8h_source.html</file>
       <file>d4/de6/workspace_8h_source.html</file>
+      <file>d6/d89/architecture__overview_8dox.html</file>
       <file>d7/d73/code__style__guide_8dox.html</file>
       <file>d6/d80/developers_8dox.html</file>
       <file>d5/d90/library_8dox.html</file>
       <file>d5/d4d/mainpage_8dox.html</file>
+      <file>d1/d17/project_8dox.html</file>
       <file>d1/d4e/controlpanel_8cpp.html</file>
       <file>dc/d14/controlpanel_8cpp__incl.svg</file>
       <file>d5/d56/controlpanel_8h.html</file>
@@ -16142,11 +16134,12 @@
       <file>d3/da4/workspace_8h__dep__incl.svg</file>
       <file>d2/d22/doc_board_layers.html</file>
       <file>d0/d1b/doc_schematic_layers.html</file>
-      <file>d5/d75/doc_project.html</file>
-      <file>d8/d06/doc_project_file_structure.html</file>
+      <file>de/d34/doc_architecture_overview.html</file>
+      <file>architecture_overview.png</file>
       <file>df/d24/doc_code_style_guide.html</file>
       <file>df/d30/doc_developers.html</file>
-      <file>dc/d2d/doc_lib.html</file>
+      <file>df/d4f/doc_library.html</file>
+      <file>d5/d75/doc_project.html</file>
       <file>dd/da0/todo.html</file>
       <file>df/de9/class_alignment.html</file>
       <file>d8/d39/class_alignment__coll__graph.svg</file>

@@ -103,18 +103,34 @@ $(document).ready(function(){initNavTree('d2/d22/doc_board_layers.html','../../'
 <div class="contents">
 <div class="toc"><h3>Table of Contents</h3>
 <ul><li class="level1"><a href="#doc_board_layer_class">Class BoardLayer</a></li>
+<li class="level1"><a href="#doc_board_layer_attributes">Layer Attributes</a></li>
+<li class="level1"><a href="#doc_board_layer_ids">Layer IDs</a></li>
 </ul>
 </div>
 <div class="textblock"><h1><a class="anchor" id="doc_board_layer_class"></a>
 Class BoardLayer</h1>
 <p>The class <a class="el" href="../../df/d85/class_board_layer.html" title="The BoardLayer class. ">BoardLayer</a> is used to representate footprint/board layers. for each layer you need to create an object of that type.</p>
-<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000001">Todo:</a></b></dt><dd>Add more details. See <a href="https://github.com/ubruhin/LibrePCB/issues/4">https://github.com/ubruhin/LibrePCB/issues/4</a></dd></dl>
+<h1><a class="anchor" id="doc_board_layer_attributes"></a>
+Layer Attributes</h1>
+<p>Each board layer has the following attibutes:</p>
+<ul>
+<li>ID: An unsigned integer which identifies the layer (must be unique)</li>
+<li>Name: The name of the layer (translated into the user's language)</li>
+<li>Color: The color which is used to draw elements of that layer</li>
+<li>Color (highlighted): The color for highlighted (selected) elements</li>
+<li>Visible: Defines whether the layer is visible (true) or not (false)</li>
+</ul>
+<h1><a class="anchor" id="doc_board_layer_ids"></a>
+Layer IDs</h1>
+<p>All available layers are listed in <a class="el" href="../../df/d85/class_board_layer.html#a176a1fee332dc1a193b4b97dae579eae" title="All Board Layer IDs. ">BoardLayer::LayerID</a>.</p>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000001">Todo:</a></b></dt><dd>Add more details</dd></dl>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sat Jul 25 2015 21:09:50 for LibrePCB Developers Documentation by
+    <li class="navelem"><a class="el" href="../../index.html">LibrePCB Developers Documentation</a></li>
+    <li class="footer">Generated on Sun Jul 26 2015 12:45:26 for LibrePCB Developers Documentation by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

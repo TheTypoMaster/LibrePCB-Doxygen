@@ -84,5 +84,5 @@ var searchData=
   ['btnupclicked',['btnUpClicked',['../de/ded/class_w_s_i___library_locale_order.html#a0f983b7794d303b29725faa592d329e4',1,'WSI_LibraryLocaleOrder::btnUpClicked()'],['../d5/da3/class_w_s_i___library_norm_order.html#a0f983b7794d303b29725faa592d329e4',1,'WSI_LibraryNormOrder::btnUpClicked()']]],
   ['busses',['Busses',['../dc/d5a/class_schematic_layer.html#a176a1fee332dc1a193b4b97dae579eaeaec96d1ea9a57b16c6cfc85ed9a6044ff',1,'SchematicLayer']]],
   ['buttonboxclicked',['buttonBoxClicked',['../dc/d4e/class_grid_settings_dialog.html#a4fe43a1e03977a7e1879ba51775b0ce5',1,'GridSettingsDialog']]],
-  ['board_20layers_20documentation',['Board Layers Documentation',['../d2/d22/doc_board_layers.html',1,'']]]
+  ['board_20layers_20documentation',['Board Layers Documentation',['../d2/d22/doc_board_layers.html',1,'index']]]
 ];

@@ -7,6 +7,7 @@ var searchData=
   ['point_2ecpp',['point.cpp',['../d5/d55/point_8cpp.html',1,'']]],
   ['point_2eh',['point.h',['../d2/d91/point_8h.html',1,'']]],
   ['project_2ecpp',['project.cpp',['../df/d18/project_8cpp.html',1,'']]],
+  ['project_2edox',['project.dox',['../d1/d17/project_8dox.html',1,'']]],
   ['project_2eh',['project.h',['../dc/d8d/project_8h.html',1,'']]],
   ['projecteditor_2ecpp',['projecteditor.cpp',['../da/d1e/projecteditor_8cpp.html',1,'']]],
   ['projecteditor_2eh',['projecteditor.h',['../d1/d47/projecteditor_8h.html',1,'']]],
