@@ -1,0 +1,8 @@
+<map id="isGrabArea" name="isGrabArea">
+<area shape="rect" id="node3" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" title="library::SymbolPreviewGraphics\lItem::updateCacheAndRepaint" alt="" coords="141,5,349,51"/>
+<area shape="rect" id="node5" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="library::SymbolPreviewGraphics\lItem::paint" alt="" coords="141,74,349,121"/>
+<area shape="rect" id="node7" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_Symbol\l::updateCacheAndRepaint" alt="" coords="159,143,332,190"/>
+<area shape="rect" id="node13" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::SGI_Symbol\l::paint" alt="" coords="175,213,316,259"/>
+<area shape="rect" id="node9" href="$de/d50/classproject_1_1_s_i___symbol.html#a803d371853cd2d72f4df8a45349d0cb7" title="project::SI_Symbol\l::schematicOrGenCompAttributes\lChanged" alt="" coords="397,135,616,199"/>
+<area shape="rect" id="node11" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4e286593d2a82f74246f9cba8193605" title="project::SI_Symbol\l::init" alt="" coords="664,143,797,190"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="fromPx" name="fromPx">
+<area shape="rect" id="node3" href="$db/dd3/classproject_1_1_b_e_s___select.html#ab12d84cb06f265f00f6130fc5e801000" title="project::BES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="131,5,317,69"/>
+<area shape="rect" id="node5" href="$db/dd3/classproject_1_1_b_e_s___select.html#a7fefd9a27742cdd13a7ba071960cd86d" title="project::BES_Select\l::proccessIdleSceneLeftClick" alt="" coords="128,93,320,139"/>
+<area shape="rect" id="node7" href="$db/dd3/classproject_1_1_b_e_s___select.html#a4a1156d123edf8ab83919f7bd13b4afa" title="project::BES_Select\l::proccessIdleSceneRightClick" alt="" coords="123,162,325,209"/>
+<area shape="rect" id="node9" href="$db/dd3/classproject_1_1_b_e_s___select.html#ac6c7da983273e396854b9e1cccf4fccf" title="project::BES_Select\l::proccessIdleSceneDoubleClick" alt="" coords="119,231,329,278"/>
+<area shape="rect" id="node11" href="$db/dd3/classproject_1_1_b_e_s___select.html#add3bb6fd0f0d1ec1558bb1fc5be938ed" title="project::BES_Select\l::processSubStateMovingScene\lEvent" alt="" coords="120,301,328,365"/>
+<area shape="rect" id="node13" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#adfcb4e9c07721bf39ddcb34d2e39e61c" title="project::AddGenCompDialog\l::setSelectedSymbVar" alt="" coords="131,389,317,435"/>
+<area shape="rect" id="node27" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#a900b064d2a187546b16944379527b0a9" title="project::SES_AddComponents\l::processSceneEvent" alt="" coords="124,458,324,505"/>
+<area shape="rect" id="node29" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#adfd98cfc3245571b0c2b05c7c1c9f3c9" title="project::SES_AddComponents\l::startAddingComponent" alt="" coords="124,527,324,574"/>
+<area shape="rect" id="node31" href="$d5/d33/classproject_1_1_s_e_s___add_net_label.html#a900b064d2a187546b16944379527b0a9" title="project::SES_AddNetLabel\l::processSceneEvent" alt="" coords="135,597,313,643"/>
+<area shape="rect" id="node33" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#afb43e4d87fd504421f54de95d13d9656" title="project::SES_DrawWire\l::processIdleSceneEvent" alt="" coords="140,666,308,713"/>
+<area shape="rect" id="node35" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#a770d5b8d79b9121f4e555bee44446704" title="project::SES_DrawWire\l::processPositioningSceneEvent" alt="" coords="119,735,329,782"/>
+<area shape="rect" id="node37" href="$d8/d8b/classproject_1_1_s_e_s___select.html#ae7b1d9775f8e164e825c0cdecf27eff5" title="project::SES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="131,805,317,869"/>
+<area shape="rect" id="node39" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a6e3cb93bc0752a3aeaaf123b0c473080" title="project::SES_Select\l::proccessIdleSceneLeftClick" alt="" coords="128,893,320,939"/>
+<area shape="rect" id="node41" href="$d8/d8b/classproject_1_1_s_e_s___select.html#abf3d779ad6aed8bf5f55cbb3e20d06e5" title="project::SES_Select\l::proccessIdleSceneRightClick" alt="" coords="123,962,325,1009"/>
+<area shape="rect" id="node43" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a58ba7fdde2fa62c25504d4acbec0bde6" title="project::SES_Select\l::proccessIdleSceneDoubleClick" alt="" coords="119,1031,329,1078"/>
+<area shape="rect" id="node45" href="$d8/d8b/classproject_1_1_s_e_s___select.html#abf6c563b7a0b3342c38337fa69682e5c" title="project::SES_Select\l::processSubStateMovingScene\lEvent" alt="" coords="120,1101,328,1165"/>
+<area shape="rect" id="node15" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a59cdf065c69c12551c2043dfe0891ff1" title="project::AddGenCompDialog\l::on_cbxSymbVar_currentIndexChanged" alt="" coords="380,354,636,401"/>
+<area shape="rect" id="node17" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#abf6af5dc67073d848d5cf561412d4b27" title="project::AddGenCompDialog\l::setSelectedGenComp" alt="" coords="415,423,601,470"/>
+<area shape="rect" id="node19" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a5951d1d20ef2d9675b3b1690d6799fa7" title="project::AddGenCompDialog\l::on_listGenericComponents\l_currentItemChanged" alt="" coords="687,375,873,439"/>
+<area shape="rect" id="node21" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="project::AddGenCompDialog\l::setSelectedCategory" alt="" coords="687,462,873,509"/>
+<area shape="rect" id="node23" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25" title="project::AddGenCompDialog\l::on_treeCategories_currentItem\lChanged" alt="" coords="924,453,1132,517"/>
+<area shape="rect" id="node25" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="project::AddGenCompDialog\l::AddGenCompDialog" alt="" coords="1183,462,1369,509"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="getGenCompSignalInstance" name="getGenCompSignalInstance">
+<area shape="rect" id="node3" href="$da/d6f/classproject_1_1_s_g_i___symbol_pin.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::SGI_SymbolPin\l::paint" alt="" coords="240,5,403,51"/>
+<area shape="rect" id="node5" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#ac0d67255f68a55c37b5a1e2a661ab69c" title="project::SES_DrawWire\l::startPositioning" alt="" coords="241,74,401,121"/>
+<area shape="rect" id="node7" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#a72ccca96a5dabd93710518c9d18b93a1" title="project::SES_DrawWire\l::addNextNetPoint" alt="" coords="241,143,401,190"/>
+<area shape="rect" id="node9" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::SES_Select\l::removeSelectedItems" alt="" coords="243,213,400,259"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="projectEditorClosed" name="projectEditorClosed">
+<area shape="rect" id="node3" href="$d3/dd6/classproject_1_1_project_editor.html#ac48a585009b5ee63f88e0c2b5357d6e9" title="project::ProjectEditor\l::getProject" alt="" coords="209,5,353,51"/>
+<area shape="rect" id="node5" href="$d2/d05/classproject_1_1_project.html#afbdab4a0b61e83c059a2901660e2df25" title="Get the filepath of the project file (*.lpp) " alt="" coords="191,75,372,104"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="228,128,335,157"/>
+</map>

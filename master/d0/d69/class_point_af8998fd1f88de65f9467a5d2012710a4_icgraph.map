@@ -1,0 +1,12 @@
+<map id="rotate" name="rotate">
+<area shape="rect" id="node3" href="$d0/d69/class_point.html#a5234cfe8b9f31ba928745912067f90b4" title="Get the point rotated by a specific angle with respect to a specific center. " alt="" coords="111,152,172,181"/>
+<area shape="rect" id="node5" href="$de/d50/classproject_1_1_s_i___symbol.html#a56e275d18632ae7d863b45e405563e26" title="project::SI_Symbol\l::mapToScene" alt="" coords="228,109,361,155"/>
+<area shape="rect" id="node24" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::SES_Select\l::rotateSelectedItems" alt="" coords="221,178,368,225"/>
+<area shape="rect" id="node7" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a212e36e19edc323ddeb73387d2f011a5" title="project::SI_SymbolPin\l::updatePosition" alt="" coords="416,109,568,155"/>
+<area shape="rect" id="node9" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" title="project::SI_Symbol\l::setPosition" alt="" coords="625,109,759,155"/>
+<area shape="rect" id="node17" href="$de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597" title="project::SI_Symbol\l::setAngle" alt="" coords="625,39,759,86"/>
+<area shape="rect" id="node22" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="project::SI_SymbolPin\l::SI_SymbolPin" alt="" coords="616,178,768,225"/>
+<area shape="rect" id="node11" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a6eaf0a56905dd18ebdf240a2229576c6" title="project::CmdSymbolInstance\lEdit::~CmdSymbolInstanceEdit" alt="" coords="817,5,1023,51"/>
+<area shape="rect" id="node13" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="825,74,1015,121"/>
+<area shape="rect" id="node15" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="825,143,1015,190"/>
+</map>

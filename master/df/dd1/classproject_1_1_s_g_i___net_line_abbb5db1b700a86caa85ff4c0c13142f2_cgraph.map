@@ -1,0 +1,8 @@
+<map id="updateCacheAndRepaint" name="updateCacheAndRepaint">
+<area shape="rect" id="node3" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a6929abd2275d042081cee93fc3e4de6f" title="project::SI_NetLine\l::getStartPoint" alt="" coords="225,5,359,51"/>
+<area shape="rect" id="node5" href="$d3/d43/classproject_1_1_s_i___net_point.html#a98612bae828cddb2f664368397d27fe3" title="project::SI_NetPoint\l::getPosition" alt="" coords="223,74,361,121"/>
+<area shape="rect" id="node7" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="225,144,359,173"/>
+<area shape="rect" id="node9" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="411,171,507,200"/>
+<area shape="rect" id="node11" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a4450993ecd2c4470af5e277e7581424e" title="project::SI_NetLine\l::getEndPoint" alt="" coords="225,247,359,294"/>
+<area shape="rect" id="node13" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a69af915a70be9a59f27a36ef42fe7606" title="project::SI_NetLine\l::getWidth" alt="" coords="225,317,359,363"/>
+</map>

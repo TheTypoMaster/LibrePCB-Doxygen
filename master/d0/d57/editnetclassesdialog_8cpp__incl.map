@@ -1,0 +1,19 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/dialogs/editnetclassesdialog.cpp" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/dialogs/editnetclassesdialog.cpp">
+<area shape="rect" id="node7" href="$da/d95/editnetclassesdialog_8h.html" title="editnetclassesdialog.h" alt="" coords="272,145,422,175"/>
+<area shape="rect" id="node16" href="$d3/ddf/circuit_8h.html" title="librepcbproject/circuit\l/circuit.h" alt="" coords="1002,137,1146,183"/>
+<area shape="rect" id="node26" href="$dc/d8d/project_8h.html" title="librepcbproject/project.h" alt="" coords="695,145,855,175"/>
+<area shape="rect" id="node45" href="$d9/d4b/undostack_8h.html" title="librepcbcommon/undostack.h" alt="" coords="1616,241,1808,271"/>
+<area shape="rect" id="node49" href="$da/d1c/netclass_8h.html" title="librepcbproject/circuit\l/netclass.h" alt="" coords="1262,137,1406,183"/>
+<area shape="rect" id="node56" href="$d7/d45/cmdnetclassedit_8h.html" title="librepcbproject/circuit\l/cmd/cmdnetclassedit.h" alt="" coords="1774,137,1934,183"/>
+<area shape="rect" id="node64" href="$d5/df4/cmdnetclassadd_8h.html" title="librepcbproject/circuit\l/cmd/cmdnetclassadd.h" alt="" coords="1988,137,2148,183"/>
+<area shape="rect" id="node69" href="$d2/d1d/cmdnetclassremove_8h.html" title="librepcbproject/circuit\l/cmd/cmdnetclassremove.h" alt="" coords="2188,137,2370,183"/>
+<area shape="rect" id="node11" href="$d4/d03/exceptions_8h.html" title="librepcbcommon/exceptions.h" alt="" coords="1236,337,1431,367"/>
+<area shape="rect" id="node19" href="$d0/d1d/if__xmlserializableobject_8h.html" title="librepcbcommon/fileio\l/if_xmlserializableobject.h" alt="" coords="1075,233,1246,279"/>
+<area shape="rect" id="node23" href="$dd/dec/filepath_8h.html" title="librepcbcommon/fileio\l/filepath.h" alt="" coords="1015,329,1162,375"/>
+<area shape="rect" id="node30" href="$da/d81/if__attributeprovider_8h.html" title="librepcbcommon/if_attributeprovider.h" alt="" coords="703,337,940,367"/>
+<area shape="rect" id="node33" href="$d4/d45/if__schematiclayerprovider_8h.html" title="librepcbcommon/if_schematiclayerprovider.h" alt="" coords="74,337,354,367"/>
+<area shape="rect" id="node36" href="$d4/dba/if__boardlayerprovider_8h.html" title="librepcbcommon/if_boardlayerprovider.h" alt="" coords="378,337,628,367"/>
+<area shape="rect" id="node40" href="$d5/db9/filelock_8h.html" title="librepcbcommon/fileio\l/filelock.h" alt="" coords="702,233,848,279"/>
+<area shape="rect" id="node52" href="$da/dfb/if__ercmsgprovider_8h.html" title="../erc/if_ercmsgprovider.h" alt="" coords="1371,241,1542,271"/>
+<area shape="rect" id="node59" href="$dc/da0/undocommand_8h.html" title="librepcbcommon/undocommand.h" alt="" coords="1984,241,2200,271"/>
+</map>

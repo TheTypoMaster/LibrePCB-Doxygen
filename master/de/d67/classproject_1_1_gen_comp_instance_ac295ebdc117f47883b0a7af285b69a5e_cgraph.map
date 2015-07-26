@@ -1,0 +1,24 @@
+<map id="removeFromCircuit" name="removeFromCircuit">
+<area shape="rect" id="node3" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#ac295ebdc117f47883b0a7af285b69a5e" title="project::GenCompSignalInstance\l::removeFromCircuit" alt="" coords="188,273,401,319"/>
+<area shape="rect" id="node35" href="$de/d67/classproject_1_1_gen_comp_instance.html#a56ae9f28c406912ae4a5a893087a72ca" title="updateErcMessages" alt="" coords="224,589,365,619"/>
+<area shape="rect" id="node5" href="$d3/d93/classproject_1_1_net_signal.html#a09b8f71f7ed0d3890e755c7fb8f560a0" title="project::NetSignal\l::unregisterGenCompSignal" alt="" coords="468,203,649,250"/>
+<area shape="rect" id="node7" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::GenCompSignalInstance\l::updateErcMessages" alt="" coords="452,273,665,319"/>
+<area shape="rect" id="node9" href="$d1/d03/classproject_1_1_circuit.html#ac48a585009b5ee63f88e0c2b5357d6e9" title="project::Circuit::getProject" alt="" coords="736,5,909,35"/>
+<area shape="rect" id="node11" href="$d2/d05/classproject_1_1_project.html#a6054e079a2e370148fce27b138686ba3" title="Get the ProjectSettings object which contains all project settings. " alt="" coords="731,59,915,88"/>
+<area shape="rect" id="node13" href="$d7/d04/classproject_1_1_project_settings.html#a4e1f38901d0cab44a6bdae922a877b22" title="project::ProjectSettings\l::getLocaleOrder" alt="" coords="744,111,901,158"/>
+<area shape="rect" id="node15" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a01f0309d43de518f4e94c724d22f4502" title="library::GenCompSignal\l::getName" alt="" coords="743,181,903,227"/>
+<area shape="rect" id="node19" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab0c96f485564e41206ce9a4ce42ba389" title="getName" alt="" coords="785,251,860,280"/>
+<area shape="rect" id="node21" href="$d3/d93/classproject_1_1_net_signal.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::NetSignal\l::getName" alt="" coords="760,303,885,350"/>
+<area shape="rect" id="node23" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#aa821b370fece67458578c040f67873e6" title="project::GenCompSignalInstance\l::getForcedNetSignalName" alt="" coords="716,373,929,419"/>
+<area shape="rect" id="node29" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a7b7ad6f6434c5a98612c3a4520f33901" title="library::GenCompSignal\l::isRequired" alt="" coords="743,442,903,489"/>
+<area shape="rect" id="node31" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a5efcbff9463612d09935ed254844cc5b" title="project::GenCompSignalInstance\l::isNetSignalNameForced" alt="" coords="716,511,929,558"/>
+<area shape="rect" id="node17" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" title="Get the string of a specific locale from a QMap. " alt="" coords="993,181,1175,227"/>
+<area shape="rect" id="node25" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#aaaec8b99650920ff82534ae863e5559b" title="library::GenCompSignal\l::getForcedNetName" alt="" coords="1004,407,1164,454"/>
+<area shape="rect" id="node27" href="$d9/d41/class_i_f___attribute_provider.html#a64e9824168a64622ace994d0ce6dd8ba" title="Replace all variables in a text with their attribute values. " alt="" coords="980,338,1188,385"/>
+<area shape="rect" id="node33" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a5efcbff9463612d09935ed254844cc5b" title="library::GenCompSignal\l::isNetSignalNameForced" alt="" coords="999,511,1169,558"/>
+<area shape="rect" id="node37" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab56d32f3df77886336513524c2adbf00" title="getUnplacedRequiredSymbols\lCount" alt="" coords="460,581,657,627"/>
+<area shape="rect" id="node45" href="$de/d67/classproject_1_1_gen_comp_instance.html#a590c3eaacaa9f4ce8ed630d7f00f47a4" title="getUnplacedOptionalSymbols\lCount" alt="" coords="461,650,656,697"/>
+<area shape="rect" id="node39" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a95be340ed5134b5b4fc05ab47e4c9c34" title="library::GenCompSymbVar\l::getItems" alt="" coords="733,581,912,627"/>
+<area shape="rect" id="node41" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#a7b7ad6f6434c5a98612c3a4520f33901" title="library::GenCompSymbVarItem\l::isRequired" alt="" coords="721,650,924,697"/>
+<area shape="rect" id="node43" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVarItem\l::getUuid" alt="" coords="721,719,924,766"/>
+</map>

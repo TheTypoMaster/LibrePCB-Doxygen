@@ -1,0 +1,26 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/circuit/gencompsignalinstance.cpp" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/circuit/gencompsignalinstance.cpp">
+<area shape="rect" id="node5" href="$d4/d03/exceptions_8h.html" title="librepcbcommon/exceptions.h" alt="" coords="689,492,884,521"/>
+<area shape="rect" id="node8" href="$db/dae/gencompsignalinstance_8h.html" title="gencompsignalinstance.h" alt="" coords="192,309,360,339"/>
+<area shape="rect" id="node17" href="$da/def/gencompinstance_8h.html" title="gencompinstance.h" alt="" coords="384,309,517,339"/>
+<area shape="rect" id="node26" href="$d3/ddf/circuit_8h.html" title="circuit.h" alt="" coords="541,309,608,339"/>
+<area shape="rect" id="node34" href="$d1/d08/netsignal_8h.html" title="netsignal.h" alt="" coords="83,309,168,339"/>
+<area shape="rect" id="node40" href="$d4/d98/genericcomponent_8h.html" title="librepcblibrary/gencmp\l/genericcomponent.h" alt="" coords="1140,137,1292,183"/>
+<area shape="rect" id="node73" href="$df/d2c/ercmsg_8h.html" title="../erc/ercmsg.h" alt="" coords="2472,145,2581,175"/>
+<area shape="rect" id="node76" href="$d1/d68/xmldomelement_8h.html" title="librepcbcommon/fileio\l/xmldomelement.h" alt="" coords="2568,387,2715,434"/>
+<area shape="rect" id="node83" href="$dc/d8d/project_8h.html" title="../project.h" alt="" coords="1672,309,1755,339"/>
+<area shape="rect" id="node100" href="$d5/d31/projectsettings_8h.html" title="../settings/projectsettings.h" alt="" coords="1887,309,2065,339"/>
+<area shape="rect" id="node11" href="$da/dfb/if__ercmsgprovider_8h.html" title="../erc/if_ercmsgprovider.h" alt="" coords="40,396,211,425"/>
+<area shape="rect" id="node13" href="$d0/d1d/if__xmlserializableobject_8h.html" title="librepcbcommon/fileio\l/if_xmlserializableobject.h" alt="" coords="640,387,811,434"/>
+<area shape="rect" id="node20" href="$da/d81/if__attributeprovider_8h.html" title="librepcbcommon/if_attributeprovider.h" alt="" coords="936,396,1173,425"/>
+<area shape="rect" id="node31" href="$dd/dec/filepath_8h.html" title="librepcbcommon/fileio\l/filepath.h" alt="" coords="1747,483,1893,530"/>
+<area shape="rect" id="node43" href="$d0/db0/libraryelement_8h.html" title="../libraryelement.h" alt="" coords="1451,232,1576,261"/>
+<area shape="rect" id="node56" href="$d7/dbb/gencompsignal_8h.html" title="gencompsignal.h" alt="" coords="683,309,803,339"/>
+<area shape="rect" id="node60" href="$d6/d12/gencompsymbvar_8h.html" title="gencompsymbvar.h" alt="" coords="1000,232,1136,261"/>
+<area shape="rect" id="node68" href="$d1/d99/libraryelementattribute_8h.html" title="../libraryelementattribute.h" alt="" coords="1129,309,1303,339"/>
+<area shape="rect" id="node46" href="$de/dd7/librarybaseelement_8h.html" title="librarybaseelement.h" alt="" coords="1501,309,1643,339"/>
+<area shape="rect" id="node53" href="$df/dfc/version_8h.html" title="librepcbcommon/version.h" alt="" coords="1499,492,1672,521"/>
+<area shape="rect" id="node64" href="$db/dc6/gencompsymbvaritem_8h.html" title="gencompsymbvaritem.h" alt="" coords="945,309,1105,339"/>
+<area shape="rect" id="node88" href="$d4/d45/if__schematiclayerprovider_8h.html" title="librepcbcommon/if_schematiclayerprovider.h" alt="" coords="1968,492,2248,521"/>
+<area shape="rect" id="node91" href="$d4/dba/if__boardlayerprovider_8h.html" title="librepcbcommon/if_boardlayerprovider.h" alt="" coords="2272,492,2523,521"/>
+<area shape="rect" id="node95" href="$d5/db9/filelock_8h.html" title="librepcbcommon/fileio\l/filelock.h" alt="" coords="1645,387,1792,434"/>
+</map>

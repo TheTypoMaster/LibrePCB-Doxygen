@@ -1,0 +1,7 @@
+<map id="getUnitFromString" name="getUnitFromString">
+<area shape="rect" id="node3" href="$d5/d40/classlibrary_1_1_library_element_attribute.html#ac4e221bdc91d964218f3b2c1ab3fc826" title="library::LibraryElementAttribute\l::LibraryElementAttribute" alt="" coords="201,5,401,51"/>
+<area shape="rect" id="node5" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#a4a02950902e2cf9b6b972fca7107a86d" title="project::GenCompAttribute\lInstance::GenCompAttributeInstance" alt="" coords="183,74,420,121"/>
+<area shape="rect" id="node7" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a335f2554b0268b74dd2ac89a4f2253e4" title="project::SymbolInstanceProperties\lDialog::on_cbxAttrUnit_currentIndex\lChanged" alt="" coords="185,144,417,208"/>
+<area shape="rect" id="node9" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a92e7065644b40063109564ff3463a038" title="project::SymbolInstanceProperties\lDialog::on_btnAttrApply_clicked" alt="" coords="191,231,412,278"/>
+<area shape="rect" id="node11" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a9a515c48bc6c1a086b0bb0bfb531fe1c" title="project::SymbolInstanceProperties\lDialog::on_btnAttrAdd_clicked" alt="" coords="191,301,412,347"/>
+</map>

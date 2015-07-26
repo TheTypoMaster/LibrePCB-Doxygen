@@ -1,0 +1,9 @@
+<map id="on_projectTreeView_clicked" name="on_projectTreeView_clicked">
+<area shape="rect" id="node3" href="$db/d9c/class_project_tree_item.html#a7a771b95050ee2c5ba3371a1e7da0d7a" title="ProjectTreeItem::getType" alt="" coords="201,5,372,35"/>
+<area shape="rect" id="node5" href="$db/d9c/class_project_tree_item.html#a758783796424f4ee2fb3efe4e71a5b72" title="ProjectTreeItem::getFilePath" alt="" coords="192,59,381,88"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#ab03554821fd99cccf6f55a6686bcdc0d" title="Get the filepath of the parent directory of the file or directory. " alt="" coords="212,112,361,141"/>
+<area shape="rect" id="node13" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="217,165,356,195"/>
+<area shape="rect" id="node15" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="233,219,340,248"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a329a3fd87c1339c347833a8026e24c80" title="Check if the specified filepath is the root directory. " alt="" coords="436,85,551,115"/>
+<area shape="rect" id="node11" href="$d4/d1c/class_file_path.html#abad2142d090ea829d85560b03d47d98f" title="The default constructor (this will create an invalid object!) " alt="" coords="431,139,556,168"/>
+</map>

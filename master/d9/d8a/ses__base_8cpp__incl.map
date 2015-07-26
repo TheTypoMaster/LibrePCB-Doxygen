@@ -1,0 +1,21 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/schematiceditor/fsm/ses_base.cpp" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbprojecteditor/schematiceditor/fsm/ses_base.cpp">
+<area shape="rect" id="node5" href="$d4/d0e/ses__base_8h.html" title="ses_base.h" alt="" coords="428,152,516,181"/>
+<area shape="rect" id="node11" href="$d2/db7/schematiceditor_8h.html" title="../schematiceditor.h" alt="" coords="79,239,215,268"/>
+<area shape="rect" id="node46" href="$dc/d8d/project_8h.html" title="librepcbproject/project.h" alt="" coords="1067,335,1227,364"/>
+<area shape="rect" id="node69" href="$d1/d47/projecteditor_8h.html" title="librepcbprojecteditor\l/projecteditor.h" alt="" coords="1335,326,1473,373"/>
+<area shape="rect" id="node8" href="$da/d97/schematiceditorevent_8h.html" title="schematiceditorevent.h" alt="" coords="484,527,641,556"/>
+<area shape="rect" id="node21" href="$d1/da8/all__length__units_8h.html" title="librepcbcommon/units\l/all_length_units.h" alt="" coords="700,230,849,277"/>
+<area shape="rect" id="node41" href="$df/dfc/graphicsview_8h.html" title="librepcbcommon/graphics\l/graphicsview.h" alt="" coords="239,230,409,277"/>
+<area shape="rect" id="node16" href="$df/df9/if__graphicsvieweventhandler_8h.html" title="librepcbcommon/graphics\l/if_graphicsvieweventhandler.h" alt="" coords="47,518,247,565"/>
+<area shape="rect" id="node23" href="$d0/d09/lengthunit_8h.html" title="lengthunit.h" alt="" coords="764,431,852,460"/>
+<area shape="rect" id="node29" href="$dd/db9/length_8h.html" title="length.h" alt="" coords="585,431,652,460"/>
+<area shape="rect" id="node33" href="$d2/d91/point_8h.html" title="point.h" alt="" coords="588,335,649,364"/>
+<area shape="rect" id="node37" href="$da/dac/angle_8h.html" title="angle.h" alt="" coords="676,431,740,460"/>
+<area shape="rect" id="node26" href="$d4/d03/exceptions_8h.html" title="../exceptions.h" alt="" coords="927,527,1033,556"/>
+<area shape="rect" id="node49" href="$d0/d1d/if__xmlserializableobject_8h.html" title="librepcbcommon/fileio\l/if_xmlserializableobject.h" alt="" coords="977,422,1148,469"/>
+<area shape="rect" id="node52" href="$da/d81/if__attributeprovider_8h.html" title="librepcbcommon/if_attributeprovider.h" alt="" coords="1393,431,1631,460"/>
+<area shape="rect" id="node55" href="$d4/d45/if__schematiclayerprovider_8h.html" title="librepcbcommon/if_schematiclayerprovider.h" alt="" coords="1655,431,1935,460"/>
+<area shape="rect" id="node58" href="$d4/dba/if__boardlayerprovider_8h.html" title="librepcbcommon/if_boardlayerprovider.h" alt="" coords="1959,431,2209,460"/>
+<area shape="rect" id="node62" href="$d5/db9/filelock_8h.html" title="librepcbcommon/fileio\l/filelock.h" alt="" coords="1223,422,1369,469"/>
+<area shape="rect" id="node65" href="$dd/dec/filepath_8h.html" title="filepath.h" alt="" coords="1089,527,1164,556"/>
+</map>

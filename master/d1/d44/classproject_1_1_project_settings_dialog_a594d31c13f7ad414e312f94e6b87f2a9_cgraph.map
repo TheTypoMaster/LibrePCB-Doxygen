@@ -1,0 +1,8 @@
+<map id="restoreDefaultSettings" name="restoreDefaultSettings">
+<area shape="rect" id="node3" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#ad59385e2b83064738e8974bbe8195cb4" title="project::CmdProjectSettings\lChange::restoreDefaults" alt="" coords="205,5,392,51"/>
+<area shape="rect" id="node5" href="$d4/d90/class_undo_stack.html#a6649c687fca96c8e65cec90e50551d28" title="Execute a command and push it to the stack (similar to QUndoStack::push()) " alt="" coords="224,75,373,104"/>
+<area shape="rect" id="node7" href="$d1/d44/classproject_1_1_project_settings_dialog.html#af816f81586cdc5885eb5a06c1f238078" title="updateGuiFromSettings" alt="" coords="220,128,377,157"/>
+<area shape="rect" id="node13" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="220,181,377,211"/>
+<area shape="rect" id="node9" href="$d7/d04/classproject_1_1_project_settings.html#a4e1f38901d0cab44a6bdae922a877b22" title="project::ProjectSettings\l::getLocaleOrder" alt="" coords="441,85,599,131"/>
+<area shape="rect" id="node11" href="$d7/d04/classproject_1_1_project_settings.html#a6573891f2d7f5eae69101472e6cd025a" title="project::ProjectSettings\l::getNormOrder" alt="" coords="441,154,599,201"/>
+</map>

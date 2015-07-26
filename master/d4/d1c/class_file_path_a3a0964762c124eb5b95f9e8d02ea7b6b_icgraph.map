@@ -1,0 +1,5 @@
+<map id="setPath" name="setPath">
+<area shape="rect" id="node3" href="$d1/def/class_control_panel.html#a7a18efb5b56dcbff9f550db0c651e210" title="ControlPanel::on_actionNew\l_Project_triggered" alt="" coords="121,5,308,51"/>
+<area shape="rect" id="node5" href="$da/d7d/class_debug.html#a5c9669009a84eb650c9c00436f9b217c" title="Debug::Debug" alt="" coords="161,75,268,104"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#ad097d7ea6b6a49f7ae172eecb752e99c" title="Constructor to create a FilePath object from a QString. " alt="" coords="180,128,249,157"/>
+</map>

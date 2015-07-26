@@ -1,0 +1,8 @@
+<map id="on_buttonBox_clicked" name="on_buttonBox_clicked">
+<area shape="rect" id="node3" href="$de/d52/class_workspace_settings.html#a5bc0f0d3031418d5afd33af2d41e076e" title="WorkspaceSettings::\lapplyAll" alt="" coords="205,5,349,51"/>
+<area shape="rect" id="node7" href="$de/d52/class_workspace_settings.html#ad6f862900c4957afe9c8173224cdb9a2" title="WorkspaceSettings::\lrevertAll" alt="" coords="205,74,349,121"/>
+<area shape="rect" id="node11" href="$de/d52/class_workspace_settings.html#ad59385e2b83064738e8974bbe8195cb4" title="WorkspaceSettings::\lrestoreDefaults" alt="" coords="205,143,349,190"/>
+<area shape="rect" id="node5" href="$d4/dda/class_w_s_i___base.html#ae8035f1283a63c55fbbfb4e786db8a98" title="WSI_Base::apply" alt="" coords="424,13,547,43"/>
+<area shape="rect" id="node9" href="$d4/dda/class_w_s_i___base.html#a8d85d9b6a4c935f5a27bc6a18b0f3891" title="WSI_Base::revert" alt="" coords="423,83,548,112"/>
+<area shape="rect" id="node13" href="$d4/dda/class_w_s_i___base.html#a1ca0dd4aec07d326a0018d7e7bf5991e" title="WSI_Base::restoreDefault" alt="" coords="399,152,572,181"/>
+</map>

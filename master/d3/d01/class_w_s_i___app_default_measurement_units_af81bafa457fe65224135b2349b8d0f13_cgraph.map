@@ -1,0 +1,6 @@
+<map id="restoreDefault" name="restoreDefault">
+<area shape="rect" id="node3" href="$dd/d55/class_length_unit.html#a90e12d755bf526428affbb86317a2740" title="LengthUnit::millimeters" alt="" coords="175,5,329,35"/>
+<area shape="rect" id="node7" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a5302c5f4ca4d262c46a4406f80e10bcb" title="updateLengthUnitComboBox\lIndex" alt="" coords="157,58,347,105"/>
+<area shape="rect" id="node5" href="$dd/d55/class_length_unit.html#aa7484703b9ea7708484d45f86fb73844" title="Default constructor which uses millimeters as unit. " alt="" coords="396,5,551,35"/>
+<area shape="rect" id="node9" href="$dd/d55/class_length_unit.html#a3a0faa78cfa0f741a5fa16c29d1b2ebd" title="Get the Index of the length unit of this object. " alt="" coords="403,67,544,96"/>
+</map>

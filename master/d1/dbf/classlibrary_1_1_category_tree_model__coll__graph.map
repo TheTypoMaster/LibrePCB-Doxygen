@@ -1,0 +1,9 @@
+<map id="CategoryTreeModel" name="CategoryTreeModel">
+<area shape="rect" id="node2" href="$dd/df7/classlibrary_1_1_category_tree_item.html" title="The CategoryTreeItem class. " alt="" coords="211,1990,365,2335"/>
+<area shape="rect" id="node5" href="$da/dc5/classlibrary_1_1_component_category.html" title="The ComponentCategory class. " alt="" coords="203,1750,373,1922"/>
+<area shape="rect" id="node7" href="$d3/d60/classlibrary_1_1_library_category.html" title="The LibraryCategory class extends the LibraryBaseElement class with some attributes and methods which..." alt="" coords="187,1457,389,1698"/>
+<area shape="rect" id="node9" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="187,609,389,1405"/>
+<area shape="rect" id="node11" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="5,205,208,342"/>
+<area shape="rect" id="node13" href="$de/d34/class_version.html" title="The Version class represents a version number in the format &quot;1.42.7&quot;. " alt="" coords="232,40,344,507"/>
+<area shape="rect" id="node15" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="368,5,547,541"/>
+</map>

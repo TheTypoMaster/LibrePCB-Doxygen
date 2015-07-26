@@ -1,0 +1,18 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/circuit/netsignal.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/circuit/netsignal.h">
+<area shape="rect" id="node3" href="$d4/d6f/circuit_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/circuit.cpp" alt="" coords="5,145,171,226"/>
+<area shape="rect" id="node5" href="$d1/d7b/cmdnetsignaladd_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/cmd/cmdnetsignaladd.cpp" alt="" coords="195,145,373,226"/>
+<area shape="rect" id="node7" href="$df/dd7/cmdnetsignaledit_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/cmd/cmdnetsignaledit.cpp" alt="" coords="397,145,576,226"/>
+<area shape="rect" id="node9" href="$d8/df7/cmdnetsignalremove_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/cmd/cmdnetsignalremove.cpp" alt="" coords="600,145,800,226"/>
+<area shape="rect" id="node11" href="$d2/d38/gencompsignalinstance_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/gencompsignalinstance.cpp" alt="" coords="824,145,1011,226"/>
+<area shape="rect" id="node13" href="$d0/d21/netclass_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/netclass.cpp" alt="" coords="1035,145,1200,226"/>
+<area shape="rect" id="node15" href="$df/d3c/netsignal_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/netsignal.cpp" alt="" coords="1224,145,1389,226"/>
+<area shape="rect" id="node17" href="$d4/d9c/sgi__netlabel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/graphicsitems/sgi_netlabel.cpp" alt="" coords="1413,145,1619,226"/>
+<area shape="rect" id="node19" href="$d4/d13/sgi__netline_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/graphicsitems/sgi_netline.cpp" alt="" coords="1643,145,1840,226"/>
+<area shape="rect" id="node21" href="$d9/d24/sgi__symbolpin_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/graphicsitems/sgi_symbolpin.cpp" alt="" coords="1864,145,2083,226"/>
+<area shape="rect" id="node23" href="$d6/dad/si__netlabel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_netlabel.cpp" alt="" coords="2107,145,2288,226"/>
+<area shape="rect" id="node25" href="$d6/d91/si__netline_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_netline.cpp" alt="" coords="2312,145,2493,226"/>
+<area shape="rect" id="node27" href="$d9/d0a/si__netpoint_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_netpoint.cpp" alt="" coords="2517,145,2699,226"/>
+<area shape="rect" id="node29" href="$d5/d35/si__symbolpin_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_symbolpin.cpp" alt="" coords="2723,145,2904,226"/>
+<area shape="rect" id="node31" href="$df/d6c/ses__drawwire_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_drawwire.cpp" alt="" coords="2928,136,3096,235"/>
+<area shape="rect" id="node33" href="$d5/d03/ses__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_select.cpp" alt="" coords="3120,136,3288,235"/>
+</map>

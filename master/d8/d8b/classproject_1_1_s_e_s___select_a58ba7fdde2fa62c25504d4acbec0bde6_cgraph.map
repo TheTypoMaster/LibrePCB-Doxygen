@@ -1,0 +1,13 @@
+<map id="proccessIdleSceneDoubleClick" name="proccessIdleSceneDoubleClick">
+<area shape="rect" id="node3" href="$d0/d69/class_point.html#a3da9ee2bc3910d0f0c43c30798906fdd" title="Point::fromPx" alt="" coords="288,44,389,73"/>
+<area shape="rect" id="node12" href="$de/d50/classproject_1_1_s_i___symbol.html#a7c547c92d2781e3129fd5cf0c4a89668" title="project::SI_Symbol\l::getGenCompInstance" alt="" coords="260,97,417,143"/>
+<area shape="rect" id="node14" href="$d1/d7b/classproject_1_1_s_i___net_label.html#a030988c000034a9099850531546baaa9" title="project::SI_NetLabel\l::getNetSignal" alt="" coords="268,166,409,213"/>
+<area shape="rect" id="node16" href="$d3/d93/classproject_1_1_net_signal.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::NetSignal\l::getName" alt="" coords="276,235,401,282"/>
+<area shape="rect" id="node18" href="$d3/d93/classproject_1_1_net_signal.html#aa5c84a5f1441388a0d6e2259068ca35f" title="project::NetSignal\l::getGenCompSignals" alt="" coords="264,305,413,351"/>
+<area shape="rect" id="node20" href="$d3/d93/classproject_1_1_net_signal.html#ad53a00ac08a5765efe3fc07d696d04b8" title="project::NetSignal\l::getNetPoints" alt="" coords="276,374,401,421"/>
+<area shape="rect" id="node22" href="$d3/d93/classproject_1_1_net_signal.html#a1a71fca9d40127b39aca2c58dab51267" title="project::NetSignal\l::getNetLabels" alt="" coords="276,443,401,490"/>
+<area shape="rect" id="node24" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="260,513,417,543"/>
+<area shape="rect" id="node5" href="$df/df0/class_length.html#a5aef66a62c626dea314f1a1e1716534b" title="Set the length in pixels (from QGraphics* objects) " alt="" coords="468,5,609,35"/>
+<area shape="rect" id="node9" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="477,83,600,112"/>
+<area shape="rect" id="node7" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="660,5,844,35"/>
+</map>

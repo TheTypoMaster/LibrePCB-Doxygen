@@ -1,0 +1,6 @@
+<map id="on_recentProjectsListView_entered" name="on_recentProjectsListView_entered">
+<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#ab03554821fd99cccf6f55a6686bcdc0d" title="Get the filepath of the parent directory of the file or directory. " alt="" coords="233,32,383,61"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="239,85,377,115"/>
+<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#a329a3fd87c1339c347833a8026e24c80" title="Check if the specified filepath is the root directory. " alt="" coords="439,5,553,35"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#abad2142d090ea829d85560b03d47d98f" title="The default constructor (this will create an invalid object!) " alt="" coords="433,59,559,88"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="on_lstUnplacedComponents_currentItemChanged" name="on_lstUnplacedComponents_currentItemChanged">
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a8fac03aa9a740943b9193a49a31bd6ae" title="Get the Circuit object. " alt="" coords="253,5,427,35"/>
+<area shape="rect" id="node5" href="$d1/d03/classproject_1_1_circuit.html#ad673a69fd562292f22830e78ce977427" title="project::Circuit::getGen\lCompInstanceByUuid" alt="" coords="261,58,419,105"/>
+<area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a8b27105b4d0e8500f6c177ab8bde0b65" title="setSelectedGenCompInstance" alt="" coords="240,128,440,157"/>
+<area shape="rect" id="node9" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a01f0309d43de518f4e94c724d22f4502" title="library::LibraryBaseElement\l::getName" alt="" coords="489,85,671,131"/>
+<area shape="rect" id="node13" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" title="library::LibraryBaseElement\l::getUuid" alt="" coords="489,154,671,201"/>
+<area shape="rect" id="node11" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" title="Get the string of a specific locale from a QMap. " alt="" coords="721,85,903,131"/>
+</map>

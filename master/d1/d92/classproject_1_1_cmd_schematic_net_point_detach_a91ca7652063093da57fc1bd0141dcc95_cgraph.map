@@ -1,0 +1,17 @@
+<map id="redo" name="redo">
+<area shape="rect" id="node3" href="$d3/d43/classproject_1_1_s_i___net_point.html#a1894cd9c0e70404c048068221df5135d" title="project::SI_NetPoint\l::detachFromPin" alt="" coords="105,143,244,190"/>
+<area shape="rect" id="node23" href="$d3/d26/class_undo_command.html#a93c48d6ed036e1a381be53ac67643284" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="101,264,248,293"/>
+<area shape="rect" id="node31" href="$d3/d43/classproject_1_1_s_i___net_point.html#aad648031067c9ed02fa9daa1c426ff92" title="project::SI_NetPoint\l::attachToPin" alt="" coords="105,317,244,363"/>
+<area shape="rect" id="node5" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#ad82f0f4bea8f69d1b8eef2df60ce508b" title="project::SI_SymbolPin\l::unregisterNetPoint" alt="" coords="328,74,480,121"/>
+<area shape="rect" id="node19" href="$da/db5/classproject_1_1_s_g_i___net_point.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_NetPoint\l::updateCacheAndRepaint" alt="" coords="317,143,491,190"/>
+<area shape="rect" id="node7" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::SI_SymbolPin\l::updateErcMessages" alt="" coords="577,74,729,121"/>
+<area shape="rect" id="node9" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a82d223627d0c08ce323661100eb289bd" title="project::SI_SymbolPin\l::getDisplayText" alt="" coords="799,5,951,51"/>
+<area shape="rect" id="node11" href="$de/d50/classproject_1_1_s_i___symbol.html#a4d55d03995b846c5840a2adf64399e94" title="project::SI_Symbol\l::getName" alt="" coords="808,74,941,121"/>
+<area shape="rect" id="node17" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a7b7ad6f6434c5a98612c3a4520f33901" title="library::GenCompSignal\l::isRequired" alt="" coords="795,143,955,190"/>
+<area shape="rect" id="node13" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::GenCompInstance\l::getName" alt="" coords="1016,39,1195,86"/>
+<area shape="rect" id="node15" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#a9eeab11e7c84e646f29fac8b709988dc" title="library::GenCompSymbVarItem\l::getSuffix" alt="" coords="1004,109,1207,155"/>
+<area shape="rect" id="node21" href="$d3/d43/classproject_1_1_s_i___net_point.html#afb49c937aaabbe05a0e5368f8bf9d497" title="project::SI_NetPoint\l::isVisible" alt="" coords="584,143,723,190"/>
+<area shape="rect" id="node25" href="$d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" title="This method shows whether that command is executed (redo() called one time more than undo()) ..." alt="" coords="560,239,747,268"/>
+<area shape="rect" id="node27" href="$d3/d26/class_undo_command.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the command (and all child commands in reverse order) " alt="" coords="329,264,479,293"/>
+<area shape="rect" id="node33" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a2367e5cb623f3a1f5789aa3499c9219b" title="project::GenCompSignalInstance\l::getNetSignal" alt="" coords="297,317,511,363"/>
+</map>

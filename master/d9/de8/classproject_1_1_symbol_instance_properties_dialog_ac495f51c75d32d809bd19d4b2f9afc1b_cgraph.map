@@ -1,0 +1,15 @@
+<map id="SymbolInstancePropertiesDialog" name="SymbolInstancePropertiesDialog">
+<area shape="rect" id="node3" href="$d8/d57/class_attribute_type.html#a48b699aff5041b901600e1181a391677" title="AttributeType::getAllTypes" alt="" coords="231,171,407,200"/>
+<area shape="rect" id="node17" href="$d8/d57/class_attribute_type.html#a87138eeff3b10affc5a91df6ec82821c" title="AttributeType::getNameTr" alt="" coords="232,224,405,253"/>
+<area shape="rect" id="node19" href="$d8/d57/class_attribute_type.html#ab0c96f485564e41206ce9a4ce42ba389" title="AttributeType::getName" alt="" coords="239,277,399,307"/>
+<area shape="rect" id="node21" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#aa966546cdb8297bfa36dc77b3e7e2b37" title="project::GenCompAttribute\lInstance::getKey" alt="" coords="231,330,407,377"/>
+<area shape="rect" id="node23" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#a95050215b0ac033847249953a2eaeb2a" title="project::GenCompAttribute\lInstance::getType" alt="" coords="231,399,407,446"/>
+<area shape="rect" id="node25" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#afcf39593b13cca481314b91c522e1779" title="project::GenCompAttribute\lInstance::getValue" alt="" coords="231,469,407,515"/>
+<area shape="rect" id="node27" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#a38581c15047e8f8f6678966fe27d57d7" title="project::GenCompAttribute\lInstance::getUnit" alt="" coords="231,538,407,585"/>
+<area shape="rect" id="node5" href="$dc/d13/class_attr_type_string.html#a88d8e23a17e2cbcb9ea71bd1ebff35f3" title="AttrTypeString::instance" alt="" coords="461,5,624,35"/>
+<area shape="rect" id="node7" href="$d6/dc0/class_attr_type_resistance.html#abc01acd4762ffef6f61e7be45dbca07d" title="AttrTypeResistance\l::instance" alt="" coords="473,58,612,105"/>
+<area shape="rect" id="node9" href="$d0/d14/class_attr_type_capacitance.html#a60437b97dbb198bbea5920cebc2c2059" title="AttrTypeCapacitance\l::instance" alt="" coords="471,127,615,174"/>
+<area shape="rect" id="node11" href="$d0/d9c/class_attr_type_inductance.html#a521fc12589f03f9ff502c53c765354b3" title="AttrTypeInductance\l::instance" alt="" coords="475,197,611,243"/>
+<area shape="rect" id="node13" href="$d9/d21/class_attr_type_voltage.html#ac987bea2d7c06eca15ab204116606c88" title="AttrTypeVoltage::instance" alt="" coords="456,267,629,296"/>
+<area shape="rect" id="node15" href="$df/da7/class_attr_type_frequency.html#a64d71743271995904885f235c0cbdb9c" title="AttrTypeFrequency::\linstance" alt="" coords="472,319,613,366"/>
+</map>

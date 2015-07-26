@@ -1,0 +1,4 @@
+<map id="isFavoriteProject" name="isFavoriteProject">
+<area shape="rect" id="node3" href="$d1/def/class_control_panel.html#af48b18b1f3edf33ae8c178b192a0641c" title="ControlPanel::on_project\lTreeView_customContextMenuRequested" alt="" coords="175,5,441,51"/>
+<area shape="rect" id="node5" href="$d1/def/class_control_panel.html#ac2ec613a69ae9cdaed6e1725e7fcf8c1" title="ControlPanel::on_recentProjects\lListView_customContextMenuRequested" alt="" coords="177,74,439,121"/>
+</map>

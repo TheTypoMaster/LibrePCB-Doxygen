@@ -1,0 +1,17 @@
+<map id="restoreIgnoreState" name="restoreIgnoreState">
+<area shape="rect" id="node3" href="$d1/d7f/class_smart_file.html#ac75eb9bf847724d32b9a3603932d7ad3" title="Check if this file is created and not yet saved to the harddisc. " alt="" coords="221,5,363,35"/>
+<area shape="rect" id="node5" href="$da/db0/class_smart_xml_file.html#a6685c26dd2c2668f47d5fae96c4c319f" title="Open and parse the XML file and build the whole DOM tree. " alt="" coords="200,58,384,105"/>
+<area shape="rect" id="node15" href="$dc/d67/classproject_1_1_erc_msg.html#acd77ef6b50bd3c4a9925c4d4bf4d4ed3" title="project::ErcMsg::setIgnored" alt="" coords="201,128,383,157"/>
+<area shape="rect" id="node17" href="$d1/d1f/class_xml_dom_element.html#a95f6de04ddcc9336005e890a5bca080a" title="Get the first child element of this element. " alt="" coords="191,181,393,211"/>
+<area shape="rect" id="node19" href="$d1/d1f/class_xml_dom_element.html#a3cd8526c7b8169654ac3b2357af7392e" title="Get the next sibling element (with a specific name) " alt="" coords="185,235,399,264"/>
+<area shape="rect" id="node25" href="$dc/d67/classproject_1_1_erc_msg.html#ae397d38221e5dc7aed6e563829750367" title="project::ErcMsg::getOwner" alt="" coords="203,288,381,317"/>
+<area shape="rect" id="node27" href="$d7/d3c/classproject_1_1_i_f___erc_msg_provider.html#a57d33ba67895488b2b30dd1abe2ebc13" title="project::IF_ErcMsgProvider\l::getErcMsgOwnerClassName" alt="" coords="192,341,392,387"/>
+<area shape="rect" id="node29" href="$dc/d67/classproject_1_1_erc_msg.html#a9a65cd645004a1a53ef4293400bdd957" title="project::ErcMsg::getOwnerKey" alt="" coords="192,411,392,440"/>
+<area shape="rect" id="node31" href="$dc/d67/classproject_1_1_erc_msg.html#aa3e6c0eb39bf1418512b0c50a17b0f8f" title="project::ErcMsg::getMsgKey" alt="" coords="199,464,385,493"/>
+<area shape="rect" id="node7" href="$de/d6b/class_application.html#a71dfd4d8f6708f9d9eb0f0c507c1e9ef" title="Application::majorVersion" alt="" coords="465,67,636,96"/>
+<area shape="rect" id="node9" href="$de/d6b/class_application.html#a9b7423f4d6e1631b033ff1ef3f1104bc" title="Application::application\lVersion" alt="" coords="716,27,871,74"/>
+<area shape="rect" id="node13" href="$de/d34/class_version.html#a1d27f264dcf673c9b3a991023cd0420c" title="Get the numbers in the version string. " alt="" coords="721,97,865,127"/>
+<area shape="rect" id="node11" href="$de/d34/class_version.html#a0a886a9edf5bf682f5245159661bfc94" title="Check if the object represents a valid version number. " alt="" coords="935,36,1047,65"/>
+<area shape="rect" id="node21" href="$d1/d1f/class_xml_dom_element.html#adc4e44d2a70ffd20acf6f46952f44723" title="Get the next child (with a specific name) of a specific child. " alt="" coords="448,235,653,264"/>
+<area shape="rect" id="node23" href="$d1/d1f/class_xml_dom_element.html#ab0c96f485564e41206ce9a4ce42ba389" title="Get the tag name of this element. " alt="" coords="703,235,884,264"/>
+</map>

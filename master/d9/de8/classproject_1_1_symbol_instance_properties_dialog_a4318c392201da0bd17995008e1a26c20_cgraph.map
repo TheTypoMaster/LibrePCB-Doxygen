@@ -1,0 +1,7 @@
+<map id="execCmd" name="execCmd">
+<area shape="rect" id="node3" href="$d4/d90/class_undo_stack.html#acafc28cb3929a83228bf6f6d738111cd" title="Begin building a new command that consists of multiple commands step by step (over a &quot;long&quot; time) ..." alt="" coords="147,5,333,35"/>
+<area shape="rect" id="node5" href="$de/d50/classproject_1_1_s_i___symbol.html#a4d55d03995b846c5840a2adf64399e94" title="project::SI_Symbol\l::getName" alt="" coords="173,58,307,105"/>
+<area shape="rect" id="node11" href="$d4/d90/class_undo_stack.html#a9a588d4c258dd39ab422ac23dab43ad8" title="Append a new command to the currently active command. " alt="" coords="135,128,345,157"/>
+<area shape="rect" id="node7" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::GenCompInstance\l::getName" alt="" coords="408,23,587,70"/>
+<area shape="rect" id="node9" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#a9eeab11e7c84e646f29fac8b709988dc" title="library::GenCompSymbVarItem\l::getSuffix" alt="" coords="396,93,599,139"/>
+</map>

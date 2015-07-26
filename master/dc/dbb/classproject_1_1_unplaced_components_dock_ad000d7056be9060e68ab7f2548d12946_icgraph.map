@@ -1,0 +1,8 @@
+<map id="updateComponentsList" name="updateComponentsList">
+<area shape="rect" id="node3" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a8fbd3c721cf6a7086b09b00746e8c5bd" title="UnplacedComponentsDock" alt="" coords="212,5,393,35"/>
+<area shape="rect" id="node5" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="setBoard" alt="" coords="265,59,340,88"/>
+<area shape="rect" id="node9" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#accd0a903591840efc04eae995ba9518a" title="on_btnAdd_clicked" alt="" coords="237,112,368,141"/>
+<area shape="rect" id="node11" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="on_pushButton_clicked" alt="" coords="224,165,381,195"/>
+<area shape="rect" id="node13" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="on_btnAddAll_clicked" alt="" coords="229,219,376,248"/>
+<area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" title="~UnplacedComponentsDock" alt="" coords="444,59,633,88"/>
+</map>

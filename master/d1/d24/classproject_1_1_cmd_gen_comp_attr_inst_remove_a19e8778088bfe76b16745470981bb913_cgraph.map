@@ -1,0 +1,7 @@
+<map id="undo" name="undo">
+<area shape="rect" id="node3" href="$de/d67/classproject_1_1_gen_comp_instance.html#a3e7675cde38ee9f946c9a75c16fc5b3c" title="project::GenCompInstance\l::addAttribute" alt="" coords="104,5,283,51"/>
+<area shape="rect" id="node5" href="$d3/d26/class_undo_command.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the command (and all child commands in reverse order) " alt="" coords="119,75,268,104"/>
+<area shape="rect" id="node13" href="$de/d67/classproject_1_1_gen_comp_instance.html#a4768f06aaef82965294c60b3ab870e8d" title="project::GenCompInstance\l::removeAttribute" alt="" coords="104,127,283,174"/>
+<area shape="rect" id="node7" href="$d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" title="This method shows whether that command is executed (redo() called one time more than undo()) ..." alt="" coords="525,49,712,79"/>
+<area shape="rect" id="node9" href="$d3/d26/class_undo_command.html#a93c48d6ed036e1a381be53ac67643284" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="331,75,477,104"/>
+</map>

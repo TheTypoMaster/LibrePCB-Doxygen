@@ -1,0 +1,22 @@
+<map id="WorkspaceSettingsDialog" name="WorkspaceSettingsDialog">
+<area shape="rect" id="node3" href="$de/d52/class_workspace_settings.html#a1929f7901456c111916955644d31a649" title="WorkspaceSettings::\lgetAppLocale" alt="" coords="259,5,403,51"/>
+<area shape="rect" id="node5" href="$db/d82/class_w_s_i___app_locale.html#ae41cea32d4b5495f11a95b07c760aaed" title="WSI_AppLocale::getLabelText" alt="" coords="232,75,429,104"/>
+<area shape="rect" id="node7" href="$db/d82/class_w_s_i___app_locale.html#a2d5687f40d2384e2454a06193194f6ab" title="WSI_AppLocale::getWidget" alt="" coords="240,128,421,157"/>
+<area shape="rect" id="node9" href="$de/d52/class_workspace_settings.html#a4abf1b2064c294b05b38047f25e3a744" title="WorkspaceSettings::\lgetAppDefMeasUnits" alt="" coords="257,181,404,227"/>
+<area shape="rect" id="node11" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a0954b0d079f89bf5c6260bf53ae213ec" title="WSI_AppDefaultMeasurement\lUnits::getLengthUnitLabelText" alt="" coords="232,250,429,297"/>
+<area shape="rect" id="node13" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#ab27d526a2d70d0ade24396f5b1107536" title="WSI_AppDefaultMeasurement\lUnits::getLengthUnitComboBox" alt="" coords="228,319,433,366"/>
+<area shape="rect" id="node15" href="$de/d52/class_workspace_settings.html#a012466b220bf623f6d0df3ab850f6acc" title="WorkspaceSettings::\lgetProjectAutosaveInterval" alt="" coords="241,389,420,435"/>
+<area shape="rect" id="node17" href="$d6/d31/class_w_s_i___project_autosave_interval.html#ae41cea32d4b5495f11a95b07c760aaed" title="WSI_ProjectAutosaveInterval\l::getLabelText" alt="" coords="233,458,428,505"/>
+<area shape="rect" id="node19" href="$d6/d31/class_w_s_i___project_autosave_interval.html#a2d5687f40d2384e2454a06193194f6ab" title="WSI_ProjectAutosaveInterval\l::getWidget" alt="" coords="233,527,428,574"/>
+<area shape="rect" id="node21" href="$de/d52/class_workspace_settings.html#ae618bffea0533f54ce89366010d6d842" title="WorkspaceSettings::\lgetAppearance" alt="" coords="259,597,403,643"/>
+<area shape="rect" id="node23" href="$d8/dcb/class_w_s_i___appearance.html#a1a764ea4a5e95897c06eb94fc129cd75" title="WSI_Appearance::getUseOpen\lGlLabelText" alt="" coords="228,666,433,713"/>
+<area shape="rect" id="node25" href="$d8/dcb/class_w_s_i___appearance.html#adec3e9a8734ceaf3f916ab1d88b1198f" title="WSI_Appearance::getUseOpen\lGlWidget" alt="" coords="228,735,433,782"/>
+<area shape="rect" id="node27" href="$de/d52/class_workspace_settings.html#aa9f0124a076e4ac7b0525170b0eccfdd" title="WorkspaceSettings::\lgetLibLocaleOrder" alt="" coords="259,805,403,851"/>
+<area shape="rect" id="node29" href="$de/ded/class_w_s_i___library_locale_order.html#ae41cea32d4b5495f11a95b07c760aaed" title="WSI_LibraryLocaleOrder\l::getLabelText" alt="" coords="249,874,412,921"/>
+<area shape="rect" id="node31" href="$de/ded/class_w_s_i___library_locale_order.html#a2d5687f40d2384e2454a06193194f6ab" title="WSI_LibraryLocaleOrder\l::getWidget" alt="" coords="249,943,412,990"/>
+<area shape="rect" id="node33" href="$de/d52/class_workspace_settings.html#aa8dce192d4178a1f7fcc2db5825bcd17" title="WorkspaceSettings::\lgetLibNormOrder" alt="" coords="259,1013,403,1059"/>
+<area shape="rect" id="node35" href="$d5/da3/class_w_s_i___library_norm_order.html#ae41cea32d4b5495f11a95b07c760aaed" title="WSI_LibraryNormOrder\l::getLabelText" alt="" coords="252,1082,409,1129"/>
+<area shape="rect" id="node37" href="$d5/da3/class_w_s_i___library_norm_order.html#a2d5687f40d2384e2454a06193194f6ab" title="WSI_LibraryNormOrder\l::getWidget" alt="" coords="252,1151,409,1198"/>
+<area shape="rect" id="node39" href="$de/d52/class_workspace_settings.html#a4c7190335bf26fde0f0305254838e514" title="WorkspaceSettings::\lgetDebugTools" alt="" coords="259,1221,403,1267"/>
+<area shape="rect" id="node41" href="$df/def/class_w_s_i___debug_tools.html#a2d5687f40d2384e2454a06193194f6ab" title="WSI_DebugTools::getWidget" alt="" coords="235,1291,427,1320"/>
+</map>

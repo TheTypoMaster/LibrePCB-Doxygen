@@ -1,0 +1,12 @@
+<map id="startAddingComponent" name="startAddingComponent">
+<area shape="rect" id="node3" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" title="library::LibraryBaseElement\l::getUuid" alt="" coords="220,5,401,51"/>
+<area shape="rect" id="node5" href="$dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" title="library::LibraryBaseElement\l::getVersion" alt="" coords="220,74,401,121"/>
+<area shape="rect" id="node7" href="$de/d34/class_version.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the version as a string in the format &quot;1.2.3&quot;. " alt="" coords="260,144,361,173"/>
+<area shape="rect" id="node9" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#ae244026d0acdc7d950b6752f4ad00e4e" title="library::GenCompSymbVarItem\l::getSymbolUuid" alt="" coords="209,197,412,243"/>
+<area shape="rect" id="node11" href="$d0/d69/class_point.html#a3da9ee2bc3910d0f0c43c30798906fdd" title="Point::fromPx" alt="" coords="260,267,361,296"/>
+<area shape="rect" id="node20" href="$dd/d2d/classproject_1_1_schematic.html#ada9b237a8629c03e16491a72730b456b" title="project::Schematic\l::getUuid" alt="" coords="245,319,376,366"/>
+<area shape="rect" id="node22" href="$d9/d81/classproject_1_1_cmd_symbol_instance_add.html#a8ca5f01ca7fa0349a47306b88ea4c415" title="project::CmdSymbolInstance\lAdd::getSymbol" alt="" coords="216,389,405,435"/>
+<area shape="rect" id="node13" href="$df/df0/class_length.html#a5aef66a62c626dea314f1a1e1716534b" title="Set the length in pixels (from QGraphics* objects) " alt="" coords="463,228,604,257"/>
+<area shape="rect" id="node17" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="472,305,595,335"/>
+<area shape="rect" id="node15" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="655,228,839,257"/>
+</map>
