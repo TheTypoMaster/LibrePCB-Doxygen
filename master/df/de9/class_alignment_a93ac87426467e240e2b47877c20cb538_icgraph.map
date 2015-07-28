@@ -1,3 +1,7 @@
 <map id="getV" name="getV">
-<area shape="rect" id="node3" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" title="library::SymbolPreviewGraphics\lItem::updateCacheAndRepaint" alt="" coords="104,5,312,51"/>
+<area shape="rect" id="node3" href="$db/d86/classlibrary_1_1_footprint_text.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="112,5,304,51"/>
+<area shape="rect" id="node7" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" title="library::SymbolPreviewGraphics\lItem::updateCacheAndRepaint" alt="" coords="104,74,312,121"/>
+<area shape="rect" id="node9" href="$db/df7/classlibrary_1_1_symbol_text.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="112,143,304,190"/>
+<area shape="rect" id="node5" href="$d8/dea/classlibrary_1_1_footprint.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="360,5,552,51"/>
+<area shape="rect" id="node11" href="$d9/db9/classlibrary_1_1_symbol.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="373,143,539,190"/>
 </map>

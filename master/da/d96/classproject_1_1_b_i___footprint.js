@@ -14,7 +14,7 @@ var classproject_1_1_b_i___footprint =
     [ "getRotation", "da/d96/classproject_1_1_b_i___footprint.html#a1220d662c6088cae7ec3f1a2427bc6c5", null ],
     [ "addToBoard", "da/d96/classproject_1_1_b_i___footprint.html#a1713f92d705116c3ecb235a91ae31fe3", null ],
     [ "removeFromBoard", "da/d96/classproject_1_1_b_i___footprint.html#a000d5c24004fbd2efafe1c48b51ccc7e", null ],
-    [ "serializeToXmlDomElement", "da/d96/classproject_1_1_b_i___footprint.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "da/d96/classproject_1_1_b_i___footprint.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "mapToScene", "da/d96/classproject_1_1_b_i___footprint.html#a56e275d18632ae7d863b45e405563e26", null ],
     [ "getAttributeValue", "da/d96/classproject_1_1_b_i___footprint.html#a675b0181eb14cfede73e0f078a6b2842", null ],
     [ "getType", "da/d96/classproject_1_1_b_i___footprint.html#ac102cee468f8c13860067ce854a9c603", null ],

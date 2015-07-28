@@ -9,7 +9,7 @@ var classlibrary_1_1_package =
     [ "setFootprintUuid", "d1/dcf/classlibrary_1_1_package.html#a10bb77c9e9cec5e0773da7b206ea8801", null ],
     [ "operator=", "d1/dcf/classlibrary_1_1_package.html#af9096e53f4f0b9f788dbbd34c32dad1e", null ],
     [ "parseDomTree", "d1/dcf/classlibrary_1_1_package.html#ad6c2bb438fe200b1224b2d8e05d3eca0", null ],
-    [ "serializeToXmlDomElement", "d1/dcf/classlibrary_1_1_package.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d1/dcf/classlibrary_1_1_package.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "checkAttributesValidity", "d1/dcf/classlibrary_1_1_package.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "mFootprintUuid", "d1/dcf/classlibrary_1_1_package.html#a29931360fa05d1adc070f0f4af9e1065", null ]
 ];

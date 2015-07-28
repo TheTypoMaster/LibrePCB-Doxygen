@@ -492,16 +492,15 @@
 </g>
 <!-- Node28 -->
 <g id="node60" class="node"><title>Node28</title>
-<a xlink:href="../../d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25" target="_top" xlink:title="project::AddGenCompDialog\l::on_treeCategories_currentItem\lChanged">
-<polygon fill="white" stroke="black" points="280.5,-819.5 280.5,-866.5 437.5,-866.5 437.5,-819.5 280.5,-819.5"/>
-<text text-anchor="start" x="288.5" y="-853.5" font-family="Helvetica,sans-Serif" font-size="10.00">project::AddGenCompDialog</text>
-<text text-anchor="start" x="288.5" y="-840.5" font-family="Helvetica,sans-Serif" font-size="10.00">::on_treeCategories_currentItem</text>
-<text text-anchor="middle" x="359" y="-827.5" font-family="Helvetica,sans-Serif" font-size="10.00">Changed</text>
+<a xlink:href="../../d1/d92/classproject_1_1_add_gen_comp_dialog.html#ab30df3fcf42614694068294b48161b00" target="_top" xlink:title="project::AddGenCompDialog\l::treeCategories_currentItemChanged">
+<polygon fill="white" stroke="black" points="269,-826 269,-860 449,-860 449,-826 269,-826"/>
+<text text-anchor="start" x="277" y="-847" font-family="Helvetica,sans-Serif" font-size="10.00">project::AddGenCompDialog</text>
+<text text-anchor="middle" x="359" y="-834" font-family="Helvetica,sans-Serif" font-size="10.00">::treeCategories_currentItemChanged</text>
 </a>
 </g>
 <!-- Node27&#45;&gt;Node28 -->
 <g id="edge64" class="edge"><title>Node27&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M228.893,-843C245.709,-843 263.408,-843 280.15,-843"/>
+<path fill="none" stroke="midnightblue" d="M228.858,-843C241.87,-843 255.411,-843 268.629,-843"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="228.553,-839.5 218.553,-843 228.553,-846.5 228.553,-839.5"/>
 </g>
 <!-- Node29 -->
@@ -514,34 +513,34 @@
 </g>
 <!-- Node28&#45;&gt;Node29 -->
 <g id="edge66" class="edge"><title>Node28&#45;&gt;Node29</title>
-<path fill="none" stroke="midnightblue" d="M447.766,-843C473.623,-843 501.519,-843 526.117,-843"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="447.59,-839.5 437.59,-843 447.59,-846.5 447.59,-839.5"/>
+<path fill="none" stroke="midnightblue" d="M459.569,-843C482.045,-843 505.42,-843 526.381,-843"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="459.317,-839.5 449.317,-843 459.317,-846.5 459.317,-839.5"/>
 </g>
 <!-- Node32 -->
 <g id="node68" class="node"><title>Node32</title>
 <a xlink:href="../../d6/d7e/class_favorite_projects_model.html#a365b771b224c9ec2d697046ef689aefb" target="_top" xlink:title="FavoriteProjectsModel\l::addFavoriteProject">
-<polygon fill="white" stroke="black" points="302,-755 302,-789 416,-789 416,-755 302,-755"/>
-<text text-anchor="start" x="310" y="-776" font-family="Helvetica,sans-Serif" font-size="10.00">FavoriteProjectsModel</text>
-<text text-anchor="middle" x="359" y="-763" font-family="Helvetica,sans-Serif" font-size="10.00">::addFavoriteProject</text>
+<polygon fill="white" stroke="black" points="302,-753 302,-787 416,-787 416,-753 302,-753"/>
+<text text-anchor="start" x="310" y="-774" font-family="Helvetica,sans-Serif" font-size="10.00">FavoriteProjectsModel</text>
+<text text-anchor="middle" x="359" y="-761" font-family="Helvetica,sans-Serif" font-size="10.00">::addFavoriteProject</text>
 </a>
 </g>
 <!-- Node31&#45;&gt;Node32 -->
 <g id="edge72" class="edge"><title>Node31&#45;&gt;Node32</title>
-<path fill="none" stroke="midnightblue" d="M215.173,-749.506C243.072,-753.869 275.109,-758.88 301.855,-763.063"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="215.52,-746.018 205.1,-747.93 214.439,-752.934 215.52,-746.018"/>
+<path fill="none" stroke="midnightblue" d="M215.173,-748.869C243.072,-752.968 275.109,-757.675 301.855,-761.604"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="215.502,-745.38 205.1,-747.389 214.485,-752.306 215.502,-745.38"/>
 </g>
 <!-- Node33 -->
 <g id="node70" class="node"><title>Node33</title>
 <a xlink:href="../../d6/d7e/class_favorite_projects_model.html#afb1218eb9a356dd6541f6144d883a573" target="_top" xlink:title="FavoriteProjectsModel\l::removeFavoriteProject">
-<polygon fill="white" stroke="black" points="298.5,-703 298.5,-737 419.5,-737 419.5,-703 298.5,-703"/>
-<text text-anchor="start" x="306.5" y="-724" font-family="Helvetica,sans-Serif" font-size="10.00">FavoriteProjectsModel</text>
-<text text-anchor="middle" x="359" y="-711" font-family="Helvetica,sans-Serif" font-size="10.00">::removeFavoriteProject</text>
+<polygon fill="white" stroke="black" points="298.5,-701 298.5,-735 419.5,-735 419.5,-701 298.5,-701"/>
+<text text-anchor="start" x="306.5" y="-722" font-family="Helvetica,sans-Serif" font-size="10.00">FavoriteProjectsModel</text>
+<text text-anchor="middle" x="359" y="-709" font-family="Helvetica,sans-Serif" font-size="10.00">::removeFavoriteProject</text>
 </a>
 </g>
 <!-- Node31&#45;&gt;Node33 -->
 <g id="edge74" class="edge"><title>Node31&#45;&gt;Node33</title>
-<path fill="none" stroke="midnightblue" d="M215.108,-732.957C241.749,-730.558 272.172,-727.819 298.16,-725.478"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="214.745,-729.475 205.1,-733.858 215.373,-736.447 214.745,-729.475"/>
+<path fill="none" stroke="midnightblue" d="M215.108,-732.321C241.749,-729.67 272.172,-726.642 298.16,-724.055"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="214.704,-728.844 205.1,-733.317 215.397,-735.809 214.704,-728.844"/>
 </g>
 <!-- Node36 -->
 <g id="node76" class="node"><title>Node36</title>

@@ -60,7 +60,6 @@ var searchData=
   ['on_5frecentprojectslistview_5fentered',['on_recentProjectsListView_entered',['../d1/def/class_control_panel.html#aa672ff8a97e321867ca8e6dcb6fba766',1,'ControlPanel']]],
   ['on_5ftablewidget_5fitemchanged',['on_tableWidget_itemChanged',['../d3/d8f/classproject_1_1_edit_net_classes_dialog.html#a1ba78d7686bdfdaebd95aeca9447bd7c',1,'project::EditNetClassesDialog']]],
   ['on_5ftblgencompinstattributes_5fcurrentcellchanged',['on_tblGenCompInstAttributes_currentCellChanged',['../d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a66bcae3418c36d116472548236be0183',1,'project::SymbolInstancePropertiesDialog']]],
-  ['on_5ftreecategories_5fcurrentitemchanged',['on_treeCategories_currentItemChanged',['../d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25',1,'project::AddGenCompDialog']]],
   ['on_5ftreewidget_5fitemselectionchanged',['on_treeWidget_itemSelectionChanged',['../d2/dc4/classproject_1_1_erc_msg_dock.html#aa0e4215884855558cca0507e3f2750b7',1,'project::ErcMsgDock']]],
   ['openproject',['openProject',['../d1/def/class_control_panel.html#a00fbb51d24ad11e028629d3dcb376e94',1,'ControlPanel']]],
   ['operator_20bool',['operator bool',['../d2/d39/class_angle.html#aa385aa18f5e42db5a415c25a90f4193d',1,'Angle']]],

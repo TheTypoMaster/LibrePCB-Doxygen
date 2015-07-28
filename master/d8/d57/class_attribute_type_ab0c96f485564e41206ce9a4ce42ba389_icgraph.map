@@ -1,9 +1,14 @@
 <map id="getName" name="getName">
-<area shape="rect" id="node3" href="$d8/d57/class_attribute_type.html#a4d142b5ea99244e929c3cbd14365e1ba" title="fromString" alt="" coords="216,161,299,191"/>
-<area shape="rect" id="node15" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#ac495f51c75d32d809bd19d4b2f9afc1b" title="project::SymbolInstanceProperties\lDialog::SymbolInstancePropertiesDialog" alt="" coords="129,214,385,261"/>
+<area shape="rect" id="node3" href="$d8/d57/class_attribute_type.html#a4d142b5ea99244e929c3cbd14365e1ba" title="fromString" alt="" coords="216,201,299,231"/>
+<area shape="rect" id="node15" href="$d5/d40/classlibrary_1_1_library_element_attribute.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="157,370,357,417"/>
+<area shape="rect" id="node19" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="136,439,379,486"/>
+<area shape="rect" id="node25" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#ac495f51c75d32d809bd19d4b2f9afc1b" title="project::SymbolInstanceProperties\lDialog::SymbolInstancePropertiesDialog" alt="" coords="129,509,385,555"/>
 <area shape="rect" id="node5" href="$d5/d40/classlibrary_1_1_library_element_attribute.html#ac4e221bdc91d964218f3b2c1ab3fc826" title="library::LibraryElementAttribute\l::LibraryElementAttribute" alt="" coords="455,5,655,51"/>
 <area shape="rect" id="node7" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#a4a02950902e2cf9b6b972fca7107a86d" title="project::GenCompAttribute\lInstance::GenCompAttributeInstance" alt="" coords="436,74,673,121"/>
 <area shape="rect" id="node9" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#af02ee3b81ee1813e30c86bd9af7c3728" title="project::SymbolInstanceProperties\lDialog::on_cbxAttrType_currentIndex\lChanged" alt="" coords="436,144,673,208"/>
 <area shape="rect" id="node11" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a92e7065644b40063109564ff3463a038" title="project::SymbolInstanceProperties\lDialog::on_btnAttrApply_clicked" alt="" coords="444,231,665,278"/>
 <area shape="rect" id="node13" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a9a515c48bc6c1a086b0bb0bfb531fe1c" title="project::SymbolInstanceProperties\lDialog::on_btnAttrAdd_clicked" alt="" coords="444,301,665,347"/>
+<area shape="rect" id="node17" href="$d7/d7c/classlibrary_1_1_generic_component.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="459,370,651,417"/>
+<area shape="rect" id="node21" href="$de/d67/classproject_1_1_gen_comp_instance.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="459,439,651,486"/>
+<area shape="rect" id="node23" href="$d1/d03/classproject_1_1_circuit.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="723,439,885,486"/>
 </map>

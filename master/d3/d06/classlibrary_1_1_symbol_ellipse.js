@@ -20,7 +20,7 @@ var classlibrary_1_1_symbol_ellipse =
     [ "setRadiusX", "d3/d06/classlibrary_1_1_symbol_ellipse.html#a8932445aa8b5c67c0263e714fe4a1796", null ],
     [ "setRadiusY", "d3/d06/classlibrary_1_1_symbol_ellipse.html#a454384f91e443b258f34b93ab65e6b7e", null ],
     [ "setRotation", "d3/d06/classlibrary_1_1_symbol_ellipse.html#ab3dec6c106a391608e2795aafd907546", null ],
-    [ "serializeToXmlDomElement", "d3/d06/classlibrary_1_1_symbol_ellipse.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d3/d06/classlibrary_1_1_symbol_ellipse.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "operator=", "d3/d06/classlibrary_1_1_symbol_ellipse.html#a87eefdf2bf15023e07c73b7a505c07a0", null ],
     [ "checkAttributesValidity", "d3/d06/classlibrary_1_1_symbol_ellipse.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "mLayerId", "d3/d06/classlibrary_1_1_symbol_ellipse.html#ac25683e78ab19e80ff235ebfcfa41861", null ],

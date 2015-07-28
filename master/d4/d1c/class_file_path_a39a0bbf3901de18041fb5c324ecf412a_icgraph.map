@@ -35,10 +35,10 @@
 <area shape="rect" id="node40" href="$d9/d57/class_file_lock.html#a3117dd065c23b2ca26a0fa17cf78f170" title="The destructor (this may also unlock the locked file) " alt="" coords="416,667,552,696"/>
 <area shape="rect" id="node52" href="$de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. " alt="" coords="409,941,559,971"/>
 <area shape="rect" id="node54" href="$d1/def/class_control_panel.html#a65617210fcf4b06dcce361e933bbb994" title="ControlPanel::on_actionRescan\lLibrary_triggered" alt="" coords="699,933,904,979"/>
-<area shape="rect" id="node60" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25" title="project::AddGenCompDialog\l::on_treeCategories_currentItem\lChanged" alt="" coords="380,1063,588,1127"/>
+<area shape="rect" id="node60" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ab30df3fcf42614694068294b48161b00" title="project::AddGenCompDialog\l::treeCategories_currentItemChanged" alt="" coords="364,1071,604,1118"/>
 <area shape="rect" id="node62" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="project::AddGenCompDialog\l::AddGenCompDialog" alt="" coords="708,1071,895,1118"/>
-<area shape="rect" id="node68" href="$d6/d7e/class_favorite_projects_model.html#a365b771b224c9ec2d697046ef689aefb" title="FavoriteProjectsModel\l::addFavoriteProject" alt="" coords="408,1166,560,1213"/>
-<area shape="rect" id="node70" href="$d6/d7e/class_favorite_projects_model.html#afb1218eb9a356dd6541f6144d883a573" title="FavoriteProjectsModel\l::removeFavoriteProject" alt="" coords="404,1235,564,1282"/>
+<area shape="rect" id="node68" href="$d6/d7e/class_favorite_projects_model.html#a365b771b224c9ec2d697046ef689aefb" title="FavoriteProjectsModel\l::addFavoriteProject" alt="" coords="408,1169,560,1215"/>
+<area shape="rect" id="node70" href="$d6/d7e/class_favorite_projects_model.html#afb1218eb9a356dd6541f6144d883a573" title="FavoriteProjectsModel\l::removeFavoriteProject" alt="" coords="404,1238,564,1285"/>
 <area shape="rect" id="node76" href="$db/d76/class_project_tree_model.html#a0d62b2fa860a10b1e59f7b93aa39aa5e" title="ProjectTreeModel::data" alt="" coords="405,1336,563,1365"/>
 <area shape="rect" id="node87" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a95067243b72a23863ec07c821797455c" title="WSI_AppDefaultMeasurement\lUnits::apply" alt="" coords="385,1597,583,1643"/>
 <area shape="rect" id="node89" href="$d8/dcb/class_w_s_i___appearance.html#a95067243b72a23863ec07c821797455c" title="WSI_Appearance::apply" alt="" coords="403,1667,565,1696"/>

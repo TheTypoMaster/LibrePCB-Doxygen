@@ -18,7 +18,7 @@ var classlibrary_1_1_symbol_polygon =
     [ "setStartPos", "d1/d7f/classlibrary_1_1_symbol_polygon.html#abdc391a5635db9170523fbb4e43a9bdd", null ],
     [ "clearSegments", "d1/d7f/classlibrary_1_1_symbol_polygon.html#a5f32974f7cb7aa3ca4026ea764981d77", null ],
     [ "appendSegment", "d1/d7f/classlibrary_1_1_symbol_polygon.html#abc5b5751d7f1b5cedb6086fe311bbb55", null ],
-    [ "serializeToXmlDomElement", "d1/d7f/classlibrary_1_1_symbol_polygon.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d1/d7f/classlibrary_1_1_symbol_polygon.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "operator=", "d1/d7f/classlibrary_1_1_symbol_polygon.html#a8de99e6f2e69272ef26c05b9ed8b18a0", null ],
     [ "checkAttributesValidity", "d1/d7f/classlibrary_1_1_symbol_polygon.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "mLayerId", "d1/d7f/classlibrary_1_1_symbol_polygon.html#ac25683e78ab19e80ff235ebfcfa41861", null ],

@@ -9,7 +9,7 @@
 <area shape="rect" id="node25" href="$dd/dd5/class_graphics_view.html#a0b0ff363db364ea5ce364fe2e27ef1aa" title="GraphicsView::zoomAll" alt="" coords="201,395,359,424"/>
 <area shape="rect" id="node29" href="$d3/dd6/classproject_1_1_project_editor.html#a58d9a85f9ad7a9ae10eccf08589d6f62" title="Open the board editor window and bring it to the front. " alt="" coords="208,447,352,494"/>
 <area shape="rect" id="node31" href="$d3/dd6/classproject_1_1_project_editor.html#acb84e06926743dcb0b0aeee7a102931a" title="Execute the netclasses editor dialog (blocking!) " alt="" coords="181,517,379,563"/>
-<area shape="rect" id="node13" href="$d2/d05/classproject_1_1_project.html#ace118ad4801f373b6e0691051f917247" title="Save the whole project to the harddisc. " alt="" coords="445,173,592,203"/>
+<area shape="rect" id="node13" href="$d2/d05/classproject_1_1_project.html#a505580327a442b26f4ff537e68201ed1" title="Save the whole project to the harddisc. " alt="" coords="445,173,592,203"/>
 <area shape="rect" id="node15" href="$d4/d90/class_undo_stack.html#ac6d446d586f7bd5b310d1f19c9ce5923" title="Set the current state as the clean state (see also isClean()) " alt="" coords="445,227,592,256"/>
 <area shape="rect" id="node19" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="440,280,597,309"/>
 <area shape="rect" id="node17" href="$d4/d90/class_undo_stack.html#ac94ae4017f4a9133369c65c0fdb6f4c7" title="Check if the stack is in a clean state (the state of the last setClean()) " alt="" coords="651,227,789,256"/>

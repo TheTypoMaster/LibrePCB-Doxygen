@@ -19,7 +19,7 @@ var classproject_1_1_s_i___symbol =
     [ "setAngle", "de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597", null ],
     [ "addToSchematic", "de/d50/classproject_1_1_s_i___symbol.html#a43e5b1bac02cf98f643843bdd6fcdfb9", null ],
     [ "removeFromSchematic", "de/d50/classproject_1_1_s_i___symbol.html#aaaa53153ea6aca5929ea0972d83ef836", null ],
-    [ "serializeToXmlDomElement", "de/d50/classproject_1_1_s_i___symbol.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "de/d50/classproject_1_1_s_i___symbol.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "mapToScene", "de/d50/classproject_1_1_s_i___symbol.html#a56e275d18632ae7d863b45e405563e26", null ],
     [ "getAttributeValue", "de/d50/classproject_1_1_s_i___symbol.html#a675b0181eb14cfede73e0f078a6b2842", null ],
     [ "getType", "de/d50/classproject_1_1_s_i___symbol.html#ac102cee468f8c13860067ce854a9c603", null ],

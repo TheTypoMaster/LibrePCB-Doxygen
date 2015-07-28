@@ -1,0 +1,22 @@
+<map id="serializeToXmlDomElement" name="serializeToXmlDomElement">
+<area shape="rect" id="node3" href="$d8/dff/classlibrary_1_1_library_element.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="243,230,435,277"/>
+<area shape="rect" id="node11" href="$d1/d1f/class_xml_dom_element.html#af2ee1b74300d31ca889b32ddd96d51ac" title="Append a child to the end of the child list of this element. " alt="" coords="743,411,943,440"/>
+<area shape="rect" id="node13" href="$d1/d1f/class_xml_dom_element.html#a22b3ed6c99338244f5855c446f66d702" title="Create a new text child and append it to the list of childs. " alt="" coords="744,5,941,51"/>
+<area shape="rect" id="node20" href="$d5/d40/classlibrary_1_1_library_element_attribute.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="239,313,439,359"/>
+<area shape="rect" id="node33" href="$d1/d1f/class_xml_dom_element.html#a7dbc10bec6de11bf7a444b8bf048f296" title="Set or add an attribute to this element. " alt="" coords="745,689,940,719"/>
+<area shape="rect" id="node35" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="243,651,435,698"/>
+<area shape="rect" id="node41" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="243,491,435,538"/>
+<area shape="rect" id="node5" href="$dd/d8a/classlibrary_1_1_library_base_element.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="495,115,687,162"/>
+<area shape="rect" id="node7" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="752,74,933,121"/>
+<area shape="rect" id="node15" href="$de/d34/class_version.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the version as a string in the format &quot;1.2.3&quot;. " alt="" coords="792,144,893,173"/>
+<area shape="rect" id="node9" href="$de/d34/class_version.html#a0a886a9edf5bf682f5245159661bfc94" title="Check if the object represents a valid version number. " alt="" coords="993,83,1105,112"/>
+<area shape="rect" id="node22" href="$d5/d40/classlibrary_1_1_library_element_attribute.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="491,185,691,231"/>
+<area shape="rect" id="node28" href="$d8/d57/class_attribute_type.html#ab0c96f485564e41206ce9a4ce42ba389" title="AttributeType::getName" alt="" coords="511,305,671,335"/>
+<area shape="rect" id="node30" href="$d7/d08/class_attribute_unit.html#ab0c96f485564e41206ce9a4ce42ba389" title="AttributeUnit::getName" alt="" coords="513,359,668,388"/>
+<area shape="rect" id="node24" href="$d8/d57/class_attribute_type.html#ad7c946f08bc594d69ad934bc75d2160b" title="AttributeType::getAvailable\lUnits" alt="" coords="753,250,932,297"/>
+<area shape="rect" id="node26" href="$d8/d57/class_attribute_type.html#a6b17d4da262831ddc8c11cbaa191560b" title="AttributeType::isValueValid" alt="" coords="753,197,932,227"/>
+<area shape="rect" id="node37" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="509,651,672,698"/>
+<area shape="rect" id="node39" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#aedd25a99ede60695fe5d9c62ac14c685" title="library::GenCompSignal\l::signalRoleToString" alt="" coords="511,721,671,767"/>
+<area shape="rect" id="node43" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="501,462,680,509"/>
+<area shape="rect" id="node46" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="489,582,692,629"/>
+</map>

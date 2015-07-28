@@ -17,7 +17,7 @@ var classlibrary_1_1_symbol_pin =
     [ "setAngle", "d0/dfd/classlibrary_1_1_symbol_pin.html#ad2c89c0ca3cf75c26f1a17027643245f", null ],
     [ "setName", "d0/dfd/classlibrary_1_1_symbol_pin.html#a1abac19268886b98c8529dccc6256d32", null ],
     [ "setDescription", "d0/dfd/classlibrary_1_1_symbol_pin.html#a531d62377f131f5715afdb3f43994981", null ],
-    [ "serializeToXmlDomElement", "d0/dfd/classlibrary_1_1_symbol_pin.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d0/dfd/classlibrary_1_1_symbol_pin.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "operator=", "d0/dfd/classlibrary_1_1_symbol_pin.html#afb166ecc2c8515ea6e6824a0d8727e75", null ],
     [ "checkAttributesValidity", "d0/dfd/classlibrary_1_1_symbol_pin.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "mUuid", "d0/dfd/classlibrary_1_1_symbol_pin.html#a2c2bc42e869c33cbbfe3393378a44ef8", null ],

@@ -17,7 +17,7 @@ var classproject_1_1_component_instance =
     [ "setRotation", "d0/d7d/classproject_1_1_component_instance.html#abe3686cf5581829dce0c2a619207915f", null ],
     [ "addToBoard", "d0/d7d/classproject_1_1_component_instance.html#a1713f92d705116c3ecb235a91ae31fe3", null ],
     [ "removeFromBoard", "d0/d7d/classproject_1_1_component_instance.html#a000d5c24004fbd2efafe1c48b51ccc7e", null ],
-    [ "serializeToXmlDomElement", "d0/d7d/classproject_1_1_component_instance.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d0/d7d/classproject_1_1_component_instance.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "getAttributeValue", "d0/d7d/classproject_1_1_component_instance.html#a675b0181eb14cfede73e0f078a6b2842", null ],
     [ "attributesChanged", "d0/d7d/classproject_1_1_component_instance.html#a6f15290c411b59a902b38d07962c5449", null ],
     [ "moved", "d0/d7d/classproject_1_1_component_instance.html#aa177beb65528e29cd5aaa0e2ccaad3b7", null ],

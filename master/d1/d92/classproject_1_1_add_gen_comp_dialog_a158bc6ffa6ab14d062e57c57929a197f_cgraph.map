@@ -1,36 +1,36 @@
 <map id="AddGenCompDialog" name="AddGenCompDialog">
-<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a6054e079a2e370148fce27b138686ba3" title="Get the ProjectSettings object which contains all project settings. " alt="" coords="1120,88,1304,117"/>
-<area shape="rect" id="node5" href="$d7/d04/classproject_1_1_project_settings.html#a4e1f38901d0cab44a6bdae922a877b22" title="project::ProjectSettings\l::getLocaleOrder" alt="" coords="1133,875,1291,922"/>
-<area shape="rect" id="node7" href="$d5/d56/class_workspace.html#a0aaab7f8db4623adc7227460a859db51" title="Get the workspace library. " alt="" coords="1136,35,1288,64"/>
-<area shape="rect" id="node9" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25" title="on_treeCategories_current\lItemChanged" alt="" coords="196,190,369,237"/>
-<area shape="rect" id="node11" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="setSelectedCategory" alt="" coords="427,313,571,343"/>
-<area shape="rect" id="node83" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="420,199,577,228"/>
-<area shape="rect" id="node13" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#abf6af5dc67073d848d5cf561412d4b27" title="setSelectedGenComp" alt="" coords="644,539,793,568"/>
-<area shape="rect" id="node55" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a01f0309d43de518f4e94c724d22f4502" title="library::LibraryBaseElement\l::getName" alt="" coords="869,938,1051,985"/>
-<area shape="rect" id="node74" href="$de/d02/classlibrary_1_1_library.html#a1a2a776b3860f2889bf1a4800c9ea396" title="library::Library::getGeneric\lComponentsByCategory" alt="" coords="632,146,805,193"/>
-<area shape="rect" id="node76" href="$de/d02/classlibrary_1_1_library.html#acb98813856285edc2af1aa57be55e8d3" title="library::Library::getGeneric\lComponents" alt="" coords="632,266,805,313"/>
-<area shape="rect" id="node79" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" title="library::LibraryBaseElement\l::getXmlFilepath" alt="" coords="628,335,809,382"/>
-<area shape="rect" id="node81" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="665,405,772,435"/>
-<area shape="rect" id="node15" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#adfcb4e9c07721bf39ddcb34d2e39e61c" title="setSelectedSymbVar" alt="" coords="888,317,1032,347"/>
-<area shape="rect" id="node19" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVar\l::getUuid" alt="" coords="1123,701,1301,747"/>
-<area shape="rect" id="node53" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" title="library::LibraryBaseElement\l::getUuid" alt="" coords="869,767,1051,814"/>
-<area shape="rect" id="node58" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a0e5b7dc7eca3c6468aa85375bf2c3dde" title="library::LibraryBaseElement\l::getDescription" alt="" coords="869,629,1051,675"/>
-<area shape="rect" id="node61" href="$d7/d7c/classlibrary_1_1_generic_component.html#abc945674e34471b63d0db571ba1d88b1" title="library::GenericComponent\l::getSymbolVariants" alt="" coords="872,370,1048,417"/>
-<area shape="rect" id="node63" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a01f0309d43de518f4e94c724d22f4502" title="library::GenCompSymbVar\l::getName" alt="" coords="871,559,1049,606"/>
-<area shape="rect" id="node66" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a8e3b6104c3fd62f36ce94537b91d4be7" title="library::GenCompSymbVar\l::isDefault" alt="" coords="871,439,1049,486"/>
-<area shape="rect" id="node69" href="$d7/d7c/classlibrary_1_1_generic_component.html#ae3f730c7ba15a0ece18176677c262367" title="library::GenericComponent\l::getDefaultSymbolVariantUuid" alt="" coords="859,698,1061,745"/>
-<area shape="rect" id="node21" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a07748d2329ba6f3667d423c7662dffe1" title="library::GenCompSymbVar\l::getNorm" alt="" coords="1123,631,1301,678"/>
-<area shape="rect" id="node23" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a0e5b7dc7eca3c6468aa85375bf2c3dde" title="library::GenCompSymbVar\l::getDescription" alt="" coords="1123,509,1301,555"/>
-<area shape="rect" id="node27" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a95be340ed5134b5b4fc05ab47e4c9c34" title="library::GenCompSymbVar\l::getItems" alt="" coords="1123,247,1301,294"/>
-<area shape="rect" id="node30" href="$de/d02/classlibrary_1_1_library.html#ab9d3322f7c9a51af677857c032f30bd7" title="library::Library::getSymbols" alt="" coords="1121,317,1303,347"/>
-<area shape="rect" id="node32" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#ae244026d0acdc7d950b6752f4ad00e4e" title="library::GenCompSymbVarItem\l::getSymbolUuid" alt="" coords="1111,370,1313,417"/>
-<area shape="rect" id="node34" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVarItem\l::getUuid" alt="" coords="1111,439,1313,486"/>
-<area shape="rect" id="node36" href="$d0/d69/class_point.html#a3da9ee2bc3910d0f0c43c30798906fdd" title="Point::fromPx" alt="" coords="1161,195,1263,224"/>
-<area shape="rect" id="node45" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="1145,141,1279,171"/>
-<area shape="rect" id="node49" href="$dc/dcc/class_graphics_scene.html#ad4900f3543f03cac6482cdbe7368291f" title="GraphicsScene::addItem" alt="" coords="1129,579,1295,608"/>
-<area shape="rect" id="node25" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" title="Get the string of a specific locale from a QMap. " alt="" coords="1364,786,1545,833"/>
-<area shape="rect" id="node38" href="$df/df0/class_length.html#a5aef66a62c626dea314f1a1e1716534b" title="Set the length in pixels (from QGraphics* objects) " alt="" coords="1384,248,1525,277"/>
-<area shape="rect" id="node42" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="1393,195,1516,224"/>
-<area shape="rect" id="node40" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="1596,248,1780,277"/>
-<area shape="rect" id="node47" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="1407,117,1503,147"/>
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a6054e079a2e370148fce27b138686ba3" title="Get the ProjectSettings object which contains all project settings. " alt="" coords="1125,88,1309,117"/>
+<area shape="rect" id="node5" href="$d7/d04/classproject_1_1_project_settings.html#a4e1f38901d0cab44a6bdae922a877b22" title="project::ProjectSettings\l::getLocaleOrder" alt="" coords="1139,875,1296,922"/>
+<area shape="rect" id="node7" href="$d5/d56/class_workspace.html#a0aaab7f8db4623adc7227460a859db51" title="Get the workspace library. " alt="" coords="1141,35,1293,64"/>
+<area shape="rect" id="node9" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ab30df3fcf42614694068294b48161b00" title="treeCategories_currentItem\lChanged" alt="" coords="196,190,375,237"/>
+<area shape="rect" id="node11" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="setSelectedCategory" alt="" coords="432,313,576,343"/>
+<area shape="rect" id="node83" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="425,199,583,228"/>
+<area shape="rect" id="node13" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#abf6af5dc67073d848d5cf561412d4b27" title="setSelectedGenComp" alt="" coords="649,539,799,568"/>
+<area shape="rect" id="node55" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a01f0309d43de518f4e94c724d22f4502" title="library::LibraryBaseElement\l::getName" alt="" coords="875,938,1056,985"/>
+<area shape="rect" id="node74" href="$de/d02/classlibrary_1_1_library.html#a1a2a776b3860f2889bf1a4800c9ea396" title="library::Library::getGeneric\lComponentsByCategory" alt="" coords="637,146,811,193"/>
+<area shape="rect" id="node76" href="$de/d02/classlibrary_1_1_library.html#acb98813856285edc2af1aa57be55e8d3" title="library::Library::getGeneric\lComponents" alt="" coords="637,266,811,313"/>
+<area shape="rect" id="node79" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" title="library::LibraryBaseElement\l::getXmlFilepath" alt="" coords="633,335,815,382"/>
+<area shape="rect" id="node81" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="671,405,777,435"/>
+<area shape="rect" id="node15" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#adfcb4e9c07721bf39ddcb34d2e39e61c" title="setSelectedSymbVar" alt="" coords="893,317,1037,347"/>
+<area shape="rect" id="node19" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVar\l::getUuid" alt="" coords="1128,701,1307,747"/>
+<area shape="rect" id="node53" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" title="library::LibraryBaseElement\l::getUuid" alt="" coords="875,767,1056,814"/>
+<area shape="rect" id="node58" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a0e5b7dc7eca3c6468aa85375bf2c3dde" title="library::LibraryBaseElement\l::getDescription" alt="" coords="875,629,1056,675"/>
+<area shape="rect" id="node61" href="$d7/d7c/classlibrary_1_1_generic_component.html#abc945674e34471b63d0db571ba1d88b1" title="library::GenericComponent\l::getSymbolVariants" alt="" coords="877,370,1053,417"/>
+<area shape="rect" id="node63" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a01f0309d43de518f4e94c724d22f4502" title="library::GenCompSymbVar\l::getName" alt="" coords="876,559,1055,606"/>
+<area shape="rect" id="node66" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a8e3b6104c3fd62f36ce94537b91d4be7" title="library::GenCompSymbVar\l::isDefault" alt="" coords="876,439,1055,486"/>
+<area shape="rect" id="node69" href="$d7/d7c/classlibrary_1_1_generic_component.html#ae3f730c7ba15a0ece18176677c262367" title="library::GenericComponent\l::getDefaultSymbolVariantUuid" alt="" coords="864,698,1067,745"/>
+<area shape="rect" id="node21" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a07748d2329ba6f3667d423c7662dffe1" title="library::GenCompSymbVar\l::getNorm" alt="" coords="1128,631,1307,678"/>
+<area shape="rect" id="node23" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a0e5b7dc7eca3c6468aa85375bf2c3dde" title="library::GenCompSymbVar\l::getDescription" alt="" coords="1128,509,1307,555"/>
+<area shape="rect" id="node27" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a95be340ed5134b5b4fc05ab47e4c9c34" title="library::GenCompSymbVar\l::getItems" alt="" coords="1128,247,1307,294"/>
+<area shape="rect" id="node30" href="$de/d02/classlibrary_1_1_library.html#ab9d3322f7c9a51af677857c032f30bd7" title="library::Library::getSymbols" alt="" coords="1127,317,1308,347"/>
+<area shape="rect" id="node32" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#ae244026d0acdc7d950b6752f4ad00e4e" title="library::GenCompSymbVarItem\l::getSymbolUuid" alt="" coords="1116,370,1319,417"/>
+<area shape="rect" id="node34" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVarItem\l::getUuid" alt="" coords="1116,439,1319,486"/>
+<area shape="rect" id="node36" href="$d0/d69/class_point.html#a3da9ee2bc3910d0f0c43c30798906fdd" title="Point::fromPx" alt="" coords="1167,195,1268,224"/>
+<area shape="rect" id="node45" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="1151,141,1284,171"/>
+<area shape="rect" id="node49" href="$dc/dcc/class_graphics_scene.html#ad4900f3543f03cac6482cdbe7368291f" title="GraphicsScene::addItem" alt="" coords="1135,579,1300,608"/>
+<area shape="rect" id="node25" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" title="Get the string of a specific locale from a QMap. " alt="" coords="1369,786,1551,833"/>
+<area shape="rect" id="node38" href="$df/df0/class_length.html#a5aef66a62c626dea314f1a1e1716534b" title="Set the length in pixels (from QGraphics* objects) " alt="" coords="1389,248,1531,277"/>
+<area shape="rect" id="node42" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="1399,195,1521,224"/>
+<area shape="rect" id="node40" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="1601,248,1785,277"/>
+<area shape="rect" id="node47" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="1412,117,1508,147"/>
 </map>

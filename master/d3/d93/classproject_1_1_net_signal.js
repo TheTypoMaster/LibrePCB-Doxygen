@@ -22,7 +22,7 @@ var classproject_1_1_net_signal =
     [ "unregisterSchematicNetLabel", "d3/d93/classproject_1_1_net_signal.html#a4354ea3d036a0706e92bdd96c8882750", null ],
     [ "addToCircuit", "d3/d93/classproject_1_1_net_signal.html#a747ff70967bb976c335f484090cfa69a", null ],
     [ "removeFromCircuit", "d3/d93/classproject_1_1_net_signal.html#a721f4134fc15050bf1069070bef6794e", null ],
-    [ "serializeToXmlDomElement", "d3/d93/classproject_1_1_net_signal.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d3/d93/classproject_1_1_net_signal.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "operator=", "d3/d93/classproject_1_1_net_signal.html#abbc73ad0a6e72461e201a4b197acac9e", null ],
     [ "checkAttributesValidity", "d3/d93/classproject_1_1_net_signal.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "updateErcMessages", "d3/d93/classproject_1_1_net_signal.html#a56ae9f28c406912ae4a5a893087a72ca", null ],

@@ -202,8 +202,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ac3a69ab343e36eede637f8d52da0ec66"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3537c590a35f8d5977466bc68e81ef3a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d30/classproject_1_1_project_library.html#a3537c590a35f8d5977466bc68e81ef3a">removeComp</a> (const <a class="el" href="../../d3/dad/classlibrary_1_1_component.html">library::Component</a> &amp;c)  throw (Exception)</td></tr>
 <tr class="separator:a3537c590a35f8d5977466bc68e81ef3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0776eb8c171dfda592a8314a410c63f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d30/classproject_1_1_project_library.html#aa0776eb8c171dfda592a8314a410c63f">save</a> (int version, bool toOriginal, QStringList &amp;errors) noexcept</td></tr>
-<tr class="separator:aa0776eb8c171dfda592a8314a410c63f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62a4a4edcab9d7ac3eaf453e14c10447"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d30/classproject_1_1_project_library.html#a62a4a4edcab9d7ac3eaf453e14c10447">save</a> (bool toOriginal, QStringList &amp;errors) noexcept</td></tr>
+<tr class="separator:a62a4a4edcab9d7ac3eaf453e14c10447"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
@@ -222,9 +222,9 @@ Private Member Functions</h2></td></tr>
 <tr class="memitem:a196929454cd3a3090cd8e5e0cb202e28"><td class="memTemplParams" colspan="2">template&lt;typename ElementType &gt; </td></tr>
 <tr class="memitem:a196929454cd3a3090cd8e5e0cb202e28"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d30/classproject_1_1_project_library.html#a196929454cd3a3090cd8e5e0cb202e28">removeElement</a> (const ElementType &amp;element, QHash&lt; QUuid, const ElementType * &gt; &amp;elementList, QHash&lt; QUuid, const ElementType * &gt; &amp;removedElementsList)  throw (Exception)</td></tr>
 <tr class="separator:a196929454cd3a3090cd8e5e0cb202e28"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a00513ba22368a54960a812c22b60ec54"><td class="memTemplParams" colspan="2">template&lt;typename ElementType &gt; </td></tr>
-<tr class="memitem:a00513ba22368a54960a812c22b60ec54"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d30/classproject_1_1_project_library.html#a00513ba22368a54960a812c22b60ec54">saveElements</a> (int version, bool toOriginal, QStringList &amp;errors, const <a class="el" href="../../d4/d1c/class_file_path.html">FilePath</a> &amp;parentDir, QHash&lt; QUuid, const ElementType * &gt; &amp;elementList, QHash&lt; QUuid, const ElementType * &gt; &amp;removedElementsList) noexcept</td></tr>
-<tr class="separator:a00513ba22368a54960a812c22b60ec54"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9bdda15058bd2dd5019d818bbcba7013"><td class="memTemplParams" colspan="2">template&lt;typename ElementType &gt; </td></tr>
+<tr class="memitem:a9bdda15058bd2dd5019d818bbcba7013"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d30/classproject_1_1_project_library.html#a9bdda15058bd2dd5019d818bbcba7013">saveElements</a> (bool toOriginal, QStringList &amp;errors, const <a class="el" href="../../d4/d1c/class_file_path.html">FilePath</a> &amp;parentDir, QHash&lt; QUuid, const ElementType * &gt; &amp;elementList, QHash&lt; QUuid, const ElementType * &gt; &amp;removedElementsList) noexcept</td></tr>
+<tr class="separator:a9bdda15058bd2dd5019d818bbcba7013"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a667bb57d27cca68430c11ea655c1df31"><td class="memTemplParams" colspan="2">template&lt;typename ElementType &gt; </td></tr>
 <tr class="memitem:a667bb57d27cca68430c11ea655c1df31"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d30/classproject_1_1_project_library.html#a667bb57d27cca68430c11ea655c1df31">cleanupRemovedElements</a> (QHash&lt; QUuid, const ElementType * &gt; &amp;removedElementsList) noexcept</td></tr>
 <tr class="separator:a667bb57d27cca68430c11ea655c1df31"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -1102,7 +1102,7 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="aa0776eb8c171dfda592a8314a410c63f"></a>
+<a class="anchor" id="a62a4a4edcab9d7ac3eaf453e14c10447"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -1112,12 +1112,6 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool save </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>version</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
           <td class="paramtype">bool&#160;</td>
           <td class="paramname"><em>toOriginal</em>, </td>
         </tr>
@@ -1320,7 +1314,7 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a00513ba22368a54960a812c22b60ec54"></a>
+<a class="anchor" id="a9bdda15058bd2dd5019d818bbcba7013"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -1330,12 +1324,6 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool saveElements </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>version</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
           <td class="paramtype">bool&#160;</td>
           <td class="paramname"><em>toOriginal</em>, </td>
         </tr>
@@ -1381,7 +1369,7 @@ Private Attributes</h2></td></tr>
 <div id="dynsection-6-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-6-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d9/d30/classproject_1_1_project_library_a00513ba22368a54960a812c22b60ec54_cgraph.svg" width="326" height="40"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d9/d30/classproject_1_1_project_library_a9bdda15058bd2dd5019d818bbcba7013_cgraph.svg" width="326" height="40"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </p>
@@ -1747,7 +1735,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/d2c/namespaceproject.html">project</a></li><li class="navelem"><a class="el" href="../../d9/d30/classproject_1_1_project_library.html">ProjectLibrary</a></li>
-    <li class="footer">Generated on Mon Jul 27 2015 22:03:29 for LibrePCB Developers Documentation by
+    <li class="footer">Generated on Tue Jul 28 2015 20:41:26 for LibrePCB Developers Documentation by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

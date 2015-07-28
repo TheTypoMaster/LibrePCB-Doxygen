@@ -1,0 +1,7 @@
+<map id="serializeToXmlDomElement" name="serializeToXmlDomElement">
+<area shape="rect" id="node3" href="$d8/dbf/class_grid_properties.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="239,5,393,35"/>
+<area shape="rect" id="node5" href="$d8/dbf/class_grid_properties.html#a3dcdcca43bb6f3330ced039c3afd5f7e" title="typeToString" alt="" coords="268,59,364,88"/>
+<area shape="rect" id="node7" href="$df/df0/class_length.html#a5bd5292fcf66a49fad586500fa6038a0" title="Get the length in millimeters as a QString. " alt="" coords="248,112,384,141"/>
+<area shape="rect" id="node11" href="$dd/d55/class_length_unit.html#a3a7fb28174c7ae0928bc6fc4133303d0" title="Convert the length unit to a string (for example to save it in files) " alt="" coords="247,165,385,195"/>
+<area shape="rect" id="node9" href="$df/df0/class_length.html#a69ee36729eae0511280f89e3efa240ae" title="Get the length in millimeters. " alt="" coords="444,112,545,141"/>
+</map>

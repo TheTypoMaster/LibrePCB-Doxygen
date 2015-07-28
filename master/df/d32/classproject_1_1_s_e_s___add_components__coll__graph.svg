@@ -442,8 +442,8 @@
 <text text-anchor="start" x="599" y="-1415" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; setSelectedGenComp()</text>
 <text text-anchor="start" x="599" y="-1402" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; setSelectedSymbVar()</text>
 <text text-anchor="start" x="599" y="-1389" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; accept()</text>
-<text text-anchor="start" x="599" y="-1376" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_treeCategories_current</text>
-<text text-anchor="start" x="599" y="-1363" font-family="Helvetica,sans-Serif" font-size="10.00">ItemChanged()</text>
+<text text-anchor="start" x="599" y="-1376" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; treeCategories_currentItem</text>
+<text text-anchor="start" x="599" y="-1363" font-family="Helvetica,sans-Serif" font-size="10.00">Changed()</text>
 <text text-anchor="start" x="599" y="-1350" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_listGenericComponents</text>
 <text text-anchor="start" x="599" y="-1337" font-family="Helvetica,sans-Serif" font-size="10.00">_currentItemChanged()</text>
 <text text-anchor="start" x="599" y="-1324" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_cbxSymbVar_currentIndex</text>

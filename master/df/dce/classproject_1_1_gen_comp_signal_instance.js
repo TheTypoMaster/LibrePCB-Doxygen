@@ -14,7 +14,7 @@ var classproject_1_1_gen_comp_signal_instance =
     [ "unregisterSymbolPin", "df/dce/classproject_1_1_gen_comp_signal_instance.html#abc7ad274401f31792a99f09e4345ba60", null ],
     [ "addToCircuit", "df/dce/classproject_1_1_gen_comp_signal_instance.html#af00f21a639ab7a55e814293e9bd76c0f", null ],
     [ "removeFromCircuit", "df/dce/classproject_1_1_gen_comp_signal_instance.html#ac295ebdc117f47883b0a7af285b69a5e", null ],
-    [ "serializeToXmlDomElement", "df/dce/classproject_1_1_gen_comp_signal_instance.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "df/dce/classproject_1_1_gen_comp_signal_instance.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "updateErcMessages", "df/dce/classproject_1_1_gen_comp_signal_instance.html#a56ae9f28c406912ae4a5a893087a72ca", null ],
     [ "operator=", "df/dce/classproject_1_1_gen_comp_signal_instance.html#ad4c648fefd64021a2edab511416f6f27", null ],
     [ "init", "df/dce/classproject_1_1_gen_comp_signal_instance.html#a02fd73d861ef2e4aabb38c0c9ff82947", null ],

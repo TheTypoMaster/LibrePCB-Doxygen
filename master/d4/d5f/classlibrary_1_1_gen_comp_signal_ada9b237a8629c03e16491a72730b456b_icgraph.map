@@ -3,6 +3,9 @@
 <area shape="rect" id="node9" href="$d7/d7c/classlibrary_1_1_generic_component.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::GenericComponent\l::parseDomTree" alt="" coords="140,109,316,155"/>
 <area shape="rect" id="node11" href="$de/d67/classproject_1_1_gen_comp_instance.html#a7fa5d62c280aeb14756e751520a201e3" title="project::GenCompInstance\l::GenCompInstance" alt="" coords="139,178,317,225"/>
 <area shape="rect" id="node13" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::GenCompSignalInstance\l::init" alt="" coords="121,247,335,294"/>
-<area shape="rect" id="node5" href="$d7/d7c/classlibrary_1_1_generic_component.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="385,5,561,51"/>
-<area shape="rect" id="node7" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="project::SI_SymbolPin\l::SI_SymbolPin" alt="" coords="397,74,549,121"/>
+<area shape="rect" id="node15" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="121,317,335,363"/>
+<area shape="rect" id="node5" href="$d7/d7c/classlibrary_1_1_generic_component.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="392,5,568,51"/>
+<area shape="rect" id="node7" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="project::SI_SymbolPin\l::SI_SymbolPin" alt="" coords="404,74,556,121"/>
+<area shape="rect" id="node17" href="$de/d67/classproject_1_1_gen_comp_instance.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="384,317,576,363"/>
+<area shape="rect" id="node19" href="$d1/d03/classproject_1_1_circuit.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="624,317,787,363"/>
 </map>

@@ -13,7 +13,7 @@ var searchData=
   ['lengthunit_2eh',['lengthunit.h',['../d0/d09/lengthunit_8h.html',1,'']]],
   ['lengthunit_5ft',['LengthUnit_t',['../dd/d55/class_length_unit.html#a693ad72e816a82efcb84ed5b955e511d',1,'LengthUnit']]],
   ['lengthunitcomboboxindexchanged',['lengthUnitComboBoxIndexChanged',['../d3/d01/class_w_s_i___app_default_measurement_units.html#aa2425481340ffcc80b45c2e816abe4ce',1,'WSI_AppDefaultMeasurementUnits']]],
-  ['library',['library',['../dc/d83/namespacelibrary.html',1,'library'],['../de/d02/classlibrary_1_1_library.html#a72a31ccdf8ba1640b29d8c693562cef3',1,'library::Library::Library(const FilePath &amp;libPath)'],['../de/d02/classlibrary_1_1_library.html#a2da5d9c91a7985f18f06874f12baa770',1,'library::Library::Library()'],['../de/d02/classlibrary_1_1_library.html#ac3cc6a636a708db40def81ec69b78126',1,'library::Library::Library(const Library &amp;other)']]],
+  ['library',['library',['../dc/d83/namespacelibrary.html',1,'library'],['../de/d02/classlibrary_1_1_library.html#a971644284e58a6acb105dccaecf816fe',1,'library::Library::Library(const FilePath &amp;libDirPath, const FilePath &amp;cacheFilePath)'],['../de/d02/classlibrary_1_1_library.html#a2da5d9c91a7985f18f06874f12baa770',1,'library::Library::Library()'],['../de/d02/classlibrary_1_1_library.html#ac3cc6a636a708db40def81ec69b78126',1,'library::Library::Library(const Library &amp;other)']]],
   ['library',['Library',['../de/d02/classlibrary_1_1_library.html',1,'library']]],
   ['library_2ecpp',['library.cpp',['../d7/d7d/library_8cpp.html',1,'']]],
   ['library_2edox',['library.dox',['../d5/d90/library_8dox.html',1,'']]],

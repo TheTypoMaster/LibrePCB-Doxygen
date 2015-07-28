@@ -132,9 +132,9 @@ $(document).ready(function(){initNavTree('de/d02/classlibrary_1_1_library.html',
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a72a31ccdf8ba1640b29d8c693562cef3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d02/classlibrary_1_1_library.html#a72a31ccdf8ba1640b29d8c693562cef3">Library</a> (const <a class="el" href="../../d4/d1c/class_file_path.html">FilePath</a> &amp;libPath)  throw (Exception)</td></tr>
-<tr class="memdesc:a72a31ccdf8ba1640b29d8c693562cef3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor to open the library of an existing workspace.  <a href="#a72a31ccdf8ba1640b29d8c693562cef3">More...</a><br/></td></tr>
-<tr class="separator:a72a31ccdf8ba1640b29d8c693562cef3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a971644284e58a6acb105dccaecf816fe"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d02/classlibrary_1_1_library.html#a971644284e58a6acb105dccaecf816fe">Library</a> (const <a class="el" href="../../d4/d1c/class_file_path.html">FilePath</a> &amp;libDirPath, const <a class="el" href="../../d4/d1c/class_file_path.html">FilePath</a> &amp;cacheFilePath)  throw (Exception)</td></tr>
+<tr class="memdesc:a971644284e58a6acb105dccaecf816fe"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor to open the library of an existing workspace.  <a href="#a971644284e58a6acb105dccaecf816fe">More...</a><br/></td></tr>
+<tr class="separator:a971644284e58a6acb105dccaecf816fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4411c0ecfd2f421273fab37319085a00"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d02/classlibrary_1_1_library.html#a4411c0ecfd2f421273fab37319085a00">~Library</a> ()</td></tr>
 <tr class="separator:a4411c0ecfd2f421273fab37319085a00"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae27e88579f5c66486ab15ef83aea87b7"><td class="memItemLeft" align="right" valign="top">QMultiMap&lt; <a class="el" href="../../de/d34/class_version.html">Version</a>, <a class="el" href="../../d4/d1c/class_file_path.html">FilePath</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d02/classlibrary_1_1_library.html#ae27e88579f5c66486ab15ef83aea87b7">getComponentCategories</a> (const QUuid &amp;uuid) const noexcept</td></tr>
@@ -200,16 +200,16 @@ Private Attributes</h2></td></tr>
 <tr class="memdesc:a9e708d4c88c4e820989ab404077ed607"><td class="mdescLeft">&#160;</td><td class="mdescRight">a <a class="el" href="../../d4/d1c/class_file_path.html" title="This class represents absolute, well-formatted paths to files or directories. ">FilePath</a> object which represents the library directory  <a href="#a9e708d4c88c4e820989ab404077ed607">More...</a><br/></td></tr>
 <tr class="separator:a9e708d4c88c4e820989ab404077ed607"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa2fcb470011322819bfad6953f7ca2e3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d1c/class_file_path.html">FilePath</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d02/classlibrary_1_1_library.html#aa2fcb470011322819bfad6953f7ca2e3">mLibFilePath</a></td></tr>
-<tr class="memdesc:aa2fcb470011322819bfad6953f7ca2e3"><td class="mdescLeft">&#160;</td><td class="mdescRight">a FiltePath object which represents the lib_v#.db file  <a href="#aa2fcb470011322819bfad6953f7ca2e3">More...</a><br/></td></tr>
+<tr class="memdesc:aa2fcb470011322819bfad6953f7ca2e3"><td class="mdescLeft">&#160;</td><td class="mdescRight">a <a class="el" href="../../d4/d1c/class_file_path.html" title="This class represents absolute, well-formatted paths to files or directories. ">FilePath</a> object which represents the library_cache.sqlite file  <a href="#aa2fcb470011322819bfad6953f7ca2e3">More...</a><br/></td></tr>
 <tr class="separator:aa2fcb470011322819bfad6953f7ca2e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0b4abecb5f5e31d104306f7ed59e6a93"><td class="memItemLeft" align="right" valign="top">QSqlDatabase&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d02/classlibrary_1_1_library.html#a0b4abecb5f5e31d104306f7ed59e6a93">mLibDatabase</a></td></tr>
-<tr class="memdesc:a0b4abecb5f5e31d104306f7ed59e6a93"><td class="mdescLeft">&#160;</td><td class="mdescRight">a QSqlDatabase object which contents the lib.db-file  <a href="#a0b4abecb5f5e31d104306f7ed59e6a93">More...</a><br/></td></tr>
+<tr class="memdesc:a0b4abecb5f5e31d104306f7ed59e6a93"><td class="mdescLeft">&#160;</td><td class="mdescRight">the SQLite database of the file <a class="el" href="../../de/d02/classlibrary_1_1_library.html#aa2fcb470011322819bfad6953f7ca2e3" title="a FilePath object which represents the library_cache.sqlite file ">mLibFilePath</a>  <a href="#a0b4abecb5f5e31d104306f7ed59e6a93">More...</a><br/></td></tr>
 <tr class="separator:a0b4abecb5f5e31d104306f7ed59e6a93"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>The <a class="el" href="../../de/d02/classlibrary_1_1_library.html" title="The Library class. ">Library</a> class. </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a class="anchor" id="a72a31ccdf8ba1640b29d8c693562cef3"></a>
+<a class="anchor" id="a971644284e58a6acb105dccaecf816fe"></a>
 <div class="memitem">
 <div class="memproto">
 <table class="mlabels">
@@ -220,8 +220,18 @@ Private Attributes</h2></td></tr>
           <td class="memname"><a class="el" href="../../de/d02/classlibrary_1_1_library.html">Library</a> </td>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="../../d4/d1c/class_file_path.html">FilePath</a> &amp;&#160;</td>
-          <td class="paramname"><em>libPath</em></td><td>)</td>
+          <td class="paramname"><em>libDirPath</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">const <a class="el" href="../../d4/d1c/class_file_path.html">FilePath</a> &amp;&#160;</td>
+          <td class="paramname"><em>cacheFilePath</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
         <tr>
           <td align="right">throw </td><td>(</td><td colspan="2"><a class="el" href="../../df/d70/class_exception.html">Exception</a></td>
@@ -240,7 +250,8 @@ Private Attributes</h2></td></tr>
 <p>Constructor to open the library of an existing workspace. </p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">libPath</td><td>The filepath to the library directory</td></tr>
+    <tr><td class="paramname">libDirPath</td><td>The filepath to the library directory </td></tr>
+    <tr><td class="paramname">cacheFilePath</td><td>The filepath to the *.sqlite library cache database</td></tr>
   </table>
   </dd>
 </dl>
@@ -391,7 +402,7 @@ Private Attributes</h2></td></tr>
 <div id="dynsection-1-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-1-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d02/classlibrary_1_1_library_ab9d3322f7c9a51af677857c032f30bd7_icgraph.svg" width="1379" height="174"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d02/classlibrary_1_1_library_ab9d3322f7c9a51af677857c032f30bd7_icgraph.svg" width="1408" height="164"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </p>
@@ -521,7 +532,7 @@ Private Attributes</h2></td></tr>
 <div id="dynsection-2-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-2-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d02/classlibrary_1_1_library_acb98813856285edc2af1aa57be55e8d3_icgraph.svg" width="904" height="75"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d02/classlibrary_1_1_library_acb98813856285edc2af1aa57be55e8d3_icgraph.svg" width="934" height="56"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </p>
@@ -627,7 +638,7 @@ Private Attributes</h2></td></tr>
 <div id="dynsection-3-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-3-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d02/classlibrary_1_1_library_a1a2a776b3860f2889bf1a4800c9ea396_icgraph.svg" width="974" height="75"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d02/classlibrary_1_1_library_a1a2a776b3860f2889bf1a4800c9ea396_icgraph.svg" width="1003" height="56"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </p>
@@ -1180,7 +1191,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>a FiltePath object which represents the lib_v#.db file </p>
+<p>a <a class="el" href="../../d4/d1c/class_file_path.html" title="This class represents absolute, well-formatted paths to files or directories. ">FilePath</a> object which represents the library_cache.sqlite file </p>
 
 </div>
 </div>
@@ -1202,7 +1213,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>a QSqlDatabase object which contents the lib.db-file </p>
+<p>the SQLite database of the file <a class="el" href="../../de/d02/classlibrary_1_1_library.html#aa2fcb470011322819bfad6953f7ca2e3" title="a FilePath object which represents the library_cache.sqlite file ">mLibFilePath</a> </p>
 
 </div>
 </div>
@@ -1216,7 +1227,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d83/namespacelibrary.html">library</a></li><li class="navelem"><a class="el" href="../../de/d02/classlibrary_1_1_library.html">Library</a></li>
-    <li class="footer">Generated on Mon Jul 27 2015 22:03:28 for LibrePCB Developers Documentation by
+    <li class="footer">Generated on Tue Jul 28 2015 20:41:25 for LibrePCB Developers Documentation by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

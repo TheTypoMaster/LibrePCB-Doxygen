@@ -16,7 +16,7 @@ var classlibrary_1_1_footprint_text =
     [ "setAngle", "db/d86/classlibrary_1_1_footprint_text.html#ad2c89c0ca3cf75c26f1a17027643245f", null ],
     [ "setHeight", "db/d86/classlibrary_1_1_footprint_text.html#a2f6b06b72ec3a0699e89388ca8a3ac73", null ],
     [ "setAlign", "db/d86/classlibrary_1_1_footprint_text.html#ac43d0c63405c0260fad071f5d07acf7d", null ],
-    [ "serializeToXmlDomElement", "db/d86/classlibrary_1_1_footprint_text.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "db/d86/classlibrary_1_1_footprint_text.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "operator=", "db/d86/classlibrary_1_1_footprint_text.html#a61f5dcd67008f4ed7402931ac1aad487", null ],
     [ "checkAttributesValidity", "db/d86/classlibrary_1_1_footprint_text.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "mLayerId", "db/d86/classlibrary_1_1_footprint_text.html#ac25683e78ab19e80ff235ebfcfa41861", null ],

@@ -9,7 +9,7 @@ var classlibrary_1_1_symbol_polygon_segment =
     [ "getAngle", "d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a894842161e505b56d67b0cf5b0f50087", null ],
     [ "setEndPos", "d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a7082618af82c3408be62076f0dea3879", null ],
     [ "setAngle", "d9/d94/classlibrary_1_1_symbol_polygon_segment.html#ad2c89c0ca3cf75c26f1a17027643245f", null ],
-    [ "serializeToXmlDomElement", "d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d9/d94/classlibrary_1_1_symbol_polygon_segment.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "operator=", "d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a04d6362b31c1e82d2a3de3340c81a4e8", null ],
     [ "checkAttributesValidity", "d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "mEndPos", "d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a767f2898bfd51bde6d21da07287c5e80", null ],

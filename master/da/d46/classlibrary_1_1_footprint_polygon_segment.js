@@ -9,7 +9,7 @@ var classlibrary_1_1_footprint_polygon_segment =
     [ "getAngle", "da/d46/classlibrary_1_1_footprint_polygon_segment.html#a894842161e505b56d67b0cf5b0f50087", null ],
     [ "setEndPos", "da/d46/classlibrary_1_1_footprint_polygon_segment.html#a7082618af82c3408be62076f0dea3879", null ],
     [ "setAngle", "da/d46/classlibrary_1_1_footprint_polygon_segment.html#ad2c89c0ca3cf75c26f1a17027643245f", null ],
-    [ "serializeToXmlDomElement", "da/d46/classlibrary_1_1_footprint_polygon_segment.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "da/d46/classlibrary_1_1_footprint_polygon_segment.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "operator=", "da/d46/classlibrary_1_1_footprint_polygon_segment.html#a14939dc758ef2374a16c88f3fc4859d0", null ],
     [ "checkAttributesValidity", "da/d46/classlibrary_1_1_footprint_polygon_segment.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "mEndPos", "da/d46/classlibrary_1_1_footprint_polygon_segment.html#a767f2898bfd51bde6d21da07287c5e80", null ],
