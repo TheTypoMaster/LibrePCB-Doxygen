@@ -1,6 +1,11 @@
 <map id="isExistingDir" name="isExistingDir">
 <area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#abb1a303df12a931efec94f17183f3a2c" title="Check if the specified filepath is an existing, empty directory. " alt="" coords="199,5,284,35"/>
 <area shape="rect" id="node5" href="$d1/d7f/class_smart_file.html#a3d8fdc7779d16c086f29129e2fd52dd3" title="Prepare to save the file and return the filepath to the file. " alt="" coords="151,58,332,105"/>
-<area shape="rect" id="node7" href="$db/d9c/class_project_tree_item.html#a1ad168c613453fd34bb78cc6ce8e4c23" title="ProjectTreeItem::Project\lTreeItem" alt="" coords="160,127,323,174"/>
-<area shape="rect" id="node9" href="$de/d52/class_workspace_settings.html#a89db108216386abbdb034844da9485c9" title="WorkspaceSettings::\lWorkspaceSettings" alt="" coords="169,197,313,243"/>
+<area shape="rect" id="node7" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" title="library::LibraryBaseElement\l::readFromFile" alt="" coords="151,127,332,174"/>
+<area shape="rect" id="node17" href="$db/d9c/class_project_tree_item.html#a1ad168c613453fd34bb78cc6ce8e4c23" title="ProjectTreeItem::Project\lTreeItem" alt="" coords="160,197,323,243"/>
+<area shape="rect" id="node19" href="$de/d52/class_workspace_settings.html#a89db108216386abbdb034844da9485c9" title="WorkspaceSettings::\lWorkspaceSettings" alt="" coords="169,266,313,313"/>
+<area shape="rect" id="node9" href="$da/dae/classlibrary_1_1_model3_d.html#a8b72b474ce5da29cb412cd28207bc973" title="library::Model3D::Model3D" alt="" coords="387,40,563,69"/>
+<area shape="rect" id="node11" href="$da/dc5/classlibrary_1_1_component_category.html#a3ad0bd54ad01d7475965eb920648b6b9" title="library::ComponentCategory\l::ComponentCategory" alt="" coords="383,93,567,139"/>
+<area shape="rect" id="node13" href="$df/d5f/classlibrary_1_1_package_category.html#aa4dce7e624ac2ebbdf863f5241e2ca32" title="library::PackageCategory\l::PackageCategory" alt="" coords="391,162,559,209"/>
+<area shape="rect" id="node15" href="$da/d3b/classlibrary_1_1_spice_model.html#a142c4797c3a7503133cae731267f9a22" title="library::SpiceModel\l::SpiceModel" alt="" coords="408,231,541,278"/>
 </map>

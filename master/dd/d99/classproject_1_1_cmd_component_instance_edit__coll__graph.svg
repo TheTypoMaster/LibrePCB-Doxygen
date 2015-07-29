@@ -513,8 +513,8 @@
 <text text-anchor="start" x="2468.12" y="-4852" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="2468.12" y="-4839" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="2468.12" y="-4826" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="2468.12" y="-4813" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="2468.12" y="-4800" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="2468.12" y="-4813" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="2468.12" y="-4800" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="2468.12" y="-4787" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="2468.12" y="-4774" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="2468.12" y="-4761" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -1016,7 +1016,8 @@
 <g id="edge36" class="edge"><title>Node13&#45;&gt;Node11</title>
 <path fill="none" stroke="#404040" d="M1832.4,-5983.97C1999.62,-5945.15 2426.53,-5836.51 2509.12,-5722 2585.65,-5615.89 2581.17,-5287.4 2564.69,-5036.4"/>
 <polygon fill="none" stroke="#404040" points="2564.67,-5036.11 2560.28,-5030.39 2563.87,-5024.13 2568.26,-5029.85 2564.67,-5036.11"/>
-<text text-anchor="middle" x="2607.62" y="-5544.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<text text-anchor="middle" x="2606.12" y="-5551" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="2606.12" y="-5538" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node13&#45;&gt;Node14 -->
 <g id="edge110" class="edge"><title>Node13&#45;&gt;Node14</title>
@@ -1171,9 +1172,9 @@
 </g>
 <!-- Node13&#45;&gt;Node26 -->
 <g id="edge106" class="edge"><title>Node13&#45;&gt;Node26</title>
-<path fill="none" stroke="#404040" d="M1832.14,-5988.46C2020.78,-5957.26 2548.9,-5858.95 2646.12,-5722 2689.98,-5660.21 2597.98,-3049.3 2544.12,-2996 2514.63,-2966.81 2203.35,-3004.13 2171.12,-2978 2168.87,-2976.17 2166.66,-2974.3 2164.51,-2972.39"/>
+<path fill="none" stroke="#404040" d="M1832.28,-5988.39C2020.67,-5957.09 2546.65,-5858.72 2643.12,-5722 2730.49,-5598.18 2651.83,-3102.6 2544.12,-2996 2514.63,-2966.81 2203.35,-3004.13 2171.12,-2978 2168.87,-2976.17 2166.66,-2974.3 2164.51,-2972.39"/>
 <polygon fill="none" stroke="#404040" points="2164.07,-2971.97 2156.96,-2970.75 2155.35,-2963.72 2162.46,-2964.94 2164.07,-2971.97"/>
-<text text-anchor="middle" x="2685.12" y="-4723.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mLibraryPath</text>
+<text text-anchor="middle" x="2712.12" y="-4723.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mLibraryPath</text>
 </g>
 <!-- Node13&#45;&gt;Node30 -->
 <g id="edge138" class="edge"><title>Node13&#45;&gt;Node30</title>

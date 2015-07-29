@@ -699,8 +699,8 @@
 <text text-anchor="start" x="1243.53" y="-6173" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="1243.53" y="-6160" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="1243.53" y="-6147" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="1243.53" y="-6134" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="1243.53" y="-6121" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="1243.53" y="-6134" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="1243.53" y="-6121" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="1243.53" y="-6108" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="1243.53" y="-6095" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="1243.53" y="-6082" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -1239,7 +1239,8 @@
 <g id="edge168" class="edge"><title>Node8&#45;&gt;Node39</title>
 <path fill="none" stroke="#404040" d="M970.73,-7648.43C1036.42,-7612.63 1133.13,-7548.52 1179.53,-7462 1295.26,-7246.2 1247.24,-6607.56 1272.53,-6364 1272.76,-6361.77 1273,-6359.53 1273.23,-6357.29"/>
 <polygon fill="none" stroke="#404040" points="1273.25,-6357.14 1269.9,-6350.75 1274.52,-6345.2 1277.86,-6351.59 1273.25,-6357.14"/>
-<text text-anchor="middle" x="1294.03" y="-7026.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<text text-anchor="middle" x="1292.53" y="-7033" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="1292.53" y="-7020" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node9 -->
 <g id="node17" class="node"><title>Node9</title>

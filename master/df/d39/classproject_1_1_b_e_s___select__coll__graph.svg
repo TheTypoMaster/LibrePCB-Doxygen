@@ -536,8 +536,8 @@
 <text text-anchor="start" x="2157" y="-6182" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="2157" y="-6169" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="2157" y="-6156" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="2157" y="-6143" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="2157" y="-6130" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="2157" y="-6143" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="2157" y="-6130" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="2157" y="-6117" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="2157" y="-6104" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="2157" y="-6091" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -570,8 +570,8 @@
 </g>
 <!-- Node7&#45;&gt;Node17 -->
 <g id="edge42" class="edge"><title>Node7&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M2402.93,-7025.32C2365.9,-6970.04 2316.36,-6895.78 2315,-6892 2305.71,-6866.26 2276.4,-6583.66 2253.73,-6354.05"/>
-<polygon fill="none" stroke="midnightblue" points="2400.06,-7027.31 2408.53,-7033.67 2405.87,-7023.41 2400.06,-7027.31"/>
+<path fill="none" stroke="midnightblue" d="M2398.82,-7025.25C2365.93,-6979.57 2325.06,-6919.86 2315,-6892 2305.71,-6866.26 2276.4,-6583.66 2253.73,-6354.05"/>
+<polygon fill="none" stroke="midnightblue" points="2396.17,-7027.55 2404.86,-7033.61 2401.84,-7023.45 2396.17,-7027.55"/>
 </g>
 <!-- Node20 -->
 <g id="node43" class="node"><title>Node20</title>
@@ -1326,7 +1326,8 @@
 <g id="edge46" class="edge"><title>Node19&#45;&gt;Node17</title>
 <path fill="none" stroke="#404040" d="M2251.44,-7336.26C2249.54,-7125.49 2245.72,-6784.42 2239,-6490 2238.09,-6449.96 2236.95,-6407.84 2235.72,-6366.24"/>
 <polygon fill="none" stroke="#404040" points="2235.72,-6366.22 2231.54,-6360.35 2235.36,-6354.23 2239.54,-6360.11 2235.72,-6366.22"/>
-<text text-anchor="middle" x="2284.5" y="-7082.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<text text-anchor="middle" x="2283" y="-7089" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="2283" y="-7076" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node19&#45;&gt;Node20 -->
 <g id="edge120" class="edge"><title>Node19&#45;&gt;Node20</title>

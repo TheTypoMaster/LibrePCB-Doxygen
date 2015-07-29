@@ -854,8 +854,8 @@
 <text text-anchor="start" x="8" y="-6239" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="8" y="-6226" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="8" y="-6213" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="8" y="-6200" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="8" y="-6187" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="8" y="-6200" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="8" y="-6187" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="8" y="-6174" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="8" y="-6161" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="8" y="-6148" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -1601,7 +1601,8 @@
 <g id="edge178" class="edge"><title>Node13&#45;&gt;Node39</title>
 <path fill="none" stroke="#404040" d="M2122.82,-7733.92C1826.21,-7672.24 627.345,-7380.5 144,-6612 140.939,-6607.13 128.906,-6521.96 115.794,-6423.33"/>
 <polygon fill="none" stroke="#404040" points="115.768,-6423.13 111.014,-6417.71 114.19,-6411.24 118.944,-6416.66 115.768,-6423.13"/>
-<text text-anchor="middle" x="762.5" y="-7092.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<text text-anchor="middle" x="761" y="-7099" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="761" y="-7086" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node14 -->
 <g id="node27" class="node"><title>Node14</title>

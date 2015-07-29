@@ -1,11 +1,11 @@
 var classlibrary_1_1_library_base_element =
 [
     [ "LibraryBaseElement", "dd/d8a/classlibrary_1_1_library_base_element.html#a5219d75d64f3b3a0f614622ec4cd4f20", null ],
-    [ "LibraryBaseElement", "dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387", null ],
+    [ "LibraryBaseElement", "dd/d8a/classlibrary_1_1_library_base_element.html#ae3a306129ba5364931c96c0f59db2126", null ],
     [ "~LibraryBaseElement", "dd/d8a/classlibrary_1_1_library_base_element.html#a9200f053eff55084766ee20feac2beab", null ],
     [ "LibraryBaseElement", "dd/d8a/classlibrary_1_1_library_base_element.html#a357438bf0fffd28c4a559e9b6f3f6bf3", null ],
+    [ "getDirectory", "dd/d8a/classlibrary_1_1_library_base_element.html#af5ada83112f8bcb21fc65b8560e53ff1", null ],
     [ "getXmlFilepath", "dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4", null ],
-    [ "getDirectory", "dd/d8a/classlibrary_1_1_library_base_element.html#a6f4f6d9a8dd89dbef03d3aa553a8eade", null ],
     [ "getUuid", "dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b", null ],
     [ "getVersion", "dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9", null ],
     [ "getAuthor", "dd/d8a/classlibrary_1_1_library_base_element.html#ad545ee643bb9bd8cd018f72eb66d625b", null ],
@@ -33,6 +33,7 @@ var classlibrary_1_1_library_base_element =
     [ "parseDomTree", "dd/d8a/classlibrary_1_1_library_base_element.html#ad6c2bb438fe200b1224b2d8e05d3eca0", null ],
     [ "serializeToXmlDomElement", "dd/d8a/classlibrary_1_1_library_base_element.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "checkAttributesValidity", "dd/d8a/classlibrary_1_1_library_base_element.html#a524ed0dd8a5522b754411728dfe5c752", null ],
+    [ "mDirectory", "dd/d8a/classlibrary_1_1_library_base_element.html#a21c7aee2a39454f967354503d31dbdb2", null ],
     [ "mXmlFilepath", "dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67", null ],
     [ "mXmlFileNamePrefix", "dd/d8a/classlibrary_1_1_library_base_element.html#a2f43119f980bf5cdccea210c8ff1b28b", null ],
     [ "mXmlRootNodeName", "dd/d8a/classlibrary_1_1_library_base_element.html#a11f2ffaed02979e17c076d5d0ccd17d8", null ],

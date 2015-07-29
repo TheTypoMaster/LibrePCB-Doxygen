@@ -510,8 +510,8 @@
 <text text-anchor="start" x="2819.95" y="-6405" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="2819.95" y="-6392" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="2819.95" y="-6379" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="2819.95" y="-6366" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="2819.95" y="-6353" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="2819.95" y="-6366" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="2819.95" y="-6353" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="2819.95" y="-6340" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="2819.95" y="-6327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="2819.95" y="-6314" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -544,8 +544,8 @@
 </g>
 <!-- Node7&#45;&gt;Node17 -->
 <g id="edge42" class="edge"><title>Node7&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M2088.3,-7159.39C2170.45,-7126.76 2294.95,-7070.46 2387.95,-6998 2573.91,-6853.12 2535.13,-6722.64 2733.95,-6596 2758.88,-6580.13 2776.87,-6598.7 2797.95,-6578 2802.79,-6573.25 2807.37,-6568.26 2811.7,-6563.04"/>
-<polygon fill="none" stroke="midnightblue" points="2086.52,-7156.33 2078.5,-7163.25 2089.08,-7162.84 2086.52,-7156.33"/>
+<path fill="none" stroke="midnightblue" d="M2088.61,-7159.15C2170.71,-7126.43 2294.94,-7070.15 2387.95,-6998 2574.9,-6852.98 2537.94,-6723.96 2736.95,-6596 2760.73,-6580.71 2777.91,-6597.93 2797.95,-6578 2802.85,-6573.13 2807.49,-6568 2811.87,-6562.65"/>
+<polygon fill="none" stroke="midnightblue" points="2086.82,-7156.09 2078.81,-7163.02 2089.4,-7162.6 2086.82,-7156.09"/>
 </g>
 <!-- Node20 -->
 <g id="node43" class="node"><title>Node20</title>
@@ -1298,9 +1298,10 @@
 </g>
 <!-- Node19&#45;&gt;Node17 -->
 <g id="edge46" class="edge"><title>Node19&#45;&gt;Node17</title>
-<path fill="none" stroke="#404040" d="M2694.04,-7494.09C2702.52,-7470.98 2710.22,-7447.1 2715.95,-7424 2759.82,-7247.11 2731.88,-7196.51 2756.95,-7016 2776.5,-6875.28 2803.25,-6720.33 2827.47,-6588.98"/>
-<polygon fill="none" stroke="#404040" points="2827.48,-6588.96 2824.64,-6582.33 2829.66,-6577.16 2832.5,-6583.78 2827.48,-6588.96"/>
-<text text-anchor="middle" x="2791.45" y="-7188.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<path fill="none" stroke="#404040" d="M2694.07,-7500.2C2703.73,-7475.23 2712.55,-7449.18 2718.95,-7424 2763.85,-7247.37 2735.23,-7196.56 2759.95,-7016 2779.21,-6875.33 2805.36,-6720.4 2829.01,-6589.04"/>
+<polygon fill="none" stroke="#404040" points="2829.02,-6589.02 2826.14,-6582.41 2831.15,-6577.21 2834.02,-6583.83 2829.02,-6589.02"/>
+<text text-anchor="middle" x="2792.95" y="-7195" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="2792.95" y="-7182" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node19&#45;&gt;Node20 -->
 <g id="edge120" class="edge"><title>Node19&#45;&gt;Node20</title>

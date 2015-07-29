@@ -8,7 +8,7 @@
 <area shape="rect" id="node50" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a01f0309d43de518f4e94c724d22f4502" title="library::LibraryBaseElement\l::getName" alt="" coords="685,747,867,794"/>
 <area shape="rect" id="node69" href="$de/d02/classlibrary_1_1_library.html#a1a2a776b3860f2889bf1a4800c9ea396" title="library::Library::getGeneric\lComponentsByCategory" alt="" coords="448,729,621,775"/>
 <area shape="rect" id="node71" href="$de/d02/classlibrary_1_1_library.html#acb98813856285edc2af1aa57be55e8d3" title="library::Library::getGeneric\lComponents" alt="" coords="448,798,621,845"/>
-<area shape="rect" id="node74" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" title="library::LibraryBaseElement\l::getXmlFilepath" alt="" coords="444,867,625,914"/>
+<area shape="rect" id="node74" href="$dd/d8a/classlibrary_1_1_library_base_element.html#af5ada83112f8bcb21fc65b8560e53ff1" title="library::LibraryBaseElement\l::getDirectory" alt="" coords="444,867,625,914"/>
 <area shape="rect" id="node76" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="481,937,588,967"/>
 <area shape="rect" id="node7" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#adfcb4e9c07721bf39ddcb34d2e39e61c" title="setSelectedSymbVar" alt="" coords="704,436,848,465"/>
 <area shape="rect" id="node13" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVar\l::getUuid" alt="" coords="939,127,1117,174"/>

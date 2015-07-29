@@ -341,8 +341,8 @@
 <text text-anchor="start" x="23" y="-5125" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="23" y="-5112" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="23" y="-5099" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="23" y="-5086" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="23" y="-5073" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="23" y="-5086" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="23" y="-5073" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="23" y="-5060" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="23" y="-5047" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="23" y="-5034" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -859,7 +859,8 @@
 <g id="edge30" class="edge"><title>Node12&#45;&gt;Node10</title>
 <path fill="none" stroke="#404040" d="M1069.82,-6609.52C872.61,-6536.46 295.518,-6292.12 78,-5866 -8.68273,-5696.19 -6.41501,-5482.2 18.0068,-5309.3"/>
 <polygon fill="none" stroke="#404040" points="18.0412,-5309.06 14.9437,-5302.55 19.7634,-5297.18 22.8609,-5303.7 18.0412,-5309.06"/>
-<text text-anchor="middle" x="257.5" y="-5978.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<text text-anchor="middle" x="256" y="-5985" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="256" y="-5972" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node12&#45;&gt;Node13 -->
 <g id="edge104" class="edge"><title>Node12&#45;&gt;Node13</title>

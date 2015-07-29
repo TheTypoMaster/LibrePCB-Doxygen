@@ -1,7 +1,0 @@
-<map id="ComponentCategory" name="ComponentCategory">
-<area shape="rect" id="node3" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" title="library::LibraryBaseElement\l::readFromFile" alt="" coords="199,74,380,121"/>
-<area shape="rect" id="node5" href="$da/db0/class_smart_xml_file.html#a6685c26dd2c2668f47d5fae96c4c319f" title="Open and parse the XML file and build the whole DOM tree. " alt="" coords="431,5,615,51"/>
-<area shape="rect" id="node7" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::LibraryBaseElement\l::parseDomTree" alt="" coords="432,74,613,121"/>
-<area shape="rect" id="node9" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="432,143,613,190"/>
-<area shape="rect" id="node11" href="$de/d34/class_version.html#a0a886a9edf5bf682f5245159661bfc94" title="Check if the object represents a valid version number. " alt="" coords="665,152,777,181"/>
-</map>

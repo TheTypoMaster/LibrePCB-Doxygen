@@ -1,5 +1,6 @@
 var NAVTREEINDEX17 =
 {
+"df/d70/class_exception.html#a1c3b9d45f98899becd0a68144227d30f":[2,0,18,9],
 "df/d70/class_exception.html#a3a8b158ebc8a296bf8e3b40379c2a711":[2,0,18,7],
 "df/d70/class_exception.html#a45bd0b8591a851c6a483b7f32efd5247":[2,0,18,13],
 "df/d70/class_exception.html#a68743fe672861fe4dfa70e9bd51dd880":[2,0,18,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX17 =
 "df/de9/class_alignment.html#aff89736d95f07a927f4cbbfceffa32d1":[2,0,4,15],
 "df/de9/cmdschematicnetlabelremove_8cpp.html":[3,0,1,3,5,0,6],
 "df/dea/cmdschematicadd_8cpp.html":[3,0,1,3,5,0,0],
-"df/def/class_w_s_i___debug_tools.html":[2,0,60],
-"df/def/class_w_s_i___debug_tools.html#a2d5687f40d2384e2454a06193194f6ab":[2,0,60,4]
+"df/def/class_w_s_i___debug_tools.html":[2,0,60]
 };

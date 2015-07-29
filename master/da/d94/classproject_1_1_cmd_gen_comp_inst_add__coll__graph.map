@@ -5,14 +5,14 @@
 <area shape="rect" id="node32" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="1701,2280,1901,3371"/>
 <area shape="rect" id="node9" href="$d7/d3c/classproject_1_1_i_f___erc_msg_provider.html" title="The IF_ErcMsgProvider class. " alt="" coords="708,3871,919,3991"/>
 <area shape="rect" id="node11" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="823,807,1025,945"/>
-<area shape="rect" id="node17" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="428,1417,631,2213"/>
+<area shape="rect" id="node17" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="429,1417,632,2213"/>
 <area shape="rect" id="node24" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="993,3628,1212,4233"/>
 <area shape="rect" id="node41" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="1239,3784,1439,4077"/>
 <area shape="rect" id="node59" href="$d7/d04/classproject_1_1_project_settings.html" title="The ProjectSettings class. " alt="" coords="2316,3758,2516,4103"/>
 <area shape="rect" id="node74" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html" title="The GenCompSymbVar class. " alt="" coords="431,3654,633,4207"/>
 <area shape="rect" id="node13" href="$d7/d7c/classlibrary_1_1_generic_component.html" title="The GenericComponent class. " alt="" coords="193,3533,407,4329"/>
-<area shape="rect" id="node15" href="$d8/dff/classlibrary_1_1_library_element.html" title="The LibraryElement class extends the LibraryBaseElement class with some attributes and methods which ..." alt="" coords="348,2713,551,2937"/>
-<area shape="rect" id="node20" href="$de/d34/class_version.html" title="The Version class represents a version number in the format &quot;1.42.7&quot;. " alt="" coords="457,643,569,1109"/>
+<area shape="rect" id="node15" href="$d8/dff/classlibrary_1_1_library_element.html" title="The LibraryElement class extends the LibraryBaseElement class with some attributes and methods which ..." alt="" coords="349,2713,552,2937"/>
+<area shape="rect" id="node20" href="$de/d34/class_version.html" title="The Version class represents a version number in the format &quot;1.42.7&quot;. " alt="" coords="459,643,571,1109"/>
 <area shape="rect" id="node22" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="1873,5,2052,541"/>
 <area shape="rect" id="node29" href="$d1/d7f/class_smart_file.html" title="The abstract SmartFile class represents a file and provides some useful methods to work with that fil..." alt="" coords="1932,703,2156,1049"/>
 <area shape="rect" id="node65" href="$d9/d57/class_file_lock.html" title="This class can be used to implement file&#45;based file locks. " alt="" coords="1861,1133,2024,1392"/>

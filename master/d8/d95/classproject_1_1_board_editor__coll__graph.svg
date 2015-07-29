@@ -11,40 +11,40 @@
 <polygon fill="white" stroke="white" points="-4,5 -4,-7848 4188,-7848 4188,5 -4,5"/>
 <!-- Node1 -->
 <g id="node1" class="node"><title>Node1</title>
-<polygon fill="#bfbfbf" stroke="black" points="1761.5,-1420.5 1761.5,-1847.5 1924.5,-1847.5 1924.5,-1420.5 1761.5,-1420.5"/>
-<text text-anchor="middle" x="1843" y="-1834.5" font-family="Helvetica,sans-Serif" font-size="10.00">BoardEditor</text>
-<polyline fill="none" stroke="black" points="1761.5,-1826.5 1924.5,-1826.5 "/>
-<text text-anchor="start" x="1769.5" y="-1813.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mUi</text>
-<text text-anchor="start" x="1769.5" y="-1800.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mActiveBoardIndex</text>
-<text text-anchor="start" x="1769.5" y="-1787.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoardListActions</text>
-<text text-anchor="start" x="1769.5" y="-1774.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoardListActionGroup</text>
-<polyline fill="none" stroke="black" points="1761.5,-1766.5 1924.5,-1766.5 "/>
-<text text-anchor="start" x="1769.5" y="-1753.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ BoardEditor()</text>
-<text text-anchor="start" x="1769.5" y="-1740.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~BoardEditor()</text>
-<text text-anchor="start" x="1769.5" y="-1727.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
-<text text-anchor="start" x="1769.5" y="-1714.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getActiveBoardIndex()</text>
-<text text-anchor="start" x="1769.5" y="-1701.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getActiveBoard()</text>
-<text text-anchor="start" x="1769.5" y="-1688.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGridProperties()</text>
-<text text-anchor="start" x="1769.5" y="-1675.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setActiveBoardIndex()</text>
-<text text-anchor="start" x="1769.5" y="-1662.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ abortAllCommands()</text>
-<text text-anchor="start" x="1769.5" y="-1649.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ boardAdded()</text>
-<text text-anchor="start" x="1769.5" y="-1636.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ boardRemoved()</text>
-<text text-anchor="start" x="1769.5" y="-1623.5" font-family="Helvetica,sans-Serif" font-size="10.00"># closeEvent()</text>
-<text text-anchor="start" x="1769.5" y="-1610.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; BoardEditor()</text>
-<text text-anchor="start" x="1769.5" y="-1597.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; BoardEditor()</text>
-<text text-anchor="start" x="1769.5" y="-1584.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
-<text text-anchor="start" x="1769.5" y="-1571.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; graphicsViewEventHandler()</text>
-<text text-anchor="start" x="1769.5" y="-1558.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionProjectClose</text>
-<text text-anchor="start" x="1769.5" y="-1545.5" font-family="Helvetica,sans-Serif" font-size="10.00">_triggered()</text>
-<text text-anchor="start" x="1769.5" y="-1532.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionNewBoard_triggered()</text>
-<text text-anchor="start" x="1769.5" y="-1519.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionUndo_triggered()</text>
-<text text-anchor="start" x="1769.5" y="-1506.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionRedo_triggered()</text>
-<text text-anchor="start" x="1769.5" y="-1493.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionGrid_triggered()</text>
-<text text-anchor="start" x="1769.5" y="-1480.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionExportAsPdf</text>
-<text text-anchor="start" x="1769.5" y="-1467.5" font-family="Helvetica,sans-Serif" font-size="10.00">_triggered()</text>
-<text text-anchor="start" x="1769.5" y="-1454.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionProjectProperties</text>
-<text text-anchor="start" x="1769.5" y="-1441.5" font-family="Helvetica,sans-Serif" font-size="10.00">_triggered()</text>
-<text text-anchor="start" x="1769.5" y="-1428.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; boardListActionGroupTriggered()</text>
+<polygon fill="#bfbfbf" stroke="black" points="1760.5,-1420.5 1760.5,-1847.5 1923.5,-1847.5 1923.5,-1420.5 1760.5,-1420.5"/>
+<text text-anchor="middle" x="1842" y="-1834.5" font-family="Helvetica,sans-Serif" font-size="10.00">BoardEditor</text>
+<polyline fill="none" stroke="black" points="1760.5,-1826.5 1923.5,-1826.5 "/>
+<text text-anchor="start" x="1768.5" y="-1813.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mUi</text>
+<text text-anchor="start" x="1768.5" y="-1800.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mActiveBoardIndex</text>
+<text text-anchor="start" x="1768.5" y="-1787.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoardListActions</text>
+<text text-anchor="start" x="1768.5" y="-1774.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoardListActionGroup</text>
+<polyline fill="none" stroke="black" points="1760.5,-1766.5 1923.5,-1766.5 "/>
+<text text-anchor="start" x="1768.5" y="-1753.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ BoardEditor()</text>
+<text text-anchor="start" x="1768.5" y="-1740.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~BoardEditor()</text>
+<text text-anchor="start" x="1768.5" y="-1727.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
+<text text-anchor="start" x="1768.5" y="-1714.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getActiveBoardIndex()</text>
+<text text-anchor="start" x="1768.5" y="-1701.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getActiveBoard()</text>
+<text text-anchor="start" x="1768.5" y="-1688.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGridProperties()</text>
+<text text-anchor="start" x="1768.5" y="-1675.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setActiveBoardIndex()</text>
+<text text-anchor="start" x="1768.5" y="-1662.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ abortAllCommands()</text>
+<text text-anchor="start" x="1768.5" y="-1649.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ boardAdded()</text>
+<text text-anchor="start" x="1768.5" y="-1636.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ boardRemoved()</text>
+<text text-anchor="start" x="1768.5" y="-1623.5" font-family="Helvetica,sans-Serif" font-size="10.00"># closeEvent()</text>
+<text text-anchor="start" x="1768.5" y="-1610.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; BoardEditor()</text>
+<text text-anchor="start" x="1768.5" y="-1597.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; BoardEditor()</text>
+<text text-anchor="start" x="1768.5" y="-1584.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<text text-anchor="start" x="1768.5" y="-1571.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; graphicsViewEventHandler()</text>
+<text text-anchor="start" x="1768.5" y="-1558.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionProjectClose</text>
+<text text-anchor="start" x="1768.5" y="-1545.5" font-family="Helvetica,sans-Serif" font-size="10.00">_triggered()</text>
+<text text-anchor="start" x="1768.5" y="-1532.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionNewBoard_triggered()</text>
+<text text-anchor="start" x="1768.5" y="-1519.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionUndo_triggered()</text>
+<text text-anchor="start" x="1768.5" y="-1506.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionRedo_triggered()</text>
+<text text-anchor="start" x="1768.5" y="-1493.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionGrid_triggered()</text>
+<text text-anchor="start" x="1768.5" y="-1480.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionExportAsPdf</text>
+<text text-anchor="start" x="1768.5" y="-1467.5" font-family="Helvetica,sans-Serif" font-size="10.00">_triggered()</text>
+<text text-anchor="start" x="1768.5" y="-1454.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionProjectProperties</text>
+<text text-anchor="start" x="1768.5" y="-1441.5" font-family="Helvetica,sans-Serif" font-size="10.00">_triggered()</text>
+<text text-anchor="start" x="1768.5" y="-1428.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; boardListActionGroupTriggered()</text>
 </g>
 <!-- Node38 -->
 <g id="node117" class="node"><title>Node38</title>
@@ -63,8 +63,8 @@
 </g>
 <!-- Node1&#45;&gt;Node38 -->
 <g id="edge164" class="edge"><title>Node1&#45;&gt;Node38</title>
-<path fill="none" stroke="#404040" d="M1924.61,-1488.56C1944.28,-1462.89 1967.19,-1438.5 1993,-1420 2057.35,-1373.87 2092.39,-1403.79 2164,-1370 2217.39,-1344.81 2272.45,-1306.27 2311.26,-1276.64"/>
-<polygon fill="none" stroke="#404040" points="2311.26,-1276.64 2313.56,-1269.81 2320.76,-1269.32 2318.45,-1276.15 2311.26,-1276.64"/>
+<path fill="none" stroke="#404040" d="M1923.59,-1488.52C1943.26,-1462.86 1966.17,-1438.48 1992,-1420 2056.74,-1373.67 2091.98,-1403.91 2164,-1370 2217.41,-1344.85 2272.47,-1306.31 2311.27,-1276.67"/>
+<polygon fill="none" stroke="#404040" points="2311.27,-1276.67 2313.58,-1269.84 2320.77,-1269.34 2318.46,-1276.17 2311.27,-1276.67"/>
 <text text-anchor="middle" x="2118.5" y="-1392.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mEditor</text>
 </g>
 <!-- Node39 -->
@@ -96,9 +96,9 @@
 </g>
 <!-- Node1&#45;&gt;Node39 -->
 <g id="edge174" class="edge"><title>Node1&#45;&gt;Node39</title>
-<path fill="none" stroke="#404040" d="M1861.17,-1420.24C1862.28,-1407.21 1863.38,-1394.25 1864.45,-1381.59"/>
-<polygon fill="none" stroke="#404040" points="1864.46,-1381.52 1860.98,-1375.2 1865.48,-1369.56 1868.95,-1375.88 1864.46,-1381.52"/>
-<text text-anchor="middle" x="1896" y="-1392.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mBoardEditor</text>
+<path fill="none" stroke="#404040" d="M1860.7,-1420.24C1861.84,-1407.21 1862.98,-1394.25 1864.09,-1381.59"/>
+<polygon fill="none" stroke="#404040" points="1864.09,-1381.51 1860.63,-1375.19 1865.14,-1369.56 1868.6,-1375.88 1864.09,-1381.51"/>
+<text text-anchor="middle" x="1895" y="-1392.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mBoardEditor</text>
 </g>
 <!-- Node2 -->
 <g id="node2" class="node"><title>Node2</title>
@@ -115,7 +115,7 @@
 </g>
 <!-- Node2&#45;&gt;Node1 -->
 <g id="edge2" class="edge"><title>Node2&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M2141.62,-4209.25C2127.85,-4134.33 2103.91,-3995.52 2092,-3876 2083.97,-3795.43 2097.54,-3219.21 2059,-3148 2052.48,-3135.96 2040.56,-3142.02 2034,-3130 2000.73,-3069.06 2048.99,-2556.18 2001,-2506 1972.61,-2476.31 1844.6,-2518.43 1817,-2488 1770.57,-2436.81 1813.15,-1935 1817,-1866 1817.34,-1859.93 1817.73,-1853.77 1818.16,-1847.57"/>
+<path fill="none" stroke="midnightblue" d="M2141.62,-4209.25C2127.85,-4134.33 2103.91,-3995.52 2092,-3876 2083.97,-3795.43 2097.54,-3219.21 2059,-3148 2052.48,-3135.96 2040.56,-3142.02 2034,-3130 2000.73,-3069.06 2048.99,-2556.18 2001,-2506 1972.61,-2476.31 1844.6,-2518.43 1817,-2488 1770.57,-2436.81 1813.29,-1935.01 1817,-1866 1817.33,-1859.93 1817.7,-1853.78 1818.11,-1847.57"/>
 <polygon fill="none" stroke="midnightblue" points="2138.23,-4210.19 2143.49,-4219.39 2145.12,-4208.92 2138.23,-4210.19"/>
 </g>
 <!-- Node3 -->
@@ -212,8 +212,8 @@
 </g>
 <!-- Node3&#45;&gt;Node1 -->
 <g id="edge4" class="edge"><title>Node3&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M2087.64,-2656.36C2073.26,-2606.46 2054,-2552.45 2029,-2506 2024.07,-2496.83 2018.12,-2497.56 2014,-2488 1972.55,-2391.81 2052.63,-2334.82 1986,-2254 1969.37,-2233.83 1946.87,-2255.97 1930,-2236 1843.34,-2133.46 1821.3,-1984.28 1821.06,-1860.09"/>
-<polygon fill="none" stroke="#404040" points="1821.07,-1859.76 1817.09,-1853.75 1821.11,-1847.76 1825.09,-1853.78 1821.07,-1859.76"/>
+<path fill="none" stroke="#404040" d="M2087.64,-2656.36C2073.26,-2606.46 2054,-2552.45 2029,-2506 2024.07,-2496.83 2018.12,-2497.56 2014,-2488 1972.55,-2391.81 2052.63,-2334.82 1986,-2254 1969.37,-2233.83 1946.89,-2255.95 1930,-2236 1843.23,-2133.5 1820.94,-1984.33 1820.49,-1860.12"/>
+<polygon fill="none" stroke="#404040" points="1820.49,-1859.8 1816.5,-1853.79 1820.52,-1847.8 1824.5,-1853.81 1820.49,-1859.8"/>
 <text text-anchor="middle" x="1968" y="-2064.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mGraphicsView</text>
 </g>
 <!-- Node9 -->
@@ -401,8 +401,8 @@
 </g>
 <!-- Node5&#45;&gt;Node1 -->
 <g id="edge284" class="edge"><title>Node5&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M2370.22,-4134.66C2390.34,-4059.84 2412.88,-3963.46 2423,-3876 2432.3,-3795.65 2475.09,-3209.88 2423,-3148 2392.79,-3112.11 2352.14,-3163.2 2319,-3130 2120.19,-2930.88 2416.21,-2699.58 2212,-2506 2161.99,-2458.59 2105.86,-2537.58 2058,-2488 2052.29,-2482.09 2012.61,-1905.8 2010,-1898 1992.26,-1844.92 1961.68,-1791.74 1931.5,-1747.16"/>
-<polygon fill="none" stroke="#404040" points="1931.46,-1747.09 1924.76,-1744.4 1924.67,-1737.19 1931.36,-1739.88 1931.46,-1747.09"/>
+<path fill="none" stroke="#404040" d="M2370.22,-4134.66C2390.34,-4059.84 2412.88,-3963.46 2423,-3876 2432.3,-3795.65 2475.09,-3209.88 2423,-3148 2392.79,-3112.11 2352.14,-3163.2 2319,-3130 2120.19,-2930.88 2416.21,-2699.58 2212,-2506 2161.99,-2458.59 2105.86,-2537.58 2058,-2488 2052.29,-2482.09 2012.62,-1905.79 2010,-1898 1992.03,-1844.49 1960.98,-1790.94 1930.42,-1746.18"/>
+<polygon fill="none" stroke="#404040" points="1930.33,-1746.05 1923.63,-1743.39 1923.5,-1736.18 1930.21,-1738.84 1930.33,-1746.05"/>
 <text text-anchor="middle" x="2096.5" y="-2368.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mGridProperties</text>
 </g>
 <!-- Node5&#45;&gt;Node3 -->
@@ -504,59 +504,59 @@
 <!-- Node15 -->
 <g id="node31" class="node"><title>Node15</title>
 <a xlink:href="../../dd/d8a/classlibrary_1_1_library_base_element.html" target="_top" xlink:title="The LibraryBaseElement class. ">
-<polygon fill="white" stroke="black" points="210,-5981 210,-6577 362,-6577 362,-5981 210,-5981"/>
-<text text-anchor="middle" x="286" y="-6564" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryBaseElement</text>
-<polyline fill="none" stroke="black" points="210,-6556 362,-6556 "/>
-<text text-anchor="start" x="218" y="-6543" font-family="Helvetica,sans-Serif" font-size="10.00"># mXmlFileNamePrefix</text>
-<text text-anchor="start" x="218" y="-6530" font-family="Helvetica,sans-Serif" font-size="10.00"># mXmlRootNodeName</text>
-<text text-anchor="start" x="218" y="-6517" font-family="Helvetica,sans-Serif" font-size="10.00"># mDomTreeParsed</text>
-<text text-anchor="start" x="218" y="-6504" font-family="Helvetica,sans-Serif" font-size="10.00"># mUuid</text>
-<text text-anchor="start" x="218" y="-6491" font-family="Helvetica,sans-Serif" font-size="10.00"># mAuthor</text>
-<text text-anchor="start" x="218" y="-6478" font-family="Helvetica,sans-Serif" font-size="10.00"># mCreated</text>
-<text text-anchor="start" x="218" y="-6465" font-family="Helvetica,sans-Serif" font-size="10.00"># mLastModified</text>
-<text text-anchor="start" x="218" y="-6452" font-family="Helvetica,sans-Serif" font-size="10.00"># mNames</text>
-<text text-anchor="start" x="218" y="-6439" font-family="Helvetica,sans-Serif" font-size="10.00"># mDescriptions</text>
-<text text-anchor="start" x="218" y="-6426" font-family="Helvetica,sans-Serif" font-size="10.00"># mKeywords</text>
-<polyline fill="none" stroke="black" points="210,-6418 362,-6418 "/>
-<text text-anchor="start" x="218" y="-6405" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
-<text text-anchor="start" x="218" y="-6392" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
-<text text-anchor="start" x="218" y="-6379" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="218" y="-6366" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="218" y="-6353" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
-<text text-anchor="start" x="218" y="-6340" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
-<text text-anchor="start" x="218" y="-6327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
-<text text-anchor="start" x="218" y="-6314" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
-<text text-anchor="start" x="218" y="-6301" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCreated()</text>
-<text text-anchor="start" x="218" y="-6288" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLastModified()</text>
-<text text-anchor="start" x="218" y="-6275" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
-<text text-anchor="start" x="218" y="-6262" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescription()</text>
-<text text-anchor="start" x="218" y="-6249" font-family="Helvetica,sans-Serif" font-size="10.00">+ getKeywords()</text>
-<text text-anchor="start" x="218" y="-6236" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNames()</text>
-<text text-anchor="start" x="218" y="-6223" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescriptions()</text>
-<text text-anchor="start" x="218" y="-6210" font-family="Helvetica,sans-Serif" font-size="10.00">+ getKeywords()</text>
-<text text-anchor="start" x="218" y="-6197" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAllAvailableLocales()</text>
-<text text-anchor="start" x="218" y="-6184" font-family="Helvetica,sans-Serif" font-size="10.00">+ setUuid()</text>
-<text text-anchor="start" x="218" y="-6171" font-family="Helvetica,sans-Serif" font-size="10.00">+ setName()</text>
-<text text-anchor="start" x="218" y="-6158" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDescription()</text>
-<text text-anchor="start" x="218" y="-6145" font-family="Helvetica,sans-Serif" font-size="10.00">+ setKeywords()</text>
-<text text-anchor="start" x="218" y="-6132" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVersion()</text>
-<text text-anchor="start" x="218" y="-6119" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAuthor()</text>
-<text text-anchor="start" x="218" y="-6106" font-family="Helvetica,sans-Serif" font-size="10.00">+ save()</text>
-<text text-anchor="start" x="218" y="-6093" font-family="Helvetica,sans-Serif" font-size="10.00">+ saveTo()</text>
-<text text-anchor="start" x="218" y="-6080" font-family="Helvetica,sans-Serif" font-size="10.00">+ readLocaleDomNodes()</text>
-<text text-anchor="start" x="218" y="-6067" font-family="Helvetica,sans-Serif" font-size="10.00">+ localeStringFromList()</text>
-<text text-anchor="start" x="218" y="-6054" font-family="Helvetica,sans-Serif" font-size="10.00"># readFromFile()</text>
-<text text-anchor="start" x="218" y="-6041" font-family="Helvetica,sans-Serif" font-size="10.00"># parseDomTree()</text>
-<text text-anchor="start" x="218" y="-6028" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeToXmlDomElement()</text>
-<text text-anchor="start" x="218" y="-6015" font-family="Helvetica,sans-Serif" font-size="10.00"># checkAttributesValidity()</text>
-<text text-anchor="start" x="218" y="-6002" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; LibraryBaseElement()</text>
-<text text-anchor="start" x="218" y="-5989" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<polygon fill="white" stroke="black" points="211,-5981 211,-6577 363,-6577 363,-5981 211,-5981"/>
+<text text-anchor="middle" x="287" y="-6564" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryBaseElement</text>
+<polyline fill="none" stroke="black" points="211,-6556 363,-6556 "/>
+<text text-anchor="start" x="219" y="-6543" font-family="Helvetica,sans-Serif" font-size="10.00"># mXmlFileNamePrefix</text>
+<text text-anchor="start" x="219" y="-6530" font-family="Helvetica,sans-Serif" font-size="10.00"># mXmlRootNodeName</text>
+<text text-anchor="start" x="219" y="-6517" font-family="Helvetica,sans-Serif" font-size="10.00"># mDomTreeParsed</text>
+<text text-anchor="start" x="219" y="-6504" font-family="Helvetica,sans-Serif" font-size="10.00"># mUuid</text>
+<text text-anchor="start" x="219" y="-6491" font-family="Helvetica,sans-Serif" font-size="10.00"># mAuthor</text>
+<text text-anchor="start" x="219" y="-6478" font-family="Helvetica,sans-Serif" font-size="10.00"># mCreated</text>
+<text text-anchor="start" x="219" y="-6465" font-family="Helvetica,sans-Serif" font-size="10.00"># mLastModified</text>
+<text text-anchor="start" x="219" y="-6452" font-family="Helvetica,sans-Serif" font-size="10.00"># mNames</text>
+<text text-anchor="start" x="219" y="-6439" font-family="Helvetica,sans-Serif" font-size="10.00"># mDescriptions</text>
+<text text-anchor="start" x="219" y="-6426" font-family="Helvetica,sans-Serif" font-size="10.00"># mKeywords</text>
+<polyline fill="none" stroke="black" points="211,-6418 363,-6418 "/>
+<text text-anchor="start" x="219" y="-6405" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
+<text text-anchor="start" x="219" y="-6392" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
+<text text-anchor="start" x="219" y="-6379" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
+<text text-anchor="start" x="219" y="-6366" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="219" y="-6353" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
+<text text-anchor="start" x="219" y="-6340" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
+<text text-anchor="start" x="219" y="-6327" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
+<text text-anchor="start" x="219" y="-6314" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
+<text text-anchor="start" x="219" y="-6301" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCreated()</text>
+<text text-anchor="start" x="219" y="-6288" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLastModified()</text>
+<text text-anchor="start" x="219" y="-6275" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
+<text text-anchor="start" x="219" y="-6262" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescription()</text>
+<text text-anchor="start" x="219" y="-6249" font-family="Helvetica,sans-Serif" font-size="10.00">+ getKeywords()</text>
+<text text-anchor="start" x="219" y="-6236" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNames()</text>
+<text text-anchor="start" x="219" y="-6223" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescriptions()</text>
+<text text-anchor="start" x="219" y="-6210" font-family="Helvetica,sans-Serif" font-size="10.00">+ getKeywords()</text>
+<text text-anchor="start" x="219" y="-6197" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAllAvailableLocales()</text>
+<text text-anchor="start" x="219" y="-6184" font-family="Helvetica,sans-Serif" font-size="10.00">+ setUuid()</text>
+<text text-anchor="start" x="219" y="-6171" font-family="Helvetica,sans-Serif" font-size="10.00">+ setName()</text>
+<text text-anchor="start" x="219" y="-6158" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDescription()</text>
+<text text-anchor="start" x="219" y="-6145" font-family="Helvetica,sans-Serif" font-size="10.00">+ setKeywords()</text>
+<text text-anchor="start" x="219" y="-6132" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVersion()</text>
+<text text-anchor="start" x="219" y="-6119" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAuthor()</text>
+<text text-anchor="start" x="219" y="-6106" font-family="Helvetica,sans-Serif" font-size="10.00">+ save()</text>
+<text text-anchor="start" x="219" y="-6093" font-family="Helvetica,sans-Serif" font-size="10.00">+ saveTo()</text>
+<text text-anchor="start" x="219" y="-6080" font-family="Helvetica,sans-Serif" font-size="10.00">+ readLocaleDomNodes()</text>
+<text text-anchor="start" x="219" y="-6067" font-family="Helvetica,sans-Serif" font-size="10.00">+ localeStringFromList()</text>
+<text text-anchor="start" x="219" y="-6054" font-family="Helvetica,sans-Serif" font-size="10.00"># readFromFile()</text>
+<text text-anchor="start" x="219" y="-6041" font-family="Helvetica,sans-Serif" font-size="10.00"># parseDomTree()</text>
+<text text-anchor="start" x="219" y="-6028" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeToXmlDomElement()</text>
+<text text-anchor="start" x="219" y="-6015" font-family="Helvetica,sans-Serif" font-size="10.00"># checkAttributesValidity()</text>
+<text text-anchor="start" x="219" y="-6002" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; LibraryBaseElement()</text>
+<text text-anchor="start" x="219" y="-5989" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
 </a>
 </g>
 <!-- Node6&#45;&gt;Node15 -->
 <g id="edge36" class="edge"><title>Node6&#45;&gt;Node15</title>
-<path fill="none" stroke="midnightblue" d="M1619.23,-7170.25C1461.9,-7133.42 1118.6,-7056.66 825,-7016 774.876,-7009.06 638.592,-7028.21 598,-6998 444.266,-6883.57 584.371,-6724.29 442,-6596 419.413,-6575.65 397.778,-6599.22 376,-6578 371.146,-6573.27 366.552,-6568.29 362.203,-6563.1"/>
-<polygon fill="none" stroke="midnightblue" points="1618.79,-7173.74 1629.32,-7172.62 1620.39,-7166.93 1618.79,-7173.74"/>
+<path fill="none" stroke="midnightblue" d="M1619.33,-7170.25C1462.18,-7133.41 1119.28,-7056.65 826,-7016 775.876,-7009.05 639.69,-7028.08 599,-6998 444.506,-6883.78 582.373,-6725.02 440,-6596 418.422,-6576.45 397.736,-6598.45 377,-6578 372.078,-6573.15 367.424,-6568.04 363.022,-6562.7"/>
+<polygon fill="none" stroke="midnightblue" points="1618.88,-7173.74 1629.41,-7172.62 1620.48,-7166.92 1618.88,-7173.74"/>
 </g>
 <!-- Node18 -->
 <g id="node38" class="node"><title>Node18</title>
@@ -607,76 +607,76 @@
 <!-- Node21 -->
 <g id="node46" class="node"><title>Node21</title>
 <a xlink:href="../../d2/d05/classproject_1_1_project.html" target="_top" xlink:title="The Project class represents a whole (opened) project with all its content. ">
-<polygon fill="white" stroke="black" points="764,-4703.5 764,-5520.5 914,-5520.5 914,-4703.5 764,-4703.5"/>
-<text text-anchor="middle" x="839" y="-5507.5" font-family="Helvetica,sans-Serif" font-size="10.00">Project</text>
-<polyline fill="none" stroke="black" points="764,-5499.5 914,-5499.5 "/>
-<text text-anchor="start" x="772" y="-5486.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mIsRestored</text>
-<text text-anchor="start" x="772" y="-5473.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mIsReadOnly</text>
-<text text-anchor="start" x="772" y="-5460.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mName</text>
-<text text-anchor="start" x="772" y="-5447.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mAuthor</text>
-<text text-anchor="start" x="772" y="-5434.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mCreated</text>
-<text text-anchor="start" x="772" y="-5421.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mLastModified</text>
-<text text-anchor="start" x="772" y="-5408.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mSchematics</text>
-<text text-anchor="start" x="772" y="-5395.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRemovedSchematics</text>
-<text text-anchor="start" x="772" y="-5382.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoards</text>
-<text text-anchor="start" x="772" y="-5369.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRemovedBoards</text>
-<polyline fill="none" stroke="black" points="764,-5361.5 914,-5361.5 "/>
-<text text-anchor="start" x="772" y="-5348.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Project()</text>
-<text text-anchor="start" x="772" y="-5335.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Project()</text>
-<text text-anchor="start" x="772" y="-5322.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFilepath()</text>
-<text text-anchor="start" x="772" y="-5309.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPath()</text>
-<text text-anchor="start" x="772" y="-5296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isReadOnly()</text>
-<text text-anchor="start" x="772" y="-5283.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isRestored()</text>
-<text text-anchor="start" x="772" y="-5270.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSettings()</text>
-<text text-anchor="start" x="772" y="-5257.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLibrary()</text>
-<text text-anchor="start" x="772" y="-5244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getErcMsgList()</text>
-<text text-anchor="start" x="772" y="-5231.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCircuit()</text>
-<text text-anchor="start" x="772" y="-5218.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
-<text text-anchor="start" x="772" y="-5205.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescription()</text>
-<text text-anchor="start" x="772" y="-5192.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
-<text text-anchor="start" x="772" y="-5179.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCreated()</text>
-<text text-anchor="start" x="772" y="-5166.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLastModified()</text>
-<text text-anchor="start" x="772" y="-5153.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setName()</text>
-<text text-anchor="start" x="772" y="-5140.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDescription()</text>
-<text text-anchor="start" x="772" y="-5127.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAuthor()</text>
-<text text-anchor="start" x="772" y="-5114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setCreated()</text>
-<text text-anchor="start" x="772" y="-5101.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLastModified()</text>
-<text text-anchor="start" x="772" y="-5088.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematicLayer()</text>
-<text text-anchor="start" x="772" y="-5075.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematicIndex()</text>
-<text text-anchor="start" x="772" y="-5062.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematics()</text>
-<text text-anchor="start" x="772" y="-5049.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematicByIndex()</text>
-<text text-anchor="start" x="772" y="-5036.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematicByUuid()</text>
-<text text-anchor="start" x="772" y="-5023.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematicByName()</text>
-<text text-anchor="start" x="772" y="-5010.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ createSchematic()</text>
-<text text-anchor="start" x="772" y="-4997.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addSchematic()</text>
-<text text-anchor="start" x="772" y="-4984.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeSchematic()</text>
-<text text-anchor="start" x="772" y="-4971.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ exportSchematicsAsPdf()</text>
-<text text-anchor="start" x="772" y="-4958.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoardLayer()</text>
-<text text-anchor="start" x="772" y="-4945.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoardIndex()</text>
-<text text-anchor="start" x="772" y="-4932.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoards()</text>
-<text text-anchor="start" x="772" y="-4919.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoardByIndex()</text>
-<text text-anchor="start" x="772" y="-4906.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoardByUuid()</text>
-<text text-anchor="start" x="772" y="-4893.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoardByName()</text>
-<text text-anchor="start" x="772" y="-4880.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ createBoard()</text>
-<text text-anchor="start" x="772" y="-4867.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addBoard()</text>
-<text text-anchor="start" x="772" y="-4854.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeBoard()</text>
-<text text-anchor="start" x="772" y="-4841.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ save()</text>
-<text text-anchor="start" x="772" y="-4828.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAttributeValue()</text>
-<text text-anchor="start" x="772" y="-4815.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ create()</text>
-<text text-anchor="start" x="772" y="-4802.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; Project()</text>
-<text text-anchor="start" x="772" y="-4789.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; Project()</text>
-<text text-anchor="start" x="772" y="-4776.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
-<text text-anchor="start" x="772" y="-4763.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; Project()</text>
-<text text-anchor="start" x="772" y="-4750.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; checkAttributesValidity()</text>
-<text text-anchor="start" x="772" y="-4737.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; serializeToXmlDomElement()</text>
-<text text-anchor="start" x="772" y="-4724.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; save()</text>
-<text text-anchor="start" x="772" y="-4711.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; printSchematicPages()</text>
+<polygon fill="white" stroke="black" points="765,-4703.5 765,-5520.5 915,-5520.5 915,-4703.5 765,-4703.5"/>
+<text text-anchor="middle" x="840" y="-5507.5" font-family="Helvetica,sans-Serif" font-size="10.00">Project</text>
+<polyline fill="none" stroke="black" points="765,-5499.5 915,-5499.5 "/>
+<text text-anchor="start" x="773" y="-5486.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mIsRestored</text>
+<text text-anchor="start" x="773" y="-5473.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mIsReadOnly</text>
+<text text-anchor="start" x="773" y="-5460.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mName</text>
+<text text-anchor="start" x="773" y="-5447.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mAuthor</text>
+<text text-anchor="start" x="773" y="-5434.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mCreated</text>
+<text text-anchor="start" x="773" y="-5421.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mLastModified</text>
+<text text-anchor="start" x="773" y="-5408.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mSchematics</text>
+<text text-anchor="start" x="773" y="-5395.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRemovedSchematics</text>
+<text text-anchor="start" x="773" y="-5382.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoards</text>
+<text text-anchor="start" x="773" y="-5369.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRemovedBoards</text>
+<polyline fill="none" stroke="black" points="765,-5361.5 915,-5361.5 "/>
+<text text-anchor="start" x="773" y="-5348.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Project()</text>
+<text text-anchor="start" x="773" y="-5335.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Project()</text>
+<text text-anchor="start" x="773" y="-5322.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFilepath()</text>
+<text text-anchor="start" x="773" y="-5309.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPath()</text>
+<text text-anchor="start" x="773" y="-5296.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isReadOnly()</text>
+<text text-anchor="start" x="773" y="-5283.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isRestored()</text>
+<text text-anchor="start" x="773" y="-5270.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSettings()</text>
+<text text-anchor="start" x="773" y="-5257.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLibrary()</text>
+<text text-anchor="start" x="773" y="-5244.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getErcMsgList()</text>
+<text text-anchor="start" x="773" y="-5231.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCircuit()</text>
+<text text-anchor="start" x="773" y="-5218.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
+<text text-anchor="start" x="773" y="-5205.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescription()</text>
+<text text-anchor="start" x="773" y="-5192.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
+<text text-anchor="start" x="773" y="-5179.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCreated()</text>
+<text text-anchor="start" x="773" y="-5166.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLastModified()</text>
+<text text-anchor="start" x="773" y="-5153.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setName()</text>
+<text text-anchor="start" x="773" y="-5140.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDescription()</text>
+<text text-anchor="start" x="773" y="-5127.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAuthor()</text>
+<text text-anchor="start" x="773" y="-5114.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setCreated()</text>
+<text text-anchor="start" x="773" y="-5101.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLastModified()</text>
+<text text-anchor="start" x="773" y="-5088.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematicLayer()</text>
+<text text-anchor="start" x="773" y="-5075.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematicIndex()</text>
+<text text-anchor="start" x="773" y="-5062.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematics()</text>
+<text text-anchor="start" x="773" y="-5049.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematicByIndex()</text>
+<text text-anchor="start" x="773" y="-5036.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematicByUuid()</text>
+<text text-anchor="start" x="773" y="-5023.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematicByName()</text>
+<text text-anchor="start" x="773" y="-5010.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ createSchematic()</text>
+<text text-anchor="start" x="773" y="-4997.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addSchematic()</text>
+<text text-anchor="start" x="773" y="-4984.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeSchematic()</text>
+<text text-anchor="start" x="773" y="-4971.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ exportSchematicsAsPdf()</text>
+<text text-anchor="start" x="773" y="-4958.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoardLayer()</text>
+<text text-anchor="start" x="773" y="-4945.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoardIndex()</text>
+<text text-anchor="start" x="773" y="-4932.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoards()</text>
+<text text-anchor="start" x="773" y="-4919.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoardByIndex()</text>
+<text text-anchor="start" x="773" y="-4906.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoardByUuid()</text>
+<text text-anchor="start" x="773" y="-4893.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoardByName()</text>
+<text text-anchor="start" x="773" y="-4880.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ createBoard()</text>
+<text text-anchor="start" x="773" y="-4867.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addBoard()</text>
+<text text-anchor="start" x="773" y="-4854.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeBoard()</text>
+<text text-anchor="start" x="773" y="-4841.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ save()</text>
+<text text-anchor="start" x="773" y="-4828.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAttributeValue()</text>
+<text text-anchor="start" x="773" y="-4815.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ create()</text>
+<text text-anchor="start" x="773" y="-4802.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; Project()</text>
+<text text-anchor="start" x="773" y="-4789.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; Project()</text>
+<text text-anchor="start" x="773" y="-4776.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<text text-anchor="start" x="773" y="-4763.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; Project()</text>
+<text text-anchor="start" x="773" y="-4750.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; checkAttributesValidity()</text>
+<text text-anchor="start" x="773" y="-4737.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; serializeToXmlDomElement()</text>
+<text text-anchor="start" x="773" y="-4724.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; save()</text>
+<text text-anchor="start" x="773" y="-4711.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; printSchematicPages()</text>
 </a>
 </g>
 <!-- Node6&#45;&gt;Node21 -->
 <g id="edge60" class="edge"><title>Node6&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M1646.85,-7132.74C1545.84,-7029.96 1340.1,-6805.69 1227,-6578 1059.74,-6241.26 958.344,-5824 901.382,-5520.85"/>
-<polygon fill="none" stroke="midnightblue" points="1644.42,-7135.27 1653.94,-7139.93 1649.41,-7130.35 1644.42,-7135.27"/>
+<path fill="none" stroke="midnightblue" d="M1646.83,-7132.75C1545.81,-7029.98 1340.02,-6805.72 1227,-6578 1059.87,-6241.26 958.775,-5824 902.048,-5520.85"/>
+<polygon fill="none" stroke="midnightblue" points="1644.41,-7135.27 1653.92,-7139.94 1649.39,-7130.36 1644.41,-7135.27"/>
 </g>
 <!-- Node24 -->
 <g id="node55" class="node"><title>Node24</title>
@@ -703,8 +703,8 @@
 </g>
 <!-- Node6&#45;&gt;Node24 -->
 <g id="edge66" class="edge"><title>Node6&#45;&gt;Node24</title>
-<path fill="none" stroke="midnightblue" d="M1619.44,-7173.95C1383.92,-7127.52 748.831,-7002.01 745,-6998 620.089,-6867.32 816.265,-6718.15 683,-6596 638.345,-6555.07 453.849,-6620.82 411,-6578 363.895,-6530.93 391.258,-6043.44 371,-5980 299.256,-5755.33 158.817,-5754.47 93,-5528 30.6054,-5313.3 56.1282,-4639.67 69.1458,-4373.64"/>
-<polygon fill="none" stroke="midnightblue" points="1618.85,-7177.4 1629.33,-7175.9 1620.2,-7170.53 1618.85,-7177.4"/>
+<path fill="none" stroke="midnightblue" d="M1619.53,-7173.95C1384.25,-7127.52 749.826,-7002 746,-6998 621.103,-6867.3 817.265,-6718.15 684,-6596 639.345,-6555.07 454.849,-6620.82 412,-6578 364.895,-6530.93 392.308,-6043.42 372,-5980 300.005,-5755.17 159.063,-5754.65 93,-5528 30.4333,-5313.35 56.0579,-4639.69 69.1243,-4373.65"/>
+<polygon fill="none" stroke="midnightblue" points="1618.93,-7177.4 1629.41,-7175.9 1620.28,-7170.53 1618.93,-7177.4"/>
 </g>
 <!-- Node28 -->
 <g id="node73" class="node"><title>Node28</title>
@@ -734,8 +734,8 @@
 </g>
 <!-- Node6&#45;&gt;Node28 -->
 <g id="edge94" class="edge"><title>Node6&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M1619.64,-7164.33C1522.16,-7132.3 1360.65,-7073.34 1234,-6998 991.312,-6853.64 1004.96,-6698.9 742,-6596 711.419,-6584.03 469.887,-6601.55 447,-6578 374.092,-6502.98 457.768,-4772.11 386,-4696 355.841,-4664.02 218.637,-4710.47 189,-4678 181.21,-4669.47 184.299,-4662.56 189,-4652 193.865,-4641.08 202.714,-4644.17 209,-4634 254.096,-4561.02 279.631,-4467.86 293.875,-4393.28"/>
-<polygon fill="none" stroke="midnightblue" points="1618.57,-7167.66 1629.17,-7167.44 1620.75,-7161.01 1618.57,-7167.66"/>
+<path fill="none" stroke="midnightblue" d="M1619.63,-7164.36C1522.13,-7132.34 1360.61,-7073.4 1234,-6998 991.679,-6853.7 1005.59,-6698.91 743,-6596 712.425,-6584.02 470.893,-6601.54 448,-6578 375.071,-6503 457.789,-4772.09 386,-4696 355.833,-4664.02 218.637,-4710.47 189,-4678 181.21,-4669.47 184.299,-4662.56 189,-4652 193.865,-4641.08 202.714,-4644.17 209,-4634 254.096,-4561.02 279.631,-4467.86 293.875,-4393.28"/>
+<polygon fill="none" stroke="midnightblue" points="1618.56,-7167.69 1629.15,-7167.46 1620.73,-7161.03 1618.56,-7167.69"/>
 </g>
 <!-- Node31 -->
 <g id="node88" class="node"><title>Node31</title>
@@ -1006,8 +1006,8 @@
 </g>
 <!-- Node9&#45;&gt;Node1 -->
 <g id="edge18" class="edge"><title>Node9&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M1645.3,-1898.78C1647.39,-1887.54 1650.23,-1876.51 1654,-1866 1674.26,-1809.51 1714.72,-1756.76 1753.03,-1715.87"/>
-<polygon fill="none" stroke="#404040" points="1753.14,-1715.76 1754.38,-1708.65 1761.41,-1707.07 1760.17,-1714.17 1753.14,-1715.76"/>
+<path fill="none" stroke="#404040" d="M1645.33,-1898.79C1647.41,-1887.54 1650.24,-1876.52 1654,-1866 1674.06,-1809.83 1714.06,-1757.28 1752.03,-1716.45"/>
+<polygon fill="none" stroke="#404040" points="1752.11,-1716.38 1753.32,-1709.27 1760.35,-1707.66 1759.13,-1714.77 1752.11,-1716.38"/>
 <text text-anchor="middle" x="1721.5" y="-1870.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mUnplacedComponentsDock</text>
 </g>
 <!-- Node10&#45;&gt;Node9 -->
@@ -1040,7 +1040,7 @@
 </g>
 <!-- Node11&#45;&gt;Node21 -->
 <g id="edge54" class="edge"><title>Node11&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M1584.39,-6198.31C1572.47,-6133.68 1547.83,-6043.62 1498,-5980 1488.65,-5968.06 1479.1,-5973.32 1469,-5962 1332.76,-5809.39 1389.74,-5713.29 1272,-5546 1166.64,-5396.29 1007.39,-5251.84 914.233,-5173.16"/>
+<path fill="none" stroke="midnightblue" d="M1584.39,-6198.31C1572.47,-6133.68 1547.83,-6043.62 1498,-5980 1488.65,-5968.06 1479.1,-5973.32 1469,-5962 1332.76,-5809.39 1389.64,-5713.36 1272,-5546 1166.85,-5396.4 1007.98,-5251.91 915.047,-5173.2"/>
 <polygon fill="none" stroke="midnightblue" points="1580.99,-6199.22 1586.19,-6208.45 1587.89,-6197.99 1580.99,-6199.22"/>
 </g>
 <!-- Node11&#45;&gt;Node33 -->
@@ -1150,8 +1150,8 @@
 </g>
 <!-- Node14&#45;&gt;Node13 -->
 <g id="edge32" class="edge"><title>Node14&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M342.144,-5018.74C388.219,-4912.51 458.268,-4745 472,-4678 479.616,-4640.84 484.602,-4601.42 487.72,-4562.24"/>
-<polygon fill="none" stroke="midnightblue" points="338.815,-5017.62 338.04,-5028.19 345.235,-5020.41 338.815,-5017.62"/>
+<path fill="none" stroke="midnightblue" d="M331.428,-5018.72C360.644,-4933.03 408.057,-4803.44 461,-4696 465.144,-4687.59 469.33,-4686.99 472,-4678 482.955,-4641.12 489.855,-4601.58 493.917,-4562.09"/>
+<polygon fill="none" stroke="midnightblue" points="328.033,-5017.83 328.132,-5028.42 334.661,-5020.08 328.033,-5017.83"/>
 </g>
 <!-- Node32 -->
 <g id="node92" class="node"><title>Node32</title>
@@ -1189,47 +1189,47 @@
 </g>
 <!-- Node15&#45;&gt;Node14 -->
 <g id="edge34" class="edge"><title>Node15&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M289.967,-5970.36C293.313,-5710.05 297.875,-5355.14 299.925,-5195.64"/>
-<polygon fill="none" stroke="midnightblue" points="286.463,-5970.7 289.834,-5980.74 293.462,-5970.79 286.463,-5970.7"/>
+<path fill="none" stroke="midnightblue" d="M290.703,-5970.36C293.825,-5710.05 298.083,-5355.14 299.997,-5195.64"/>
+<polygon fill="none" stroke="midnightblue" points="287.198,-5970.7 290.578,-5980.74 294.198,-5970.78 287.198,-5970.7"/>
 </g>
 <!-- Node16 -->
 <g id="node34" class="node"><title>Node16</title>
 <a xlink:href="../../de/d34/class_version.html" target="_top" xlink:title="The Version class represents a version number in the format &quot;1.42.7&quot;. ">
-<polygon fill="white" stroke="black" points="372.5,-7016.5 372.5,-7365.5 457.5,-7365.5 457.5,-7016.5 372.5,-7016.5"/>
-<text text-anchor="middle" x="415" y="-7352.5" font-family="Helvetica,sans-Serif" font-size="10.00">Version</text>
-<polyline fill="none" stroke="black" points="372.5,-7344.5 457.5,-7344.5 "/>
-<text text-anchor="start" x="380.5" y="-7331.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNumbers</text>
-<polyline fill="none" stroke="black" points="372.5,-7323.5 457.5,-7323.5 "/>
-<text text-anchor="start" x="380.5" y="-7310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
-<text text-anchor="start" x="380.5" y="-7297.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
-<text text-anchor="start" x="380.5" y="-7284.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
-<text text-anchor="start" x="380.5" y="-7271.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Version()</text>
-<text text-anchor="start" x="380.5" y="-7258.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
-<text text-anchor="start" x="380.5" y="-7245.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumbers()</text>
-<text text-anchor="start" x="380.5" y="-7232.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toStr()</text>
-<text text-anchor="start" x="380.5" y="-7219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVersion()</text>
-<text text-anchor="start" x="380.5" y="-7206.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator=()</text>
-<text text-anchor="start" x="380.5" y="-7193.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;()</text>
-<text text-anchor="start" x="380.5" y="-7180.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;()</text>
-<text text-anchor="start" x="380.5" y="-7167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;=()</text>
-<text text-anchor="start" x="380.5" y="-7154.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;=()</text>
-<text text-anchor="start" x="380.5" y="-7141.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator==()</text>
-<text text-anchor="start" x="380.5" y="-7128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator!=()</text>
-<text text-anchor="start" x="380.5" y="-7115.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; compare()</text>
-<text text-anchor="start" x="380.5" y="-7102.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
-<text text-anchor="start" x="380.5" y="-7089.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;()</text>
-<text text-anchor="start" x="380.5" y="-7076.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;()</text>
-<text text-anchor="start" x="380.5" y="-7063.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;=()</text>
-<text text-anchor="start" x="380.5" y="-7050.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;=()</text>
-<text text-anchor="start" x="380.5" y="-7037.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator==()</text>
-<text text-anchor="start" x="380.5" y="-7024.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator!=()</text>
+<polygon fill="white" stroke="black" points="370.5,-7016.5 370.5,-7365.5 455.5,-7365.5 455.5,-7016.5 370.5,-7016.5"/>
+<text text-anchor="middle" x="413" y="-7352.5" font-family="Helvetica,sans-Serif" font-size="10.00">Version</text>
+<polyline fill="none" stroke="black" points="370.5,-7344.5 455.5,-7344.5 "/>
+<text text-anchor="start" x="378.5" y="-7331.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNumbers</text>
+<polyline fill="none" stroke="black" points="370.5,-7323.5 455.5,-7323.5 "/>
+<text text-anchor="start" x="378.5" y="-7310.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
+<text text-anchor="start" x="378.5" y="-7297.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
+<text text-anchor="start" x="378.5" y="-7284.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
+<text text-anchor="start" x="378.5" y="-7271.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Version()</text>
+<text text-anchor="start" x="378.5" y="-7258.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
+<text text-anchor="start" x="378.5" y="-7245.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumbers()</text>
+<text text-anchor="start" x="378.5" y="-7232.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toStr()</text>
+<text text-anchor="start" x="378.5" y="-7219.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVersion()</text>
+<text text-anchor="start" x="378.5" y="-7206.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator=()</text>
+<text text-anchor="start" x="378.5" y="-7193.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;()</text>
+<text text-anchor="start" x="378.5" y="-7180.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;()</text>
+<text text-anchor="start" x="378.5" y="-7167.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;=()</text>
+<text text-anchor="start" x="378.5" y="-7154.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;=()</text>
+<text text-anchor="start" x="378.5" y="-7141.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator==()</text>
+<text text-anchor="start" x="378.5" y="-7128.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator!=()</text>
+<text text-anchor="start" x="378.5" y="-7115.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; compare()</text>
+<text text-anchor="start" x="378.5" y="-7102.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
+<text text-anchor="start" x="378.5" y="-7089.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;()</text>
+<text text-anchor="start" x="378.5" y="-7076.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;()</text>
+<text text-anchor="start" x="378.5" y="-7063.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;=()</text>
+<text text-anchor="start" x="378.5" y="-7050.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;=()</text>
+<text text-anchor="start" x="378.5" y="-7037.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator==()</text>
+<text text-anchor="start" x="378.5" y="-7024.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator!=()</text>
 </a>
 </g>
 <!-- Node16&#45;&gt;Node15 -->
 <g id="edge38" class="edge"><title>Node16&#45;&gt;Node15</title>
-<path fill="none" stroke="#404040" d="M390.28,-7016.24C373.202,-6895.5 350.02,-6731.6 329.849,-6589.01"/>
-<polygon fill="none" stroke="#404040" points="329.836,-6588.91 325.036,-6583.53 328.156,-6577.03 332.957,-6582.41 329.836,-6588.91"/>
-<text text-anchor="middle" x="413" y="-6794.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mVersion</text>
+<path fill="none" stroke="#404040" d="M388.855,-7016.24C372.174,-6895.5 349.531,-6731.6 329.83,-6589.01"/>
+<polygon fill="none" stroke="#404040" points="329.818,-6588.92 325.034,-6583.52 328.175,-6577.03 332.959,-6582.43 329.818,-6588.92"/>
+<text text-anchor="middle" x="411" y="-6794.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mVersion</text>
 </g>
 <!-- Node17 -->
 <g id="node36" class="node"><title>Node17</title>
@@ -1270,66 +1270,67 @@
 </g>
 <!-- Node17&#45;&gt;Node15 -->
 <g id="edge40" class="edge"><title>Node17&#45;&gt;Node15</title>
-<path fill="none" stroke="#404040" d="M2176.73,-7638.69C1847.76,-7616.91 419.212,-7514.27 295,-7366 101.157,-7134.62 146.019,-6768.05 206.976,-6525.54"/>
-<polygon fill="none" stroke="#404040" points="207.023,-6525.36 204.627,-6518.56 209.983,-6513.73 212.379,-6520.53 207.023,-6525.36"/>
-<text text-anchor="middle" x="329.5" y="-7188.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<path fill="none" stroke="#404040" d="M2176.76,-7638.68C1847.97,-7616.9 420.149,-7514.19 296,-7366 102.157,-7134.62 147.019,-6768.05 207.976,-6525.54"/>
+<polygon fill="none" stroke="#404040" points="208.023,-6525.36 205.627,-6518.56 210.983,-6513.73 213.379,-6520.53 208.023,-6525.36"/>
+<text text-anchor="middle" x="329" y="-7195" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="329" y="-7182" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node17&#45;&gt;Node18 -->
 <g id="edge114" class="edge"><title>Node17&#45;&gt;Node18</title>
-<path fill="none" stroke="#404040" d="M2311,-7533.79C2328.75,-7499.79 2345.8,-7461.39 2356,-7424 2356,-7424 2487.39,-5238.74 2531.65,-4502.69"/>
-<polygon fill="none" stroke="#404040" points="2531.65,-4502.6 2528.02,-4496.37 2532.37,-4490.62 2536.01,-4496.85 2531.65,-4502.6"/>
-<text text-anchor="middle" x="2475.5" y="-6276.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mXmlFilepath</text>
+<path fill="none" stroke="#404040" d="M2311,-7533.79C2328.75,-7499.79 2345.8,-7461.39 2356,-7424 2375.2,-7353.65 2493.22,-5226.72 2532.96,-4502.64"/>
+<polygon fill="none" stroke="#404040" points="2532.97,-4502.49 2529.3,-4496.28 2533.63,-4490.51 2537.29,-4496.72 2532.97,-4502.49"/>
+<text text-anchor="middle" x="2481.5" y="-6276.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mXmlFilepath</text>
 </g>
 <!-- Node20 -->
 <g id="node43" class="node"><title>Node20</title>
 <a xlink:href="../../d1/d7f/class_smart_file.html" target="_top" xlink:title="The abstract SmartFile class represents a file and provides some useful methods to work with that fil...">
-<polygon fill="white" stroke="black" points="648,-7062 648,-7320 816,-7320 816,-7062 648,-7062"/>
-<text text-anchor="middle" x="732" y="-7307" font-family="Helvetica,sans-Serif" font-size="10.00">SmartFile</text>
-<polyline fill="none" stroke="black" points="648,-7299 816,-7299 "/>
-<text text-anchor="start" x="656" y="-7286" font-family="Helvetica,sans-Serif" font-size="10.00"># mIsRestored</text>
-<text text-anchor="start" x="656" y="-7273" font-family="Helvetica,sans-Serif" font-size="10.00"># mIsReadOnly</text>
-<text text-anchor="start" x="656" y="-7260" font-family="Helvetica,sans-Serif" font-size="10.00"># mIsCreated</text>
-<polyline fill="none" stroke="black" points="648,-7252 816,-7252 "/>
-<text text-anchor="start" x="656" y="-7239" font-family="Helvetica,sans-Serif" font-size="10.00">+ SmartFile()</text>
-<text text-anchor="start" x="656" y="-7226" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SmartFile()</text>
-<text text-anchor="start" x="656" y="-7213" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFilepath()</text>
-<text text-anchor="start" x="656" y="-7200" font-family="Helvetica,sans-Serif" font-size="10.00">+ isRestored()</text>
-<text text-anchor="start" x="656" y="-7187" font-family="Helvetica,sans-Serif" font-size="10.00">+ isReadOnly()</text>
-<text text-anchor="start" x="656" y="-7174" font-family="Helvetica,sans-Serif" font-size="10.00">+ isCreated()</text>
-<text text-anchor="start" x="656" y="-7161" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFile()</text>
-<text text-anchor="start" x="656" y="-7148" font-family="Helvetica,sans-Serif" font-size="10.00"># prepareSaveAndReturnFilePath()</text>
-<text text-anchor="start" x="656" y="-7135" font-family="Helvetica,sans-Serif" font-size="10.00"># updateMembersAfterSaving()</text>
-<text text-anchor="start" x="656" y="-7122" font-family="Helvetica,sans-Serif" font-size="10.00"># readContentFromFile()</text>
-<text text-anchor="start" x="656" y="-7109" font-family="Helvetica,sans-Serif" font-size="10.00"># saveContentToFile()</text>
-<text text-anchor="start" x="656" y="-7096" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartFile()</text>
-<text text-anchor="start" x="656" y="-7083" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartFile()</text>
-<text text-anchor="start" x="656" y="-7070" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<polygon fill="white" stroke="black" points="649,-7062 649,-7320 817,-7320 817,-7062 649,-7062"/>
+<text text-anchor="middle" x="733" y="-7307" font-family="Helvetica,sans-Serif" font-size="10.00">SmartFile</text>
+<polyline fill="none" stroke="black" points="649,-7299 817,-7299 "/>
+<text text-anchor="start" x="657" y="-7286" font-family="Helvetica,sans-Serif" font-size="10.00"># mIsRestored</text>
+<text text-anchor="start" x="657" y="-7273" font-family="Helvetica,sans-Serif" font-size="10.00"># mIsReadOnly</text>
+<text text-anchor="start" x="657" y="-7260" font-family="Helvetica,sans-Serif" font-size="10.00"># mIsCreated</text>
+<polyline fill="none" stroke="black" points="649,-7252 817,-7252 "/>
+<text text-anchor="start" x="657" y="-7239" font-family="Helvetica,sans-Serif" font-size="10.00">+ SmartFile()</text>
+<text text-anchor="start" x="657" y="-7226" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SmartFile()</text>
+<text text-anchor="start" x="657" y="-7213" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFilepath()</text>
+<text text-anchor="start" x="657" y="-7200" font-family="Helvetica,sans-Serif" font-size="10.00">+ isRestored()</text>
+<text text-anchor="start" x="657" y="-7187" font-family="Helvetica,sans-Serif" font-size="10.00">+ isReadOnly()</text>
+<text text-anchor="start" x="657" y="-7174" font-family="Helvetica,sans-Serif" font-size="10.00">+ isCreated()</text>
+<text text-anchor="start" x="657" y="-7161" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFile()</text>
+<text text-anchor="start" x="657" y="-7148" font-family="Helvetica,sans-Serif" font-size="10.00"># prepareSaveAndReturnFilePath()</text>
+<text text-anchor="start" x="657" y="-7135" font-family="Helvetica,sans-Serif" font-size="10.00"># updateMembersAfterSaving()</text>
+<text text-anchor="start" x="657" y="-7122" font-family="Helvetica,sans-Serif" font-size="10.00"># readContentFromFile()</text>
+<text text-anchor="start" x="657" y="-7109" font-family="Helvetica,sans-Serif" font-size="10.00"># saveContentToFile()</text>
+<text text-anchor="start" x="657" y="-7096" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartFile()</text>
+<text text-anchor="start" x="657" y="-7083" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartFile()</text>
+<text text-anchor="start" x="657" y="-7070" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
 </a>
 </g>
 <!-- Node17&#45;&gt;Node20 -->
 <g id="edge50" class="edge"><title>Node17&#45;&gt;Node20</title>
-<path fill="none" stroke="#404040" d="M2176.79,-7630.1C2024.63,-7600.19 1642.83,-7521.19 1332,-7424 1150.16,-7367.14 944.388,-7282.67 827.225,-7232.58"/>
-<polygon fill="none" stroke="#404040" points="827.197,-7232.57 820.107,-7233.89 816.167,-7227.85 823.257,-7226.53 827.197,-7232.57"/>
+<path fill="none" stroke="#404040" d="M2176.79,-7630.11C2024.62,-7600.22 1642.8,-7521.27 1332,-7424 1150.44,-7367.17 945.018,-7282.69 828.058,-7232.59"/>
+<polygon fill="none" stroke="#404040" points="828.046,-7232.59 820.955,-7233.9 817.019,-7227.86 824.111,-7226.55 828.046,-7232.59"/>
 <text text-anchor="middle" x="1374" y="-7414.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mTmpFilePath</text>
 <text text-anchor="middle" x="1374" y="-7401.5" font-family="Helvetica,sans-Serif" font-size="10.00">#mFilePath</text>
 <text text-anchor="middle" x="1374" y="-7388.5" font-family="Helvetica,sans-Serif" font-size="10.00">#mOpenedFilePath</text>
 </g>
 <!-- Node17&#45;&gt;Node21 -->
 <g id="edge112" class="edge"><title>Node17&#45;&gt;Node21</title>
-<path fill="none" stroke="#404040" d="M2176.92,-7642.25C1899.02,-7637.6 843.023,-7604.28 639,-7366 532.611,-7241.75 634.333,-7161.57 633,-6998 627.735,-6352.06 553.177,-6175.75 697,-5546 713.532,-5473.61 736.975,-5396.1 760.059,-5326.9"/>
-<polygon fill="none" stroke="#404040" points="760.092,-5326.8 758.208,-5319.84 763.909,-5315.42 765.793,-5322.38 760.092,-5326.8"/>
-<text text-anchor="middle" x="656" y="-6801" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mPath</text>
-<text text-anchor="middle" x="656" y="-6788" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;mFilepath</text>
+<path fill="none" stroke="#404040" d="M2176.96,-7642.24C1899.23,-7637.56 843.887,-7604.15 640,-7366 533.617,-7241.74 635.333,-7161.57 634,-6998 628.735,-6352.06 554.177,-6175.75 698,-5546 714.532,-5473.61 737.975,-5396.1 761.059,-5326.9"/>
+<polygon fill="none" stroke="#404040" points="761.092,-5326.8 759.208,-5319.84 764.909,-5315.42 766.793,-5322.38 761.092,-5326.8"/>
+<text text-anchor="middle" x="657" y="-6801" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mPath</text>
+<text text-anchor="middle" x="657" y="-6788" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;mFilepath</text>
 </g>
 <!-- Node17&#45;&gt;Node24 -->
 <g id="edge72" class="edge"><title>Node17&#45;&gt;Node24</title>
-<path fill="none" stroke="#404040" d="M2176.9,-7641.39C1863.78,-7633.07 545.822,-7588.7 174,-7424 58.215,-7372.71 10,-7317.64 10,-7191 10,-7191 10,-7191 10,-5112 10,-4852.71 40.5851,-4550.13 59.795,-4385.65"/>
+<path fill="none" stroke="#404040" d="M2176.96,-7641.33C1864.12,-7632.72 547.261,-7587.22 175,-7424 58.788,-7373.05 10,-7317.89 10,-7191 10,-7191 10,-7191 10,-5112 10,-4852.71 40.5851,-4550.13 59.795,-4385.65"/>
 <polygon fill="none" stroke="#404040" points="59.8146,-4385.48 56.5422,-4379.06 61.2152,-4373.57 64.4876,-4379.99 59.8146,-4385.48"/>
 <text text-anchor="middle" x="43.5" y="-6276.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mXmlFilepath</text>
 </g>
 <!-- Node17&#45;&gt;Node28 -->
 <g id="edge100" class="edge"><title>Node17&#45;&gt;Node28</title>
-<path fill="none" stroke="#404040" d="M2176.61,-7640.84C1927.22,-7631.7 1034.14,-7588.68 320,-7424 244.664,-7406.63 207.897,-7423.31 156,-7366 102.238,-7306.63 113,-7271.09 113,-7191 113,-7191 113,-7191 113,-5754 113,-5283.74 13.0033,-5152.24 127,-4696 134.517,-4665.92 145.985,-4662.15 159,-4634 193.582,-4559.22 228.757,-4474.28 256.549,-4404.66"/>
+<path fill="none" stroke="#404040" d="M2176.65,-7640.84C1927.38,-7631.68 1034.77,-7588.61 321,-7424 245.665,-7406.63 209.051,-7423.17 157,-7366 103.006,-7306.7 113,-7271.2 113,-7191 113,-7191 113,-7191 113,-5754 113,-5283.74 13.0033,-5152.24 127,-4696 134.517,-4665.92 145.985,-4662.15 159,-4634 193.582,-4559.22 228.757,-4474.28 256.549,-4404.66"/>
 <polygon fill="none" stroke="#404040" points="256.681,-4404.33 255.184,-4397.27 261.12,-4393.18 262.617,-4400.23 256.681,-4404.33"/>
 <text text-anchor="middle" x="146.5" y="-6283" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mXmlFilepath</text>
 <text text-anchor="middle" x="146.5" y="-6270" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;mLibraryPath</text>
@@ -1596,8 +1597,8 @@
 </g>
 <!-- Node18&#45;&gt;Node21 -->
 <g id="edge90" class="edge"><title>Node18&#45;&gt;Node21</title>
-<path fill="none" stroke="#404040" d="M2513.74,-4490.9C2494.66,-4546.36 2464.52,-4599.58 2417,-4634 2372.85,-4665.97 1487.44,-4633.95 1436,-4652 1224.73,-4726.12 1029.16,-4906.68 922.699,-5018.26"/>
-<polygon fill="none" stroke="#404040" points="922.505,-5018.47 921.278,-5025.57 914.247,-5027.17 915.474,-5020.07 922.505,-5018.47"/>
+<path fill="none" stroke="#404040" d="M2513.74,-4490.9C2494.66,-4546.36 2464.52,-4599.58 2417,-4634 2372.85,-4665.97 1487.43,-4633.93 1436,-4652 1224.98,-4726.13 1029.78,-4906.68 923.525,-5018.27"/>
+<polygon fill="none" stroke="#404040" points="923.34,-5018.46 922.12,-5025.57 915.09,-5027.18 916.31,-5020.07 923.34,-5018.46"/>
 <text text-anchor="middle" x="1457.5" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mCircuit</text>
 </g>
 <!-- Node18&#45;&gt;Node38 -->
@@ -1615,103 +1616,103 @@
 <!-- Node19 -->
 <g id="node41" class="node"><title>Node19</title>
 <a xlink:href="../../da/db0/class_smart_xml_file.html" target="_top" xlink:title="The SmartXmlFile class represents a XML file and provides methods to load/save XML DOM trees (XmlDomD...">
-<polygon fill="white" stroke="black" points="763.5,-6195.5 763.5,-6362.5 914.5,-6362.5 914.5,-6195.5 763.5,-6195.5"/>
-<text text-anchor="middle" x="839" y="-6349.5" font-family="Helvetica,sans-Serif" font-size="10.00">SmartXmlFile</text>
-<polyline fill="none" stroke="black" points="763.5,-6341.5 914.5,-6341.5 "/>
-<text text-anchor="middle" x="839" y="-6328.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="763.5,-6320.5 914.5,-6320.5 "/>
-<text text-anchor="start" x="771.5" y="-6307.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SmartXmlFile()</text>
-<text text-anchor="start" x="771.5" y="-6294.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SmartXmlFile()</text>
-<text text-anchor="start" x="771.5" y="-6281.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ parseFileAndBuildDomTree()</text>
-<text text-anchor="start" x="771.5" y="-6268.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ save()</text>
-<text text-anchor="start" x="771.5" y="-6255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ create()</text>
-<text text-anchor="start" x="771.5" y="-6242.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartXmlFile()</text>
-<text text-anchor="start" x="771.5" y="-6229.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartXmlFile()</text>
-<text text-anchor="start" x="771.5" y="-6216.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
-<text text-anchor="start" x="771.5" y="-6203.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartXmlFile()</text>
+<polygon fill="white" stroke="black" points="764.5,-6195.5 764.5,-6362.5 915.5,-6362.5 915.5,-6195.5 764.5,-6195.5"/>
+<text text-anchor="middle" x="840" y="-6349.5" font-family="Helvetica,sans-Serif" font-size="10.00">SmartXmlFile</text>
+<polyline fill="none" stroke="black" points="764.5,-6341.5 915.5,-6341.5 "/>
+<text text-anchor="middle" x="840" y="-6328.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="764.5,-6320.5 915.5,-6320.5 "/>
+<text text-anchor="start" x="772.5" y="-6307.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SmartXmlFile()</text>
+<text text-anchor="start" x="772.5" y="-6294.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SmartXmlFile()</text>
+<text text-anchor="start" x="772.5" y="-6281.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ parseFileAndBuildDomTree()</text>
+<text text-anchor="start" x="772.5" y="-6268.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ save()</text>
+<text text-anchor="start" x="772.5" y="-6255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ create()</text>
+<text text-anchor="start" x="772.5" y="-6242.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartXmlFile()</text>
+<text text-anchor="start" x="772.5" y="-6229.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartXmlFile()</text>
+<text text-anchor="start" x="772.5" y="-6216.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<text text-anchor="start" x="772.5" y="-6203.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartXmlFile()</text>
 </a>
 </g>
 <!-- Node19&#45;&gt;Node18 -->
 <g id="edge46" class="edge"><title>Node19&#45;&gt;Node18</title>
-<path fill="none" stroke="#404040" d="M914.797,-6197.45C987.211,-6125.69 1103.37,-6025.73 1227,-5980 1263.11,-5966.65 1545.57,-5989.01 1573,-5962 1639.01,-5896.98 1534.68,-5610.71 1601,-5546 1634.59,-5513.22 1988.96,-5560.31 2023,-5528 2157.7,-5400.14 2016.76,-4861.01 2102,-4696 2115.74,-4669.4 2125.27,-4663.28 2153,-4652 2214.25,-4627.09 2398.95,-4676.02 2450,-4634 2490.4,-4600.74 2515.02,-4552.86 2529.75,-4502.53"/>
+<path fill="none" stroke="#404040" d="M915.56,-6197.46C987.758,-6125.7 1103.6,-6025.73 1227,-5980 1263.1,-5966.62 1545.57,-5989.01 1573,-5962 1639.01,-5896.98 1534.68,-5610.71 1601,-5546 1634.59,-5513.22 1988.96,-5560.31 2023,-5528 2157.7,-5400.14 2016.76,-4861.01 2102,-4696 2115.74,-4669.4 2125.27,-4663.28 2153,-4652 2214.25,-4627.09 2398.95,-4676.02 2450,-4634 2490.4,-4600.74 2515.02,-4552.86 2529.75,-4502.53"/>
 <polygon fill="none" stroke="#404040" points="2529.82,-4502.29 2527.56,-4495.44 2533.02,-4490.73 2535.27,-4497.58 2529.82,-4502.29"/>
 <text text-anchor="middle" x="2126" y="-5109.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mXmlFile</text>
 </g>
 <!-- Node19&#45;&gt;Node21 -->
 <g id="edge62" class="edge"><title>Node19&#45;&gt;Node21</title>
-<path fill="none" stroke="#404040" d="M839,-6195.07C839,-6057.46 839,-5774.95 839,-5532.96"/>
-<polygon fill="none" stroke="#404040" points="839,-5532.74 835,-5526.74 839,-5520.74 843,-5526.74 839,-5532.74"/>
-<text text-anchor="middle" x="863" y="-5751.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mXmlFile</text>
+<path fill="none" stroke="#404040" d="M840,-6195.07C840,-6057.46 840,-5774.95 840,-5532.96"/>
+<polygon fill="none" stroke="#404040" points="840,-5532.74 836,-5526.74 840,-5520.74 844,-5526.74 840,-5532.74"/>
+<text text-anchor="middle" x="864" y="-5751.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mXmlFile</text>
 </g>
 <!-- Node19&#45;&gt;Node24 -->
 <g id="edge68" class="edge"><title>Node19&#45;&gt;Node24</title>
-<path fill="none" stroke="#404040" d="M839.425,-6195.33C834.933,-6126.73 816.756,-6032.64 755,-5980 701.885,-5934.72 661.097,-5993.86 599,-5962 376.732,-5847.96 429.919,-5682.97 221,-5546 200.196,-5532.36 183.221,-5547.68 168,-5528 133.374,-5483.24 94.3326,-4693.94 80.3404,-4385.81"/>
+<path fill="none" stroke="#404040" d="M840.405,-6195.36C835.9,-6126.77 817.718,-6032.69 756,-5980 703.59,-5935.26 663.35,-5993.38 602,-5962 378.792,-5847.83 430.941,-5683.05 221,-5546 200.169,-5532.4 183.221,-5547.68 168,-5528 133.374,-5483.24 94.3326,-4693.94 80.3404,-4385.81"/>
 <polygon fill="none" stroke="#404040" points="80.3359,-4385.7 76.0686,-4379.89 79.7931,-4373.72 84.0604,-4379.53 80.3359,-4385.7"/>
 <text text-anchor="middle" x="192" y="-5109.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mXmlFile</text>
 </g>
 <!-- Node19&#45;&gt;Node28 -->
 <g id="edge96" class="edge"><title>Node19&#45;&gt;Node28</title>
-<path fill="none" stroke="#404040" d="M836.547,-6195.46C830.168,-6128.8 810.847,-6037.38 755,-5980 736.175,-5960.66 715.162,-5981.97 697,-5962 648.648,-5908.84 475.872,-4752.91 432,-4696 421.078,-4681.83 406.894,-4692.19 396,-4678 336.57,-4600.6 315.948,-4491.89 309.851,-4405.28"/>
-<polygon fill="none" stroke="#404040" points="309.846,-4405.19 305.473,-4399.46 309.085,-4393.21 313.457,-4398.95 309.846,-4405.19"/>
-<text text-anchor="middle" x="620" y="-5109.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mXmlFile</text>
+<path fill="none" stroke="#404040" d="M837.547,-6195.46C831.168,-6128.8 811.847,-6037.38 756,-5980 737.175,-5960.66 716.222,-5981.91 698,-5962 673.712,-5935.46 445.722,-4725.41 425,-4696 416.262,-4683.6 404.677,-4690.44 396,-4678 340.643,-4598.61 319.765,-4491.12 312.532,-4405.57"/>
+<polygon fill="none" stroke="#404040" points="312.515,-4405.34 308.06,-4399.67 311.581,-4393.38 316.036,-4399.05 312.515,-4405.34"/>
+<text text-anchor="middle" x="622" y="-5109.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mXmlFile</text>
 </g>
 <!-- Node19&#45;&gt;Node33 -->
 <g id="edge134" class="edge"><title>Node19&#45;&gt;Node33</title>
-<path fill="none" stroke="#404040" d="M884.094,-6195.42C1006.83,-5963.05 1346.55,-5286.37 1479,-4678 1516.1,-4507.57 1504.4,-4067.97 1517,-3894 1535.72,-3635.56 1565.65,-3343.04 1589.26,-3128.3"/>
+<path fill="none" stroke="#404040" d="M885.022,-6195.41C1007.57,-5963.01 1346.75,-5286.28 1479,-4678 1516.06,-4507.56 1504.4,-4067.97 1517,-3894 1535.72,-3635.56 1565.65,-3343.04 1589.26,-3128.3"/>
 <polygon fill="none" stroke="#404040" points="1589.27,-3128.13 1585.96,-3121.73 1590.59,-3116.21 1593.91,-3122.61 1589.27,-3128.13"/>
 <text text-anchor="middle" x="1507" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mXmlFile</text>
 </g>
 <!-- Node20&#45;&gt;Node19 -->
 <g id="edge48" class="edge"><title>Node20&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M748.352,-7051.62C770.876,-6859.64 810.748,-6519.8 829.168,-6362.81"/>
-<polygon fill="none" stroke="midnightblue" points="744.849,-7051.44 747.16,-7061.78 751.802,-7052.26 744.849,-7051.44"/>
+<path fill="none" stroke="midnightblue" d="M749.352,-7051.62C771.876,-6859.64 811.748,-6519.8 830.168,-6362.81"/>
+<polygon fill="none" stroke="midnightblue" points="745.849,-7051.44 748.16,-7061.78 752.802,-7052.26 745.849,-7051.44"/>
 </g>
 <!-- Node27 -->
 <g id="node69" class="node"><title>Node27</title>
 <a xlink:href="../../db/deb/class_smart_text_file.html" target="_top" xlink:title="The SmartTextFile class represents a text file and provides access to its content. ">
-<polygon fill="white" stroke="black" points="647.5,-6189 647.5,-6369 746.5,-6369 746.5,-6189 647.5,-6189"/>
-<text text-anchor="middle" x="697" y="-6356" font-family="Helvetica,sans-Serif" font-size="10.00">SmartTextFile</text>
-<polyline fill="none" stroke="black" points="647.5,-6348 746.5,-6348 "/>
-<text text-anchor="start" x="655.5" y="-6335" font-family="Helvetica,sans-Serif" font-size="10.00"># mContent</text>
-<polyline fill="none" stroke="black" points="647.5,-6327 746.5,-6327 "/>
-<text text-anchor="start" x="655.5" y="-6314" font-family="Helvetica,sans-Serif" font-size="10.00">+ SmartTextFile()</text>
-<text text-anchor="start" x="655.5" y="-6301" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SmartTextFile()</text>
-<text text-anchor="start" x="655.5" y="-6288" font-family="Helvetica,sans-Serif" font-size="10.00">+ getContent()</text>
-<text text-anchor="start" x="655.5" y="-6275" font-family="Helvetica,sans-Serif" font-size="10.00">+ setContent()</text>
-<text text-anchor="start" x="655.5" y="-6262" font-family="Helvetica,sans-Serif" font-size="10.00">+ save()</text>
-<text text-anchor="start" x="655.5" y="-6249" font-family="Helvetica,sans-Serif" font-size="10.00">+ create()</text>
-<text text-anchor="start" x="655.5" y="-6236" font-family="Helvetica,sans-Serif" font-size="10.00"># SmartTextFile()</text>
-<text text-anchor="start" x="655.5" y="-6223" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartTextFile()</text>
-<text text-anchor="start" x="655.5" y="-6210" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartTextFile()</text>
-<text text-anchor="start" x="655.5" y="-6197" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<polygon fill="white" stroke="black" points="648.5,-6189 648.5,-6369 747.5,-6369 747.5,-6189 648.5,-6189"/>
+<text text-anchor="middle" x="698" y="-6356" font-family="Helvetica,sans-Serif" font-size="10.00">SmartTextFile</text>
+<polyline fill="none" stroke="black" points="648.5,-6348 747.5,-6348 "/>
+<text text-anchor="start" x="656.5" y="-6335" font-family="Helvetica,sans-Serif" font-size="10.00"># mContent</text>
+<polyline fill="none" stroke="black" points="648.5,-6327 747.5,-6327 "/>
+<text text-anchor="start" x="656.5" y="-6314" font-family="Helvetica,sans-Serif" font-size="10.00">+ SmartTextFile()</text>
+<text text-anchor="start" x="656.5" y="-6301" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SmartTextFile()</text>
+<text text-anchor="start" x="656.5" y="-6288" font-family="Helvetica,sans-Serif" font-size="10.00">+ getContent()</text>
+<text text-anchor="start" x="656.5" y="-6275" font-family="Helvetica,sans-Serif" font-size="10.00">+ setContent()</text>
+<text text-anchor="start" x="656.5" y="-6262" font-family="Helvetica,sans-Serif" font-size="10.00">+ save()</text>
+<text text-anchor="start" x="656.5" y="-6249" font-family="Helvetica,sans-Serif" font-size="10.00">+ create()</text>
+<text text-anchor="start" x="656.5" y="-6236" font-family="Helvetica,sans-Serif" font-size="10.00"># SmartTextFile()</text>
+<text text-anchor="start" x="656.5" y="-6223" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartTextFile()</text>
+<text text-anchor="start" x="656.5" y="-6210" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SmartTextFile()</text>
+<text text-anchor="start" x="656.5" y="-6197" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
 </a>
 </g>
 <!-- Node20&#45;&gt;Node27 -->
 <g id="edge88" class="edge"><title>Node20&#45;&gt;Node27</title>
-<path fill="none" stroke="midnightblue" d="M702.101,-7051.96C699.169,-7033.88 696.667,-7015.55 695,-6998 673.59,-6772.61 683.522,-6505.68 691.131,-6369.21"/>
-<polygon fill="none" stroke="midnightblue" points="698.673,-7052.69 703.771,-7061.98 705.578,-7051.54 698.673,-7052.69"/>
+<path fill="none" stroke="midnightblue" d="M703.101,-7051.96C700.169,-7033.88 697.667,-7015.55 696,-6998 674.59,-6772.61 684.522,-6505.68 692.131,-6369.21"/>
+<polygon fill="none" stroke="midnightblue" points="699.673,-7052.69 704.771,-7061.98 706.578,-7051.54 699.673,-7052.69"/>
 </g>
 <!-- Node21&#45;&gt;Node1 -->
 <g id="edge282" class="edge"><title>Node21&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M763.944,-4972.69C723.804,-4878.37 691.779,-4753.02 741,-4652 746.685,-4640.33 757.978,-4645.5 764,-4634 840.415,-4488.08 783.024,-4056.97 807,-3894 899.308,-3266.57 878.199,-3084.53 1138,-2506 1273.06,-2205.24 1347.49,-2147.5 1563,-1898 1621.35,-1830.45 1695.06,-1761.5 1752.2,-1711.01"/>
-<polygon fill="none" stroke="#404040" points="1752.22,-1711 1754.08,-1704.03 1761.22,-1703.07 1759.36,-1710.04 1752.22,-1711"/>
+<path fill="none" stroke="#404040" d="M764.927,-4973.75C724.308,-4879.32 691.579,-4753.43 741,-4652 746.685,-4640.33 757.978,-4645.5 764,-4634 840.415,-4488.08 783.024,-4056.97 807,-3894 899.308,-3266.57 878.199,-3084.53 1138,-2506 1273.06,-2205.24 1347.71,-2147.7 1563,-1898 1620.95,-1830.78 1694.06,-1762.1 1750.9,-1711.65"/>
+<polygon fill="none" stroke="#404040" points="1751.24,-1711.34 1753.09,-1704.37 1760.23,-1703.39 1758.39,-1710.36 1751.24,-1711.34"/>
 <text text-anchor="middle" x="1161" y="-2815.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
 <!-- Node21&#45;&gt;Node9 -->
 <g id="edge146" class="edge"><title>Node21&#45;&gt;Node9</title>
-<path fill="none" stroke="#404040" d="M914.037,-5021.4C978.261,-4937.96 1066.56,-4807.78 1107,-4678 1158.9,-4511.45 1131.51,-4067.76 1147,-3894 1202.22,-3274.57 1128.38,-3096.32 1324,-2506 1364.44,-2383.97 1388.27,-2356.4 1466,-2254 1494.42,-2216.56 1530.01,-2179.16 1562.5,-2147.75"/>
+<path fill="none" stroke="#404040" d="M915.069,-5020.95C979.027,-4937.46 1066.77,-4807.47 1107,-4678 1158.76,-4511.41 1131.51,-4067.76 1147,-3894 1202.22,-3274.57 1128.38,-3096.32 1324,-2506 1364.44,-2383.97 1388.27,-2356.4 1466,-2254 1494.42,-2216.56 1530.01,-2179.16 1562.5,-2147.75"/>
 <polygon fill="none" stroke="#404040" points="1562.91,-2147.36 1564.47,-2140.32 1571.57,-2139.06 1570.01,-2146.1 1562.91,-2147.36"/>
 <text text-anchor="middle" x="1209" y="-3509.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
 <!-- Node21&#45;&gt;Node18 -->
 <g id="edge52" class="edge"><title>Node21&#45;&gt;Node18</title>
-<path fill="none" stroke="#404040" d="M914.159,-5077.52C1053.12,-5011.74 1356,-4858.63 1575,-4678 1586.9,-4668.18 1584,-4658.49 1598,-4652 1640.96,-4632.1 2412.86,-4663.36 2450,-4634 2491.29,-4601.35 2516.21,-4553.41 2530.94,-4502.79"/>
+<path fill="none" stroke="#404040" d="M915.052,-5077.5C1053.82,-5011.68 1356.27,-4858.51 1575,-4678 1586.9,-4668.18 1584,-4658.49 1598,-4652 1640.96,-4632.1 2412.86,-4663.36 2450,-4634 2491.29,-4601.35 2516.21,-4553.41 2530.94,-4502.79"/>
 <polygon fill="none" stroke="#404040" points="2531.02,-4502.49 2528.76,-4495.65 2534.2,-4490.92 2536.47,-4497.77 2531.02,-4502.49"/>
 <text text-anchor="middle" x="1621" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
 <!-- Node21&#45;&gt;Node24 -->
 <g id="edge70" class="edge"><title>Node21&#45;&gt;Node24</title>
-<path fill="none" stroke="#404040" d="M763.903,-4945.7C714.267,-4856.04 640.164,-4752.48 542,-4696 504.856,-4674.63 391.835,-4687.29 350,-4678 346.458,-4677.21 229.625,-4636.51 227,-4634 157.704,-4567.84 118.951,-4465.52 97.9478,-4385.24"/>
+<path fill="none" stroke="#404040" d="M764.896,-4951.26C713.539,-4860.39 636.366,-4753.71 535,-4696 499.105,-4675.56 390.307,-4687.02 350,-4678 346.459,-4677.21 229.625,-4636.51 227,-4634 157.704,-4567.84 118.951,-4465.52 97.9478,-4385.24"/>
 <polygon fill="none" stroke="#404040" points="97.9355,-4385.19 92.5793,-4380.37 94.9762,-4373.57 100.332,-4378.39 97.9355,-4385.19"/>
 <text text-anchor="middle" x="373" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
@@ -1735,7 +1736,7 @@
 </g>
 <!-- Node21&#45;&gt;Node25 -->
 <g id="edge78" class="edge"><title>Node21&#45;&gt;Node25</title>
-<path fill="none" stroke="#404040" d="M763.986,-4970.87C723.553,-4873.65 693.615,-4745.62 757,-4652 769.076,-4634.16 788.203,-4650.54 802,-4634 867.552,-4555.4 881.039,-4435.03 881.588,-4353.08"/>
+<path fill="none" stroke="#404040" d="M764.976,-4971.94C724.046,-4874.6 693.363,-4745.99 757,-4652 769.076,-4634.16 788.203,-4650.54 802,-4634 867.552,-4555.4 881.039,-4435.03 881.588,-4353.08"/>
 <polygon fill="none" stroke="#404040" points="881.588,-4353.03 877.583,-4347.03 881.578,-4341.03 885.583,-4347.02 881.588,-4353.03"/>
 <text text-anchor="middle" x="780" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
@@ -1759,25 +1760,25 @@
 </g>
 <!-- Node21&#45;&gt;Node26 -->
 <g id="edge84" class="edge"><title>Node21&#45;&gt;Node26</title>
-<path fill="none" stroke="#404040" d="M902.046,-4703.24C909.478,-4685.55 917.764,-4668.38 927,-4652 932.875,-4641.58 940.988,-4644.34 947,-4634 997.521,-4547.13 1016.59,-4432.12 1023.75,-4353.52"/>
+<path fill="none" stroke="#404040" d="M902.121,-4703.25C909.524,-4685.56 917.784,-4668.38 927,-4652 932.864,-4641.58 940.988,-4644.34 947,-4634 997.521,-4547.13 1016.59,-4432.12 1023.75,-4353.52"/>
 <polygon fill="none" stroke="#404040" points="1023.78,-4353.19 1020.31,-4346.87 1024.8,-4341.23 1028.28,-4347.55 1023.78,-4353.19"/>
 <text text-anchor="middle" x="950" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
 <!-- Node21&#45;&gt;Node28 -->
 <g id="edge98" class="edge"><title>Node21&#45;&gt;Node28</title>
-<path fill="none" stroke="#404040" d="M763.837,-4995.37C706.682,-4909.64 624.122,-4791.87 542,-4696 523.803,-4674.76 521.883,-4664.78 497,-4652 456.05,-4630.97 428.332,-4665.75 395,-4634 333.995,-4575.89 312.981,-4483.48 307.225,-4405.55"/>
+<path fill="none" stroke="#404040" d="M764.905,-4952.46C707.033,-4848.5 616.645,-4719.96 497,-4652 456.972,-4629.26 428.332,-4665.75 395,-4634 333.995,-4575.89 312.981,-4483.48 307.225,-4405.55"/>
 <polygon fill="none" stroke="#404040" points="307.2,-4405.15 302.823,-4399.42 306.429,-4393.18 310.806,-4398.91 307.2,-4405.15"/>
-<text text-anchor="middle" x="551" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
+<text text-anchor="middle" x="559" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
 <!-- Node21&#45;&gt;Node30 -->
 <g id="edge108" class="edge"><title>Node21&#45;&gt;Node30</title>
-<path fill="none" stroke="#404040" d="M914.285,-5027.74C984.592,-4944.59 1087.26,-4810.96 1146,-4678 1150.77,-4667.21 1155.29,-4656.15 1159.59,-4644.89"/>
-<polygon fill="none" stroke="#404040" points="1159.62,-4644.81 1157.97,-4637.79 1163.82,-4633.57 1165.47,-4640.58 1159.62,-4644.81"/>
+<path fill="none" stroke="#404040" d="M915.028,-5027.7C985.098,-4944.52 1087.42,-4810.86 1146,-4678 1150.76,-4667.21 1155.28,-4656.14 1159.57,-4644.88"/>
+<polygon fill="none" stroke="#404040" points="1159.6,-4644.8 1157.95,-4637.78 1163.79,-4633.55 1165.44,-4640.57 1159.6,-4644.8"/>
 <text text-anchor="middle" x="1178" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
 <!-- Node21&#45;&gt;Node33 -->
 <g id="edge138" class="edge"><title>Node21&#45;&gt;Node33</title>
-<path fill="none" stroke="#404040" d="M914.36,-5017.51C1008.72,-4907.18 1181.63,-4729.88 1375,-4652 1407.83,-4638.78 1668.69,-4659.72 1693,-4634 1749.47,-4574.24 1743.03,-3959.25 1693,-3894 1674.24,-3869.53 1644.77,-3900.46 1626,-3876 1603.32,-3846.46 1608.98,-3429.59 1616.17,-3128.09"/>
+<path fill="none" stroke="#404040" d="M915.18,-5017.51C1009.32,-4907.18 1181.87,-4729.89 1375,-4652 1407.82,-4638.76 1668.69,-4659.72 1693,-4634 1749.47,-4574.24 1743.03,-3959.25 1693,-3894 1674.24,-3869.53 1644.77,-3900.46 1626,-3876 1603.32,-3846.46 1608.98,-3429.59 1616.17,-3128.09"/>
 <polygon fill="none" stroke="#404040" points="1616.17,-3128.06 1612.32,-3121.97 1616.46,-3116.07 1620.32,-3122.16 1616.17,-3128.06"/>
 <text text-anchor="middle" x="1755" y="-4261.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
@@ -1807,25 +1808,25 @@
 </g>
 <!-- Node21&#45;&gt;Node36 -->
 <g id="edge156" class="edge"><title>Node21&#45;&gt;Node36</title>
-<path fill="none" stroke="#404040" d="M763.979,-4961.49C727.438,-4879.81 687.472,-4775.8 669,-4678 666.855,-4666.65 668.84,-4663.55 669,-4652 671.334,-4483.51 601.984,-4037.7 690,-3894 698.726,-3879.75 714.448,-3890.35 723,-3876 792.441,-3759.47 752.508,-2841.59 734.957,-2499.19"/>
+<path fill="none" stroke="#404040" d="M764.989,-4962.53C728.113,-4880.72 687.66,-4776.26 669,-4678 666.844,-4666.65 668.84,-4663.55 669,-4652 671.334,-4483.51 601.984,-4037.7 690,-3894 698.726,-3879.75 714.448,-3890.35 723,-3876 792.441,-3759.47 752.508,-2841.59 734.957,-2499.19"/>
 <polygon fill="none" stroke="#404040" points="734.947,-2498.99 730.643,-2493.21 734.329,-2487.01 738.633,-2492.8 734.947,-2498.99"/>
 <text text-anchor="middle" x="713" y="-4261.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
 <!-- Node21&#45;&gt;Node38 -->
 <g id="edge170" class="edge"><title>Node21&#45;&gt;Node38</title>
-<path fill="none" stroke="#404040" d="M914.203,-5073.18C1083.21,-4988 1508.12,-4785.16 1889,-4696 1899.15,-4693.62 2629.83,-4641.57 2637,-4634 2659.91,-4609.81 2704.53,-2269.32 2705,-2236 2707.13,-2085.79 2719.41,-2047.53 2705,-1898 2684.24,-1682.57 2726.91,-1603.4 2612,-1420 2564.89,-1344.81 2475.59,-1289.32 2417.99,-1259.34"/>
+<path fill="none" stroke="#404040" d="M915.126,-5073.18C1083.96,-4987.99 1508.45,-4785.15 1889,-4696 1899.15,-4693.62 2629.83,-4641.57 2637,-4634 2659.91,-4609.81 2704.53,-2269.32 2705,-2236 2707.13,-2085.79 2719.41,-2047.53 2705,-1898 2684.24,-1682.57 2726.91,-1603.4 2612,-1420 2564.89,-1344.81 2475.59,-1289.32 2417.99,-1259.34"/>
 <polygon fill="none" stroke="#404040" points="2417.96,-1259.32 2410.79,-1260.16 2407.27,-1253.87 2414.43,-1253.03 2417.96,-1259.32"/>
 <text text-anchor="middle" x="2728" y="-2368.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mProject</text>
 </g>
 <!-- Node21&#45;&gt;Node39 -->
 <g id="edge278" class="edge"><title>Node21&#45;&gt;Node39</title>
-<path fill="none" stroke="#404040" d="M763.977,-4863.05C749.051,-4803.01 735.636,-4738.67 728,-4678 726.557,-4666.53 725.601,-4663.3 728,-4652 729.817,-4643.44 734.021,-4642.53 736,-4634 753.192,-4559.91 803.059,-1964.48 840,-1898 1049.8,-1520.42 1574.43,-1325.23 1786.21,-1259.73"/>
-<polygon fill="none" stroke="#404040" points="1786.41,-1259.67 1790.98,-1254.09 1797.89,-1256.15 1793.32,-1261.74 1786.41,-1259.67"/>
+<path fill="none" stroke="#404040" d="M764.95,-4865.66C749.631,-4804.89 735.816,-4739.56 728,-4678 726.545,-4666.54 725.601,-4663.3 728,-4652 729.817,-4643.44 734.021,-4642.53 736,-4634 753.192,-4559.91 803.081,-1964.49 840,-1898 1049.68,-1520.35 1574.38,-1325.2 1786.2,-1259.72"/>
+<polygon fill="none" stroke="#404040" points="1786.4,-1259.66 1790.96,-1254.08 1797.87,-1256.14 1793.31,-1261.73 1786.4,-1259.66"/>
 <text text-anchor="middle" x="837" y="-2368.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
 <!-- Node21&#45;&gt;Node40 -->
 <g id="edge272" class="edge"><title>Node21&#45;&gt;Node40</title>
-<path fill="none" stroke="#404040" d="M763.956,-4969.55C719.412,-4876.8 667.227,-4751.6 644,-4634 595.279,-4387.32 638,-2622.45 638,-2371 638,-2371 638,-2371 638,-1234 638,-1165.19 657.92,-1140.55 712,-1098 899.063,-950.819 1629.26,-818.577 1883.3,-776.159"/>
+<path fill="none" stroke="#404040" d="M764.95,-4970.37C720.096,-4877.56 667.415,-4752 644,-4634 595.058,-4387.36 638,-2622.45 638,-2371 638,-2371 638,-2371 638,-1234 638,-1165.19 657.92,-1140.55 712,-1098 899.063,-950.819 1629.26,-818.577 1883.3,-776.159"/>
 <polygon fill="none" stroke="#404040" points="1883.56,-776.117 1888.82,-771.187 1895.39,-774.148 1890.13,-779.078 1883.56,-776.117"/>
 <text text-anchor="middle" x="661" y="-2064.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
@@ -1856,13 +1857,13 @@
 </g>
 <!-- Node21&#45;&gt;Node41 -->
 <g id="edge188" class="edge"><title>Node21&#45;&gt;Node41</title>
-<path fill="none" stroke="#404040" d="M763.93,-4945.17C729.232,-4868.92 687.122,-4777.6 648,-4696 634.682,-4668.22 624.965,-4663.76 617,-4634 595.704,-4554.43 630.298,-3953.17 573,-3894 542.574,-3862.58 406.693,-3908.12 377,-3876 57.7518,-3530.71 363,-3288.26 363,-2818 363,-2818 363,-2818 363,-762 363,-459.726 1479.15,-338.401 1797.92,-309.915"/>
+<path fill="none" stroke="#404040" d="M764.889,-4941.39C730.856,-4865.72 689.469,-4775.91 650,-4696 636.176,-4668.01 625.454,-4664.05 617,-4634 594.692,-4554.71 630.298,-3953.17 573,-3894 542.574,-3862.58 406.693,-3908.12 377,-3876 57.7518,-3530.71 363,-3288.26 363,-2818 363,-2818 363,-2818 363,-762 363,-459.726 1479.15,-338.401 1797.92,-309.915"/>
 <polygon fill="none" stroke="#404040" points="1798.31,-309.88 1803.94,-305.367 1810.27,-308.822 1804.64,-313.336 1798.31,-309.88"/>
 <text text-anchor="middle" x="386" y="-1870.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProject</text>
 </g>
 <!-- Node21&#45;&gt;Node43 -->
 <g id="edge202" class="edge"><title>Node21&#45;&gt;Node43</title>
-<path fill="none" stroke="#404040" d="M914.065,-5065.1C1101.12,-4948.24 1573.35,-4653.38 1578,-4652 1622.69,-4638.71 2383.54,-4666.47 2417,-4634 2476.08,-4576.66 2416.3,-3966.67 2455,-3894 2461.27,-3882.23 2472.66,-3887.73 2479,-3876 2505.86,-3826.35 2606.56,-1904.35 2610,-1848 2622.28,-1646.71 2636,-1596.66 2636,-1395 2636,-1395 2636,-1395 2636,-762 2636,-622.51 2604.02,-461.872 2583.29,-372.412"/>
+<path fill="none" stroke="#404040" d="M915.305,-5064.88C1102.34,-4947.88 1573.36,-4653.38 1578,-4652 1622.68,-4638.69 2383.54,-4666.47 2417,-4634 2476.08,-4576.66 2416.3,-3966.67 2455,-3894 2461.27,-3882.23 2472.66,-3887.73 2479,-3876 2505.86,-3826.35 2606.56,-1904.35 2610,-1848 2622.28,-1646.71 2636,-1596.66 2636,-1395 2636,-1395 2636,-1395 2636,-762 2636,-622.51 2604.02,-461.872 2583.29,-372.412"/>
 <polygon fill="none" stroke="#404040" points="2583.24,-372.22 2577.98,-367.291 2580.5,-360.536 2585.77,-365.466 2583.24,-372.22"/>
 <text text-anchor="middle" x="2632" y="-1870.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mProject</text>
 </g>
@@ -1883,8 +1884,8 @@
 </g>
 <!-- Node22&#45;&gt;Node21 -->
 <g id="edge56" class="edge"><title>Node22&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M1311.5,-6211.4C1302.5,-6053.37 1275.46,-5664.23 1222,-5546 1151.2,-5389.42 1004.1,-5248.38 914.218,-5171.98"/>
-<polygon fill="none" stroke="midnightblue" points="1308.01,-6211.68 1312.06,-6221.47 1315,-6211.29 1308.01,-6211.68"/>
+<path fill="none" stroke="midnightblue" d="M1311.49,-6211.4C1302.47,-6053.38 1275.38,-5664.27 1222,-5546 1151.39,-5389.55 1004.67,-5248.47 915.02,-5172.02"/>
+<polygon fill="none" stroke="midnightblue" points="1308,-6211.68 1312.06,-6221.47 1314.99,-6211.29 1308,-6211.68"/>
 </g>
 <!-- Node22&#45;&gt;Node26 -->
 <g id="edge82" class="edge"><title>Node22&#45;&gt;Node26</title>
@@ -1894,32 +1895,32 @@
 <!-- Node23 -->
 <g id="node51" class="node"><title>Node23</title>
 <a xlink:href="../../d6/db7/class_i_f___board_layer_provider.html" target="_top" xlink:title="The IF_BoardLayerProvider class defines an interface for classes which provide board layers...">
-<polygon fill="white" stroke="black" points="455.5,-6221.5 455.5,-6336.5 592.5,-6336.5 592.5,-6221.5 455.5,-6221.5"/>
-<text text-anchor="middle" x="524" y="-6323.5" font-family="Helvetica,sans-Serif" font-size="10.00">IF_BoardLayerProvider</text>
-<polyline fill="none" stroke="black" points="455.5,-6315.5 592.5,-6315.5 "/>
-<text text-anchor="middle" x="524" y="-6302.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="455.5,-6294.5 592.5,-6294.5 "/>
-<text text-anchor="start" x="463.5" y="-6281.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ IF_BoardLayerProvider()</text>
-<text text-anchor="start" x="463.5" y="-6268.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~IF_BoardLayerProvider()</text>
-<text text-anchor="start" x="463.5" y="-6255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoardLayer()</text>
-<text text-anchor="start" x="463.5" y="-6242.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; IF_BoardLayerProvider()</text>
-<text text-anchor="start" x="463.5" y="-6229.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<polygon fill="white" stroke="black" points="456.5,-6221.5 456.5,-6336.5 593.5,-6336.5 593.5,-6221.5 456.5,-6221.5"/>
+<text text-anchor="middle" x="525" y="-6323.5" font-family="Helvetica,sans-Serif" font-size="10.00">IF_BoardLayerProvider</text>
+<polyline fill="none" stroke="black" points="456.5,-6315.5 593.5,-6315.5 "/>
+<text text-anchor="middle" x="525" y="-6302.5" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="456.5,-6294.5 593.5,-6294.5 "/>
+<text text-anchor="start" x="464.5" y="-6281.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ IF_BoardLayerProvider()</text>
+<text text-anchor="start" x="464.5" y="-6268.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~IF_BoardLayerProvider()</text>
+<text text-anchor="start" x="464.5" y="-6255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoardLayer()</text>
+<text text-anchor="start" x="464.5" y="-6242.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; IF_BoardLayerProvider()</text>
+<text text-anchor="start" x="464.5" y="-6229.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
 </a>
 </g>
 <!-- Node23&#45;&gt;Node21 -->
 <g id="edge58" class="edge"><title>Node23&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M528.28,-6211.26C538.731,-6054.25 567.537,-5669.44 606,-5546 642.316,-5429.45 710.58,-5307.93 763.87,-5223.23"/>
-<polygon fill="none" stroke="midnightblue" points="524.786,-6211.06 527.618,-6221.27 531.77,-6211.52 524.786,-6211.06"/>
+<path fill="none" stroke="midnightblue" d="M529.28,-6211.26C539.731,-6054.25 568.537,-5669.44 607,-5546 643.316,-5429.45 711.58,-5307.93 764.87,-5223.23"/>
+<polygon fill="none" stroke="midnightblue" points="525.786,-6211.06 528.618,-6221.27 532.77,-6211.52 525.786,-6211.06"/>
 </g>
 <!-- Node23&#45;&gt;Node25 -->
 <g id="edge76" class="edge"><title>Node23&#45;&gt;Node25</title>
-<path fill="none" stroke="midnightblue" d="M522.163,-6211.05C519.551,-6081.25 518.002,-5789.3 548,-5546 597.741,-5142.57 630.668,-5043.23 741,-4652 771.902,-4542.42 817.091,-4418.77 846.768,-4341.12"/>
-<polygon fill="none" stroke="midnightblue" points="518.667,-6211.31 522.377,-6221.23 525.666,-6211.16 518.667,-6211.31"/>
+<path fill="none" stroke="midnightblue" d="M523.334,-6211.05C521.032,-6081.26 520.095,-5789.33 550,-5546 599.562,-5142.73 631.137,-5043.16 741,-4652 771.785,-4542.39 817.002,-4418.75 846.718,-4341.11"/>
+<polygon fill="none" stroke="midnightblue" points="519.838,-6211.3 523.523,-6221.24 526.837,-6211.17 519.838,-6211.3"/>
 </g>
 <!-- Node24&#45;&gt;Node21 -->
 <g id="edge64" class="edge"><title>Node24&#45;&gt;Node21</title>
-<path fill="none" stroke="#404040" d="M77.8239,-4373.6C86.747,-4470.32 116.35,-4606.7 209,-4678 267.731,-4723.2 477.049,-4660.32 542,-4696 636.822,-4748.1 708.689,-4844.92 757.96,-4932.06"/>
-<polygon fill="none" stroke="#404040" points="758.012,-4932.16 764.428,-4935.45 763.856,-4942.64 757.441,-4939.34 758.012,-4932.16"/>
+<path fill="none" stroke="#404040" d="M77.8433,-4373.57C86.7797,-4470.28 116.391,-4606.65 209,-4678 266.475,-4722.28 471.211,-4661.43 535,-4696 633.077,-4749.15 707.923,-4849.08 758.924,-4937.67"/>
+<polygon fill="none" stroke="#404040" points="758.942,-4937.7 765.383,-4940.94 764.869,-4948.13 758.428,-4944.89 758.942,-4937.7"/>
 <text text-anchor="middle" x="241" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mErcMsgList</text>
 </g>
 <!-- Node24&#45;&gt;Node36 -->
@@ -1930,32 +1931,32 @@
 </g>
 <!-- Node25&#45;&gt;Node21 -->
 <g id="edge74" class="edge"><title>Node25&#45;&gt;Node21</title>
-<path fill="none" stroke="#404040" d="M859.147,-4341.13C842.092,-4419.04 817.606,-4543.13 808,-4652 806.862,-4664.9 805.992,-4678 805.36,-4691.23"/>
-<polygon fill="none" stroke="#404040" points="805.352,-4691.43 809.095,-4697.59 804.846,-4703.42 801.102,-4697.25 805.352,-4691.43"/>
+<path fill="none" stroke="#404040" d="M859.147,-4341.13C842.092,-4419.04 817.606,-4543.13 808,-4652 806.862,-4664.9 805.996,-4678 805.371,-4691.23"/>
+<polygon fill="none" stroke="#404040" points="805.363,-4691.43 809.11,-4697.59 804.865,-4703.42 801.117,-4697.26 805.363,-4691.43"/>
 <text text-anchor="middle" x="858" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mBoardLayerProvider</text>
 </g>
 <!-- Node26&#45;&gt;Node21 -->
 <g id="edge80" class="edge"><title>Node26&#45;&gt;Node21</title>
-<path fill="none" stroke="#404040" d="M1022.8,-4341.02C1016.16,-4424.7 1002.36,-4561.97 977,-4678 961.617,-4748.37 939.705,-4823.62 917.86,-4891.36"/>
-<polygon fill="none" stroke="#404040" points="917.774,-4891.63 919.727,-4898.57 914.071,-4903.04 912.118,-4896.1 917.774,-4891.63"/>
+<path fill="none" stroke="#404040" d="M1022.75,-4341.01C1016.07,-4424.68 1002.24,-4561.95 977,-4678 961.82,-4747.79 940.278,-4822.41 918.761,-4889.74"/>
+<polygon fill="none" stroke="#404040" points="918.701,-4889.93 920.672,-4896.86 915.028,-4901.35 913.056,-4894.42 918.701,-4889.93"/>
 <text text-anchor="middle" x="1042.5" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mSchematicLayerProvider</text>
 </g>
 <!-- Node27&#45;&gt;Node21 -->
 <g id="edge86" class="edge"><title>Node27&#45;&gt;Node21</title>
-<path fill="none" stroke="#404040" d="M696.151,-6188.77C696.06,-6049.92 700.698,-5775.82 734,-5546 740.881,-5498.51 750.573,-5448.62 761.314,-5400.26"/>
-<polygon fill="none" stroke="#404040" points="761.364,-5400.03 758.775,-5393.3 763.991,-5388.33 766.58,-5395.06 761.364,-5400.03"/>
-<text text-anchor="middle" x="784.5" y="-5751.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mDescriptionHtmlFile</text>
+<path fill="none" stroke="#404040" d="M697.151,-6188.77C697.06,-6049.92 701.698,-5775.82 735,-5546 741.881,-5498.51 751.573,-5448.62 762.314,-5400.26"/>
+<polygon fill="none" stroke="#404040" points="762.364,-5400.03 759.775,-5393.3 764.991,-5388.33 767.58,-5395.06 762.364,-5400.03"/>
+<text text-anchor="middle" x="785.5" y="-5751.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mDescriptionHtmlFile</text>
 </g>
 <!-- Node28&#45;&gt;Node21 -->
 <g id="edge92" class="edge"><title>Node28&#45;&gt;Node21</title>
-<path fill="none" stroke="#404040" d="M333.656,-4393.35C347.905,-4465.21 368.609,-4555.66 395,-4634 401.858,-4654.36 397.802,-4665.13 415,-4678 460.642,-4712.16 493.274,-4666.41 542,-4696 635.657,-4752.88 708.063,-4851.67 757.929,-4938.71"/>
-<polygon fill="none" stroke="#404040" points="757.99,-4938.82 764.426,-4942.07 763.898,-4949.27 757.463,-4946.01 757.99,-4938.82"/>
+<path fill="none" stroke="#404040" d="M333.656,-4393.35C347.905,-4465.21 368.609,-4555.66 395,-4634 401.858,-4654.36 397.854,-4665.06 415,-4678 458.046,-4710.49 488.842,-4668.11 535,-4696 631.77,-4754.47 707.273,-4856.45 758.949,-4944.8"/>
+<polygon fill="none" stroke="#404040" points="758.97,-4944.83 765.436,-4948.03 764.975,-4955.22 758.509,-4952.03 758.97,-4944.83"/>
 <text text-anchor="middle" x="456" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProjectSettings</text>
 </g>
 <!-- Node29&#45;&gt;Node21 -->
 <g id="edge102" class="edge"><title>Node29&#45;&gt;Node21</title>
-<path fill="none" stroke="#404040" d="M2191.8,-6236.98C2091.38,-6170.32 1883.15,-6041.61 1687,-5980 1655.81,-5970.2 1566.7,-5982.2 1541,-5962 1385.65,-5839.86 1500.36,-5705.73 1384,-5546 1257.32,-5372.1 1043.55,-5230.33 924.885,-5159.99"/>
-<polygon fill="none" stroke="#404040" points="924.745,-5159.91 917.546,-5160.31 914.405,-5153.82 921.605,-5153.42 924.745,-5159.91"/>
+<path fill="none" stroke="#404040" d="M2191.8,-6236.98C2091.38,-6170.32 1883.15,-6041.61 1687,-5980 1655.81,-5970.2 1566.7,-5982.2 1541,-5962 1385.65,-5839.86 1500.29,-5705.78 1384,-5546 1257.53,-5372.24 1044.17,-5230.41 925.724,-5160.03"/>
+<polygon fill="none" stroke="#404040" points="925.597,-5159.96 918.397,-5160.35 915.264,-5153.86 922.464,-5153.46 925.597,-5159.96"/>
 <text text-anchor="middle" x="1567" y="-5751.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mFileLock</text>
 </g>
 <!-- Node29&#45;&gt;Node44 -->
@@ -1966,8 +1967,8 @@
 </g>
 <!-- Node30&#45;&gt;Node21 -->
 <g id="edge106" class="edge"><title>Node30&#45;&gt;Node21</title>
-<path fill="none" stroke="#404040" d="M1230.02,-4633.61C1225.76,-4648.79 1220.79,-4663.65 1215,-4678 1153.24,-4831.06 1014.1,-4967.67 923.496,-5045.09"/>
-<polygon fill="none" stroke="#404040" points="923.491,-5045.09 921.501,-5052.02 914.338,-5052.85 916.328,-5045.92 923.491,-5045.09"/>
+<path fill="none" stroke="#404040" d="M1229.99,-4633.6C1225.75,-4648.78 1220.78,-4663.65 1215,-4678 1153.48,-4830.78 1014.92,-4967.3 924.548,-5044.8"/>
+<polygon fill="none" stroke="#404040" points="924.28,-5045.03 922.302,-5051.97 915.14,-5052.81 917.118,-5045.87 924.28,-5045.03"/>
 <text text-anchor="middle" x="1260.5" y="-4662.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProjectLibrary</text>
 </g>
 <!-- Node31&#45;&gt;Node10 -->
@@ -1978,9 +1979,9 @@
 </g>
 <!-- Node32&#45;&gt;Node9 -->
 <g id="edge122" class="edge"><title>Node32&#45;&gt;Node9</title>
-<path fill="none" stroke="#404040" d="M530.123,-3363.38C524.256,-3138.77 550.369,-2716.74 804,-2506 844.454,-2472.39 998.784,-2520.67 1040,-2488 1125.48,-2420.24 1037.95,-2332.19 1114,-2254 1234.18,-2130.44 1440.04,-2088.46 1559.56,-2074.24"/>
+<path fill="none" stroke="#404040" d="M522.963,-3363.41C506.512,-3139.34 513.406,-2718.59 761,-2506 808.137,-2465.53 991.089,-2526.31 1040,-2488 1125.87,-2420.74 1037.95,-2332.19 1114,-2254 1234.18,-2130.44 1440.04,-2088.46 1559.56,-2074.24"/>
 <polygon fill="none" stroke="#404040" points="1559.64,-2074.23 1565.15,-2069.57 1571.56,-2072.87 1566.05,-2077.52 1559.64,-2074.23"/>
-<text text-anchor="middle" x="855.5" y="-2815.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mSelectedComponent</text>
+<text text-anchor="middle" x="812.5" y="-2815.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mSelectedComponent</text>
 </g>
 <!-- Node33&#45;&gt;Node9 -->
 <g id="edge126" class="edge"><title>Node33&#45;&gt;Node9</title>
@@ -2034,8 +2035,8 @@
 </g>
 <!-- Node34&#45;&gt;Node39 -->
 <g id="edge276" class="edge"><title>Node34&#45;&gt;Node39</title>
-<path fill="none" stroke="#404040" d="M2366.75,-2649.93C2351.62,-2537.17 2328.35,-2385.73 2298,-2254 2255.64,-2070.14 2218.75,-2031.29 2174,-1848 2128.12,-1660.08 2227.89,-1560.56 2095,-1420 2071.75,-1395.4 2052.63,-1414.06 2021,-1402 1996.18,-1392.54 1985.66,-1390.97 1965.26,-1373.51"/>
-<polygon fill="none" stroke="#404040" points="1965.11,-1373.37 1957.97,-1372.32 1956.2,-1365.33 1963.34,-1366.38 1965.11,-1373.37"/>
+<path fill="none" stroke="#404040" d="M2366.75,-2649.93C2351.62,-2537.17 2328.35,-2385.73 2298,-2254 2255.64,-2070.14 2218.96,-2031.24 2174,-1848 2127.89,-1660.06 2227.11,-1560.47 2094,-1420 2070.72,-1395.43 2051.58,-1414.17 2020,-1402 1995.53,-1392.57 1985.25,-1390.83 1965.15,-1373.45"/>
+<polygon fill="none" stroke="#404040" points="1965.09,-1373.4 1957.96,-1372.31 1956.22,-1365.32 1963.35,-1366.4 1965.09,-1373.4"/>
 <text text-anchor="middle" x="2213" y="-1870.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mUndoStack</text>
 </g>
 <!-- Node34&#45;&gt;Node43 -->
@@ -2052,8 +2053,8 @@
 </g>
 <!-- Node36&#45;&gt;Node1 -->
 <g id="edge152" class="edge"><title>Node36&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M761.222,-2254.89C796.552,-2149.71 861.781,-1996.55 965,-1898 1079.65,-1788.53 1547.4,-1689.59 1749.39,-1651.06"/>
-<polygon fill="none" stroke="#404040" points="1749.64,-1651.02 1754.79,-1645.97 1761.43,-1648.78 1756.28,-1653.83 1749.64,-1651.02"/>
+<path fill="none" stroke="#404040" d="M761.222,-2254.89C796.552,-2149.71 861.781,-1996.55 965,-1898 1079.46,-1788.71 1546.17,-1689.76 1748.12,-1651.15"/>
+<polygon fill="none" stroke="#404040" points="1748.38,-1651.1 1753.52,-1646.05 1760.16,-1648.86 1755.02,-1653.91 1748.38,-1651.1"/>
 <text text-anchor="middle" x="1001" y="-2064.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mErcMsgDock</text>
 </g>
 <!-- Node36&#45;&gt;Node40 -->
@@ -2081,8 +2082,8 @@
 </g>
 <!-- Node37&#45;&gt;Node1 -->
 <g id="edge158" class="edge"><title>Node37&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M2115.91,-832.524C2090.48,-947.113 2034.93,-1180.04 1965,-1370 1954.48,-1398.57 1942.15,-1428.33 1929.45,-1457.13"/>
-<polygon fill="none" stroke="#404040" points="1929.44,-1457.15 1930.65,-1464.26 1924.56,-1468.11 1923.34,-1461.01 1929.44,-1457.15"/>
+<path fill="none" stroke="#404040" d="M2115.98,-832.55C2090.64,-947.173 2035.22,-1180.15 1965,-1370 1954.27,-1399.02 1941.64,-1429.24 1928.63,-1458.44"/>
+<polygon fill="none" stroke="#404040" points="1928.55,-1458.63 1929.74,-1465.74 1923.64,-1469.58 1922.44,-1462.47 1928.55,-1458.63"/>
 <text text-anchor="middle" x="2065" y="-1231.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mFsm</text>
 </g>
 <!-- Node38&#45;&gt;Node37 -->
@@ -2092,8 +2093,8 @@
 </g>
 <!-- Node39&#45;&gt;Node1 -->
 <g id="edge172" class="edge"><title>Node39&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M1797.92,-1356.76C1793.57,-1367.06 1789.83,-1377.54 1787,-1388 1785.19,-1394.69 1783.82,-1401.49 1782.83,-1408.36"/>
-<polygon fill="none" stroke="#404040" points="1782.82,-1408.47 1786.14,-1414.87 1781.51,-1420.4 1778.19,-1414 1782.82,-1408.47"/>
+<path fill="none" stroke="#404040" d="M1797.92,-1356.76C1793.57,-1367.06 1789.83,-1377.54 1787,-1388 1785.19,-1394.68 1783.81,-1401.48 1782.83,-1408.35"/>
+<polygon fill="none" stroke="#404040" points="1782.81,-1408.45 1786.13,-1414.86 1781.49,-1420.38 1778.17,-1413.97 1782.81,-1408.45"/>
 <text text-anchor="middle" x="1822.5" y="-1392.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mProjectEditor</text>
 </g>
 <!-- Node39&#45;&gt;Node40 -->
@@ -2116,9 +2117,9 @@
 </g>
 <!-- Node40&#45;&gt;Node43 -->
 <g id="edge200" class="edge"><title>Node40&#45;&gt;Node43</title>
-<path fill="none" stroke="#404040" d="M2046.69,-485.229C2049.36,-482.066 2052.13,-478.986 2055,-476 2071.45,-458.863 2382.87,-360.201 2511.32,-320.021"/>
-<polygon fill="none" stroke="#404040" points="2511.34,-320.013 2515.88,-314.405 2522.8,-316.433 2518.26,-322.041 2511.34,-320.013"/>
-<text text-anchor="middle" x="2147.5" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mEditor</text>
+<path fill="none" stroke="#404040" d="M2046.69,-485.229C2049.36,-482.066 2052.13,-478.986 2055,-476 2179.97,-345.824 2406.28,-313.601 2510.6,-305.624"/>
+<polygon fill="none" stroke="#404040" points="2510.73,-305.615 2516.43,-301.201 2522.7,-304.767 2517,-309.181 2510.73,-305.615"/>
+<text text-anchor="middle" x="2107.5" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mEditor</text>
 </g>
 <!-- Node41&#45;&gt;Node40 -->
 <g id="edge184" class="edge"><title>Node41&#45;&gt;Node40</title>
@@ -2129,35 +2130,35 @@
 <!-- Node42 -->
 <g id="node136" class="node"><title>Node42</title>
 <a xlink:href="../../d5/d96/classproject_1_1_s_e_s___f_s_m.html" target="_top" xlink:title="The SES_FSM (Schematic Editor Finite State Machine) class. ">
-<polygon fill="white" stroke="black" points="2140,-0.5 2140,-141.5 2274,-141.5 2274,-0.5 2140,-0.5"/>
-<text text-anchor="middle" x="2207" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">SES_FSM</text>
-<polyline fill="none" stroke="black" points="2140,-120.5 2274,-120.5 "/>
-<text text-anchor="start" x="2148" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mCurrentState</text>
-<text text-anchor="start" x="2148" y="-94.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPreviousState</text>
-<text text-anchor="start" x="2148" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mSubStates</text>
-<polyline fill="none" stroke="black" points="2140,-73.5 2274,-73.5 "/>
-<text text-anchor="start" x="2148" y="-60.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SES_FSM()</text>
-<text text-anchor="start" x="2148" y="-47.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SES_FSM()</text>
-<text text-anchor="start" x="2148" y="-34.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ processEvent()</text>
-<text text-anchor="start" x="2148" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; process()</text>
-<text text-anchor="start" x="2148" y="-8.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; processEventFromChild()</text>
+<polygon fill="white" stroke="black" points="2121,-0.5 2121,-141.5 2255,-141.5 2255,-0.5 2121,-0.5"/>
+<text text-anchor="middle" x="2188" y="-128.5" font-family="Helvetica,sans-Serif" font-size="10.00">SES_FSM</text>
+<polyline fill="none" stroke="black" points="2121,-120.5 2255,-120.5 "/>
+<text text-anchor="start" x="2129" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mCurrentState</text>
+<text text-anchor="start" x="2129" y="-94.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPreviousState</text>
+<text text-anchor="start" x="2129" y="-81.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mSubStates</text>
+<polyline fill="none" stroke="black" points="2121,-73.5 2255,-73.5 "/>
+<text text-anchor="start" x="2129" y="-60.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SES_FSM()</text>
+<text text-anchor="start" x="2129" y="-47.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SES_FSM()</text>
+<text text-anchor="start" x="2129" y="-34.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ processEvent()</text>
+<text text-anchor="start" x="2129" y="-21.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; process()</text>
+<text text-anchor="start" x="2129" y="-8.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; processEventFromChild()</text>
 </a>
 </g>
 <!-- Node42&#45;&gt;Node40 -->
 <g id="edge190" class="edge"><title>Node42&#45;&gt;Node40</title>
-<path fill="none" stroke="#404040" d="M2178.64,-141.766C2146.84,-222.16 2094.55,-357.575 2055,-476 2053.45,-480.63 2051.91,-485.308 2050.36,-490.023"/>
-<polygon fill="none" stroke="#404040" points="2050.24,-490.402 2052.19,-497.345 2046.53,-501.814 2044.58,-494.871 2050.24,-490.402"/>
-<text text-anchor="middle" x="2178" y="-300.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mFsm</text>
+<path fill="none" stroke="#404040" d="M2164.01,-141.748C2136.84,-222.409 2091.59,-358.336 2055,-476 2053.38,-481.214 2051.75,-486.484 2050.11,-491.796"/>
+<polygon fill="none" stroke="#404040" points="2050.04,-492.017 2052.11,-498.926 2046.52,-503.488 2044.46,-496.579 2050.04,-492.017"/>
+<text text-anchor="middle" x="2168" y="-300.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mFsm</text>
 </g>
 <!-- Node43&#45;&gt;Node42 -->
 <g id="edge192" class="edge"><title>Node43&#45;&gt;Node42</title>
-<path fill="none" stroke="midnightblue" d="M2514.07,-269.441C2450.82,-228.567 2343.84,-159.431 2274.32,-114.507"/>
-<polygon fill="none" stroke="midnightblue" points="2512.4,-272.527 2522.7,-275.015 2516.2,-266.648 2512.4,-272.527"/>
+<path fill="none" stroke="midnightblue" d="M2513.88,-271.013C2446.57,-229.7 2329.3,-157.722 2255.31,-112.312"/>
+<polygon fill="none" stroke="midnightblue" points="2512.28,-274.139 2522.64,-276.387 2515.95,-268.173 2512.28,-274.139"/>
 </g>
 <!-- Node44&#45;&gt;Node39 -->
 <g id="edge280" class="edge"><title>Node44&#45;&gt;Node39</title>
-<path fill="none" stroke="#404040" d="M2603.48,-5002.94C2493.67,-4891.19 2305.6,-4723.94 2104,-4652 2073.27,-4641.03 1541.16,-4655.93 1517,-4634 1341.18,-4474.46 1288.5,-2740.75 1324,-2506 1341.53,-2390.08 1361.88,-2364.16 1402,-2254 1539.62,-1876.12 1562.61,-1774.23 1753,-1420 1764.45,-1398.7 1777.67,-1376.75 1791.12,-1355.73"/>
-<polygon fill="none" stroke="#404040" points="1791.22,-1355.57 1791.12,-1348.36 1797.74,-1345.49 1797.84,-1352.7 1791.22,-1355.57"/>
+<path fill="none" stroke="#404040" d="M2603.48,-5002.94C2493.67,-4891.19 2305.6,-4723.94 2104,-4652 2073.27,-4641.03 1541.16,-4655.93 1517,-4634 1341.18,-4474.46 1288.5,-2740.75 1324,-2506 1341.53,-2390.08 1361.93,-2364.18 1402,-2254 1539.37,-1876.22 1561.21,-1773.82 1752,-1420 1763.72,-1398.27 1777.3,-1375.89 1791.12,-1354.51"/>
+<polygon fill="none" stroke="#404040" points="1791.13,-1354.48 1791.06,-1347.27 1797.69,-1344.43 1797.76,-1351.64 1791.13,-1354.48"/>
 <text text-anchor="middle" x="1434" y="-2368.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mWorkspace</text>
 </g>
 <!-- Node44&#45;&gt;Node43 -->

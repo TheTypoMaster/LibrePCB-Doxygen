@@ -346,7 +346,7 @@
 </g>
 <!-- Node4&#45;&gt;Node1 -->
 <g id="edge6" class="edge"><title>Node4&#45;&gt;Node1</title>
-<path fill="none" stroke="midnightblue" d="M1777.88,-6207.57C1853.81,-6170.14 1966.97,-6112.43 2062,-6056 2064.27,-6054.65 2376.76,-5846.33 2378,-5844 2421.5,-5762.43 2378.28,-5104.44 2378,-5012 2377.76,-4934.94 2411.67,-2296.06 2361,-2238 2323.81,-2195.38 2273.92,-2261.06 2235,-2220 2210.75,-2194.42 2208.81,-1939.2 2207,-1904 2192.6,-1623.39 2190.91,-1297.31 2191.55,-1099.41"/>
+<path fill="none" stroke="midnightblue" d="M1777.88,-6207.57C1853.81,-6170.14 1966.97,-6112.43 2062,-6056 2066.54,-6053.3 2375.51,-5848.66 2378,-5844 2421.5,-5762.43 2378.28,-5104.44 2378,-5012 2377.76,-4934.94 2411.67,-2296.06 2361,-2238 2323.81,-2195.38 2273.92,-2261.06 2235,-2220 2210.75,-2194.42 2208.81,-1939.2 2207,-1904 2192.6,-1623.39 2190.91,-1297.31 2191.55,-1099.41"/>
 <polygon fill="none" stroke="midnightblue" points="1776.23,-6204.47 1768.8,-6212.03 1779.32,-6210.76 1776.23,-6204.47"/>
 </g>
 <!-- Node4&#45;&gt;Node6 -->
@@ -374,8 +374,8 @@
 <text text-anchor="start" x="2466" y="-5554" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="2466" y="-5541" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="2466" y="-5528" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="2466" y="-5515" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="2466" y="-5502" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="2466" y="-5515" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="2466" y="-5502" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="2466" y="-5489" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="2466" y="-5476" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="2466" y="-5463" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -408,8 +408,8 @@
 </g>
 <!-- Node4&#45;&gt;Node9 -->
 <g id="edge24" class="edge"><title>Node4&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M1778.55,-6234.86C1942.12,-6206.53 2287.99,-6138.38 2374,-6056 2399.82,-6031.27 2439.46,-5876.24 2472.81,-5726.42"/>
-<polygon fill="none" stroke="midnightblue" points="1777.78,-6231.44 1768.51,-6236.59 1778.96,-6238.34 1777.78,-6231.44"/>
+<path fill="none" stroke="midnightblue" d="M1778.7,-6234.91C1942.57,-6206.66 2289.03,-6138.66 2375,-6056 2400.77,-6031.23 2440.15,-5876.2 2473.27,-5726.38"/>
+<polygon fill="none" stroke="midnightblue" points="1777.92,-6231.5 1768.65,-6236.63 1779.1,-6238.39 1777.92,-6231.5"/>
 </g>
 <!-- Node12 -->
 <g id="node26" class="node"><title>Node12</title>
@@ -602,8 +602,8 @@
 </g>
 <!-- Node4&#45;&gt;Node34 -->
 <g id="edge148" class="edge"><title>Node4&#45;&gt;Node34</title>
-<path fill="none" stroke="midnightblue" d="M1778.68,-6232.36C1889.19,-6207.96 2082.41,-6154.32 2220,-6056 2310.25,-5991.51 2297.14,-5938.97 2377,-5862 2386.6,-5852.75 2394.7,-5855.75 2401,-5844 2488.56,-5680.81 2418.07,-5194.59 2449,-5012 2483.89,-4806.02 2548.83,-4766.86 2578,-4560 2741.69,-3399.04 2595.85,-3094.38 2583,-1922 2577.22,-1394.79 2630.47,-1258.09 2557,-736 2554.66,-719.372 2551.62,-702.281 2548.12,-685.189"/>
-<polygon fill="none" stroke="midnightblue" points="1777.93,-6228.94 1768.9,-6234.49 1779.42,-6235.78 1777.93,-6228.94"/>
+<path fill="none" stroke="midnightblue" d="M1778.38,-6232.5C1889.02,-6208.19 2082.95,-6154.58 2221,-6056 2311.27,-5991.54 2298.93,-5939.79 2378,-5862 2387.25,-5852.9 2394.98,-5855.5 2401,-5844 2486.88,-5679.92 2418.07,-5194.59 2449,-5012 2483.89,-4806.02 2548.83,-4766.86 2578,-4560 2741.69,-3399.04 2595.85,-3094.38 2583,-1922 2577.22,-1394.79 2630.47,-1258.09 2557,-736 2554.66,-719.372 2551.62,-702.281 2548.12,-685.189"/>
+<polygon fill="none" stroke="midnightblue" points="1777.62,-6229.09 1768.59,-6234.63 1779.1,-6235.93 1777.62,-6229.09"/>
 </g>
 <!-- Node5 -->
 <g id="node8" class="node"><title>Node5</title>
@@ -870,41 +870,41 @@
 <!-- Node10 -->
 <g id="node22" class="node"><title>Node10</title>
 <a xlink:href="../../de/d34/class_version.html" target="_top" xlink:title="The Version class represents a version number in the format &quot;1.42.7&quot;. ">
-<polygon fill="white" stroke="black" points="2545.5,-6074.5 2545.5,-6423.5 2630.5,-6423.5 2630.5,-6074.5 2545.5,-6074.5"/>
-<text text-anchor="middle" x="2588" y="-6410.5" font-family="Helvetica,sans-Serif" font-size="10.00">Version</text>
-<polyline fill="none" stroke="black" points="2545.5,-6402.5 2630.5,-6402.5 "/>
-<text text-anchor="start" x="2553.5" y="-6389.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNumbers</text>
-<polyline fill="none" stroke="black" points="2545.5,-6381.5 2630.5,-6381.5 "/>
-<text text-anchor="start" x="2553.5" y="-6368.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
-<text text-anchor="start" x="2553.5" y="-6355.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
-<text text-anchor="start" x="2553.5" y="-6342.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
-<text text-anchor="start" x="2553.5" y="-6329.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Version()</text>
-<text text-anchor="start" x="2553.5" y="-6316.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
-<text text-anchor="start" x="2553.5" y="-6303.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumbers()</text>
-<text text-anchor="start" x="2553.5" y="-6290.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toStr()</text>
-<text text-anchor="start" x="2553.5" y="-6277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVersion()</text>
-<text text-anchor="start" x="2553.5" y="-6264.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator=()</text>
-<text text-anchor="start" x="2553.5" y="-6251.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;()</text>
-<text text-anchor="start" x="2553.5" y="-6238.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;()</text>
-<text text-anchor="start" x="2553.5" y="-6225.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;=()</text>
-<text text-anchor="start" x="2553.5" y="-6212.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;=()</text>
-<text text-anchor="start" x="2553.5" y="-6199.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator==()</text>
-<text text-anchor="start" x="2553.5" y="-6186.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator!=()</text>
-<text text-anchor="start" x="2553.5" y="-6173.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; compare()</text>
-<text text-anchor="start" x="2553.5" y="-6160.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
-<text text-anchor="start" x="2553.5" y="-6147.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;()</text>
-<text text-anchor="start" x="2553.5" y="-6134.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;()</text>
-<text text-anchor="start" x="2553.5" y="-6121.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;=()</text>
-<text text-anchor="start" x="2553.5" y="-6108.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;=()</text>
-<text text-anchor="start" x="2553.5" y="-6095.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator==()</text>
-<text text-anchor="start" x="2553.5" y="-6082.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator!=()</text>
+<polygon fill="white" stroke="black" points="2543.5,-6074.5 2543.5,-6423.5 2628.5,-6423.5 2628.5,-6074.5 2543.5,-6074.5"/>
+<text text-anchor="middle" x="2586" y="-6410.5" font-family="Helvetica,sans-Serif" font-size="10.00">Version</text>
+<polyline fill="none" stroke="black" points="2543.5,-6402.5 2628.5,-6402.5 "/>
+<text text-anchor="start" x="2551.5" y="-6389.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNumbers</text>
+<polyline fill="none" stroke="black" points="2543.5,-6381.5 2628.5,-6381.5 "/>
+<text text-anchor="start" x="2551.5" y="-6368.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
+<text text-anchor="start" x="2551.5" y="-6355.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
+<text text-anchor="start" x="2551.5" y="-6342.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
+<text text-anchor="start" x="2551.5" y="-6329.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Version()</text>
+<text text-anchor="start" x="2551.5" y="-6316.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
+<text text-anchor="start" x="2551.5" y="-6303.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumbers()</text>
+<text text-anchor="start" x="2551.5" y="-6290.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toStr()</text>
+<text text-anchor="start" x="2551.5" y="-6277.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVersion()</text>
+<text text-anchor="start" x="2551.5" y="-6264.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator=()</text>
+<text text-anchor="start" x="2551.5" y="-6251.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;()</text>
+<text text-anchor="start" x="2551.5" y="-6238.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;()</text>
+<text text-anchor="start" x="2551.5" y="-6225.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;=()</text>
+<text text-anchor="start" x="2551.5" y="-6212.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;=()</text>
+<text text-anchor="start" x="2551.5" y="-6199.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator==()</text>
+<text text-anchor="start" x="2551.5" y="-6186.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator!=()</text>
+<text text-anchor="start" x="2551.5" y="-6173.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; compare()</text>
+<text text-anchor="start" x="2551.5" y="-6160.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
+<text text-anchor="start" x="2551.5" y="-6147.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;()</text>
+<text text-anchor="start" x="2551.5" y="-6134.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;()</text>
+<text text-anchor="start" x="2551.5" y="-6121.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;=()</text>
+<text text-anchor="start" x="2551.5" y="-6108.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;=()</text>
+<text text-anchor="start" x="2551.5" y="-6095.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator==()</text>
+<text text-anchor="start" x="2551.5" y="-6082.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator!=()</text>
 </a>
 </g>
 <!-- Node10&#45;&gt;Node9 -->
 <g id="edge26" class="edge"><title>Node10&#45;&gt;Node9</title>
-<path fill="none" stroke="#404040" d="M2576.51,-6074.38C2570.09,-5976.73 2561.9,-5852.12 2554.42,-5738.42"/>
-<polygon fill="none" stroke="#404040" points="2554.41,-5738.37 2550.03,-5732.64 2553.63,-5726.39 2558.01,-5732.12 2554.41,-5738.37"/>
-<text text-anchor="middle" x="2599" y="-5956.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mVersion</text>
+<path fill="none" stroke="#404040" d="M2574.94,-6074.38C2568.76,-5976.73 2560.86,-5852.12 2553.66,-5738.42"/>
+<polygon fill="none" stroke="#404040" points="2553.66,-5738.37 2549.29,-5732.63 2552.9,-5726.39 2557.27,-5732.13 2553.66,-5738.37"/>
+<text text-anchor="middle" x="2598" y="-5956.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mVersion</text>
 </g>
 <!-- Node11 -->
 <g id="node24" class="node"><title>Node11</title>
@@ -945,9 +945,10 @@
 </g>
 <!-- Node11&#45;&gt;Node9 -->
 <g id="edge28" class="edge"><title>Node11&#45;&gt;Node9</title>
-<path fill="none" stroke="#404040" d="M737.014,-6697.52C1044.02,-6680.92 2306.37,-6605.54 2427,-6482 2458.83,-6449.4 2463.41,-6119.33 2468,-6074 2479.08,-5964.65 2491.29,-5844.9 2502.17,-5738.52"/>
-<polygon fill="none" stroke="#404040" points="2502.2,-5738.22 2498.83,-5731.85 2503.42,-5726.29 2506.79,-5732.66 2502.2,-5738.22"/>
-<text text-anchor="middle" x="2502.5" y="-6246.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<path fill="none" stroke="#404040" d="M737.052,-6697.52C1044.23,-6680.94 2307.3,-6605.61 2428,-6482 2459.83,-6449.4 2464.44,-6119.33 2469,-6074 2479.99,-5964.66 2492.04,-5844.91 2502.75,-5738.53"/>
+<polygon fill="none" stroke="#404040" points="2502.78,-5738.24 2499.4,-5731.87 2503.98,-5726.3 2507.36,-5732.67 2502.78,-5738.24"/>
+<text text-anchor="middle" x="2502" y="-6253" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="2502" y="-6240" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node11&#45;&gt;Node12 -->
 <g id="edge102" class="edge"><title>Node11&#45;&gt;Node12</title>

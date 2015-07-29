@@ -129,10 +129,10 @@
 </g>
 <!-- Node32 -->
 <g id="node74" class="node"><title>Node32</title>
-<a xlink:href="../../dd/d8a/classlibrary_1_1_library_base_element.html#a7d1a61339da05cc25ae2d8dc84c2aad4" target="_top" xlink:title="library::LibraryBaseElement\l::getXmlFilepath">
+<a xlink:href="../../dd/d8a/classlibrary_1_1_library_base_element.html#af5ada83112f8bcb21fc65b8560e53ff1" target="_top" xlink:title="library::LibraryBaseElement\l::getDirectory">
 <polygon fill="white" stroke="black" points="328.5,-40 328.5,-74 465.5,-74 465.5,-40 328.5,-40"/>
 <text text-anchor="start" x="336.5" y="-61" font-family="Helvetica,sans-Serif" font-size="10.00">library::LibraryBaseElement</text>
-<text text-anchor="middle" x="397" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">::getXmlFilepath</text>
+<text text-anchor="middle" x="397" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">::getDirectory</text>
 </a>
 </g>
 <!-- Node2&#45;&gt;Node32 -->

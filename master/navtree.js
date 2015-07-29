@@ -91,10 +91,10 @@ var NAVTREEINDEX =
 "da/db0/class_smart_xml_file.html",
 "db/de6/classproject_1_1_cmd_gen_comp_inst_remove.html#a283c343bb853c213c895d86ab9eafcfd",
 "dd/d1a/class_file_parse_error.html#a73d530601d3eb93d6dc9ba6e2c100f66",
-"dd/d8a/classlibrary_1_1_library_base_element.html#a2bd66a02247deedc0c77ea67103ed387",
-"de/d52/class_workspace_settings.html#a4abf1b2064c294b05b38047f25e3a744",
-"df/d70/class_exception.html#a3a8b158ebc8a296bf8e3b40379c2a711",
-"df/def/class_w_s_i___debug_tools.html#a384b09b551df710899cd503e632bfa2c"
+"dd/d8a/classlibrary_1_1_library_base_element.html#a2b6af2c3532eca912a7ec528d248ff67",
+"de/d52/class_workspace_settings.html#a42f5a54cd91e40ca06bcd2a14a71e587",
+"df/d70/class_exception.html#a1c3b9d45f98899becd0a68144227d30f",
+"df/def/class_w_s_i___debug_tools.html#a2d5687f40d2384e2454a06193194f6ab"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -9,7 +9,7 @@
 <area shape="rect" id="node118" href="$d5/d07/classproject_1_1_board.html" title="The Board class represents a PCB of a project and is always part of a circuit. " alt="" coords="2575,5610,2820,6406"/>
 <area shape="rect" id="node6" href="$dc/dd0/class_i_f___graphics_view_event_handler.html" title="The IF_GraphicsViewEventHandler class. " alt="" coords="3669,3891,3899,4011"/>
 <area shape="rect" id="node8" href="$d8/dbf/class_grid_properties.html" title="The GridProperties class. " alt="" coords="3396,3778,3599,4123"/>
-<area shape="rect" id="node10" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="2515,807,2717,945"/>
+<area shape="rect" id="node10" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="2511,807,2713,945"/>
 <area shape="rect" id="node16" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="753,5705,972,6311"/>
 <area shape="rect" id="node25" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="1505,3405,1705,4496"/>
 <area shape="rect" id="node35" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="2063,5861,2263,6155"/>
@@ -44,7 +44,7 @@
 <area shape="rect" id="node100" href="$d7/d7c/classlibrary_1_1_generic_component.html" title="The GenericComponent class. " alt="" coords="2337,5610,2551,6406"/>
 <area shape="rect" id="node102" href="$d8/dff/classlibrary_1_1_library_element.html" title="The LibraryElement class extends the LibraryBaseElement class with some attributes and methods which ..." alt="" coords="2176,3839,2379,4063"/>
 <area shape="rect" id="node115" href="$d3/dad/classlibrary_1_1_component.html" title="The Component class. " alt="" coords="2459,6525,2659,6923"/>
-<area shape="rect" id="node107" href="$de/d34/class_version.html" title="The Version class represents a version number in the format &quot;1.42.7&quot;. " alt="" coords="2379,643,2491,1109"/>
+<area shape="rect" id="node107" href="$de/d34/class_version.html" title="The Version class represents a version number in the format &quot;1.42.7&quot;. " alt="" coords="2375,643,2487,1109"/>
 <area shape="rect" id="node134" href="$db/d99/classproject_1_1_b_e_s___f_s_m.html" title="The BES_FSM (Board Editor Finite State Machine) class. " alt="" coords="1484,10757,1663,10947"/>
 <area shape="rect" id="node151" href="$d6/d7e/class_favorite_projects_model.html" title="The FavoriteProjectsModel class. " alt="" coords="4337,5887,4516,6129"/>
 <area shape="rect" id="node193" href="$d2/d25/class_recent_projects_model.html" title="The RecentProjectsModel class. " alt="" coords="4117,5905,4291,6111"/>

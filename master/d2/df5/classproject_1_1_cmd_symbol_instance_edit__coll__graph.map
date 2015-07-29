@@ -6,7 +6,7 @@
 <area shape="rect" id="node9" href="$d4/dbe/classproject_1_1_s_i___base.html" title="The Schematic Item Base (SI_Base) class. " alt="" coords="1420,6177,1588,6401"/>
 <area shape="rect" id="node11" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="1577,807,1780,945"/>
 <area shape="rect" id="node16" href="$de/d67/classproject_1_1_gen_comp_instance.html" title="The GenCompInstance class. " alt="" coords="1612,5874,1855,6705"/>
-<area shape="rect" id="node26" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="499,1417,701,2213"/>
+<area shape="rect" id="node26" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="496,1417,699,2213"/>
 <area shape="rect" id="node33" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="2437,2756,2656,3361"/>
 <area shape="rect" id="node41" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="2592,4216,2792,5307"/>
 <area shape="rect" id="node50" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="3291,6143,3491,6436"/>
@@ -20,7 +20,7 @@
 <area shape="rect" id="node22" href="$d7/d7c/classlibrary_1_1_generic_component.html" title="The GenericComponent class. " alt="" coords="1155,4363,1368,5159"/>
 <area shape="rect" id="node24" href="$d8/dff/classlibrary_1_1_library_element.html" title="The LibraryElement class extends the LibraryBaseElement class with some attributes and methods which ..." alt="" coords="632,2947,835,3171"/>
 <area shape="rect" id="node105" href="$d9/db9/classlibrary_1_1_symbol.html" title="The Symbol class. " alt="" coords="511,6073,711,6505"/>
-<area shape="rect" id="node29" href="$de/d34/class_version.html" title="The Version class represents a version number in the format &quot;1.42.7&quot;. " alt="" coords="600,643,712,1109"/>
+<area shape="rect" id="node29" href="$de/d34/class_version.html" title="The Version class represents a version number in the format &quot;1.42.7&quot;. " alt="" coords="596,643,708,1109"/>
 <area shape="rect" id="node31" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="2521,5,2700,541"/>
 <area shape="rect" id="node38" href="$d1/d7f/class_smart_file.html" title="The abstract SmartFile class represents a file and provides some useful methods to work with that fil..." alt="" coords="2788,703,3012,1049"/>
 <area shape="rect" id="node74" href="$d9/d57/class_file_lock.html" title="This class can be used to implement file&#45;based file locks. " alt="" coords="3145,1133,3308,1392"/>

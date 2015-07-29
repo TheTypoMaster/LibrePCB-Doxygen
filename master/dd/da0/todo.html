@@ -102,7 +102,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../');});
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><dl class="reflist">
-<dt><a class="anchor" id="_todo000027"></a>Class <a class="el" href="../../d1/d92/classproject_1_1_add_gen_comp_dialog.html">AddGenCompDialog</a>  </dt>
+<dt><a class="anchor" id="_todo000028"></a>Class <a class="el" href="../../d1/d92/classproject_1_1_add_gen_comp_dialog.html">AddGenCompDialog</a>  </dt>
 <dd>This class is VERY provisional! </dd>
 <dt><a class="anchor" id="_todo000016"></a>Member <a class="el" href="../../d2/d39/class_angle.html#add207fba48f30f85eb68e6444eb4486a">Angle::degStringToMicrodeg</a>  (const QString &amp;degrees)</dt>
 <dd>don't use double for this purpose! and map the angle to +/- 360 degrees BEFORE converting it to microdegrees! throw an exception on range errors!  </dd>
@@ -114,7 +114,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../');});
 <dd>don't use double for this purpose!  </dd>
 <dt><a class="anchor" id="_todo000001"></a>Page <a class="el" href="../../d2/d22/doc_board_layers.html">Board Layers Documentation</a>  </dt>
 <dd>Add more details </dd>
-<dt><a class="anchor" id="_todo000028"></a>Class <a class="el" href="../../d3/d8f/classproject_1_1_edit_net_classes_dialog.html">EditNetClassesDialog</a>  </dt>
+<dt><a class="anchor" id="_todo000029"></a>Class <a class="el" href="../../d3/d8f/classproject_1_1_edit_net_classes_dialog.html">EditNetClassesDialog</a>  </dt>
 <dd>This class contains very ugly code (static casts) and is not really finished... </dd>
 <dt><a class="anchor" id="_todo000002"></a>Member <a class="el" href="../../d9/d57/class_file_lock.html#ae51d0a675a61d6f5aae0967c8b23f7f1">FileLock::getStatus</a>  () const </dt>
 <dd>This method cannot detect if a lock file was created by another application instance on the same computer with the same user. If multiple instances of the application are not allowed, this should't be a problem. Otherwise, the PID in the lock file must be considered (and check if such a process exists).  </dd>
@@ -126,21 +126,31 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../');});
 <dd>don't use double for this purpose! and throw an exception if a range error occurs (under-/overflow)!  </dd>
 <dt><a class="anchor" id="_todo000017"></a>Member <a class="el" href="../../df/df0/class_length.html#a5bd5292fcf66a49fad586500fa6038a0">Length::toMmString</a>  () const noexcept</dt>
 <dd>don't use double for this purpose! </dd>
-<dt><a class="anchor" id="_todo000022"></a>Class <a class="el" href="../../d4/d2a/classlibrary__editor_1_1_library_editor.html">LibraryEditor</a>  </dt>
+<dt><a class="anchor" id="_todo000022"></a>Class <a class="el" href="../../de/d02/classlibrary_1_1_library.html">Library</a>  </dt>
+<dd>This class needs some refactoring:<ul>
+<li>rescan() is very slow</li>
+<li>rescan() does not report its progress</li>
+<li>rescan() blocks the whole application</li>
+<li>rescan() does not really have exception handling</li>
+<li>rescan() searches all XML files instead of element directories &ndash;&gt; error if there are multiple XML files in one element directory</li>
+<li>many other issues...  </li>
+</ul>
+</dd>
+<dt><a class="anchor" id="_todo000023"></a>Class <a class="el" href="../../d4/d2a/classlibrary__editor_1_1_library_editor.html">LibraryEditor</a>  </dt>
 <dd>this is only a stub class...  </dd>
-<dt><a class="anchor" id="_todo000025"></a>Member <a class="el" href="../../d2/d05/classproject_1_1_project.html#abb42aca60475f475ac2f0cd2ccbc5cb0">Project::createBoard</a>  (const QString &amp;name)</dt>
+<dt><a class="anchor" id="_todo000026"></a>Member <a class="el" href="../../d2/d05/classproject_1_1_project.html#abb42aca60475f475ac2f0cd2ccbc5cb0">Project::createBoard</a>  (const QString &amp;name)</dt>
 <dd>remove special characters to create a valid filename!  </dd>
-<dt><a class="anchor" id="_todo000024"></a>Member <a class="el" href="../../d2/d05/classproject_1_1_project.html#af2c0a8844d704d11396c27da7674aac0">Project::createSchematic</a>  (const QString &amp;name)</dt>
+<dt><a class="anchor" id="_todo000025"></a>Member <a class="el" href="../../d2/d05/classproject_1_1_project.html#af2c0a8844d704d11396c27da7674aac0">Project::createSchematic</a>  (const QString &amp;name)</dt>
 <dd>remove special characters to create a valid filename!  </dd>
-<dt><a class="anchor" id="_todo000026"></a>Member <a class="el" href="../../d2/d05/classproject_1_1_project.html#a99eee361639de631f17e5b6115810c7c">Project::exportSchematicsAsPdf</a>  (const <a class="el" href="../../d4/d1c/class_file_path.html" title="This class represents absolute, well-formatted paths to files or directories. ">FilePath</a> &amp;filepath)</dt>
+<dt><a class="anchor" id="_todo000027"></a>Member <a class="el" href="../../d2/d05/classproject_1_1_project.html#a99eee361639de631f17e5b6115810c7c">Project::exportSchematicsAsPdf</a>  (const <a class="el" href="../../d4/d1c/class_file_path.html" title="This class represents absolute, well-formatted paths to files or directories. ">FilePath</a> &amp;filepath)</dt>
 <dd>add more parameters (paper size, orientation, pages to print, ...)  </dd>
-<dt><a class="anchor" id="_todo000023"></a>Class <a class="el" href="../../d9/d30/classproject_1_1_project_library.html">ProjectLibrary</a>  </dt>
+<dt><a class="anchor" id="_todo000024"></a>Class <a class="el" href="../../d9/d30/classproject_1_1_project_library.html">ProjectLibrary</a>  </dt>
 <dd>Adding and removing elements is very provisional. It does not really work together with the automatic backup/restore feature of projects.  </dd>
 <dt><a class="anchor" id="_todo000006"></a>Page <a class="el" href="../../d0/d1b/doc_schematic_layers.html">Schematic Layers Documentation</a>  </dt>
 <dd>Add more details </dd>
-<dt><a class="anchor" id="_todo000030"></a>Member <a class="el" href="../../da/dda/classproject_1_1_schematic_pages_dock.html#a6fbc07cec19868c41d513b9ef8343e9a">SchematicPagesDock::resizeEvent</a>  (QResizeEvent *event)</dt>
+<dt><a class="anchor" id="_todo000031"></a>Member <a class="el" href="../../da/dda/classproject_1_1_schematic_pages_dock.html#a6fbc07cec19868c41d513b9ef8343e9a">SchematicPagesDock::resizeEvent</a>  (QResizeEvent *event)</dt>
 <dd>The width of the icons is not very accurate  </dd>
-<dt><a class="anchor" id="_todo000029"></a>Class <a class="el" href="../../df/d64/classproject_1_1_s_e_s___draw_wire.html">SES_DrawWire</a>  </dt>
+<dt><a class="anchor" id="_todo000030"></a>Class <a class="el" href="../../df/d64/classproject_1_1_s_e_s___draw_wire.html">SES_DrawWire</a>  </dt>
 <dd>This class is incredible ugly and buggy :-D  </dd>
 <dt><a class="anchor" id="_todo000003"></a>Class <a class="el" href="../../d1/d7f/class_smart_file.html">SmartFile</a>  </dt>
 <dd>Test the class <a class="el" href="../../d1/d7f/class_smart_file.html" title="The abstract SmartFile class represents a file and provides some useful methods to work with that fil...">SmartFile</a> and all of its subclasses!  </dd>
@@ -158,9 +168,9 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../');});
 </dd>
 <dt><a class="anchor" id="_todo000020"></a>Class <a class="el" href="../../de/d34/class_version.html">Version</a>  </dt>
 <dd>Test all methods of this class! No idea if this class works as expected!  </dd>
-<dt><a class="anchor" id="_todo000032"></a>Class <a class="el" href="../../de/d52/class_workspace_settings.html">WorkspaceSettings</a>  </dt>
+<dt><a class="anchor" id="_todo000033"></a>Class <a class="el" href="../../de/d52/class_workspace_settings.html">WorkspaceSettings</a>  </dt>
 <dd>Maybe use XML files instead of INI to save all workspace settings...  </dd>
-<dt><a class="anchor" id="_todo000031"></a>Class <a class="el" href="../../d4/dda/class_w_s_i___base.html">WSI_Base</a>  </dt>
+<dt><a class="anchor" id="_todo000032"></a>Class <a class="el" href="../../d4/dda/class_w_s_i___base.html">WSI_Base</a>  </dt>
 <dd>Use XML instead of INI files to save the workspace settings. </dd>
 <dt><a class="anchor" id="_todo000004"></a>Class <a class="el" href="../../da/d50/class_xml_dom_document.html">XmlDomDocument</a>  </dt>
 <dd><p class="startdd">Use libxml2 instead of Qt's DOM classes </p>
@@ -177,7 +187,7 @@ $(document).ready(function(){initNavTree('dd/da0/todo.html','../../');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Jul 28 2015 20:41:24 for LibrePCB Developers Documentation by
+    <li class="footer">Generated on Wed Jul 29 2015 20:23:08 for LibrePCB Developers Documentation by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

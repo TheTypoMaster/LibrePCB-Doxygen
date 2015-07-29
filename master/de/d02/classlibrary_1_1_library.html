@@ -208,6 +208,15 @@ Private Attributes</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>The <a class="el" href="../../de/d02/classlibrary_1_1_library.html" title="The Library class. ">Library</a> class. </p>
+<dl class="todo"><dt><b><a class="el" href="../../dd/da0/todo.html#_todo000022">Todo:</a></b></dt><dd>This class needs some refactoring:<ul>
+<li><a class="el" href="../../de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. ">rescan()</a> is very slow</li>
+<li><a class="el" href="../../de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. ">rescan()</a> does not report its progress</li>
+<li><a class="el" href="../../de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. ">rescan()</a> blocks the whole application</li>
+<li><a class="el" href="../../de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. ">rescan()</a> does not really have exception handling</li>
+<li><a class="el" href="../../de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. ">rescan()</a> searches all XML files instead of element directories &ndash;&gt; error if there are multiple XML files in one element directory</li>
+<li>many other issues... </li>
+</ul>
+</dd></dl>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="a971644284e58a6acb105dccaecf816fe"></a>
 <div class="memitem">
@@ -761,7 +770,7 @@ Private Attributes</h2></td></tr>
 <div id="dynsection-6-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-6-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d02/classlibrary_1_1_library_af6787f2ec79fd87ee3a8a172766b85c1_cgraph.svg" width="336" height="40"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d02/classlibrary_1_1_library_af6787f2ec79fd87ee3a8a172766b85c1_cgraph.svg" width="526" height="120"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </p>
@@ -817,7 +826,7 @@ Private Attributes</h2></td></tr>
 <div id="dynsection-7-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-7-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d02/classlibrary_1_1_library_af9bba45d0836754df348c6a103febad4_cgraph.svg" width="328" height="40"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d02/classlibrary_1_1_library_af9bba45d0836754df348c6a103febad4_cgraph.svg" width="518" height="120"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </p>
@@ -1227,7 +1236,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d83/namespacelibrary.html">library</a></li><li class="navelem"><a class="el" href="../../de/d02/classlibrary_1_1_library.html">Library</a></li>
-    <li class="footer">Generated on Tue Jul 28 2015 20:41:25 for LibrePCB Developers Documentation by
+    <li class="footer">Generated on Wed Jul 29 2015 20:23:09 for LibrePCB Developers Documentation by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

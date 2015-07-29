@@ -272,8 +272,8 @@
 <text text-anchor="start" x="33" y="-3203" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="33" y="-3190" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="33" y="-3177" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="33" y="-3164" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="33" y="-3151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="33" y="-3164" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="33" y="-3151" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="33" y="-3138" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="33" y="-3125" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="33" y="-3112" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -659,7 +659,8 @@
 <g id="edge24" class="edge"><title>Node11&#45;&gt;Node9</title>
 <path fill="none" stroke="#404040" d="M592.778,-4622.3C521.78,-4586.62 411.272,-4521.3 346,-4434 192.234,-4228.35 213.861,-4137.69 163,-3886 157.945,-3860.98 138.738,-3604.94 123.025,-3387.51"/>
 <polygon fill="none" stroke="#404040" points="123.002,-3387.19 118.581,-3381.5 122.138,-3375.22 126.56,-3380.92 123.002,-3387.19"/>
-<text text-anchor="middle" x="234.5" y="-3998.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<text text-anchor="middle" x="233" y="-4005" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="233" y="-3992" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node11&#45;&gt;Node12 -->
 <g id="edge98" class="edge"><title>Node11&#45;&gt;Node12</title>

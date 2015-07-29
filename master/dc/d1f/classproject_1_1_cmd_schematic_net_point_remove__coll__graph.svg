@@ -657,8 +657,8 @@
 <text text-anchor="start" x="3047.78" y="-6096" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="3047.78" y="-6083" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="3047.78" y="-6070" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="3047.78" y="-6057" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="3047.78" y="-6044" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="3047.78" y="-6057" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="3047.78" y="-6044" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="3047.78" y="-6031" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="3047.78" y="-6018" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="3047.78" y="-6005" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -1192,7 +1192,8 @@
 <g id="edge168" class="edge"><title>Node8&#45;&gt;Node39</title>
 <path fill="none" stroke="#404040" d="M1119.83,-7706.18C1409.37,-7638.31 2559.78,-7328.03 3047.78,-6586 3081.54,-6534.67 3098.71,-6406.57 3107.37,-6280.4"/>
 <polygon fill="none" stroke="#404040" points="3107.39,-6280.17 3103.8,-6273.92 3108.19,-6268.2 3111.78,-6274.45 3107.39,-6280.17"/>
-<text text-anchor="middle" x="2715.28" y="-7066.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<text text-anchor="middle" x="2713.78" y="-7073" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="2713.78" y="-7060" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node9 -->
 <g id="node17" class="node"><title>Node9</title>

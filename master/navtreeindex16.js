@@ -1,5 +1,6 @@
 var NAVTREEINDEX16 =
 {
+"de/d52/class_workspace_settings.html#a42f5a54cd91e40ca06bcd2a14a71e587":[2,0,54,20],
 "de/d52/class_workspace_settings.html#a4abf1b2064c294b05b38047f25e3a744":[2,0,54,5],
 "de/d52/class_workspace_settings.html#a4c7190335bf26fde0f0305254838e514":[2,0,54,9],
 "de/d52/class_workspace_settings.html#a4dddba976f1d068a5ded41cc3e8a813e":[2,0,54,24],
@@ -193,9 +194,9 @@ var NAVTREEINDEX16 =
 "df/d5a/workspacesettings_8cpp.html":[3,0,1,5,0,1],
 "df/d5b/sgi__base_8cpp.html":[3,0,1,3,5,1,0],
 "df/d5f/classlibrary_1_1_package_category.html":[2,0,0,5],
-"df/d5f/classlibrary_1_1_package_category.html#a06ccc04d83f9ffbaf45619c8c5cc61ad":[2,0,0,5,0],
 "df/d5f/classlibrary_1_1_package_category.html#a18dfcac66eb86c3402b2b5d54ecccb56":[2,0,0,5,4],
 "df/d5f/classlibrary_1_1_package_category.html#a26db5b1abad4879f128cc83ef92ffde9":[2,0,0,5,1],
+"df/d5f/classlibrary_1_1_package_category.html#aa4dce7e624ac2ebbdf863f5241e2ca32":[2,0,0,5,0],
 "df/d5f/classlibrary_1_1_package_category.html#ad381e38a4577ef16b775fde663f369fb":[2,0,0,5,2],
 "df/d5f/classlibrary_1_1_package_category.html#ad6c2bb438fe200b1224b2d8e05d3eca0":[2,0,0,5,5],
 "df/d5f/classlibrary_1_1_package_category.html#adac7836d2f9433a305c34cb92e31f3b4":[2,0,0,5,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX16 =
 "df/d6e/board_8cpp.html":[3,0,1,3,0,3],
 "df/d70/class_exception.html":[2,0,18],
 "df/d70/class_exception.html#a07c2fb59865fd1fcf59c54eed59736a1":[2,0,18,12],
-"df/d70/class_exception.html#a0f65d7e4947ef1bcbf309211c0f824f4":[2,0,18,5],
-"df/d70/class_exception.html#a1c3b9d45f98899becd0a68144227d30f":[2,0,18,9]
+"df/d70/class_exception.html#a0f65d7e4947ef1bcbf309211c0f824f4":[2,0,18,5]
 };

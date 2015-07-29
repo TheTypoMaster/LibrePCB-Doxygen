@@ -156,8 +156,8 @@
 <text text-anchor="start" x="123" y="-3509" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="123" y="-3496" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="123" y="-3483" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="123" y="-3470" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="123" y="-3457" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="123" y="-3470" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="123" y="-3457" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="123" y="-3444" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="123" y="-3431" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="123" y="-3418" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -537,9 +537,10 @@
 </g>
 <!-- Node8&#45;&gt;Node5 -->
 <g id="edge14" class="edge"><title>Node8&#45;&gt;Node5</title>
-<path fill="none" stroke="#404040" d="M1271.95,-5186.46C1063.03,-5170.91 429.397,-5112.81 290,-4972 -50.1709,-4628.38 28.3276,-4012.41 112.157,-3656.75"/>
-<polygon fill="none" stroke="#404040" points="112.176,-3656.66 109.673,-3649.9 114.952,-3644.99 117.456,-3651.75 112.176,-3656.66"/>
-<text text-anchor="middle" x="123.5" y="-4420.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<path fill="none" stroke="#404040" d="M1271.9,-5186.51C1062.83,-5171.11 428.811,-5113.39 290,-4972 -48.1421,-4627.58 28.9593,-4013.69 112.146,-3658.21"/>
+<polygon fill="none" stroke="#404040" points="112.163,-3658.13 109.648,-3651.38 114.92,-3646.46 117.434,-3653.21 112.163,-3658.13"/>
+<text text-anchor="middle" x="123" y="-4427" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="123" y="-4414" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node8&#45;&gt;Node9 -->
 <g id="edge88" class="edge"><title>Node8&#45;&gt;Node9</title>

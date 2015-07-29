@@ -692,8 +692,8 @@
 <text text-anchor="start" x="750" y="-5727" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="750" y="-5714" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="750" y="-5701" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="750" y="-5688" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="750" y="-5675" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="750" y="-5688" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="750" y="-5675" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="750" y="-5662" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="750" y="-5649" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="750" y="-5636" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -1439,7 +1439,8 @@
 <g id="edge178" class="edge"><title>Node9&#45;&gt;Node39</title>
 <path fill="none" stroke="#404040" d="M2363.92,-7169.89C2106.38,-7138.56 1177.49,-6987.51 816,-6410 789.421,-6367.54 793.088,-6121.14 801.544,-5911.31"/>
 <polygon fill="none" stroke="#404040" points="801.551,-5911.12 797.8,-5904.96 802.041,-5899.13 805.793,-5905.29 801.551,-5911.12"/>
-<text text-anchor="middle" x="1023.5" y="-6522.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<text text-anchor="middle" x="1022" y="-6529" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="1022" y="-6516" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node10 -->
 <g id="node19" class="node"><title>Node10</title>

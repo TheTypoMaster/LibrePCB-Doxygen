@@ -709,8 +709,8 @@
 <text text-anchor="start" x="2804" y="-6108" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="2804" y="-6095" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="2804" y="-6082" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="2804" y="-6069" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="2804" y="-6056" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="2804" y="-6069" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="2804" y="-6056" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="2804" y="-6043" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="2804" y="-6030" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="2804" y="-6017" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -1365,7 +1365,8 @@
 <g id="edge166" class="edge"><title>Node10&#45;&gt;Node39</title>
 <path fill="none" stroke="#404040" d="M833.263,-7729.27C1099.55,-7713.68 2078.84,-7648.16 2355,-7514 2670.52,-7360.72 2784.55,-7288.3 2923,-6966 2973.32,-6848.87 2947.76,-6534.58 2917.61,-6292.41"/>
 <polygon fill="none" stroke="#404040" points="2917.58,-6292.12 2912.86,-6286.66 2916.08,-6280.21 2920.8,-6285.67 2917.58,-6292.12"/>
-<text text-anchor="middle" x="2947.5" y="-7078.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<text text-anchor="middle" x="2946" y="-7085" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="2946" y="-7072" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node11&#45;&gt;Node7 -->
 <g id="edge24" class="edge"><title>Node11&#45;&gt;Node7</title>

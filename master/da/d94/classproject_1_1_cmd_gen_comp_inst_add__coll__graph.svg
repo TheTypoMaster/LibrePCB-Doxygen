@@ -256,59 +256,59 @@
 <!-- Node9 -->
 <g id="node17" class="node"><title>Node9</title>
 <a xlink:href="../../dd/d8a/classlibrary_1_1_library_base_element.html" target="_top" xlink:title="The LibraryBaseElement class. ">
-<polygon fill="white" stroke="black" points="317,-2499 317,-3095 469,-3095 469,-2499 317,-2499"/>
-<text text-anchor="middle" x="393" y="-3082" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryBaseElement</text>
-<polyline fill="none" stroke="black" points="317,-3074 469,-3074 "/>
-<text text-anchor="start" x="325" y="-3061" font-family="Helvetica,sans-Serif" font-size="10.00"># mXmlFileNamePrefix</text>
-<text text-anchor="start" x="325" y="-3048" font-family="Helvetica,sans-Serif" font-size="10.00"># mXmlRootNodeName</text>
-<text text-anchor="start" x="325" y="-3035" font-family="Helvetica,sans-Serif" font-size="10.00"># mDomTreeParsed</text>
-<text text-anchor="start" x="325" y="-3022" font-family="Helvetica,sans-Serif" font-size="10.00"># mUuid</text>
-<text text-anchor="start" x="325" y="-3009" font-family="Helvetica,sans-Serif" font-size="10.00"># mAuthor</text>
-<text text-anchor="start" x="325" y="-2996" font-family="Helvetica,sans-Serif" font-size="10.00"># mCreated</text>
-<text text-anchor="start" x="325" y="-2983" font-family="Helvetica,sans-Serif" font-size="10.00"># mLastModified</text>
-<text text-anchor="start" x="325" y="-2970" font-family="Helvetica,sans-Serif" font-size="10.00"># mNames</text>
-<text text-anchor="start" x="325" y="-2957" font-family="Helvetica,sans-Serif" font-size="10.00"># mDescriptions</text>
-<text text-anchor="start" x="325" y="-2944" font-family="Helvetica,sans-Serif" font-size="10.00"># mKeywords</text>
-<polyline fill="none" stroke="black" points="317,-2936 469,-2936 "/>
-<text text-anchor="start" x="325" y="-2923" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
-<text text-anchor="start" x="325" y="-2910" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
-<text text-anchor="start" x="325" y="-2897" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="325" y="-2884" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="325" y="-2871" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
-<text text-anchor="start" x="325" y="-2858" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
-<text text-anchor="start" x="325" y="-2845" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
-<text text-anchor="start" x="325" y="-2832" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
-<text text-anchor="start" x="325" y="-2819" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCreated()</text>
-<text text-anchor="start" x="325" y="-2806" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLastModified()</text>
-<text text-anchor="start" x="325" y="-2793" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
-<text text-anchor="start" x="325" y="-2780" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescription()</text>
-<text text-anchor="start" x="325" y="-2767" font-family="Helvetica,sans-Serif" font-size="10.00">+ getKeywords()</text>
-<text text-anchor="start" x="325" y="-2754" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNames()</text>
-<text text-anchor="start" x="325" y="-2741" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescriptions()</text>
-<text text-anchor="start" x="325" y="-2728" font-family="Helvetica,sans-Serif" font-size="10.00">+ getKeywords()</text>
-<text text-anchor="start" x="325" y="-2715" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAllAvailableLocales()</text>
-<text text-anchor="start" x="325" y="-2702" font-family="Helvetica,sans-Serif" font-size="10.00">+ setUuid()</text>
-<text text-anchor="start" x="325" y="-2689" font-family="Helvetica,sans-Serif" font-size="10.00">+ setName()</text>
-<text text-anchor="start" x="325" y="-2676" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDescription()</text>
-<text text-anchor="start" x="325" y="-2663" font-family="Helvetica,sans-Serif" font-size="10.00">+ setKeywords()</text>
-<text text-anchor="start" x="325" y="-2650" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVersion()</text>
-<text text-anchor="start" x="325" y="-2637" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAuthor()</text>
-<text text-anchor="start" x="325" y="-2624" font-family="Helvetica,sans-Serif" font-size="10.00">+ save()</text>
-<text text-anchor="start" x="325" y="-2611" font-family="Helvetica,sans-Serif" font-size="10.00">+ saveTo()</text>
-<text text-anchor="start" x="325" y="-2598" font-family="Helvetica,sans-Serif" font-size="10.00">+ readLocaleDomNodes()</text>
-<text text-anchor="start" x="325" y="-2585" font-family="Helvetica,sans-Serif" font-size="10.00">+ localeStringFromList()</text>
-<text text-anchor="start" x="325" y="-2572" font-family="Helvetica,sans-Serif" font-size="10.00"># readFromFile()</text>
-<text text-anchor="start" x="325" y="-2559" font-family="Helvetica,sans-Serif" font-size="10.00"># parseDomTree()</text>
-<text text-anchor="start" x="325" y="-2546" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeToXmlDomElement()</text>
-<text text-anchor="start" x="325" y="-2533" font-family="Helvetica,sans-Serif" font-size="10.00"># checkAttributesValidity()</text>
-<text text-anchor="start" x="325" y="-2520" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; LibraryBaseElement()</text>
-<text text-anchor="start" x="325" y="-2507" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<polygon fill="white" stroke="black" points="318,-2499 318,-3095 470,-3095 470,-2499 318,-2499"/>
+<text text-anchor="middle" x="394" y="-3082" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryBaseElement</text>
+<polyline fill="none" stroke="black" points="318,-3074 470,-3074 "/>
+<text text-anchor="start" x="326" y="-3061" font-family="Helvetica,sans-Serif" font-size="10.00"># mXmlFileNamePrefix</text>
+<text text-anchor="start" x="326" y="-3048" font-family="Helvetica,sans-Serif" font-size="10.00"># mXmlRootNodeName</text>
+<text text-anchor="start" x="326" y="-3035" font-family="Helvetica,sans-Serif" font-size="10.00"># mDomTreeParsed</text>
+<text text-anchor="start" x="326" y="-3022" font-family="Helvetica,sans-Serif" font-size="10.00"># mUuid</text>
+<text text-anchor="start" x="326" y="-3009" font-family="Helvetica,sans-Serif" font-size="10.00"># mAuthor</text>
+<text text-anchor="start" x="326" y="-2996" font-family="Helvetica,sans-Serif" font-size="10.00"># mCreated</text>
+<text text-anchor="start" x="326" y="-2983" font-family="Helvetica,sans-Serif" font-size="10.00"># mLastModified</text>
+<text text-anchor="start" x="326" y="-2970" font-family="Helvetica,sans-Serif" font-size="10.00"># mNames</text>
+<text text-anchor="start" x="326" y="-2957" font-family="Helvetica,sans-Serif" font-size="10.00"># mDescriptions</text>
+<text text-anchor="start" x="326" y="-2944" font-family="Helvetica,sans-Serif" font-size="10.00"># mKeywords</text>
+<polyline fill="none" stroke="black" points="318,-2936 470,-2936 "/>
+<text text-anchor="start" x="326" y="-2923" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
+<text text-anchor="start" x="326" y="-2910" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
+<text text-anchor="start" x="326" y="-2897" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
+<text text-anchor="start" x="326" y="-2884" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="326" y="-2871" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
+<text text-anchor="start" x="326" y="-2858" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
+<text text-anchor="start" x="326" y="-2845" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
+<text text-anchor="start" x="326" y="-2832" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
+<text text-anchor="start" x="326" y="-2819" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCreated()</text>
+<text text-anchor="start" x="326" y="-2806" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLastModified()</text>
+<text text-anchor="start" x="326" y="-2793" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
+<text text-anchor="start" x="326" y="-2780" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescription()</text>
+<text text-anchor="start" x="326" y="-2767" font-family="Helvetica,sans-Serif" font-size="10.00">+ getKeywords()</text>
+<text text-anchor="start" x="326" y="-2754" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNames()</text>
+<text text-anchor="start" x="326" y="-2741" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescriptions()</text>
+<text text-anchor="start" x="326" y="-2728" font-family="Helvetica,sans-Serif" font-size="10.00">+ getKeywords()</text>
+<text text-anchor="start" x="326" y="-2715" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAllAvailableLocales()</text>
+<text text-anchor="start" x="326" y="-2702" font-family="Helvetica,sans-Serif" font-size="10.00">+ setUuid()</text>
+<text text-anchor="start" x="326" y="-2689" font-family="Helvetica,sans-Serif" font-size="10.00">+ setName()</text>
+<text text-anchor="start" x="326" y="-2676" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDescription()</text>
+<text text-anchor="start" x="326" y="-2663" font-family="Helvetica,sans-Serif" font-size="10.00">+ setKeywords()</text>
+<text text-anchor="start" x="326" y="-2650" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVersion()</text>
+<text text-anchor="start" x="326" y="-2637" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAuthor()</text>
+<text text-anchor="start" x="326" y="-2624" font-family="Helvetica,sans-Serif" font-size="10.00">+ save()</text>
+<text text-anchor="start" x="326" y="-2611" font-family="Helvetica,sans-Serif" font-size="10.00">+ saveTo()</text>
+<text text-anchor="start" x="326" y="-2598" font-family="Helvetica,sans-Serif" font-size="10.00">+ readLocaleDomNodes()</text>
+<text text-anchor="start" x="326" y="-2585" font-family="Helvetica,sans-Serif" font-size="10.00">+ localeStringFromList()</text>
+<text text-anchor="start" x="326" y="-2572" font-family="Helvetica,sans-Serif" font-size="10.00"># readFromFile()</text>
+<text text-anchor="start" x="326" y="-2559" font-family="Helvetica,sans-Serif" font-size="10.00"># parseDomTree()</text>
+<text text-anchor="start" x="326" y="-2546" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeToXmlDomElement()</text>
+<text text-anchor="start" x="326" y="-2533" font-family="Helvetica,sans-Serif" font-size="10.00"># checkAttributesValidity()</text>
+<text text-anchor="start" x="326" y="-2520" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; LibraryBaseElement()</text>
+<text text-anchor="start" x="326" y="-2507" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
 </a>
 </g>
 <!-- Node6&#45;&gt;Node9 -->
 <g id="edge20" class="edge"><title>Node6&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M644.687,-3441.73C615.45,-3405.31 574.76,-3359.41 532,-3326 518.527,-3315.47 507.846,-3321.98 498,-3308 447.836,-3236.78 486.522,-3199.53 470,-3114 468.792,-3107.74 467.541,-3101.43 466.253,-3095.06"/>
-<polygon fill="none" stroke="midnightblue" points="642.156,-3444.17 651.12,-3449.82 647.635,-3439.81 642.156,-3444.17"/>
+<path fill="none" stroke="midnightblue" d="M643.214,-3441.96C613.399,-3405.85 572.298,-3360.18 530,-3326 517.608,-3315.99 507.917,-3321.2 499,-3308 450.241,-3235.81 487.522,-3199.53 471,-3114 469.792,-3107.74 468.541,-3101.43 467.253,-3095.06"/>
+<polygon fill="none" stroke="midnightblue" points="640.737,-3444.47 649.781,-3449.99 646.154,-3440.03 640.737,-3444.47"/>
 </g>
 <!-- Node12 -->
 <g id="node24" class="node"><title>Node12</title>
@@ -530,70 +530,70 @@
 <!-- Node8 -->
 <g id="node15" class="node"><title>Node8</title>
 <a xlink:href="../../d8/dff/classlibrary_1_1_library_element.html" target="_top" xlink:title="The LibraryElement class extends the LibraryBaseElement class with some attributes and methods which ...">
-<polygon fill="white" stroke="black" points="257,-1955.5 257,-2122.5 409,-2122.5 409,-1955.5 257,-1955.5"/>
-<text text-anchor="middle" x="333" y="-2109.5" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryElement</text>
-<polyline fill="none" stroke="black" points="257,-2101.5 409,-2101.5 "/>
-<text text-anchor="start" x="265" y="-2088.5" font-family="Helvetica,sans-Serif" font-size="10.00"># mCategories</text>
-<polyline fill="none" stroke="black" points="257,-2080.5 409,-2080.5 "/>
-<text text-anchor="start" x="265" y="-2067.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryElement()</text>
-<text text-anchor="start" x="265" y="-2054.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryElement()</text>
-<text text-anchor="start" x="265" y="-2041.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryElement()</text>
-<text text-anchor="start" x="265" y="-2028.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCategories()</text>
-<text text-anchor="start" x="265" y="-2015.5" font-family="Helvetica,sans-Serif" font-size="10.00"># parseDomTree()</text>
-<text text-anchor="start" x="265" y="-2002.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeToXmlDomElement()</text>
-<text text-anchor="start" x="265" y="-1989.5" font-family="Helvetica,sans-Serif" font-size="10.00"># checkAttributesValidity()</text>
-<text text-anchor="start" x="265" y="-1976.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; LibraryElement()</text>
-<text text-anchor="start" x="265" y="-1963.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<polygon fill="white" stroke="black" points="258,-1955.5 258,-2122.5 410,-2122.5 410,-1955.5 258,-1955.5"/>
+<text text-anchor="middle" x="334" y="-2109.5" font-family="Helvetica,sans-Serif" font-size="10.00">LibraryElement</text>
+<polyline fill="none" stroke="black" points="258,-2101.5 410,-2101.5 "/>
+<text text-anchor="start" x="266" y="-2088.5" font-family="Helvetica,sans-Serif" font-size="10.00"># mCategories</text>
+<polyline fill="none" stroke="black" points="258,-2080.5 410,-2080.5 "/>
+<text text-anchor="start" x="266" y="-2067.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryElement()</text>
+<text text-anchor="start" x="266" y="-2054.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryElement()</text>
+<text text-anchor="start" x="266" y="-2041.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryElement()</text>
+<text text-anchor="start" x="266" y="-2028.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getCategories()</text>
+<text text-anchor="start" x="266" y="-2015.5" font-family="Helvetica,sans-Serif" font-size="10.00"># parseDomTree()</text>
+<text text-anchor="start" x="266" y="-2002.5" font-family="Helvetica,sans-Serif" font-size="10.00"># serializeToXmlDomElement()</text>
+<text text-anchor="start" x="266" y="-1989.5" font-family="Helvetica,sans-Serif" font-size="10.00"># checkAttributesValidity()</text>
+<text text-anchor="start" x="266" y="-1976.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; LibraryElement()</text>
+<text text-anchor="start" x="266" y="-1963.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
 </a>
 </g>
 <!-- Node8&#45;&gt;Node7 -->
 <g id="edge16" class="edge"><title>Node8&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M320.345,-1945.33C306.068,-1839.66 282.123,-1662.42 261.318,-1508.43"/>
-<polygon fill="none" stroke="midnightblue" points="316.889,-1945.89 321.696,-1955.33 323.826,-1944.95 316.889,-1945.89"/>
+<path fill="none" stroke="midnightblue" d="M321.232,-1945.33C306.828,-1839.66 282.669,-1662.42 261.678,-1508.43"/>
+<polygon fill="none" stroke="midnightblue" points="317.777,-1945.9 322.595,-1955.33 324.713,-1944.95 317.777,-1945.9"/>
 </g>
 <!-- Node9&#45;&gt;Node8 -->
 <g id="edge18" class="edge"><title>Node9&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M368.575,-2488.43C358.068,-2355.69 346.615,-2211 339.62,-2122.63"/>
-<polygon fill="none" stroke="midnightblue" points="365.116,-2489.09 369.394,-2498.78 372.094,-2488.53 365.116,-2489.09"/>
+<path fill="none" stroke="midnightblue" d="M369.575,-2488.43C359.068,-2355.69 347.615,-2211 340.62,-2122.63"/>
+<polygon fill="none" stroke="midnightblue" points="366.116,-2489.09 370.394,-2498.78 373.094,-2488.53 366.116,-2489.09"/>
 </g>
 <!-- Node10 -->
 <g id="node20" class="node"><title>Node10</title>
 <a xlink:href="../../de/d34/class_version.html" target="_top" xlink:title="The Version class represents a version number in the format &quot;1.42.7&quot;. ">
-<polygon fill="white" stroke="black" points="338.5,-3326.5 338.5,-3675.5 423.5,-3675.5 423.5,-3326.5 338.5,-3326.5"/>
-<text text-anchor="middle" x="381" y="-3662.5" font-family="Helvetica,sans-Serif" font-size="10.00">Version</text>
-<polyline fill="none" stroke="black" points="338.5,-3654.5 423.5,-3654.5 "/>
-<text text-anchor="start" x="346.5" y="-3641.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNumbers</text>
-<polyline fill="none" stroke="black" points="338.5,-3633.5 423.5,-3633.5 "/>
-<text text-anchor="start" x="346.5" y="-3620.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
-<text text-anchor="start" x="346.5" y="-3607.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
-<text text-anchor="start" x="346.5" y="-3594.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
-<text text-anchor="start" x="346.5" y="-3581.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Version()</text>
-<text text-anchor="start" x="346.5" y="-3568.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
-<text text-anchor="start" x="346.5" y="-3555.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumbers()</text>
-<text text-anchor="start" x="346.5" y="-3542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toStr()</text>
-<text text-anchor="start" x="346.5" y="-3529.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVersion()</text>
-<text text-anchor="start" x="346.5" y="-3516.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator=()</text>
-<text text-anchor="start" x="346.5" y="-3503.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;()</text>
-<text text-anchor="start" x="346.5" y="-3490.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;()</text>
-<text text-anchor="start" x="346.5" y="-3477.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;=()</text>
-<text text-anchor="start" x="346.5" y="-3464.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;=()</text>
-<text text-anchor="start" x="346.5" y="-3451.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator==()</text>
-<text text-anchor="start" x="346.5" y="-3438.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator!=()</text>
-<text text-anchor="start" x="346.5" y="-3425.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; compare()</text>
-<text text-anchor="start" x="346.5" y="-3412.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
-<text text-anchor="start" x="346.5" y="-3399.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;()</text>
-<text text-anchor="start" x="346.5" y="-3386.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;()</text>
-<text text-anchor="start" x="346.5" y="-3373.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;=()</text>
-<text text-anchor="start" x="346.5" y="-3360.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;=()</text>
-<text text-anchor="start" x="346.5" y="-3347.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator==()</text>
-<text text-anchor="start" x="346.5" y="-3334.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator!=()</text>
+<polygon fill="white" stroke="black" points="339.5,-3326.5 339.5,-3675.5 424.5,-3675.5 424.5,-3326.5 339.5,-3326.5"/>
+<text text-anchor="middle" x="382" y="-3662.5" font-family="Helvetica,sans-Serif" font-size="10.00">Version</text>
+<polyline fill="none" stroke="black" points="339.5,-3654.5 424.5,-3654.5 "/>
+<text text-anchor="start" x="347.5" y="-3641.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNumbers</text>
+<polyline fill="none" stroke="black" points="339.5,-3633.5 424.5,-3633.5 "/>
+<text text-anchor="start" x="347.5" y="-3620.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
+<text text-anchor="start" x="347.5" y="-3607.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
+<text text-anchor="start" x="347.5" y="-3594.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
+<text text-anchor="start" x="347.5" y="-3581.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Version()</text>
+<text text-anchor="start" x="347.5" y="-3568.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
+<text text-anchor="start" x="347.5" y="-3555.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumbers()</text>
+<text text-anchor="start" x="347.5" y="-3542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toStr()</text>
+<text text-anchor="start" x="347.5" y="-3529.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVersion()</text>
+<text text-anchor="start" x="347.5" y="-3516.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator=()</text>
+<text text-anchor="start" x="347.5" y="-3503.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;()</text>
+<text text-anchor="start" x="347.5" y="-3490.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;()</text>
+<text text-anchor="start" x="347.5" y="-3477.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;=()</text>
+<text text-anchor="start" x="347.5" y="-3464.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;=()</text>
+<text text-anchor="start" x="347.5" y="-3451.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator==()</text>
+<text text-anchor="start" x="347.5" y="-3438.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator!=()</text>
+<text text-anchor="start" x="347.5" y="-3425.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; compare()</text>
+<text text-anchor="start" x="347.5" y="-3412.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
+<text text-anchor="start" x="347.5" y="-3399.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;()</text>
+<text text-anchor="start" x="347.5" y="-3386.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;()</text>
+<text text-anchor="start" x="347.5" y="-3373.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;=()</text>
+<text text-anchor="start" x="347.5" y="-3360.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;=()</text>
+<text text-anchor="start" x="347.5" y="-3347.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator==()</text>
+<text text-anchor="start" x="347.5" y="-3334.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator!=()</text>
 </a>
 </g>
 <!-- Node10&#45;&gt;Node9 -->
 <g id="edge22" class="edge"><title>Node10&#45;&gt;Node9</title>
-<path fill="none" stroke="#404040" d="M383.982,-3326.07C385.112,-3259.78 386.435,-3182.16 387.714,-3107.11"/>
-<polygon fill="none" stroke="#404040" points="387.714,-3107.09 383.817,-3101.02 387.919,-3095.09 391.816,-3101.16 387.714,-3107.09"/>
-<text text-anchor="middle" x="413" y="-3208.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mVersion</text>
+<path fill="none" stroke="#404040" d="M384.982,-3326.07C386.112,-3259.78 387.435,-3182.16 388.714,-3107.11"/>
+<polygon fill="none" stroke="#404040" points="388.714,-3107.09 384.817,-3101.02 388.919,-3095.09 392.816,-3101.16 388.714,-3107.09"/>
+<text text-anchor="middle" x="414" y="-3208.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mVersion</text>
 </g>
 <!-- Node11 -->
 <g id="node22" class="node"><title>Node11</title>
@@ -634,9 +634,10 @@
 </g>
 <!-- Node11&#45;&gt;Node9 -->
 <g id="edge24" class="edge"><title>Node11&#45;&gt;Node9</title>
-<path fill="none" stroke="#404040" d="M1400.81,-3946.68C1191.24,-3925.24 558.42,-3846.92 473,-3676 417.085,-3564.12 455.014,-3238.4 442,-3114 441.766,-3111.76 441.527,-3109.51 441.283,-3107.26"/>
-<polygon fill="none" stroke="#404040" points="441.261,-3107.06 436.623,-3101.54 439.937,-3095.13 444.575,-3100.65 441.261,-3107.06"/>
-<text text-anchor="middle" x="507.5" y="-3498.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<path fill="none" stroke="#404040" d="M1400.88,-3946.7C1191.55,-3925.34 559.607,-3847.22 476,-3676 421.107,-3563.58 456.237,-3238.4 443,-3114 442.762,-3111.76 442.519,-3109.51 442.271,-3107.26"/>
+<polygon fill="none" stroke="#404040" points="442.249,-3107.06 437.603,-3101.54 440.907,-3095.13 445.553,-3100.65 442.249,-3107.06"/>
+<text text-anchor="middle" x="509" y="-3505" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="509" y="-3492" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node11&#45;&gt;Node12 -->
 <g id="edge98" class="edge"><title>Node11&#45;&gt;Node12</title>

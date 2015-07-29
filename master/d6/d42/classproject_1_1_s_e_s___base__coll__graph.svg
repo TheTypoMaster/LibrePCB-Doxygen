@@ -409,21 +409,21 @@
 <!-- Node6 -->
 <g id="node10" class="node"><title>Node6</title>
 <a xlink:href="../../d9/d3d/class_i_f___xml_serializable_object.html" target="_top" xlink:title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali...">
-<polygon fill="white" stroke="black" points="1881.54,-7502 1881.54,-7604 2034.54,-7604 2034.54,-7502 1881.54,-7502"/>
-<text text-anchor="middle" x="1958.04" y="-7591" font-family="Helvetica,sans-Serif" font-size="10.00">IF_XmlSerializableObject</text>
-<polyline fill="none" stroke="black" points="1881.54,-7583 2034.54,-7583 "/>
-<text text-anchor="middle" x="1958.04" y="-7570" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="1881.54,-7562 2034.54,-7562 "/>
-<text text-anchor="start" x="1889.54" y="-7549" font-family="Helvetica,sans-Serif" font-size="10.00">+ IF_XmlSerializableObject()</text>
-<text text-anchor="start" x="1889.54" y="-7536" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~IF_XmlSerializableObject()</text>
-<text text-anchor="start" x="1889.54" y="-7523" font-family="Helvetica,sans-Serif" font-size="10.00">+ serializeToXmlDomElement()</text>
-<text text-anchor="start" x="1889.54" y="-7510" font-family="Helvetica,sans-Serif" font-size="10.00"># checkAttributesValidity()</text>
+<polygon fill="white" stroke="black" points="1878.54,-7502 1878.54,-7604 2031.54,-7604 2031.54,-7502 1878.54,-7502"/>
+<text text-anchor="middle" x="1955.04" y="-7591" font-family="Helvetica,sans-Serif" font-size="10.00">IF_XmlSerializableObject</text>
+<polyline fill="none" stroke="black" points="1878.54,-7583 2031.54,-7583 "/>
+<text text-anchor="middle" x="1955.04" y="-7570" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="1878.54,-7562 2031.54,-7562 "/>
+<text text-anchor="start" x="1886.54" y="-7549" font-family="Helvetica,sans-Serif" font-size="10.00">+ IF_XmlSerializableObject()</text>
+<text text-anchor="start" x="1886.54" y="-7536" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~IF_XmlSerializableObject()</text>
+<text text-anchor="start" x="1886.54" y="-7523" font-family="Helvetica,sans-Serif" font-size="10.00">+ serializeToXmlDomElement()</text>
+<text text-anchor="start" x="1886.54" y="-7510" font-family="Helvetica,sans-Serif" font-size="10.00"># checkAttributesValidity()</text>
 </a>
 </g>
 <!-- Node6&#45;&gt;Node5 -->
 <g id="edge10" class="edge"><title>Node6&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M2043.98,-7519.17C2114.14,-7487.57 2211.29,-7434.12 2272.04,-7360 2398.17,-7206.11 2387.81,-7135.07 2427.04,-6940 2440.92,-6870.98 2439.97,-5730.45 2482.04,-5674 2496.66,-5654.39 2517.89,-5674.37 2534.04,-5656 2600.97,-5579.88 2620.15,-5464.99 2623.78,-5376.33"/>
-<polygon fill="none" stroke="midnightblue" points="2042.42,-7516.04 2034.7,-7523.3 2045.26,-7522.43 2042.42,-7516.04"/>
+<path fill="none" stroke="midnightblue" d="M2041.13,-7519.67C2112.01,-7488.24 2210.51,-7434.74 2272.04,-7360 2398.5,-7206.38 2387.81,-7135.07 2427.04,-6940 2440.92,-6870.98 2439.97,-5730.45 2482.04,-5674 2496.66,-5654.39 2517.89,-5674.37 2534.04,-5656 2600.97,-5579.88 2620.15,-5464.99 2623.78,-5376.33"/>
+<polygon fill="none" stroke="midnightblue" points="2039.51,-7516.56 2031.75,-7523.77 2042.32,-7522.97 2039.51,-7516.56"/>
 </g>
 <!-- Node9 -->
 <g id="node16" class="node"><title>Node9</title>
@@ -468,8 +468,8 @@
 </g>
 <!-- Node6&#45;&gt;Node9 -->
 <g id="edge18" class="edge"><title>Node6&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M1945.38,-7491.76C1933.72,-7452.13 1912.08,-7403.36 1873.04,-7378 1822.98,-7345.48 1392.48,-7379.47 1336.04,-7360 1036.87,-7256.8 925.756,-7210.23 761.041,-6940 512.869,-6532.86 466.93,-5295.39 430.041,-4820 423.784,-4739.35 377.183,-4153.23 430.041,-4092 465.858,-4050.51 511.495,-4110.88 552.041,-4074 592.903,-4036.83 616.791,-3984.55 630.429,-3930.96"/>
-<polygon fill="none" stroke="midnightblue" points="1942.07,-7492.93 1948.14,-7501.62 1948.82,-7491.05 1942.07,-7492.93"/>
+<path fill="none" stroke="midnightblue" d="M1942.38,-7491.76C1930.72,-7452.14 1909.08,-7403.36 1870.04,-7378 1820.26,-7345.66 1392.16,-7379.37 1336.04,-7360 1036.88,-7256.77 925.756,-7210.23 761.041,-6940 512.869,-6532.86 466.93,-5295.39 430.041,-4820 423.784,-4739.35 377.183,-4153.23 430.041,-4092 465.858,-4050.51 511.495,-4110.88 552.041,-4074 592.903,-4036.83 616.791,-3984.55 630.429,-3930.96"/>
+<polygon fill="none" stroke="midnightblue" points="1939.07,-7492.93 1945.13,-7501.62 1945.81,-7491.05 1939.07,-7492.93"/>
 </g>
 <!-- Node13 -->
 <g id="node25" class="node"><title>Node13</title>
@@ -542,8 +542,8 @@
 </g>
 <!-- Node6&#45;&gt;Node13 -->
 <g id="edge34" class="edge"><title>Node6&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M1943.14,-7491.92C1930.66,-7453.62 1908.96,-7406.3 1873.04,-7378 1843.73,-7354.91 1823.86,-7377.76 1791.04,-7360 1556.65,-7233.16 1470.35,-7183.96 1363.04,-6940 1306.37,-6811.16 1386.33,-5798.16 1320.04,-5674 1313.59,-5661.92 1302.63,-5667.4 1295.04,-5656 1287.87,-5645.23 1281.24,-5633.99 1275.1,-5622.39"/>
-<polygon fill="none" stroke="midnightblue" points="1939.95,-7493.45 1946.27,-7501.96 1946.63,-7491.37 1939.95,-7493.45"/>
+<path fill="none" stroke="midnightblue" d="M1939.91,-7491.66C1927.37,-7453.48 1905.69,-7406.4 1870.04,-7378 1842.22,-7355.83 1823.25,-7377.08 1792.04,-7360 1557.98,-7231.89 1470.62,-7184.18 1363.04,-6940 1306.3,-6811.2 1386.33,-5798.16 1320.04,-5674 1313.59,-5661.92 1302.63,-5667.4 1295.04,-5656 1287.87,-5645.23 1281.24,-5633.99 1275.1,-5622.39"/>
+<polygon fill="none" stroke="midnightblue" points="1936.72,-7493.18 1943.06,-7501.67 1943.39,-7491.08 1936.72,-7493.18"/>
 </g>
 <!-- Node17 -->
 <g id="node35" class="node"><title>Node17</title>
@@ -570,8 +570,8 @@
 </g>
 <!-- Node6&#45;&gt;Node17 -->
 <g id="edge40" class="edge"><title>Node6&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M1953.23,-7491.49C1944.7,-7381.08 1926.74,-7141.97 1915.04,-6940 1904.34,-6755.23 1928.57,-6285.76 1877.04,-6108 1812.64,-5885.84 1678.36,-5879.58 1619.04,-5656 1595.73,-5568.15 1564.31,-4910.56 1619.04,-4838 1636.58,-4814.75 1664.51,-4843.25 1682.04,-4820 1730.75,-4755.42 1688.65,-4172.62 1682.04,-4092 1674.29,-3997.42 1656.09,-3891.16 1641.07,-3813.79"/>
-<polygon fill="none" stroke="midnightblue" points="1949.76,-7492.06 1954.02,-7501.76 1956.74,-7491.52 1949.76,-7492.06"/>
+<path fill="none" stroke="midnightblue" d="M1950.63,-7491.48C1942.8,-7381.06 1926.24,-7141.93 1915.04,-6940 1904.79,-6755.2 1928.57,-6285.76 1877.04,-6108 1812.64,-5885.84 1678.36,-5879.58 1619.04,-5656 1595.73,-5568.15 1564.31,-4910.56 1619.04,-4838 1636.58,-4814.75 1664.51,-4843.25 1682.04,-4820 1730.75,-4755.42 1688.65,-4172.62 1682.04,-4092 1674.29,-3997.42 1656.09,-3891.16 1641.07,-3813.79"/>
+<polygon fill="none" stroke="midnightblue" points="1947.16,-7492.03 1951.36,-7501.76 1954.14,-7491.53 1947.16,-7492.03"/>
 </g>
 <!-- Node21 -->
 <g id="node53" class="node"><title>Node21</title>
@@ -601,8 +601,8 @@
 </g>
 <!-- Node6&#45;&gt;Node21 -->
 <g id="edge68" class="edge"><title>Node6&#45;&gt;Node21</title>
-<path fill="none" stroke="midnightblue" d="M1945.71,-7492.2C1934.16,-7452.36 1912.51,-7403.16 1873.04,-7378 1821.31,-7345.03 826.122,-7382.46 769.041,-7360 509.591,-7257.9 422.497,-7191.93 303.041,-6940 269.134,-6868.49 170.28,-4150.99 223.041,-4092 247.042,-4065.17 357.201,-4097.99 384.041,-4074 450.585,-4014.52 470.219,-3914.34 473.959,-3833.22"/>
-<polygon fill="none" stroke="midnightblue" points="1942.34,-7493.13 1948.37,-7501.84 1949.08,-7491.27 1942.34,-7493.13"/>
+<path fill="none" stroke="midnightblue" d="M1942.71,-7492.2C1931.16,-7452.36 1909.51,-7403.16 1870.04,-7378 1818.46,-7345.12 825.967,-7382.4 769.041,-7360 509.593,-7257.89 422.497,-7191.93 303.041,-6940 269.134,-6868.49 170.28,-4150.99 223.041,-4092 247.042,-4065.17 357.201,-4097.99 384.041,-4074 450.585,-4014.52 470.219,-3914.34 473.959,-3833.22"/>
+<polygon fill="none" stroke="midnightblue" points="1939.34,-7493.13 1945.36,-7501.84 1946.08,-7491.27 1939.34,-7493.13"/>
 </g>
 <!-- Node32 -->
 <g id="node94" class="node"><title>Node32</title>
@@ -660,8 +660,8 @@
 </g>
 <!-- Node6&#45;&gt;Node32 -->
 <g id="edge132" class="edge"><title>Node6&#45;&gt;Node32</title>
-<path fill="none" stroke="midnightblue" d="M1976.13,-7492.22C1990.95,-7453.28 2015.98,-7405.12 2055.04,-7378 2099.34,-7347.25 2138.56,-7399.71 2175.04,-7360 2301.59,-7222.25 2191.43,-7126.75 2202.04,-6940 2223.51,-6562.37 2234.71,-6468.12 2244.04,-6090 2251.03,-5806.94 2258.37,-5504.54 2239.04,-4092 2232.51,-3614.57 2260.98,-3493.06 2213.04,-3018 2212.41,-3011.78 2211.73,-3005.49 2211.01,-2999.16"/>
-<polygon fill="none" stroke="midnightblue" points="1972.73,-7491.31 1972.57,-7501.9 1979.3,-7493.72 1972.73,-7491.31"/>
+<path fill="none" stroke="midnightblue" d="M1973.81,-7492.18C1989.08,-7453.22 2014.65,-7405.05 2054.04,-7378 2098.86,-7347.22 2138.19,-7399.97 2175.04,-7360 2301.86,-7222.46 2192.31,-7126.77 2203.04,-6940 2224.73,-6562.41 2234.93,-6468.11 2244.04,-6090 2250.97,-5802.54 2258.14,-5487.81 2239.04,-4092 2232.51,-3614.57 2260.98,-3493.06 2213.04,-3018 2212.41,-3011.78 2211.73,-3005.49 2211.01,-2999.16"/>
+<polygon fill="none" stroke="midnightblue" points="1970.41,-7491.27 1970.15,-7501.87 1976.96,-7493.75 1970.41,-7491.27"/>
 </g>
 <!-- Node36 -->
 <g id="node104" class="node"><title>Node36</title>
@@ -683,8 +683,8 @@
 <text text-anchor="start" x="1724.04" y="-6650" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="1724.04" y="-6637" font-family="Helvetica,sans-Serif" font-size="10.00">+ LibraryBaseElement()</text>
 <text text-anchor="start" x="1724.04" y="-6624" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~LibraryBaseElement()</text>
-<text text-anchor="start" x="1724.04" y="-6611" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
-<text text-anchor="start" x="1724.04" y="-6598" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="1724.04" y="-6611" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDirectory()</text>
+<text text-anchor="start" x="1724.04" y="-6598" font-family="Helvetica,sans-Serif" font-size="10.00">+ getXmlFilepath()</text>
 <text text-anchor="start" x="1724.04" y="-6585" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="1724.04" y="-6572" font-family="Helvetica,sans-Serif" font-size="10.00">+ getVersion()</text>
 <text text-anchor="start" x="1724.04" y="-6559" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAuthor()</text>
@@ -717,8 +717,8 @@
 </g>
 <!-- Node6&#45;&gt;Node36 -->
 <g id="edge140" class="edge"><title>Node6&#45;&gt;Node36</title>
-<path fill="none" stroke="midnightblue" d="M1929.97,-7492.6C1913.93,-7455.24 1895.07,-7405.81 1885.04,-7360 1846.73,-7185.05 1876.54,-7136.03 1857.04,-6958 1852.22,-6913.98 1846.24,-6867.57 1839.87,-6822.14"/>
-<polygon fill="none" stroke="midnightblue" points="1926.79,-7494.05 1933.98,-7501.83 1933.21,-7491.26 1926.79,-7494.05"/>
+<path fill="none" stroke="midnightblue" d="M1928.16,-7492.48C1912.79,-7455.08 1894.71,-7405.65 1885.04,-7360 1847.93,-7184.79 1876.54,-7136.03 1857.04,-6958 1852.22,-6913.98 1846.24,-6867.57 1839.87,-6822.14"/>
+<polygon fill="none" stroke="midnightblue" points="1924.93,-7493.83 1932,-7501.73 1931.39,-7491.15 1924.93,-7493.83"/>
 </g>
 <!-- Node38 -->
 <g id="node111" class="node"><title>Node38</title>
@@ -760,13 +760,13 @@
 </g>
 <!-- Node6&#45;&gt;Node38 -->
 <g id="edge150" class="edge"><title>Node6&#45;&gt;Node38</title>
-<path fill="none" stroke="midnightblue" d="M2030.74,-7495.18C2068.48,-7460.47 2111.01,-7412.86 2132.04,-7360 2221.47,-7135.23 2198.18,-6440.13 2179.68,-6089.2"/>
-<polygon fill="none" stroke="midnightblue" points="2028.33,-7492.64 2023.26,-7501.94 2033.02,-7497.83 2028.33,-7492.64"/>
+<path fill="none" stroke="midnightblue" d="M2029.4,-7495.04C2067.68,-7460.44 2110.7,-7412.98 2132.04,-7360 2222.43,-7135.61 2198.68,-6440.33 2179.88,-6089.28"/>
+<polygon fill="none" stroke="midnightblue" points="2026.96,-7492.52 2021.81,-7501.78 2031.61,-7497.75 2026.96,-7492.52"/>
 </g>
 <!-- Node6&#45;&gt;Node40 -->
 <g id="edge164" class="edge"><title>Node6&#45;&gt;Node40</title>
-<path fill="none" stroke="midnightblue" d="M1977,-7491.74C2009.77,-7382.31 2075.72,-7145.44 2099.04,-6940 2140.75,-6572.58 2184,-6467.89 2099.04,-6108 2096.99,-6099.29 2093.09,-6098.41 2090.04,-6090 2022.37,-5903.66 2010.09,-5852.9 1987.04,-5656 1944.78,-5294.91 1981.91,-5201.52 1987.04,-4838 1991.04,-4554.29 2000.68,-4230.78 2008.33,-4002.1"/>
-<polygon fill="none" stroke="midnightblue" points="1973.56,-7491.03 1974.03,-7501.61 1980.26,-7493.05 1973.56,-7491.03"/>
+<path fill="none" stroke="midnightblue" d="M1974.4,-7491.78C2007.86,-7382.4 2075.22,-7145.61 2099.04,-6940 2141.61,-6572.68 2184,-6467.89 2099.04,-6108 2096.99,-6099.29 2093.09,-6098.41 2090.04,-6090 2022.37,-5903.66 2010.09,-5852.9 1987.04,-5656 1944.78,-5294.91 1981.91,-5201.52 1987.04,-4838 1991.04,-4554.29 2000.68,-4230.78 2008.33,-4002.1"/>
+<polygon fill="none" stroke="midnightblue" points="1970.96,-7491.06 1971.37,-7501.64 1977.65,-7493.11 1970.96,-7491.06"/>
 </g>
 <!-- Node7 -->
 <g id="node12" class="node"><title>Node7</title>
@@ -1210,8 +1210,8 @@
 </g>
 <!-- Node12&#45;&gt;Node22 -->
 <g id="edge78" class="edge"><title>Node12&#45;&gt;Node22</title>
-<path fill="none" stroke="#404040" d="M1714.25,-7968.18C1861.66,-7883.29 2212.05,-7658.1 2361.04,-7360 2481.87,-7118.25 2522.88,-6797.85 2536.5,-6632.71"/>
-<polygon fill="none" stroke="#404040" points="2536.51,-6632.56 2533,-6626.26 2537.47,-6620.6 2540.97,-6626.9 2536.51,-6632.56"/>
+<path fill="none" stroke="#404040" d="M1714.15,-7968.12C1861.35,-7883.14 2211.35,-7657.75 2361.04,-7360 2482.43,-7118.53 2523.21,-6798.01 2536.64,-6632.78"/>
+<polygon fill="none" stroke="#404040" points="2536.65,-6632.63 2533.13,-6626.33 2537.6,-6620.67 2541.11,-6626.96 2536.65,-6632.63"/>
 <text text-anchor="middle" x="2382.04" y="-7557" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mLockFilepath</text>
 <text text-anchor="middle" x="2382.04" y="-7544" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;mFileToLock</text>
 </g>
@@ -1288,7 +1288,8 @@
 <g id="edge144" class="edge"><title>Node12&#45;&gt;Node36</title>
 <path fill="none" stroke="#404040" d="M1663.74,-7804.43C1674.21,-7681.33 1688.29,-7520.48 1702.04,-7378 1719.44,-7197.76 1740.59,-6996.31 1758.01,-6834.35"/>
 <polygon fill="none" stroke="#404040" points="1758.03,-6834.2 1754.7,-6827.8 1759.32,-6822.26 1762.65,-6828.66 1758.03,-6834.2"/>
-<text text-anchor="middle" x="1736.54" y="-7550.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mXmlFilepath</text>
+<text text-anchor="middle" x="1735.04" y="-7557" font-family="Helvetica,sans-Serif" font-size="10.00"> #mDirectory</text>
+<text text-anchor="middle" x="1735.04" y="-7544" font-family="Helvetica,sans-Serif" font-size="10.00">#mXmlFilepath</text>
 </g>
 <!-- Node12&#45;&gt;Node40 -->
 <g id="edge172" class="edge"><title>Node12&#45;&gt;Node40</title>
@@ -2066,40 +2067,40 @@
 <!-- Node37 -->
 <g id="node107" class="node"><title>Node37</title>
 <a xlink:href="../../de/d34/class_version.html" target="_top" xlink:title="The Version class represents a version number in the format &quot;1.42.7&quot;. ">
-<polygon fill="white" stroke="black" points="1779.54,-7378.5 1779.54,-7727.5 1864.54,-7727.5 1864.54,-7378.5 1779.54,-7378.5"/>
-<text text-anchor="middle" x="1822.04" y="-7714.5" font-family="Helvetica,sans-Serif" font-size="10.00">Version</text>
-<polyline fill="none" stroke="black" points="1779.54,-7706.5 1864.54,-7706.5 "/>
-<text text-anchor="start" x="1787.54" y="-7693.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNumbers</text>
-<polyline fill="none" stroke="black" points="1779.54,-7685.5 1864.54,-7685.5 "/>
-<text text-anchor="start" x="1787.54" y="-7672.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
-<text text-anchor="start" x="1787.54" y="-7659.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
-<text text-anchor="start" x="1787.54" y="-7646.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
-<text text-anchor="start" x="1787.54" y="-7633.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Version()</text>
-<text text-anchor="start" x="1787.54" y="-7620.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
-<text text-anchor="start" x="1787.54" y="-7607.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumbers()</text>
-<text text-anchor="start" x="1787.54" y="-7594.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toStr()</text>
-<text text-anchor="start" x="1787.54" y="-7581.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVersion()</text>
-<text text-anchor="start" x="1787.54" y="-7568.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator=()</text>
-<text text-anchor="start" x="1787.54" y="-7555.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;()</text>
-<text text-anchor="start" x="1787.54" y="-7542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;()</text>
-<text text-anchor="start" x="1787.54" y="-7529.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;=()</text>
-<text text-anchor="start" x="1787.54" y="-7516.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;=()</text>
-<text text-anchor="start" x="1787.54" y="-7503.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator==()</text>
-<text text-anchor="start" x="1787.54" y="-7490.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator!=()</text>
-<text text-anchor="start" x="1787.54" y="-7477.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; compare()</text>
-<text text-anchor="start" x="1787.54" y="-7464.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
-<text text-anchor="start" x="1787.54" y="-7451.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;()</text>
-<text text-anchor="start" x="1787.54" y="-7438.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;()</text>
-<text text-anchor="start" x="1787.54" y="-7425.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;=()</text>
-<text text-anchor="start" x="1787.54" y="-7412.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;=()</text>
-<text text-anchor="start" x="1787.54" y="-7399.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator==()</text>
-<text text-anchor="start" x="1787.54" y="-7386.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator!=()</text>
+<polygon fill="white" stroke="black" points="1776.54,-7378.5 1776.54,-7727.5 1861.54,-7727.5 1861.54,-7378.5 1776.54,-7378.5"/>
+<text text-anchor="middle" x="1819.04" y="-7714.5" font-family="Helvetica,sans-Serif" font-size="10.00">Version</text>
+<polyline fill="none" stroke="black" points="1776.54,-7706.5 1861.54,-7706.5 "/>
+<text text-anchor="start" x="1784.54" y="-7693.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNumbers</text>
+<polyline fill="none" stroke="black" points="1776.54,-7685.5 1861.54,-7685.5 "/>
+<text text-anchor="start" x="1784.54" y="-7672.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
+<text text-anchor="start" x="1784.54" y="-7659.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
+<text text-anchor="start" x="1784.54" y="-7646.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Version()</text>
+<text text-anchor="start" x="1784.54" y="-7633.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Version()</text>
+<text text-anchor="start" x="1784.54" y="-7620.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ isValid()</text>
+<text text-anchor="start" x="1784.54" y="-7607.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNumbers()</text>
+<text text-anchor="start" x="1784.54" y="-7594.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ toStr()</text>
+<text text-anchor="start" x="1784.54" y="-7581.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setVersion()</text>
+<text text-anchor="start" x="1784.54" y="-7568.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator=()</text>
+<text text-anchor="start" x="1784.54" y="-7555.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;()</text>
+<text text-anchor="start" x="1784.54" y="-7542.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;()</text>
+<text text-anchor="start" x="1784.54" y="-7529.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&gt;=()</text>
+<text text-anchor="start" x="1784.54" y="-7516.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&lt;=()</text>
+<text text-anchor="start" x="1784.54" y="-7503.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator==()</text>
+<text text-anchor="start" x="1784.54" y="-7490.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator!=()</text>
+<text text-anchor="start" x="1784.54" y="-7477.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; compare()</text>
+<text text-anchor="start" x="1784.54" y="-7464.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator=()</text>
+<text text-anchor="start" x="1784.54" y="-7451.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;()</text>
+<text text-anchor="start" x="1784.54" y="-7438.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;()</text>
+<text text-anchor="start" x="1784.54" y="-7425.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&gt;=()</text>
+<text text-anchor="start" x="1784.54" y="-7412.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator&lt;=()</text>
+<text text-anchor="start" x="1784.54" y="-7399.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator==()</text>
+<text text-anchor="start" x="1784.54" y="-7386.5" font-family="Helvetica,sans-Serif" font-size="10.00">* operator!=()</text>
 </a>
 </g>
 <!-- Node37&#45;&gt;Node36 -->
 <g id="edge142" class="edge"><title>Node37&#45;&gt;Node36</title>
-<path fill="none" stroke="#404040" d="M1808,-7378.4C1807.65,-7372.19 1807.33,-7366.04 1807.04,-7360 1798.73,-7186.18 1794.92,-6991.84 1793.21,-6834.3"/>
-<polygon fill="none" stroke="#404040" points="1793.21,-6834.07 1789.14,-6828.11 1793.08,-6822.07 1797.14,-6828.02 1793.21,-6834.07"/>
+<path fill="none" stroke="#404040" d="M1807.84,-7378.38C1807.55,-7372.18 1807.28,-7366.04 1807.04,-7360 1800.08,-7186.12 1796.35,-6991.77 1794.35,-6834.25"/>
+<polygon fill="none" stroke="#404040" points="1794.35,-6834.02 1790.27,-6828.07 1794.2,-6822.02 1798.27,-6827.97 1794.35,-6834.02"/>
 <text text-anchor="middle" x="1832.04" y="-7156.5" font-family="Helvetica,sans-Serif" font-size="10.00"> #mVersion</text>
 </g>
 <!-- Node38&#45;&gt;Node32 -->
