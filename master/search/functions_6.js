@@ -280,7 +280,7 @@ var searchData=
   ['getunplacedoptionalsymbolscount',['getUnplacedOptionalSymbolsCount',['../de/d67/classproject_1_1_gen_comp_instance.html#a590c3eaacaa9f4ce8ed630d7f00f47a4',1,'project::GenCompInstance']]],
   ['getunplacedrequiredsymbolscount',['getUnplacedRequiredSymbolsCount',['../de/d67/classproject_1_1_gen_comp_instance.html#ab56d32f3df77886336513524c2adbf00',1,'project::GenCompInstance']]],
   ['getunplacedsymbolscount',['getUnplacedSymbolsCount',['../de/d67/classproject_1_1_gen_comp_instance.html#a23516dafb6845d01fe67dc147df5dc9a',1,'project::GenCompInstance']]],
-  ['getuseopengl',['getUseOpenGl',['../d8/dcb/class_w_s_i___appearance.html#aca96d5209fb920e8c36da67cbb2f7e93',1,'WSI_Appearance']]],
+  ['getuseopengl',['getUseOpenGl',['../dd/dd5/class_graphics_view.html#aca96d5209fb920e8c36da67cbb2f7e93',1,'GraphicsView::getUseOpenGl()'],['../d8/dcb/class_w_s_i___appearance.html#aca96d5209fb920e8c36da67cbb2f7e93',1,'WSI_Appearance::getUseOpenGl()']]],
   ['getuseopengllabeltext',['getUseOpenGlLabelText',['../d8/dcb/class_w_s_i___appearance.html#a1a764ea4a5e95897c06eb94fc129cd75',1,'WSI_Appearance']]],
   ['getuseopenglwidget',['getUseOpenGlWidget',['../d8/dcb/class_w_s_i___appearance.html#adec3e9a8734ceaf3f916ab1d88b1198f',1,'WSI_Appearance']]],
   ['getusermsg',['getUserMsg',['../df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094',1,'Exception']]],

@@ -127,6 +127,7 @@ var searchData=
   ['settype',['setType',['../d8/dbf/class_grid_properties.html#a93c0f1eb206a23eb859af48f5ad202eb',1,'GridProperties::setType()'],['../d2/d4e/classlibrary_1_1_footprint_pad.html#a93c0f1eb206a23eb859af48f5ad202eb',1,'library::FootprintPad::setType()']]],
   ['settypevalueunit',['setTypeValueUnit',['../d7/d77/classproject_1_1_gen_comp_attribute_instance.html#a2d7b493d122f056fa94fd71541c399ac',1,'project::GenCompAttributeInstance']]],
   ['setunit',['setUnit',['../d8/dbf/class_grid_properties.html#a3f4cb28da6f44d17052e411235916de5',1,'GridProperties']]],
+  ['setuseopengl',['setUseOpenGl',['../dd/dd5/class_graphics_view.html#a430b5fef73c8d66070c0dcaefcc970e9',1,'GraphicsView']]],
   ['setuuid',['setUuid',['../dd/d8a/classlibrary_1_1_library_base_element.html#a27503d241a373fee4dc6750da09ea8a9',1,'library::LibraryBaseElement']]],
   ['setv',['setV',['../df/de9/class_alignment.html#aaf4728a92a0903dab88b7321e4da66a1',1,'Alignment']]],
   ['setvalue',['setValue',['../d6/d47/classproject_1_1_cmd_gen_comp_inst_edit.html#a30b9ad9df323f77f4202279cfb428c6b',1,'project::CmdGenCompInstEdit::setValue()'],['../de/d67/classproject_1_1_gen_comp_instance.html#a30b9ad9df323f77f4202279cfb428c6b',1,'project::GenCompInstance::setValue()']]],

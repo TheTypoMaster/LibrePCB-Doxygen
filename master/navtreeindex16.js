@@ -1,5 +1,8 @@
 var NAVTREEINDEX16 =
 {
+"de/d52/class_workspace_settings.html#a1929f7901456c111916955644d31a649":[2,0,54,4],
+"de/d52/class_workspace_settings.html#a1936315cc004b5b979baac915e89f6da":[2,0,54,14],
+"de/d52/class_workspace_settings.html#a318cba97fc7aeabbb2228f87e83b0491":[2,0,54,19],
 "de/d52/class_workspace_settings.html#a42f5a54cd91e40ca06bcd2a14a71e587":[2,0,54,20],
 "de/d52/class_workspace_settings.html#a4abf1b2064c294b05b38047f25e3a744":[2,0,54,5],
 "de/d52/class_workspace_settings.html#a4c7190335bf26fde0f0305254838e514":[2,0,54,9],
@@ -246,8 +249,5 @@ var NAVTREEINDEX16 =
 "df/d64/classproject_1_1_s_e_s___draw_wire.html#aee10aa078f188ece499e7cbebdbc8c86":[2,0,2,93,14],
 "df/d64/classproject_1_1_s_e_s___draw_wire.html#afb43e4d87fd504421f54de95d13d9656":[2,0,2,93,9],
 "df/d6c/ses__drawwire_8cpp.html":[3,0,1,4,3,0,18],
-"df/d6e/board_8cpp.html":[3,0,1,3,0,3],
-"df/d70/class_exception.html":[2,0,18],
-"df/d70/class_exception.html#a07c2fb59865fd1fcf59c54eed59736a1":[2,0,18,12],
-"df/d70/class_exception.html#a0f65d7e4947ef1bcbf309211c0f824f4":[2,0,18,5]
+"df/d6e/board_8cpp.html":[3,0,1,3,0,3]
 };

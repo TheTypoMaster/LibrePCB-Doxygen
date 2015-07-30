@@ -3453,7 +3453,9 @@
             <section title="GraphicsView" ref="dd/dd5/class_graphics_view.html#a6652ac14e6bc64b16d7db1a190dfe432" />
             <section title="getScene" ref="dd/dd5/class_graphics_view.html#a11c4991b0cf2a7cfc530df40d917d2f5" />
             <section title="getVisibleSceneRect" ref="dd/dd5/class_graphics_view.html#a79f98dafea5083f10c64488e0cabba04" />
+            <section title="getUseOpenGl" ref="dd/dd5/class_graphics_view.html#aca96d5209fb920e8c36da67cbb2f7e93" />
             <section title="getGridProperties" ref="dd/dd5/class_graphics_view.html#a8fdde458ce65c4d4a40545c222303ae9" />
+            <section title="setUseOpenGl" ref="dd/dd5/class_graphics_view.html#a430b5fef73c8d66070c0dcaefcc970e9" />
             <section title="setGridProperties" ref="dd/dd5/class_graphics_view.html#a4801b71126e10a454a0b148beffb13bf" />
             <section title="setScene" ref="dd/dd5/class_graphics_view.html#aed5314322b428c3456713e467f5ec937" />
             <section title="setVisibleSceneRect" ref="dd/dd5/class_graphics_view.html#ae91cf6b8522a55badf3c4c28fb61e0ef" />
@@ -3472,6 +3474,7 @@
             <section title="mZoomAnimation" ref="dd/dd5/class_graphics_view.html#aa0c326f4ae1cc478418abec0010056bb" />
             <section title="mGridProperties" ref="dd/dd5/class_graphics_view.html#a42d6ad9a36bc4beb9db68e1b37922655" />
             <section title="mOriginCrossVisible" ref="dd/dd5/class_graphics_view.html#a87fea1b99a2a4288d2cbcc56c927fa0e" />
+            <section title="mUseOpenGl" ref="dd/dd5/class_graphics_view.html#a0a011e4732b29b8ef33d9a11fe48285e" />
             <section title="sZoomStepFactor" ref="dd/dd5/class_graphics_view.html#aa00a00fa26cead385f97de82858fa2f8" />
           </section>
           <section title="GridProperties" ref="d8/dbf/class_grid_properties.html">
@@ -5060,7 +5063,9 @@
                     <section title="GraphicsView" ref="dd/dd5/class_graphics_view.html#a6652ac14e6bc64b16d7db1a190dfe432" />
                     <section title="getScene" ref="dd/dd5/class_graphics_view.html#a11c4991b0cf2a7cfc530df40d917d2f5" />
                     <section title="getVisibleSceneRect" ref="dd/dd5/class_graphics_view.html#a79f98dafea5083f10c64488e0cabba04" />
+                    <section title="getUseOpenGl" ref="dd/dd5/class_graphics_view.html#aca96d5209fb920e8c36da67cbb2f7e93" />
                     <section title="getGridProperties" ref="dd/dd5/class_graphics_view.html#a8fdde458ce65c4d4a40545c222303ae9" />
+                    <section title="setUseOpenGl" ref="dd/dd5/class_graphics_view.html#a430b5fef73c8d66070c0dcaefcc970e9" />
                     <section title="setGridProperties" ref="dd/dd5/class_graphics_view.html#a4801b71126e10a454a0b148beffb13bf" />
                     <section title="setScene" ref="dd/dd5/class_graphics_view.html#aed5314322b428c3456713e467f5ec937" />
                     <section title="setVisibleSceneRect" ref="dd/dd5/class_graphics_view.html#ae91cf6b8522a55badf3c4c28fb61e0ef" />
@@ -5079,6 +5084,7 @@
                     <section title="mZoomAnimation" ref="dd/dd5/class_graphics_view.html#aa0c326f4ae1cc478418abec0010056bb" />
                     <section title="mGridProperties" ref="dd/dd5/class_graphics_view.html#a42d6ad9a36bc4beb9db68e1b37922655" />
                     <section title="mOriginCrossVisible" ref="dd/dd5/class_graphics_view.html#a87fea1b99a2a4288d2cbcc56c927fa0e" />
+                    <section title="mUseOpenGl" ref="dd/dd5/class_graphics_view.html#a0a011e4732b29b8ef33d9a11fe48285e" />
                     <section title="sZoomStepFactor" ref="dd/dd5/class_graphics_view.html#aa00a00fa26cead385f97de82858fa2f8" />
                   </section>
                 </section>
@@ -10179,7 +10185,9 @@
       <keyword name="~GraphicsView" id="GraphicsView::~GraphicsView" ref="dd/dd5/class_graphics_view.html#aa36ea3dc3e1196b2434632486c420a71" />
       <keyword name="getScene" id="GraphicsView::getScene" ref="dd/dd5/class_graphics_view.html#a11c4991b0cf2a7cfc530df40d917d2f5" />
       <keyword name="getVisibleSceneRect" id="GraphicsView::getVisibleSceneRect" ref="dd/dd5/class_graphics_view.html#a79f98dafea5083f10c64488e0cabba04" />
+      <keyword name="getUseOpenGl" id="GraphicsView::getUseOpenGl" ref="dd/dd5/class_graphics_view.html#aca96d5209fb920e8c36da67cbb2f7e93" />
       <keyword name="getGridProperties" id="GraphicsView::getGridProperties" ref="dd/dd5/class_graphics_view.html#a8fdde458ce65c4d4a40545c222303ae9" />
+      <keyword name="setUseOpenGl" id="GraphicsView::setUseOpenGl" ref="dd/dd5/class_graphics_view.html#a430b5fef73c8d66070c0dcaefcc970e9" />
       <keyword name="setGridProperties" id="GraphicsView::setGridProperties" ref="dd/dd5/class_graphics_view.html#a4801b71126e10a454a0b148beffb13bf" />
       <keyword name="setScene" id="GraphicsView::setScene" ref="dd/dd5/class_graphics_view.html#aed5314322b428c3456713e467f5ec937" />
       <keyword name="setVisibleSceneRect" id="GraphicsView::setVisibleSceneRect" ref="dd/dd5/class_graphics_view.html#ae91cf6b8522a55badf3c4c28fb61e0ef" />
@@ -10199,6 +10207,7 @@
       <keyword name="mZoomAnimation" id="GraphicsView::mZoomAnimation" ref="dd/dd5/class_graphics_view.html#aa0c326f4ae1cc478418abec0010056bb" />
       <keyword name="mGridProperties" id="GraphicsView::mGridProperties" ref="dd/dd5/class_graphics_view.html#a42d6ad9a36bc4beb9db68e1b37922655" />
       <keyword name="mOriginCrossVisible" id="GraphicsView::mOriginCrossVisible" ref="dd/dd5/class_graphics_view.html#a87fea1b99a2a4288d2cbcc56c927fa0e" />
+      <keyword name="mUseOpenGl" id="GraphicsView::mUseOpenGl" ref="dd/dd5/class_graphics_view.html#a0a011e4732b29b8ef33d9a11fe48285e" />
       <keyword name="sZoomStepFactor" id="GraphicsView::sZoomStepFactor" ref="dd/dd5/class_graphics_view.html#aa00a00fa26cead385f97de82858fa2f8" />
       <keyword name="GridProperties" id="GridProperties" ref="d8/dbf/class_grid_properties.html" />
       <keyword name="GridProperties" id="GridProperties::GridProperties" ref="d8/dbf/class_grid_properties.html#a5c35f2e0e5f8ddb053c5e93c5565a867" />
@@ -16388,6 +16397,7 @@
       <file>d7/d81/class_graphics_view__coll__graph.svg</file>
       <file>dd/dd5/class_graphics_view_a36961d603ad055ea3d13958d5bee9d84_cgraph.svg</file>
       <file>dd/dd5/class_graphics_view_a79f98dafea5083f10c64488e0cabba04_icgraph.svg</file>
+      <file>dd/dd5/class_graphics_view_a430b5fef73c8d66070c0dcaefcc970e9_icgraph.svg</file>
       <file>dd/dd5/class_graphics_view_a4801b71126e10a454a0b148beffb13bf_icgraph.svg</file>
       <file>dd/dd5/class_graphics_view_aed5314322b428c3456713e467f5ec937_icgraph.svg</file>
       <file>dd/dd5/class_graphics_view_a8bcfae1253e8a88ee56b2d0e38dd7d77_icgraph.svg</file>
@@ -16795,6 +16805,7 @@
       <file>d7/dc7/class_w_s_i___appearance__inherit__graph.svg</file>
       <file>d7/d36/class_w_s_i___appearance__coll__graph.svg</file>
       <file>d8/dcb/class_w_s_i___appearance_a44d1a1a26da2f0cc612f11c2f30d745e_cgraph.svg</file>
+      <file>d8/dcb/class_w_s_i___appearance_aca96d5209fb920e8c36da67cbb2f7e93_icgraph.svg</file>
       <file>d8/dcb/class_w_s_i___appearance_a1a764ea4a5e95897c06eb94fc129cd75_icgraph.svg</file>
       <file>d8/dcb/class_w_s_i___appearance_adec3e9a8734ceaf3f916ab1d88b1198f_icgraph.svg</file>
       <file>d8/dcb/class_w_s_i___appearance_a95067243b72a23863ec07c821797455c_cgraph.svg</file>
@@ -18312,6 +18323,7 @@
       <file>d0/db3/classproject_1_1_project_editor__coll__graph.svg</file>
       <file>d3/dd6/classproject_1_1_project_editor_a10d8ea6edaf3788d3d34fa3e47f372b1_cgraph.svg</file>
       <file>d3/dd6/classproject_1_1_project_editor_ae01fee4b95fd8ed359ca04a547055bec_cgraph.svg</file>
+      <file>d3/dd6/classproject_1_1_project_editor_a8bd898624d6ef8da257077c470a1367a_icgraph.svg</file>
       <file>d3/dd6/classproject_1_1_project_editor_ac48a585009b5ee63f88e0c2b5357d6e9_icgraph.svg</file>
       <file>d3/dd6/classproject_1_1_project_editor_a5197d5ec7e234d6924a76e9fcfa985fa_icgraph.svg</file>
       <file>d3/dd6/classproject_1_1_project_editor_a9f14b9293fefcadb6df3288b459fd470_cgraph.svg</file>

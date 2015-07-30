@@ -1,7 +1,7 @@
 <map id="SES_FSM" name="SES_FSM">
 <area shape="rect" id="node72" href="$dd/d24/classproject_1_1_schematic_editor.html" title="The SchematicEditor class. " alt="" coords="2505,7118,2705,7879"/>
 <area shape="rect" id="node2" href="$d4/d85/classproject_1_1_s_e_s___base.html" title="The SES_Base (SchematicEditorState Base) class. " alt="" coords="2360,8129,2475,8284"/>
-<area shape="rect" id="node4" href="$dd/dd5/class_graphics_view.html" title="The GraphicsView class. " alt="" coords="1991,6023,2204,6455"/>
+<area shape="rect" id="node4" href="$dd/dd5/class_graphics_view.html" title="The GraphicsView class. " alt="" coords="1991,5997,2204,6481"/>
 <area shape="rect" id="node87" href="$d4/dfb/classproject_1_1_board_editor.html" title="The BoardEditor class. " alt="" coords="2311,8499,2527,9069"/>
 <area shape="rect" id="node91" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html" title="The UnplacedComponentsDock class. " alt="" coords="1177,7982,1393,8431"/>
 <area shape="rect" id="node136" href="$d0/d4b/classproject_1_1_b_e_s___base.html" title="The BES_Base (BoardEditorState Base) class. " alt="" coords="2043,9136,2157,9291"/>

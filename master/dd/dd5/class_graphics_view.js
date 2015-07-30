@@ -5,7 +5,9 @@ var class_graphics_view =
     [ "GraphicsView", "dd/dd5/class_graphics_view.html#a6652ac14e6bc64b16d7db1a190dfe432", null ],
     [ "getScene", "dd/dd5/class_graphics_view.html#a11c4991b0cf2a7cfc530df40d917d2f5", null ],
     [ "getVisibleSceneRect", "dd/dd5/class_graphics_view.html#a79f98dafea5083f10c64488e0cabba04", null ],
+    [ "getUseOpenGl", "dd/dd5/class_graphics_view.html#aca96d5209fb920e8c36da67cbb2f7e93", null ],
     [ "getGridProperties", "dd/dd5/class_graphics_view.html#a8fdde458ce65c4d4a40545c222303ae9", null ],
+    [ "setUseOpenGl", "dd/dd5/class_graphics_view.html#a430b5fef73c8d66070c0dcaefcc970e9", null ],
     [ "setGridProperties", "dd/dd5/class_graphics_view.html#a4801b71126e10a454a0b148beffb13bf", null ],
     [ "setScene", "dd/dd5/class_graphics_view.html#aed5314322b428c3456713e467f5ec937", null ],
     [ "setVisibleSceneRect", "dd/dd5/class_graphics_view.html#ae91cf6b8522a55badf3c4c28fb61e0ef", null ],
@@ -24,5 +26,6 @@ var class_graphics_view =
     [ "mZoomAnimation", "dd/dd5/class_graphics_view.html#aa0c326f4ae1cc478418abec0010056bb", null ],
     [ "mGridProperties", "dd/dd5/class_graphics_view.html#a42d6ad9a36bc4beb9db68e1b37922655", null ],
     [ "mOriginCrossVisible", "dd/dd5/class_graphics_view.html#a87fea1b99a2a4288d2cbcc56c927fa0e", null ],
+    [ "mUseOpenGl", "dd/dd5/class_graphics_view.html#a0a011e4732b29b8ef33d9a11fe48285e", null ],
     [ "sZoomStepFactor", "dd/dd5/class_graphics_view.html#aa00a00fa26cead385f97de82858fa2f8", null ]
 ];

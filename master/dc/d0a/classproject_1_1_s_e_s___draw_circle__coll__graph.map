@@ -1,7 +1,7 @@
 <map id="SES_DrawCircle" name="SES_DrawCircle">
 <area shape="rect" id="node2" href="$d4/d85/classproject_1_1_s_e_s___base.html" title="The SES_Base (SchematicEditorState Base) class. " alt="" coords="2282,7285,2396,7440"/>
 <area shape="rect" id="node84" href="$d5/d96/classproject_1_1_s_e_s___f_s_m.html" title="The SES_FSM (Schematic Editor Finite State Machine) class. " alt="" coords="2082,8269,2260,8459"/>
-<area shape="rect" id="node4" href="$dd/dd5/class_graphics_view.html" title="The GraphicsView class. " alt="" coords="1428,5792,1642,6224"/>
+<area shape="rect" id="node4" href="$dd/dd5/class_graphics_view.html" title="The GraphicsView class. " alt="" coords="1428,5766,1642,6250"/>
 <area shape="rect" id="node72" href="$dd/d24/classproject_1_1_schematic_editor.html" title="The SchematicEditor class. " alt="" coords="2140,8657,2340,9418"/>
 <area shape="rect" id="node89" href="$d4/dfb/classproject_1_1_board_editor.html" title="The BoardEditor class. " alt="" coords="1679,9915,1895,10485"/>
 <area shape="rect" id="node93" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html" title="The UnplacedComponentsDock class. " alt="" coords="990,8139,1206,8589"/>

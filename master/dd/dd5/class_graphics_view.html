@@ -128,7 +128,7 @@ $(document).ready(function(){initNavTree('dd/dd5/class_graphics_view.html','../.
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../d7/d81/class_graphics_view__coll__graph.svg" width="779" height="2032"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d7/d81/class_graphics_view__coll__graph.svg" width="779" height="2086"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <table class="memberdecls">
@@ -142,8 +142,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a11c4991b0cf2a7cfc530df40d917d2f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a79f98dafea5083f10c64488e0cabba04"><td class="memItemLeft" align="right" valign="top">QRectF&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd5/class_graphics_view.html#a79f98dafea5083f10c64488e0cabba04">getVisibleSceneRect</a> () const noexcept</td></tr>
 <tr class="separator:a79f98dafea5083f10c64488e0cabba04"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca96d5209fb920e8c36da67cbb2f7e93"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd5/class_graphics_view.html#aca96d5209fb920e8c36da67cbb2f7e93">getUseOpenGl</a> () const noexcept</td></tr>
+<tr class="separator:aca96d5209fb920e8c36da67cbb2f7e93"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8fdde458ce65c4d4a40545c222303ae9"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d8/dbf/class_grid_properties.html">GridProperties</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd5/class_graphics_view.html#a8fdde458ce65c4d4a40545c222303ae9">getGridProperties</a> () const noexcept</td></tr>
 <tr class="separator:a8fdde458ce65c4d4a40545c222303ae9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a430b5fef73c8d66070c0dcaefcc970e9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd5/class_graphics_view.html#a430b5fef73c8d66070c0dcaefcc970e9">setUseOpenGl</a> (bool useOpenGl) noexcept</td></tr>
+<tr class="separator:a430b5fef73c8d66070c0dcaefcc970e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4801b71126e10a454a0b148beffb13bf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd5/class_graphics_view.html#a4801b71126e10a454a0b148beffb13bf">setGridProperties</a> (const <a class="el" href="../../d8/dbf/class_grid_properties.html">GridProperties</a> &amp;properties) noexcept</td></tr>
 <tr class="separator:a4801b71126e10a454a0b148beffb13bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aed5314322b428c3456713e467f5ec937"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd5/class_graphics_view.html#aed5314322b428c3456713e467f5ec937">setScene</a> (<a class="el" href="../../dc/dcc/class_graphics_scene.html">GraphicsScene</a> *scene) noexcept</td></tr>
@@ -191,6 +195,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a42d6ad9a36bc4beb9db68e1b37922655"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a87fea1b99a2a4288d2cbcc56c927fa0e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd5/class_graphics_view.html#a87fea1b99a2a4288d2cbcc56c927fa0e">mOriginCrossVisible</a></td></tr>
 <tr class="separator:a87fea1b99a2a4288d2cbcc56c927fa0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a011e4732b29b8ef33d9a11fe48285e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dd5/class_graphics_view.html#a0a011e4732b29b8ef33d9a11fe48285e">mUseOpenGl</a></td></tr>
+<tr class="separator:a0a011e4732b29b8ef33d9a11fe48285e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-static-attribs"></a>
 Static Private Attributes</h2></td></tr>
@@ -348,6 +354,29 @@ Static Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="aca96d5209fb920e8c36da67cbb2f7e93"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool getUseOpenGl </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a8fdde458ce65c4d4a40545c222303ae9"></a>
 <div class="memitem">
 <div class="memproto">
@@ -368,6 +397,40 @@ Static Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a430b5fef73c8d66070c0dcaefcc970e9"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void setUseOpenGl </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>useOpenGl</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p><div id="dynsection-3" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-3-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-3-summary" class="dynsummary" style="display:block;">
+</div>
+<div id="dynsection-3-content" class="dyncontent" style="display:none;">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dd5/class_graphics_view_a430b5fef73c8d66070c0dcaefcc970e9_icgraph.svg" width="334" height="126"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+</p>
 
 </div>
 </div>
@@ -393,11 +456,11 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><div id="dynsection-3" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-3-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
-<div id="dynsection-3-summary" class="dynsummary" style="display:block;">
+<p><div id="dynsection-4" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-4-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-4-summary" class="dynsummary" style="display:block;">
 </div>
-<div id="dynsection-3-content" class="dyncontent" style="display:none;">
+<div id="dynsection-4-content" class="dyncontent" style="display:none;">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dd5/class_graphics_view_a4801b71126e10a454a0b148beffb13bf_icgraph.svg" width="347" height="126"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
@@ -427,11 +490,11 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><div id="dynsection-4" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-4-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
-<div id="dynsection-4-summary" class="dynsummary" style="display:block;">
+<p><div id="dynsection-5" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-5-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-5-summary" class="dynsummary" style="display:block;">
 </div>
-<div id="dynsection-4-content" class="dyncontent" style="display:none;">
+<div id="dynsection-5-content" class="dyncontent" style="display:none;">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dd5/class_graphics_view_aed5314322b428c3456713e467f5ec937_icgraph.svg" width="358" height="56"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
@@ -508,11 +571,11 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><div id="dynsection-5" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-5-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
-<div id="dynsection-5-summary" class="dynsummary" style="display:block;">
+<p><div id="dynsection-6" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-6-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-6-summary" class="dynsummary" style="display:block;">
 </div>
-<div id="dynsection-5-content" class="dyncontent" style="display:none;">
+<div id="dynsection-6-content" class="dyncontent" style="display:none;">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dd5/class_graphics_view_a8bcfae1253e8a88ee56b2d0e38dd7d77_icgraph.svg" width="291" height="126"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
@@ -541,11 +604,11 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><div id="dynsection-6" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-6-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
-<div id="dynsection-6-summary" class="dynsummary" style="display:block;">
+<p><div id="dynsection-7" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-7-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-7-summary" class="dynsummary" style="display:block;">
 </div>
-<div id="dynsection-6-content" class="dyncontent" style="display:none;">
+<div id="dynsection-7-content" class="dyncontent" style="display:none;">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dd5/class_graphics_view_a4ec565aefab2e63fe623c84cb690733c_icgraph.svg" width="299" height="126"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
@@ -574,21 +637,21 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><div id="dynsection-7" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-7-trigger" src="../../closed.png" alt="+"/> Here is the call graph for this function:</div>
-<div id="dynsection-7-summary" class="dynsummary" style="display:block;">
+<p><div id="dynsection-8" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-8-trigger" src="../../closed.png" alt="+"/> Here is the call graph for this function:</div>
+<div id="dynsection-8-summary" class="dynsummary" style="display:block;">
 </div>
-<div id="dynsection-7-content" class="dyncontent" style="display:none;">
+<div id="dynsection-8-content" class="dyncontent" style="display:none;">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dd5/class_graphics_view_a0b0ff363db364ea5ce364fe2e27ef1aa_cgraph.svg" width="272" height="40"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </p>
 
-<p><div id="dynsection-8" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-8-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
-<div id="dynsection-8-summary" class="dynsummary" style="display:block;">
+<p><div id="dynsection-9" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-9-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-9-summary" class="dynsummary" style="display:block;">
 </div>
-<div id="dynsection-8-content" class="dyncontent" style="display:none;">
+<div id="dynsection-9-content" class="dyncontent" style="display:none;">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dd5/class_graphics_view_a0b0ff363db364ea5ce364fe2e27ef1aa_icgraph.svg" width="294" height="126"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
@@ -618,11 +681,11 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><div id="dynsection-9" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-9-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
-<div id="dynsection-9-summary" class="dynsummary" style="display:block;">
+<p><div id="dynsection-10" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-10-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-10-summary" class="dynsummary" style="display:block;">
 </div>
-<div id="dynsection-9-content" class="dyncontent" style="display:none;">
+<div id="dynsection-10-content" class="dyncontent" style="display:none;">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dd5/class_graphics_view_a5b24d289ed4c6d4b20e2da8a9c3b03d5_icgraph.svg" width="312" height="40"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
@@ -652,11 +715,11 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><div id="dynsection-10" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-10-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
-<div id="dynsection-10-summary" class="dynsummary" style="display:block;">
+<p><div id="dynsection-11" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-11-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-11-summary" class="dynsummary" style="display:block;">
 </div>
-<div id="dynsection-10-content" class="dyncontent" style="display:none;">
+<div id="dynsection-11-content" class="dyncontent" style="display:none;">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dd5/class_graphics_view_a549054a3d41a0fe6b073678f5b22d9f8_icgraph.svg" width="360" height="40"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
@@ -720,11 +783,11 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><div id="dynsection-11" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-11-trigger" src="../../closed.png" alt="+"/> Here is the call graph for this function:</div>
-<div id="dynsection-11-summary" class="dynsummary" style="display:block;">
+<p><div id="dynsection-12" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-12-trigger" src="../../closed.png" alt="+"/> Here is the call graph for this function:</div>
+<div id="dynsection-12-summary" class="dynsummary" style="display:block;">
 </div>
-<div id="dynsection-11-content" class="dyncontent" style="display:none;">
+<div id="dynsection-12-content" class="dyncontent" style="display:none;">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dd5/class_graphics_view_ad7452c5931d2f0c7f63a308d1ccccfc7_cgraph.svg" width="344" height="110"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
@@ -764,11 +827,11 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p><div id="dynsection-12" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-12-trigger" src="../../closed.png" alt="+"/> Here is the call graph for this function:</div>
-<div id="dynsection-12-summary" class="dynsummary" style="display:block;">
+<p><div id="dynsection-13" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-13-trigger" src="../../closed.png" alt="+"/> Here is the call graph for this function:</div>
+<div id="dynsection-13-summary" class="dynsummary" style="display:block;">
 </div>
-<div id="dynsection-12-content" class="dyncontent" style="display:none;">
+<div id="dynsection-13-content" class="dyncontent" style="display:none;">
 <div class="center"><iframe scrolling="no" frameborder="0" src="../../dd/dd5/class_graphics_view_a862810f7e46922a88db3c1d8cca8a1eb_cgraph.svg" width="355" height="147"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
@@ -911,6 +974,26 @@ Static Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="a0a011e4732b29b8ef33d9a11fe48285e"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool mUseOpenGl</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="aa00a00fa26cead385f97de82858fa2f8"></a>
 <div class="memitem">
 <div class="memproto">
@@ -941,7 +1024,7 @@ Static Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/dd5/class_graphics_view.html">GraphicsView</a></li>
-    <li class="footer">Generated on Wed Jul 29 2015 20:23:08 for LibrePCB Developers Documentation by
+    <li class="footer">Generated on Thu Jul 30 2015 17:02:36 for LibrePCB Developers Documentation by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

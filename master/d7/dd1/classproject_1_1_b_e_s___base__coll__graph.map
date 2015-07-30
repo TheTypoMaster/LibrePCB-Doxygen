@@ -1,6 +1,6 @@
 <map id="BES_Base" name="BES_Base">
 <area shape="rect" id="node118" href="$db/d99/classproject_1_1_b_e_s___f_s_m.html" title="The BES_FSM (Board Editor Finite State Machine) class. " alt="" coords="2140,8269,2319,8459"/>
-<area shape="rect" id="node2" href="$dd/dd5/class_graphics_view.html" title="The GraphicsView class. " alt="" coords="3427,5792,3640,6224"/>
+<area shape="rect" id="node2" href="$dd/dd5/class_graphics_view.html" title="The GraphicsView class. " alt="" coords="3427,5766,3640,6250"/>
 <area shape="rect" id="node16" href="$d4/dfb/classproject_1_1_board_editor.html" title="The BoardEditor class. " alt="" coords="2121,8656,2337,9227"/>
 <area shape="rect" id="node20" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html" title="The UnplacedComponentsDock class. " alt="" coords="2675,8139,2891,8589"/>
 <area shape="rect" id="node124" href="$dd/d24/classproject_1_1_schematic_editor.html" title="The SchematicEditor class. " alt="" coords="2343,9723,2543,10485"/>
