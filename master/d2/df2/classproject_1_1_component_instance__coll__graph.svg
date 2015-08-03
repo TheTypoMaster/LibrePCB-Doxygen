@@ -766,27 +766,30 @@
 <!-- Node26 -->
 <g id="node79" class="node"><title>Node26</title>
 <a xlink:href="../../d1/dcf/classlibrary_1_1_package.html" target="_top" xlink:title="The Package class. ">
-<polygon fill="white" stroke="black" points="2394,-1974.5 2394,-2167.5 2544,-2167.5 2544,-1974.5 2394,-1974.5"/>
-<text text-anchor="middle" x="2469" y="-2154.5" font-family="Helvetica,sans-Serif" font-size="10.00">Package</text>
-<polyline fill="none" stroke="black" points="2394,-2146.5 2544,-2146.5 "/>
-<text text-anchor="start" x="2402" y="-2133.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFootprintUuid</text>
-<polyline fill="none" stroke="black" points="2394,-2125.5 2544,-2125.5 "/>
-<text text-anchor="start" x="2402" y="-2112.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Package()</text>
-<text text-anchor="start" x="2402" y="-2099.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ Package()</text>
-<text text-anchor="start" x="2402" y="-2086.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Package()</text>
-<text text-anchor="start" x="2402" y="-2073.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFootprintUuid()</text>
-<text text-anchor="start" x="2402" y="-2060.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFootprintUuid()</text>
-<text text-anchor="start" x="2402" y="-2047.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; Package()</text>
-<text text-anchor="start" x="2402" y="-2034.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; Package()</text>
-<text text-anchor="start" x="2402" y="-2021.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
-<text text-anchor="start" x="2402" y="-2008.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; parseDomTree()</text>
-<text text-anchor="start" x="2402" y="-1995.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; serializeToXmlDomElement()</text>
-<text text-anchor="start" x="2402" y="-1982.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; checkAttributesValidity()</text>
+<polygon fill="white" stroke="black" points="2394,-1955 2394,-2187 2544,-2187 2544,-1955 2394,-1955"/>
+<text text-anchor="middle" x="2469" y="-2174" font-family="Helvetica,sans-Serif" font-size="10.00">Package</text>
+<polyline fill="none" stroke="black" points="2394,-2166 2544,-2166 "/>
+<text text-anchor="start" x="2402" y="-2153" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFootprintUuid</text>
+<text text-anchor="start" x="2402" y="-2140" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mModel3dUuid</text>
+<polyline fill="none" stroke="black" points="2394,-2132 2544,-2132 "/>
+<text text-anchor="start" x="2402" y="-2119" font-family="Helvetica,sans-Serif" font-size="10.00">+ Package()</text>
+<text text-anchor="start" x="2402" y="-2106" font-family="Helvetica,sans-Serif" font-size="10.00">+ Package()</text>
+<text text-anchor="start" x="2402" y="-2093" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Package()</text>
+<text text-anchor="start" x="2402" y="-2080" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFootprintUuid()</text>
+<text text-anchor="start" x="2402" y="-2067" font-family="Helvetica,sans-Serif" font-size="10.00">+ getModel3dUuid()</text>
+<text text-anchor="start" x="2402" y="-2054" font-family="Helvetica,sans-Serif" font-size="10.00">+ setFootprintUuid()</text>
+<text text-anchor="start" x="2402" y="-2041" font-family="Helvetica,sans-Serif" font-size="10.00">+ setModel3dUuid()</text>
+<text text-anchor="start" x="2402" y="-2028" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; Package()</text>
+<text text-anchor="start" x="2402" y="-2015" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; Package()</text>
+<text text-anchor="start" x="2402" y="-2002" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<text text-anchor="start" x="2402" y="-1989" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; parseDomTree()</text>
+<text text-anchor="start" x="2402" y="-1976" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; serializeToXmlDomElement()</text>
+<text text-anchor="start" x="2402" y="-1963" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; checkAttributesValidity()</text>
 </a>
 </g>
 <!-- Node8&#45;&gt;Node26 -->
 <g id="edge110" class="edge"><title>Node8&#45;&gt;Node26</title>
-<path fill="none" stroke="midnightblue" d="M2491.92,-4057.01C2487.93,-3711.98 2474.15,-2517.18 2470.12,-2167.72"/>
+<path fill="none" stroke="midnightblue" d="M2491.92,-4057.19C2488.01,-3718.49 2474.63,-2559.18 2470.34,-2187.01"/>
 <polygon fill="none" stroke="midnightblue" points="2488.42,-4057.25 2492.03,-4067.21 2495.42,-4057.17 2488.42,-4057.25"/>
 </g>
 <!-- Node27 -->
@@ -1382,7 +1385,7 @@
 </g>
 <!-- Node26&#45;&gt;Node1 -->
 <g id="edge108" class="edge"><title>Node26&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M2471.44,-1974.33C2476.4,-1753.1 2484.55,-1223.35 2451,-1150 2432.22,-1108.95 2347,-1036.44 2279.57,-983.385"/>
+<path fill="none" stroke="#404040" d="M2471.87,-1954.68C2476.83,-1723.28 2483.59,-1221.26 2451,-1150 2432.22,-1108.95 2347,-1036.44 2279.57,-983.385"/>
 <polygon fill="none" stroke="#404040" points="2279.21,-983.102 2272.02,-982.553 2269.76,-975.704 2276.95,-976.254 2279.21,-983.102"/>
 <text text-anchor="middle" x="2502.5" y="-1524.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mPackage</text>
 </g>

@@ -1,4 +1,6 @@
 <map id="getWorkspace" name="getWorkspace">
-<area shape="rect" id="node3" href="$d4/dfb/classproject_1_1_board_editor.html#a2622890007f7f744656c64f1e2326ed4" title="project::BoardEditor\l::BoardEditor" alt="" coords="175,5,311,51"/>
-<area shape="rect" id="node5" href="$dd/d24/classproject_1_1_schematic_editor.html#a00c3b550b94494cf7cd411acc8e4469d" title="project::SchematicEditor\l::SchematicEditor" alt="" coords="160,74,325,121"/>
+<area shape="rect" id="node3" href="$d4/dfb/classproject_1_1_board_editor.html#a2622890007f7f744656c64f1e2326ed4" title="project::BoardEditor\l::BoardEditor" alt="" coords="203,5,339,51"/>
+<area shape="rect" id="node5" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#abc20576b1a90981588679be439a1762a" title="project::UnplacedComponents\lDock::on_cbxSelectedComponent\l_currentIndexChanged" alt="" coords="160,75,381,139"/>
+<area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="project::UnplacedComponents\lDock::on_btnAddAll_clicked" alt="" coords="172,162,369,209"/>
+<area shape="rect" id="node9" href="$dd/d24/classproject_1_1_schematic_editor.html#a00c3b550b94494cf7cd411acc8e4469d" title="project::SchematicEditor\l::SchematicEditor" alt="" coords="188,231,353,278"/>
 </map>

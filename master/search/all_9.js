@@ -15,7 +15,7 @@ var searchData=
   ['if_5fschematiclayerprovider_2eh',['if_schematiclayerprovider.h',['../d4/d45/if__schematiclayerprovider_8h.html',1,'']]],
   ['if_5fxmlserializableobject',['IF_XmlSerializableObject',['../d9/d3d/class_i_f___xml_serializable_object.html',1,'IF_XmlSerializableObject'],['../d9/d3d/class_i_f___xml_serializable_object.html#a2c59190b49734977beff5fb9faa20a67',1,'IF_XmlSerializableObject::IF_XmlSerializableObject()']]],
   ['if_5fxmlserializableobject_2eh',['if_xmlserializableobject.h',['../d0/d1d/if__xmlserializableobject_8h.html',1,'']]],
-  ['inches',['Inches',['../dd/d55/class_length_unit.html#a693ad72e816a82efcb84ed5b955e511dad73325cdb1cb4f9a1ed11bdab879321d',1,'LengthUnit::Inches()'],['../dd/d55/class_length_unit.html#adfc71e3816eaaffe331c8651e2c40994',1,'LengthUnit::inches() noexcept']]],
+  ['inches',['inches',['../dd/d55/class_length_unit.html#adfc71e3816eaaffe331c8651e2c40994',1,'LengthUnit::inches() noexcept'],['../dd/d55/class_length_unit.html#a693ad72e816a82efcb84ed5b955e511dad73325cdb1cb4f9a1ed11bdab879321d',1,'LengthUnit::Inches()']]],
   ['index',['index',['../d2/d71/classlibrary_1_1_category_tree_model.html#a78a2f89d1c2554356cf93a072b5fe7aa',1,'library::CategoryTreeModel::index()'],['../db/d76/class_project_tree_model.html#a78a2f89d1c2554356cf93a072b5fe7aa',1,'ProjectTreeModel::index()']]],
   ['inductance',['Inductance',['../d8/d57/class_attribute_type.html#a248b92a7f869a405ba11941b00225c72a028c23e6ecb94de909e7ac3623bafb98',1,'AttributeType']]],
   ['info',['Info',['../da/d7d/class_debug.html#afd731cec353e6d6fd1a594270d0bb485a4059b0251f66a18cb56f544728796875',1,'Debug']]],

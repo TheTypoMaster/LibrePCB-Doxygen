@@ -1,7 +1,8 @@
 <map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcblibrary/spcmdl/spicemodel.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcblibrary/spcmdl/spicemodel.h">
-<area shape="rect" id="node3" href="$de/d98/elements_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/elements.h" alt="" coords="41,145,215,209"/>
-<area shape="rect" id="node7" href="$d7/d7d/library_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/library.cpp" alt="" coords="239,145,409,209"/>
-<area shape="rect" id="node9" href="$d3/d21/spicemodel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/spcmdl\l/spicemodel.cpp" alt="" coords="433,137,599,218"/>
-<area shape="rect" id="node11" href="$d4/d20/projectlibrary_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/projectlibrary.cpp" alt="" coords="623,137,788,218"/>
+<area shape="rect" id="node3" href="$de/d98/elements_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/elements.h" alt="" coords="181,145,355,209"/>
+<area shape="rect" id="node9" href="$d7/d7d/library_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/library.cpp" alt="" coords="379,145,549,209"/>
+<area shape="rect" id="node11" href="$d3/d21/spicemodel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/spcmdl\l/spicemodel.cpp" alt="" coords="573,137,739,218"/>
+<area shape="rect" id="node13" href="$d4/d20/projectlibrary_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/projectlibrary.cpp" alt="" coords="763,137,928,218"/>
 <area shape="rect" id="node5" href="$da/d6c/cmdprojectlibraryaddelement_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/cmd/cmdprojectlibraryaddelement.cpp" alt="" coords="5,267,251,349"/>
+<area shape="rect" id="node7" href="$de/dd2/unplacedcomponentsdock_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/unplacedcomponentsdock.cpp" alt="" coords="275,267,544,349"/>
 </map>

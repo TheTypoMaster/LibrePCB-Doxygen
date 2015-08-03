@@ -1,6 +1,6 @@
 var classproject_1_1_unplaced_components_dock =
 [
-    [ "UnplacedComponentsDock", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a8fbd3c721cf6a7086b09b00746e8c5bd", null ],
+    [ "UnplacedComponentsDock", "dc/dbb/classproject_1_1_unplaced_components_dock.html#abda2283f458f0fc17a0ccd8f61df7528", null ],
     [ "~UnplacedComponentsDock", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49", null ],
     [ "UnplacedComponentsDock", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a4bf8dc91282751c6c4c2ea374b1a3d63", null ],
     [ "UnplacedComponentsDock", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a7150b676609d43b021bb5d6b10a586eb", null ],
@@ -15,8 +15,8 @@ var classproject_1_1_unplaced_components_dock =
     [ "setSelectedGenCompInstance", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a8b27105b4d0e8500f6c177ab8bde0b65", null ],
     [ "setSelectedComponent", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a72f69a594e25f3c54771588086c929c2", null ],
     [ "addComponent", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a41c3c33dc2c3c5545110b742d536cc76", null ],
+    [ "mProjectEditor", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a6cb10b3d635f6a53d2aa110f0e48c81c", null ],
     [ "mProject", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a9887e07d0b08a071e02e6d1fd6cf9ab9", null ],
-    [ "mUndoStack", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a8a6fd015b05da4e769ad2191e7b14675", null ],
     [ "mBoard", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a696f434954d1819821c60e4dda2f125c", null ],
     [ "mUi", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a5e141e8cb0ad60276792b80a61f14fbe", null ],
     [ "mFootprintPreviewGraphicsView", "dc/dbb/classproject_1_1_unplaced_components_dock.html#a4aec6b47e87a0eb4c8de3fa0a00da5fc", null ],

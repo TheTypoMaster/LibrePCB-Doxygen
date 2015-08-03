@@ -1,0 +1,6 @@
+<map id="getAllAvailableLocales" name="getAllAvailableLocales">
+<area shape="rect" id="node3" href="$de/d02/classlibrary_1_1_library.html#a186f36ac4cac0a49367b5bf9923e4680" title="library::Library::addPackagesToDb" alt="" coords="217,5,439,35"/>
+<area shape="rect" id="node9" href="$de/d02/classlibrary_1_1_library.html#aec416b88c369dd6f94af6e524b46df0e" title="library::Library::addComponentsToDb" alt="" coords="209,59,447,88"/>
+<area shape="rect" id="node5" href="$de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. " alt="" coords="497,32,647,61"/>
+<area shape="rect" id="node7" href="$d1/def/class_control_panel.html#a65617210fcf4b06dcce361e933bbb994" title="ControlPanel::on_actionRescan\lLibrary_triggered" alt="" coords="697,23,903,70"/>
+</map>

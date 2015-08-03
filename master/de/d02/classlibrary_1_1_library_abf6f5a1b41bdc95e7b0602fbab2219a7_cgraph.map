@@ -1,7 +1,26 @@
 <map id="rescan" name="rescan">
 <area shape="rect" id="node3" href="$de/d02/classlibrary_1_1_library.html#a7252d2908c652122452d1f47b8c7bb16" title="clearDatabaseAndCreateTables" alt="" coords="116,59,321,88"/>
-<area shape="rect" id="node9" href="$de/d02/classlibrary_1_1_library.html#af2169476bf038e2de29eb968e25c561e" title="getAllXmlFilesInLibDir" alt="" coords="144,112,293,141"/>
-<area shape="rect" id="node5" href="$de/d02/classlibrary_1_1_library.html#a4e341ac749738a97962a224277794303" title="prepareQuery" alt="" coords="375,5,473,35"/>
-<area shape="rect" id="node7" href="$de/d02/classlibrary_1_1_library.html#aa3f504ec425bb6a3578ffd34ccc51cb7" title="execQuery" alt="" coords="381,59,467,88"/>
-<area shape="rect" id="node11" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="371,112,477,141"/>
+<area shape="rect" id="node9" href="$de/d02/classlibrary_1_1_library.html#af2169476bf038e2de29eb968e25c561e" title="getAllXmlFilesInLibDir" alt="" coords="144,281,293,311"/>
+<area shape="rect" id="node13" href="$de/d02/classlibrary_1_1_library.html#a186f36ac4cac0a49367b5bf9923e4680" title="addPackagesToDb" alt="" coords="152,643,285,672"/>
+<area shape="rect" id="node47" href="$de/d02/classlibrary_1_1_library.html#aec416b88c369dd6f94af6e524b46df0e" title="addComponentsToDb" alt="" coords="144,504,293,533"/>
+<area shape="rect" id="node5" href="$de/d02/classlibrary_1_1_library.html#a4e341ac749738a97962a224277794303" title="prepareQuery" alt="" coords="432,59,531,88"/>
+<area shape="rect" id="node7" href="$de/d02/classlibrary_1_1_library.html#aa3f504ec425bb6a3578ffd34ccc51cb7" title="execQuery" alt="" coords="439,5,524,35"/>
+<area shape="rect" id="node11" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="428,112,535,141"/>
+<area shape="rect" id="node15" href="$d4/d1c/class_file_path.html#ab03554821fd99cccf6f55a6686bcdc0d" title="Get the filepath of the parent directory of the file or directory. " alt="" coords="407,773,556,803"/>
+<area shape="rect" id="node21" href="$d4/d1c/class_file_path.html#a6b8813b995eae08609c56e147fb14b2c" title="Convert an absolute filepath to a relative filepath (relative to another filepath) ..." alt="" coords="413,827,549,856"/>
+<area shape="rect" id="node23" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" title="library::LibraryBaseElement\l::getUuid" alt="" coords="391,879,572,926"/>
+<area shape="rect" id="node25" href="$dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" title="library::LibraryBaseElement\l::getVersion" alt="" coords="391,303,572,350"/>
+<area shape="rect" id="node27" href="$de/d34/class_version.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the version as a string in the format &quot;1.2.3&quot;. " alt="" coords="431,373,532,403"/>
+<area shape="rect" id="node29" href="$d1/dcf/classlibrary_1_1_package.html#a2f56ac0d7791d53afa6b21e426b59428" title="library::Package::getFootprintUuid" alt="" coords="372,1003,591,1032"/>
+<area shape="rect" id="node31" href="$d1/dcf/classlibrary_1_1_package.html#a5fbb69612a8272e02bd5d9eb1cbe58cc" title="library::Package::getModel3dUuid" alt="" coords="372,949,591,979"/>
+<area shape="rect" id="node33" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a30ba02075765b27b4215a8b5347ea8dd" title="library::LibraryBaseElement\l::getAllAvailableLocales" alt="" coords="391,426,572,473"/>
+<area shape="rect" id="node35" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a01f0309d43de518f4e94c724d22f4502" title="library::LibraryBaseElement\l::getName" alt="" coords="391,495,572,542"/>
+<area shape="rect" id="node39" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a0e5b7dc7eca3c6468aa85375bf2c3dde" title="library::LibraryBaseElement\l::getDescription" alt="" coords="391,565,572,611"/>
+<area shape="rect" id="node42" href="$dd/d8a/classlibrary_1_1_library_base_element.html#aa727a7c7c573ac31926f21ec507aec76" title="library::LibraryBaseElement\l::getKeywords" alt="" coords="391,634,572,681"/>
+<area shape="rect" id="node45" href="$d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" title="library::LibraryElement\l::getCategories" alt="" coords="405,703,557,750"/>
+<area shape="rect" id="node17" href="$d4/d1c/class_file_path.html#a329a3fd87c1339c347833a8026e24c80" title="Check if the specified filepath is the root directory. " alt="" coords="675,747,789,776"/>
+<area shape="rect" id="node19" href="$d4/d1c/class_file_path.html#abad2142d090ea829d85560b03d47d98f" title="The default constructor (this will create an invalid object!) " alt="" coords="669,800,795,829"/>
+<area shape="rect" id="node37" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" title="Get the string of a specific locale from a QMap. " alt="" coords="641,565,823,611"/>
+<area shape="rect" id="node54" href="$d3/dad/classlibrary_1_1_component.html#a88f1a973e2036997bc17ce0782c36587" title="library::Component\l::getGenCompUuid" alt="" coords="415,234,548,281"/>
+<area shape="rect" id="node56" href="$d3/dad/classlibrary_1_1_component.html#a2497cc4820790247b6ac9a1cdc00317d" title="library::Component\l::getPackageUuid" alt="" coords="416,165,547,211"/>
 </map>

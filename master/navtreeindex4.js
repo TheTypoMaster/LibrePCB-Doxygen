@@ -1,5 +1,8 @@
 var NAVTREEINDEX4 =
 {
+"d2/db7/schematiceditor_8h.html":[3,0,1,4,3,4],
+"d2/db7/schematiceditor_8h_source.html":[3,0,1,4,3,4],
+"d2/dbf/schematiclayerprovider_8h.html":[3,0,1,3,5,6],
 "d2/dbf/schematiclayerprovider_8h_source.html":[3,0,1,3,5,6],
 "d2/dc2/projectsettingsdialog_8h.html":[3,0,1,4,1,7],
 "d2/dc2/projectsettingsdialog_8h_source.html":[3,0,1,4,1,7],
@@ -246,8 +249,5 @@ var NAVTREEINDEX4 =
 "d3/d93/classproject_1_1_net_signal.html#a0ef2e374696b194e64da857ca94be207":[2,0,2,30,27],
 "d3/d93/classproject_1_1_net_signal.html#a109d096bd938379d326a53c6311bed2f":[2,0,2,30,36],
 "d3/d93/classproject_1_1_net_signal.html#a160f79c122763431a00343c543736eef":[2,0,2,30,3],
-"d3/d93/classproject_1_1_net_signal.html#a16af5eb01c18eb272069f80af08a0422":[2,0,2,30,30],
-"d3/d93/classproject_1_1_net_signal.html#a1a71fca9d40127b39aca2c58dab51267":[2,0,2,30,12],
-"d3/d93/classproject_1_1_net_signal.html#a2091209c4f238ed77b8739bb98677146":[2,0,2,30,4],
-"d3/d93/classproject_1_1_net_signal.html#a2c2bc42e869c33cbbfe3393378a44ef8":[2,0,2,30,34]
+"d3/d93/classproject_1_1_net_signal.html#a16af5eb01c18eb272069f80af08a0422":[2,0,2,30,30]
 };

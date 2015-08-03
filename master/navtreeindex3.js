@@ -1,5 +1,8 @@
 var NAVTREEINDEX3 =
 {
+"d2/d05/classproject_1_1_project.html#a525e9a7ba3b1dfed186d1fc83e9da949":[2,0,2,37,37],
+"d2/d05/classproject_1_1_project.html#a5a304382795bedf7f5c502eb213f6709":[2,0,2,37,46],
+"d2/d05/classproject_1_1_project.html#a5dcc152e887c5baf47cf7dd375e602f0":[2,0,2,37,54],
 "d2/d05/classproject_1_1_project.html#a6054e079a2e370148fce27b138686ba3":[2,0,2,37,9],
 "d2/d05/classproject_1_1_project.html#a616a97f94b724fb1bca3dcba6ef4b238":[2,0,2,37,55],
 "d2/d05/classproject_1_1_project.html#a62026c36df382a4a729d4dc6db95bfc1":[2,0,2,37,62],
@@ -246,8 +249,5 @@ var NAVTREEINDEX3 =
 "d2/d9a/classproject_1_1_schematic_clipboard.html#a53956a354638f45f2fe15e90b9eabcc7":[2,0,2,97,3],
 "d2/d9a/classproject_1_1_schematic_clipboard.html#a7aea78a371049b2fb03081d6a5a4d4e4":[2,0,2,97,2],
 "d2/d9a/classproject_1_1_schematic_clipboard.html#a85bb7e420972c7aca4ff613918803211":[2,0,2,97,1],
-"d2/d9a/classproject_1_1_schematic_clipboard.html#ab66acd9999a0c1508cd01252495cc095":[2,0,2,97,0],
-"d2/db7/schematiceditor_8h.html":[3,0,1,4,3,4],
-"d2/db7/schematiceditor_8h_source.html":[3,0,1,4,3,4],
-"d2/dbf/schematiclayerprovider_8h.html":[3,0,1,3,5,6]
+"d2/d9a/classproject_1_1_schematic_clipboard.html#ab66acd9999a0c1508cd01252495cc095":[2,0,2,97,0]
 };

@@ -502,25 +502,39 @@
               <section title="~Library" ref="de/d02/classlibrary_1_1_library.html#a4411c0ecfd2f421273fab37319085a00" />
               <section title="Library" ref="de/d02/classlibrary_1_1_library.html#a2da5d9c91a7985f18f06874f12baa770" />
               <section title="Library" ref="de/d02/classlibrary_1_1_library.html#ac3cc6a636a708db40def81ec69b78126" />
-              <section title="getComponentCategories" ref="de/d02/classlibrary_1_1_library.html#ae27e88579f5c66486ab15ef83aea87b7" />
-              <section title="getPackageCategories" ref="de/d02/classlibrary_1_1_library.html#a04b840e96abbb60fc6658c3bdb626b1d" />
-              <section title="getSymbols" ref="de/d02/classlibrary_1_1_library.html#ab9d3322f7c9a51af677857c032f30bd7" />
-              <section title="getFootprints" ref="de/d02/classlibrary_1_1_library.html#a845faa1c536123726f9c4f1603fc99ce" />
-              <section title="get3dModels" ref="de/d02/classlibrary_1_1_library.html#a156527f520a415c5fb8dfbef801ad28b" />
-              <section title="getSpiceModels" ref="de/d02/classlibrary_1_1_library.html#a89418cb2f5e2a13edd29a25d0115e1ab" />
-              <section title="getPackages" ref="de/d02/classlibrary_1_1_library.html#a69adb253c61f54411b5a32b20736d210" />
-              <section title="getGenericComponents" ref="de/d02/classlibrary_1_1_library.html#acb98813856285edc2af1aa57be55e8d3" />
-              <section title="getComponents" ref="de/d02/classlibrary_1_1_library.html#ac56426929863c0ce49400b1739f0c1b1" />
-              <section title="getComponentCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#aaa53ae391a964ce8e4779725355b4597" />
-              <section title="getPackageCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#abd7d9e645ec424ffd1d30ed6a67e7dcb" />
-              <section title="getGenericComponentsByCategory" ref="de/d02/classlibrary_1_1_library.html#a1a2a776b3860f2889bf1a4800c9ea396" />
+              <section title="getComponentCategories" ref="de/d02/classlibrary_1_1_library.html#af4440814b8466610f16fe3963458b2cb" />
+              <section title="getPackageCategories" ref="de/d02/classlibrary_1_1_library.html#ad48d2cad36c0ee12eef61df431893b35" />
+              <section title="getSymbols" ref="de/d02/classlibrary_1_1_library.html#a66e881c44d58c713f8eda5aa2063d8d9" />
+              <section title="getFootprints" ref="de/d02/classlibrary_1_1_library.html#a514091d34d888f79fcabd3a50d9c94d3" />
+              <section title="get3dModels" ref="de/d02/classlibrary_1_1_library.html#adbfafd7bd6214867571d687ecb6bb5d4" />
+              <section title="getSpiceModels" ref="de/d02/classlibrary_1_1_library.html#a03bdc000eb5316ad093ede4cba0c7d6b" />
+              <section title="getPackages" ref="de/d02/classlibrary_1_1_library.html#af19df3ae353a2aa89de1416a38eee3fb" />
+              <section title="getGenericComponents" ref="de/d02/classlibrary_1_1_library.html#ab5238ef1ad20286108f3343b1f7e567f" />
+              <section title="getComponents" ref="de/d02/classlibrary_1_1_library.html#afd377d00e46c74e1c7f8d63711f4ff94" />
+              <section title="getLatestComponentCategory" ref="de/d02/classlibrary_1_1_library.html#ab0aa420fce6049c54c1e50de7fc85891" />
+              <section title="getLatestPackageCategory" ref="de/d02/classlibrary_1_1_library.html#ad654d24b2396f4d32f55c9d0f9ee6f39" />
+              <section title="getLatestSymbol" ref="de/d02/classlibrary_1_1_library.html#a1a4160a82ae91b932467f00350c415e0" />
+              <section title="getLatestFootprint" ref="de/d02/classlibrary_1_1_library.html#a7023d71462426ace236ba741dacf70cc" />
+              <section title="getLatest3dModel" ref="de/d02/classlibrary_1_1_library.html#a90a454f6205479eab9c7f854271c6b52" />
+              <section title="getLatestSpiceModel" ref="de/d02/classlibrary_1_1_library.html#aef720b93f04a8d265f9b66ca8b0e08fb" />
+              <section title="getLatestPackage" ref="de/d02/classlibrary_1_1_library.html#af68d3a33978ea137de3bcc9bcf6e5a55" />
+              <section title="getLatestGenericComponent" ref="de/d02/classlibrary_1_1_library.html#a7b2e96907b8ffdb28f7fd9621486975e" />
+              <section title="getLatestComponent" ref="de/d02/classlibrary_1_1_library.html#ad5121bf85bceffc79b92edc6d7445a07" />
+              <section title="getComponentMetadata" ref="de/d02/classlibrary_1_1_library.html#af8af49d2a3cccc9fe6840e6cccff24bb" />
+              <section title="getComponentCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a9855877076c9b29abac550c1748c1ac6" />
+              <section title="getPackageCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a03968d2654aaae028f71dc6d83554861" />
+              <section title="getGenericComponentsByCategory" ref="de/d02/classlibrary_1_1_library.html#a3ced65a4208c679dfdda963d848aae9b" />
+              <section title="getComponentsOfGenericComponent" ref="de/d02/classlibrary_1_1_library.html#a6782766e6d899cf530b12dc94db35f3e" />
               <section title="rescan" ref="de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" />
               <section title="operator=" ref="de/d02/classlibrary_1_1_library.html#aa48803bcc87a107f7d87fa3b734c1d23" />
               <section title="addCategoriesToDb" ref="de/d02/classlibrary_1_1_library.html#af6787f2ec79fd87ee3a8a172766b85c1" />
               <section title="addElementsToDb" ref="de/d02/classlibrary_1_1_library.html#af9bba45d0836754df348c6a103febad4" />
+              <section title="addPackagesToDb" ref="de/d02/classlibrary_1_1_library.html#a186f36ac4cac0a49367b5bf9923e4680" />
+              <section title="addComponentsToDb" ref="de/d02/classlibrary_1_1_library.html#aec416b88c369dd6f94af6e524b46df0e" />
               <section title="getElementFilePathsFromDb" ref="de/d02/classlibrary_1_1_library.html#a7418cffac76429bfa2ca81f1811b70f4" />
-              <section title="getCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a06bfcdec37c7252737720cda8133d6c3" />
-              <section title="getElementsByCategory" ref="de/d02/classlibrary_1_1_library.html#aedcb257723a508ebcba82d1b4134cb3f" />
+              <section title="getLatestVersionFilePath" ref="de/d02/classlibrary_1_1_library.html#a38a4ce3be534bc50fedd8f669293aecd" />
+              <section title="getCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a36d70f680c7e02f154048451d7fa5d44" />
+              <section title="getElementsByCategory" ref="de/d02/classlibrary_1_1_library.html#a537c25b3e4fea6e57478d3ef4c3ec4c4" />
               <section title="clearDatabaseAndCreateTables" ref="de/d02/classlibrary_1_1_library.html#a7252d2908c652122452d1f47b8c7bb16" />
               <section title="getAllXmlFilesInLibDir" ref="de/d02/classlibrary_1_1_library.html#af2169476bf038e2de29eb968e25c561e" />
               <section title="prepareQuery" ref="de/d02/classlibrary_1_1_library.html#a4e341ac749738a97962a224277794303" />
@@ -620,12 +634,15 @@
               <section title="Package" ref="d1/dcf/classlibrary_1_1_package.html#abd5c38248bc4159ff334033396c5f106" />
               <section title="Package" ref="d1/dcf/classlibrary_1_1_package.html#a0058b3bd6b7d97d1ceeacffc845ecc20" />
               <section title="getFootprintUuid" ref="d1/dcf/classlibrary_1_1_package.html#a2f56ac0d7791d53afa6b21e426b59428" />
+              <section title="getModel3dUuid" ref="d1/dcf/classlibrary_1_1_package.html#a5fbb69612a8272e02bd5d9eb1cbe58cc" />
               <section title="setFootprintUuid" ref="d1/dcf/classlibrary_1_1_package.html#a10bb77c9e9cec5e0773da7b206ea8801" />
+              <section title="setModel3dUuid" ref="d1/dcf/classlibrary_1_1_package.html#aa57ae6639bd0efc31be091390c44be9a" />
               <section title="operator=" ref="d1/dcf/classlibrary_1_1_package.html#af9096e53f4f0b9f788dbbd34c32dad1e" />
               <section title="parseDomTree" ref="d1/dcf/classlibrary_1_1_package.html#ad6c2bb438fe200b1224b2d8e05d3eca0" />
               <section title="serializeToXmlDomElement" ref="d1/dcf/classlibrary_1_1_package.html#aeb87054a7c12b9ccee59af89a9abf24f" />
               <section title="checkAttributesValidity" ref="d1/dcf/classlibrary_1_1_package.html#a524ed0dd8a5522b754411728dfe5c752" />
               <section title="mFootprintUuid" ref="d1/dcf/classlibrary_1_1_package.html#a29931360fa05d1adc070f0f4af9e1065" />
+              <section title="mModel3dUuid" ref="d1/dcf/classlibrary_1_1_package.html#ab9e867383e4d59613c61a444328d091c" />
             </section>
             <section title="SpiceModel" ref="da/d3b/classlibrary_1_1_spice_model.html">
               <section title="SpiceModel" ref="da/d3b/classlibrary_1_1_spice_model.html#a142c4797c3a7503133cae731267f9a22" />
@@ -2449,7 +2466,7 @@
               <section title="mQEvent" ref="d7/dba/classproject_1_1_b_e_e___redirected_q_event.html#a74b73143a6a05e021d8b9e6a25da19c7" />
             </section>
             <section title="UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html">
-              <section title="UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a8fbd3c721cf6a7086b09b00746e8c5bd" />
+              <section title="UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#abda2283f458f0fc17a0ccd8f61df7528" />
               <section title="~UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" />
               <section title="UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a4bf8dc91282751c6c4c2ea374b1a3d63" />
               <section title="UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a7150b676609d43b021bb5d6b10a586eb" />
@@ -2464,8 +2481,8 @@
               <section title="setSelectedGenCompInstance" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a8b27105b4d0e8500f6c177ab8bde0b65" />
               <section title="setSelectedComponent" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a72f69a594e25f3c54771588086c929c2" />
               <section title="addComponent" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a41c3c33dc2c3c5545110b742d536cc76" />
+              <section title="mProjectEditor" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a6cb10b3d635f6a53d2aa110f0e48c81c" />
               <section title="mProject" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a9887e07d0b08a071e02e6d1fd6cf9ab9" />
-              <section title="mUndoStack" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a8a6fd015b05da4e769ad2191e7b14675" />
               <section title="mBoard" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a696f434954d1819821c60e4dda2f125c" />
               <section title="mUi" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a5e141e8cb0ad60276792b80a61f14fbe" />
               <section title="mFootprintPreviewGraphicsView" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a4aec6b47e87a0eb4c8de3fa0a00da5fc" />
@@ -6339,12 +6356,15 @@
                     <section title="Package" ref="d1/dcf/classlibrary_1_1_package.html#abd5c38248bc4159ff334033396c5f106" />
                     <section title="Package" ref="d1/dcf/classlibrary_1_1_package.html#a0058b3bd6b7d97d1ceeacffc845ecc20" />
                     <section title="getFootprintUuid" ref="d1/dcf/classlibrary_1_1_package.html#a2f56ac0d7791d53afa6b21e426b59428" />
+                    <section title="getModel3dUuid" ref="d1/dcf/classlibrary_1_1_package.html#a5fbb69612a8272e02bd5d9eb1cbe58cc" />
                     <section title="setFootprintUuid" ref="d1/dcf/classlibrary_1_1_package.html#a10bb77c9e9cec5e0773da7b206ea8801" />
+                    <section title="setModel3dUuid" ref="d1/dcf/classlibrary_1_1_package.html#aa57ae6639bd0efc31be091390c44be9a" />
                     <section title="operator=" ref="d1/dcf/classlibrary_1_1_package.html#af9096e53f4f0b9f788dbbd34c32dad1e" />
                     <section title="parseDomTree" ref="d1/dcf/classlibrary_1_1_package.html#ad6c2bb438fe200b1224b2d8e05d3eca0" />
                     <section title="serializeToXmlDomElement" ref="d1/dcf/classlibrary_1_1_package.html#aeb87054a7c12b9ccee59af89a9abf24f" />
                     <section title="checkAttributesValidity" ref="d1/dcf/classlibrary_1_1_package.html#a524ed0dd8a5522b754411728dfe5c752" />
                     <section title="mFootprintUuid" ref="d1/dcf/classlibrary_1_1_package.html#a29931360fa05d1adc070f0f4af9e1065" />
+                    <section title="mModel3dUuid" ref="d1/dcf/classlibrary_1_1_package.html#ab9e867383e4d59613c61a444328d091c" />
                   </section>
                 </section>
               </section>
@@ -6616,25 +6636,39 @@
                   <section title="~Library" ref="de/d02/classlibrary_1_1_library.html#a4411c0ecfd2f421273fab37319085a00" />
                   <section title="Library" ref="de/d02/classlibrary_1_1_library.html#a2da5d9c91a7985f18f06874f12baa770" />
                   <section title="Library" ref="de/d02/classlibrary_1_1_library.html#ac3cc6a636a708db40def81ec69b78126" />
-                  <section title="getComponentCategories" ref="de/d02/classlibrary_1_1_library.html#ae27e88579f5c66486ab15ef83aea87b7" />
-                  <section title="getPackageCategories" ref="de/d02/classlibrary_1_1_library.html#a04b840e96abbb60fc6658c3bdb626b1d" />
-                  <section title="getSymbols" ref="de/d02/classlibrary_1_1_library.html#ab9d3322f7c9a51af677857c032f30bd7" />
-                  <section title="getFootprints" ref="de/d02/classlibrary_1_1_library.html#a845faa1c536123726f9c4f1603fc99ce" />
-                  <section title="get3dModels" ref="de/d02/classlibrary_1_1_library.html#a156527f520a415c5fb8dfbef801ad28b" />
-                  <section title="getSpiceModels" ref="de/d02/classlibrary_1_1_library.html#a89418cb2f5e2a13edd29a25d0115e1ab" />
-                  <section title="getPackages" ref="de/d02/classlibrary_1_1_library.html#a69adb253c61f54411b5a32b20736d210" />
-                  <section title="getGenericComponents" ref="de/d02/classlibrary_1_1_library.html#acb98813856285edc2af1aa57be55e8d3" />
-                  <section title="getComponents" ref="de/d02/classlibrary_1_1_library.html#ac56426929863c0ce49400b1739f0c1b1" />
-                  <section title="getComponentCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#aaa53ae391a964ce8e4779725355b4597" />
-                  <section title="getPackageCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#abd7d9e645ec424ffd1d30ed6a67e7dcb" />
-                  <section title="getGenericComponentsByCategory" ref="de/d02/classlibrary_1_1_library.html#a1a2a776b3860f2889bf1a4800c9ea396" />
+                  <section title="getComponentCategories" ref="de/d02/classlibrary_1_1_library.html#af4440814b8466610f16fe3963458b2cb" />
+                  <section title="getPackageCategories" ref="de/d02/classlibrary_1_1_library.html#ad48d2cad36c0ee12eef61df431893b35" />
+                  <section title="getSymbols" ref="de/d02/classlibrary_1_1_library.html#a66e881c44d58c713f8eda5aa2063d8d9" />
+                  <section title="getFootprints" ref="de/d02/classlibrary_1_1_library.html#a514091d34d888f79fcabd3a50d9c94d3" />
+                  <section title="get3dModels" ref="de/d02/classlibrary_1_1_library.html#adbfafd7bd6214867571d687ecb6bb5d4" />
+                  <section title="getSpiceModels" ref="de/d02/classlibrary_1_1_library.html#a03bdc000eb5316ad093ede4cba0c7d6b" />
+                  <section title="getPackages" ref="de/d02/classlibrary_1_1_library.html#af19df3ae353a2aa89de1416a38eee3fb" />
+                  <section title="getGenericComponents" ref="de/d02/classlibrary_1_1_library.html#ab5238ef1ad20286108f3343b1f7e567f" />
+                  <section title="getComponents" ref="de/d02/classlibrary_1_1_library.html#afd377d00e46c74e1c7f8d63711f4ff94" />
+                  <section title="getLatestComponentCategory" ref="de/d02/classlibrary_1_1_library.html#ab0aa420fce6049c54c1e50de7fc85891" />
+                  <section title="getLatestPackageCategory" ref="de/d02/classlibrary_1_1_library.html#ad654d24b2396f4d32f55c9d0f9ee6f39" />
+                  <section title="getLatestSymbol" ref="de/d02/classlibrary_1_1_library.html#a1a4160a82ae91b932467f00350c415e0" />
+                  <section title="getLatestFootprint" ref="de/d02/classlibrary_1_1_library.html#a7023d71462426ace236ba741dacf70cc" />
+                  <section title="getLatest3dModel" ref="de/d02/classlibrary_1_1_library.html#a90a454f6205479eab9c7f854271c6b52" />
+                  <section title="getLatestSpiceModel" ref="de/d02/classlibrary_1_1_library.html#aef720b93f04a8d265f9b66ca8b0e08fb" />
+                  <section title="getLatestPackage" ref="de/d02/classlibrary_1_1_library.html#af68d3a33978ea137de3bcc9bcf6e5a55" />
+                  <section title="getLatestGenericComponent" ref="de/d02/classlibrary_1_1_library.html#a7b2e96907b8ffdb28f7fd9621486975e" />
+                  <section title="getLatestComponent" ref="de/d02/classlibrary_1_1_library.html#ad5121bf85bceffc79b92edc6d7445a07" />
+                  <section title="getComponentMetadata" ref="de/d02/classlibrary_1_1_library.html#af8af49d2a3cccc9fe6840e6cccff24bb" />
+                  <section title="getComponentCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a9855877076c9b29abac550c1748c1ac6" />
+                  <section title="getPackageCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a03968d2654aaae028f71dc6d83554861" />
+                  <section title="getGenericComponentsByCategory" ref="de/d02/classlibrary_1_1_library.html#a3ced65a4208c679dfdda963d848aae9b" />
+                  <section title="getComponentsOfGenericComponent" ref="de/d02/classlibrary_1_1_library.html#a6782766e6d899cf530b12dc94db35f3e" />
                   <section title="rescan" ref="de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" />
                   <section title="operator=" ref="de/d02/classlibrary_1_1_library.html#aa48803bcc87a107f7d87fa3b734c1d23" />
                   <section title="addCategoriesToDb" ref="de/d02/classlibrary_1_1_library.html#af6787f2ec79fd87ee3a8a172766b85c1" />
                   <section title="addElementsToDb" ref="de/d02/classlibrary_1_1_library.html#af9bba45d0836754df348c6a103febad4" />
+                  <section title="addPackagesToDb" ref="de/d02/classlibrary_1_1_library.html#a186f36ac4cac0a49367b5bf9923e4680" />
+                  <section title="addComponentsToDb" ref="de/d02/classlibrary_1_1_library.html#aec416b88c369dd6f94af6e524b46df0e" />
                   <section title="getElementFilePathsFromDb" ref="de/d02/classlibrary_1_1_library.html#a7418cffac76429bfa2ca81f1811b70f4" />
-                  <section title="getCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a06bfcdec37c7252737720cda8133d6c3" />
-                  <section title="getElementsByCategory" ref="de/d02/classlibrary_1_1_library.html#aedcb257723a508ebcba82d1b4134cb3f" />
+                  <section title="getLatestVersionFilePath" ref="de/d02/classlibrary_1_1_library.html#a38a4ce3be534bc50fedd8f669293aecd" />
+                  <section title="getCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a36d70f680c7e02f154048451d7fa5d44" />
+                  <section title="getElementsByCategory" ref="de/d02/classlibrary_1_1_library.html#a537c25b3e4fea6e57478d3ef4c3ec4c4" />
                   <section title="clearDatabaseAndCreateTables" ref="de/d02/classlibrary_1_1_library.html#a7252d2908c652122452d1f47b8c7bb16" />
                   <section title="getAllXmlFilesInLibDir" ref="de/d02/classlibrary_1_1_library.html#af2169476bf038e2de29eb968e25c561e" />
                   <section title="prepareQuery" ref="de/d02/classlibrary_1_1_library.html#a4e341ac749738a97962a224277794303" />
@@ -8611,7 +8645,7 @@
                 <section title="unplacedcomponentsdock.cpp" ref="de/dd2/unplacedcomponentsdock_8cpp.html" />
                 <section title="unplacedcomponentsdock.h" ref="d9/d6a/unplacedcomponentsdock_8h.html">
                   <section title="UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html">
-                    <section title="UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a8fbd3c721cf6a7086b09b00746e8c5bd" />
+                    <section title="UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#abda2283f458f0fc17a0ccd8f61df7528" />
                     <section title="~UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" />
                     <section title="UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a4bf8dc91282751c6c4c2ea374b1a3d63" />
                     <section title="UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a7150b676609d43b021bb5d6b10a586eb" />
@@ -8626,8 +8660,8 @@
                     <section title="setSelectedGenCompInstance" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a8b27105b4d0e8500f6c177ab8bde0b65" />
                     <section title="setSelectedComponent" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a72f69a594e25f3c54771588086c929c2" />
                     <section title="addComponent" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a41c3c33dc2c3c5545110b742d536cc76" />
+                    <section title="mProjectEditor" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a6cb10b3d635f6a53d2aa110f0e48c81c" />
                     <section title="mProject" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a9887e07d0b08a071e02e6d1fd6cf9ab9" />
-                    <section title="mUndoStack" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a8a6fd015b05da4e769ad2191e7b14675" />
                     <section title="mBoard" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a696f434954d1819821c60e4dda2f125c" />
                     <section title="mUi" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a5e141e8cb0ad60276792b80a61f14fbe" />
                     <section title="mFootprintPreviewGraphicsView" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a4aec6b47e87a0eb4c8de3fa0a00da5fc" />
@@ -11829,27 +11863,41 @@
       <keyword name="library::Library" id="library::Library" ref="de/d02/classlibrary_1_1_library.html" />
       <keyword name="Library" id="library::Library::Library" ref="de/d02/classlibrary_1_1_library.html#a971644284e58a6acb105dccaecf816fe" />
       <keyword name="~Library" id="library::Library::~Library" ref="de/d02/classlibrary_1_1_library.html#a4411c0ecfd2f421273fab37319085a00" />
-      <keyword name="getComponentCategories" id="library::Library::getComponentCategories" ref="de/d02/classlibrary_1_1_library.html#ae27e88579f5c66486ab15ef83aea87b7" />
-      <keyword name="getPackageCategories" id="library::Library::getPackageCategories" ref="de/d02/classlibrary_1_1_library.html#a04b840e96abbb60fc6658c3bdb626b1d" />
-      <keyword name="getSymbols" id="library::Library::getSymbols" ref="de/d02/classlibrary_1_1_library.html#ab9d3322f7c9a51af677857c032f30bd7" />
-      <keyword name="getFootprints" id="library::Library::getFootprints" ref="de/d02/classlibrary_1_1_library.html#a845faa1c536123726f9c4f1603fc99ce" />
-      <keyword name="get3dModels" id="library::Library::get3dModels" ref="de/d02/classlibrary_1_1_library.html#a156527f520a415c5fb8dfbef801ad28b" />
-      <keyword name="getSpiceModels" id="library::Library::getSpiceModels" ref="de/d02/classlibrary_1_1_library.html#a89418cb2f5e2a13edd29a25d0115e1ab" />
-      <keyword name="getPackages" id="library::Library::getPackages" ref="de/d02/classlibrary_1_1_library.html#a69adb253c61f54411b5a32b20736d210" />
-      <keyword name="getGenericComponents" id="library::Library::getGenericComponents" ref="de/d02/classlibrary_1_1_library.html#acb98813856285edc2af1aa57be55e8d3" />
-      <keyword name="getComponents" id="library::Library::getComponents" ref="de/d02/classlibrary_1_1_library.html#ac56426929863c0ce49400b1739f0c1b1" />
-      <keyword name="getComponentCategoryChilds" id="library::Library::getComponentCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#aaa53ae391a964ce8e4779725355b4597" />
-      <keyword name="getPackageCategoryChilds" id="library::Library::getPackageCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#abd7d9e645ec424ffd1d30ed6a67e7dcb" />
-      <keyword name="getGenericComponentsByCategory" id="library::Library::getGenericComponentsByCategory" ref="de/d02/classlibrary_1_1_library.html#a1a2a776b3860f2889bf1a4800c9ea396" />
+      <keyword name="getComponentCategories" id="library::Library::getComponentCategories" ref="de/d02/classlibrary_1_1_library.html#af4440814b8466610f16fe3963458b2cb" />
+      <keyword name="getPackageCategories" id="library::Library::getPackageCategories" ref="de/d02/classlibrary_1_1_library.html#ad48d2cad36c0ee12eef61df431893b35" />
+      <keyword name="getSymbols" id="library::Library::getSymbols" ref="de/d02/classlibrary_1_1_library.html#a66e881c44d58c713f8eda5aa2063d8d9" />
+      <keyword name="getFootprints" id="library::Library::getFootprints" ref="de/d02/classlibrary_1_1_library.html#a514091d34d888f79fcabd3a50d9c94d3" />
+      <keyword name="get3dModels" id="library::Library::get3dModels" ref="de/d02/classlibrary_1_1_library.html#adbfafd7bd6214867571d687ecb6bb5d4" />
+      <keyword name="getSpiceModels" id="library::Library::getSpiceModels" ref="de/d02/classlibrary_1_1_library.html#a03bdc000eb5316ad093ede4cba0c7d6b" />
+      <keyword name="getPackages" id="library::Library::getPackages" ref="de/d02/classlibrary_1_1_library.html#af19df3ae353a2aa89de1416a38eee3fb" />
+      <keyword name="getGenericComponents" id="library::Library::getGenericComponents" ref="de/d02/classlibrary_1_1_library.html#ab5238ef1ad20286108f3343b1f7e567f" />
+      <keyword name="getComponents" id="library::Library::getComponents" ref="de/d02/classlibrary_1_1_library.html#afd377d00e46c74e1c7f8d63711f4ff94" />
+      <keyword name="getLatestComponentCategory" id="library::Library::getLatestComponentCategory" ref="de/d02/classlibrary_1_1_library.html#ab0aa420fce6049c54c1e50de7fc85891" />
+      <keyword name="getLatestPackageCategory" id="library::Library::getLatestPackageCategory" ref="de/d02/classlibrary_1_1_library.html#ad654d24b2396f4d32f55c9d0f9ee6f39" />
+      <keyword name="getLatestSymbol" id="library::Library::getLatestSymbol" ref="de/d02/classlibrary_1_1_library.html#a1a4160a82ae91b932467f00350c415e0" />
+      <keyword name="getLatestFootprint" id="library::Library::getLatestFootprint" ref="de/d02/classlibrary_1_1_library.html#a7023d71462426ace236ba741dacf70cc" />
+      <keyword name="getLatest3dModel" id="library::Library::getLatest3dModel" ref="de/d02/classlibrary_1_1_library.html#a90a454f6205479eab9c7f854271c6b52" />
+      <keyword name="getLatestSpiceModel" id="library::Library::getLatestSpiceModel" ref="de/d02/classlibrary_1_1_library.html#aef720b93f04a8d265f9b66ca8b0e08fb" />
+      <keyword name="getLatestPackage" id="library::Library::getLatestPackage" ref="de/d02/classlibrary_1_1_library.html#af68d3a33978ea137de3bcc9bcf6e5a55" />
+      <keyword name="getLatestGenericComponent" id="library::Library::getLatestGenericComponent" ref="de/d02/classlibrary_1_1_library.html#a7b2e96907b8ffdb28f7fd9621486975e" />
+      <keyword name="getLatestComponent" id="library::Library::getLatestComponent" ref="de/d02/classlibrary_1_1_library.html#ad5121bf85bceffc79b92edc6d7445a07" />
+      <keyword name="getComponentMetadata" id="library::Library::getComponentMetadata" ref="de/d02/classlibrary_1_1_library.html#af8af49d2a3cccc9fe6840e6cccff24bb" />
+      <keyword name="getComponentCategoryChilds" id="library::Library::getComponentCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a9855877076c9b29abac550c1748c1ac6" />
+      <keyword name="getPackageCategoryChilds" id="library::Library::getPackageCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a03968d2654aaae028f71dc6d83554861" />
+      <keyword name="getGenericComponentsByCategory" id="library::Library::getGenericComponentsByCategory" ref="de/d02/classlibrary_1_1_library.html#a3ced65a4208c679dfdda963d848aae9b" />
+      <keyword name="getComponentsOfGenericComponent" id="library::Library::getComponentsOfGenericComponent" ref="de/d02/classlibrary_1_1_library.html#a6782766e6d899cf530b12dc94db35f3e" />
       <keyword name="rescan" id="library::Library::rescan" ref="de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" />
       <keyword name="Library" id="library::Library::Library" ref="de/d02/classlibrary_1_1_library.html#a2da5d9c91a7985f18f06874f12baa770" />
       <keyword name="Library" id="library::Library::Library" ref="de/d02/classlibrary_1_1_library.html#ac3cc6a636a708db40def81ec69b78126" />
       <keyword name="operator=" id="library::Library::operator=" ref="de/d02/classlibrary_1_1_library.html#aa48803bcc87a107f7d87fa3b734c1d23" />
       <keyword name="addCategoriesToDb" id="library::Library::addCategoriesToDb" ref="de/d02/classlibrary_1_1_library.html#af6787f2ec79fd87ee3a8a172766b85c1" />
       <keyword name="addElementsToDb" id="library::Library::addElementsToDb" ref="de/d02/classlibrary_1_1_library.html#af9bba45d0836754df348c6a103febad4" />
+      <keyword name="addPackagesToDb" id="library::Library::addPackagesToDb" ref="de/d02/classlibrary_1_1_library.html#a186f36ac4cac0a49367b5bf9923e4680" />
+      <keyword name="addComponentsToDb" id="library::Library::addComponentsToDb" ref="de/d02/classlibrary_1_1_library.html#aec416b88c369dd6f94af6e524b46df0e" />
       <keyword name="getElementFilePathsFromDb" id="library::Library::getElementFilePathsFromDb" ref="de/d02/classlibrary_1_1_library.html#a7418cffac76429bfa2ca81f1811b70f4" />
-      <keyword name="getCategoryChilds" id="library::Library::getCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a06bfcdec37c7252737720cda8133d6c3" />
-      <keyword name="getElementsByCategory" id="library::Library::getElementsByCategory" ref="de/d02/classlibrary_1_1_library.html#aedcb257723a508ebcba82d1b4134cb3f" />
+      <keyword name="getLatestVersionFilePath" id="library::Library::getLatestVersionFilePath" ref="de/d02/classlibrary_1_1_library.html#a38a4ce3be534bc50fedd8f669293aecd" />
+      <keyword name="getCategoryChilds" id="library::Library::getCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a36d70f680c7e02f154048451d7fa5d44" />
+      <keyword name="getElementsByCategory" id="library::Library::getElementsByCategory" ref="de/d02/classlibrary_1_1_library.html#a537c25b3e4fea6e57478d3ef4c3ec4c4" />
       <keyword name="clearDatabaseAndCreateTables" id="library::Library::clearDatabaseAndCreateTables" ref="de/d02/classlibrary_1_1_library.html#a7252d2908c652122452d1f47b8c7bb16" />
       <keyword name="getAllXmlFilesInLibDir" id="library::Library::getAllXmlFilesInLibDir" ref="de/d02/classlibrary_1_1_library.html#af2169476bf038e2de29eb968e25c561e" />
       <keyword name="prepareQuery" id="library::Library::prepareQuery" ref="de/d02/classlibrary_1_1_library.html#a4e341ac749738a97962a224277794303" />
@@ -11990,7 +12038,9 @@
       <keyword name="Package" id="library::Package::Package" ref="d1/dcf/classlibrary_1_1_package.html#a7a4cd5c7f0bc31f61c13e3ed8bd173fc" />
       <keyword name="~Package" id="library::Package::~Package" ref="d1/dcf/classlibrary_1_1_package.html#ac5e620b1d98ac591a7cd71d3508d4866" />
       <keyword name="getFootprintUuid" id="library::Package::getFootprintUuid" ref="d1/dcf/classlibrary_1_1_package.html#a2f56ac0d7791d53afa6b21e426b59428" />
+      <keyword name="getModel3dUuid" id="library::Package::getModel3dUuid" ref="d1/dcf/classlibrary_1_1_package.html#a5fbb69612a8272e02bd5d9eb1cbe58cc" />
       <keyword name="setFootprintUuid" id="library::Package::setFootprintUuid" ref="d1/dcf/classlibrary_1_1_package.html#a10bb77c9e9cec5e0773da7b206ea8801" />
+      <keyword name="setModel3dUuid" id="library::Package::setModel3dUuid" ref="d1/dcf/classlibrary_1_1_package.html#aa57ae6639bd0efc31be091390c44be9a" />
       <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af2a7ac2cbebfd7027f08e2cc1d77a73a" />
       <keyword name="LibraryElement" id="library::LibraryElement::LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#a545231bb0e912d9b3f3cd89099beab4d" />
       <keyword name="~LibraryElement" id="library::LibraryElement::~LibraryElement" ref="d8/dff/classlibrary_1_1_library_element.html#af3b9ff17f437fcfc0e88ed2c7d4b0ecc" />
@@ -12029,6 +12079,7 @@
       <keyword name="serializeToXmlDomElement" id="library::Package::serializeToXmlDomElement" ref="d1/dcf/classlibrary_1_1_package.html#aeb87054a7c12b9ccee59af89a9abf24f" />
       <keyword name="checkAttributesValidity" id="library::Package::checkAttributesValidity" ref="d1/dcf/classlibrary_1_1_package.html#a524ed0dd8a5522b754411728dfe5c752" />
       <keyword name="mFootprintUuid" id="library::Package::mFootprintUuid" ref="d1/dcf/classlibrary_1_1_package.html#a29931360fa05d1adc070f0f4af9e1065" />
+      <keyword name="mModel3dUuid" id="library::Package::mModel3dUuid" ref="d1/dcf/classlibrary_1_1_package.html#ab9e867383e4d59613c61a444328d091c" />
       <keyword name="readLocaleDomNodes" id="library::LibraryBaseElement::readLocaleDomNodes" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a6082cb826f55941403d9bf4fb771928f" />
       <keyword name="localeStringFromList" id="library::LibraryBaseElement::localeStringFromList" ref="dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" />
       <keyword name="readFromFile" id="library::LibraryBaseElement::readFromFile" ref="dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" />
@@ -14413,7 +14464,7 @@
       <keyword name="mType" id="project::BEE_Base::mType" ref="d8/dd0/classproject_1_1_b_e_e___base.html#a44db89b46484697f0c04a80d56574436" />
       <keyword name="mAccepted" id="project::BEE_Base::mAccepted" ref="d8/dd0/classproject_1_1_b_e_e___base.html#a7d175e16c80a8ec1161ccc8a10e50f8d" />
       <keyword name="project::UnplacedComponentsDock" id="project::UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html" />
-      <keyword name="UnplacedComponentsDock" id="project::UnplacedComponentsDock::UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a8fbd3c721cf6a7086b09b00746e8c5bd" />
+      <keyword name="UnplacedComponentsDock" id="project::UnplacedComponentsDock::UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#abda2283f458f0fc17a0ccd8f61df7528" />
       <keyword name="~UnplacedComponentsDock" id="project::UnplacedComponentsDock::~UnplacedComponentsDock" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" />
       <keyword name="setBoard" id="project::UnplacedComponentsDock::setBoard" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" />
       <keyword name="on_lstUnplacedComponents_currentItemChanged" id="project::UnplacedComponentsDock::on_lstUnplacedComponents_currentItemChanged" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a16ecdddbb51afe3714d940236b9c6d48" />
@@ -14428,8 +14479,8 @@
       <keyword name="setSelectedGenCompInstance" id="project::UnplacedComponentsDock::setSelectedGenCompInstance" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a8b27105b4d0e8500f6c177ab8bde0b65" />
       <keyword name="setSelectedComponent" id="project::UnplacedComponentsDock::setSelectedComponent" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a72f69a594e25f3c54771588086c929c2" />
       <keyword name="addComponent" id="project::UnplacedComponentsDock::addComponent" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a41c3c33dc2c3c5545110b742d536cc76" />
+      <keyword name="mProjectEditor" id="project::UnplacedComponentsDock::mProjectEditor" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a6cb10b3d635f6a53d2aa110f0e48c81c" />
       <keyword name="mProject" id="project::UnplacedComponentsDock::mProject" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a9887e07d0b08a071e02e6d1fd6cf9ab9" />
-      <keyword name="mUndoStack" id="project::UnplacedComponentsDock::mUndoStack" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a8a6fd015b05da4e769ad2191e7b14675" />
       <keyword name="mBoard" id="project::UnplacedComponentsDock::mBoard" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a696f434954d1819821c60e4dda2f125c" />
       <keyword name="mUi" id="project::UnplacedComponentsDock::mUi" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a5e141e8cb0ad60276792b80a61f14fbe" />
       <keyword name="mFootprintPreviewGraphicsView" id="project::UnplacedComponentsDock::mFootprintPreviewGraphicsView" ref="dc/dbb/classproject_1_1_unplaced_components_dock.html#a4aec6b47e87a0eb4c8de3fa0a00da5fc" />
@@ -16969,6 +17020,7 @@
       <file>d5/dbc/classlibrary_1_1_component__inherit__graph.svg</file>
       <file>d1/d30/classlibrary_1_1_component__coll__graph.svg</file>
       <file>d3/dad/classlibrary_1_1_component_a88f1a973e2036997bc17ce0782c36587_icgraph.svg</file>
+      <file>d3/dad/classlibrary_1_1_component_a2497cc4820790247b6ac9a1cdc00317d_icgraph.svg</file>
       <file>d3/dad/classlibrary_1_1_component_a09e550ea32a67562c9a68d63c44390c9_icgraph.svg</file>
       <file>d3/dad/classlibrary_1_1_component_ad6c2bb438fe200b1224b2d8e05d3eca0_cgraph.svg</file>
       <file>d3/dad/classlibrary_1_1_component_aeb87054a7c12b9ccee59af89a9abf24f_cgraph.svg</file>
@@ -17130,16 +17182,19 @@
       <file>d7/dcb/classlibrary_1_1_generic_component-members.html</file>
       <file>de/d02/classlibrary_1_1_library.html</file>
       <file>d8/df0/classlibrary_1_1_library__coll__graph.svg</file>
-      <file>de/d02/classlibrary_1_1_library_ab9d3322f7c9a51af677857c032f30bd7_icgraph.svg</file>
-      <file>de/d02/classlibrary_1_1_library_acb98813856285edc2af1aa57be55e8d3_icgraph.svg</file>
-      <file>de/d02/classlibrary_1_1_library_a1a2a776b3860f2889bf1a4800c9ea396_icgraph.svg</file>
+      <file>de/d02/classlibrary_1_1_library_a1a4160a82ae91b932467f00350c415e0_icgraph.svg</file>
+      <file>de/d02/classlibrary_1_1_library_a7b2e96907b8ffdb28f7fd9621486975e_icgraph.svg</file>
+      <file>de/d02/classlibrary_1_1_library_ad5121bf85bceffc79b92edc6d7445a07_icgraph.svg</file>
+      <file>de/d02/classlibrary_1_1_library_a3ced65a4208c679dfdda963d848aae9b_icgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_abf6f5a1b41bdc95e7b0602fbab2219a7_cgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_abf6f5a1b41bdc95e7b0602fbab2219a7_icgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_af6787f2ec79fd87ee3a8a172766b85c1_cgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_af9bba45d0836754df348c6a103febad4_cgraph.svg</file>
+      <file>de/d02/classlibrary_1_1_library_a186f36ac4cac0a49367b5bf9923e4680_cgraph.svg</file>
+      <file>de/d02/classlibrary_1_1_library_a186f36ac4cac0a49367b5bf9923e4680_icgraph.svg</file>
+      <file>de/d02/classlibrary_1_1_library_aec416b88c369dd6f94af6e524b46df0e_cgraph.svg</file>
+      <file>de/d02/classlibrary_1_1_library_aec416b88c369dd6f94af6e524b46df0e_icgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_a7418cffac76429bfa2ca81f1811b70f4_cgraph.svg</file>
-      <file>de/d02/classlibrary_1_1_library_a06bfcdec37c7252737720cda8133d6c3_cgraph.svg</file>
-      <file>de/d02/classlibrary_1_1_library_aedcb257723a508ebcba82d1b4134cb3f_cgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_a7252d2908c652122452d1f47b8c7bb16_cgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_a7252d2908c652122452d1f47b8c7bb16_icgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_af2169476bf038e2de29eb968e25c561e_cgraph.svg</file>
@@ -17158,6 +17213,8 @@
       <file>dd/d8a/classlibrary_1_1_library_base_element_a0e5b7dc7eca3c6468aa85375bf2c3dde_cgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_a0e5b7dc7eca3c6468aa85375bf2c3dde_icgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_aa727a7c7c573ac31926f21ec507aec76_cgraph.svg</file>
+      <file>dd/d8a/classlibrary_1_1_library_base_element_aa727a7c7c573ac31926f21ec507aec76_icgraph.svg</file>
+      <file>dd/d8a/classlibrary_1_1_library_base_element_a30ba02075765b27b4215a8b5347ea8dd_icgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_a34aae6df4e44ac910795cdd62c3c69ff_cgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_a6082cb826f55941403d9bf4fb771928f_cgraph.svg</file>
       <file>dd/d8a/classlibrary_1_1_library_base_element_a6082cb826f55941403d9bf4fb771928f_icgraph.svg</file>
@@ -17173,6 +17230,7 @@
       <file>d8/dff/classlibrary_1_1_library_element.html</file>
       <file>d5/d55/classlibrary_1_1_library_element__inherit__graph.svg</file>
       <file>dd/d15/classlibrary_1_1_library_element__coll__graph.svg</file>
+      <file>d8/dff/classlibrary_1_1_library_element_a241430479fd91d5097b16cf9752673d8_icgraph.svg</file>
       <file>d8/dff/classlibrary_1_1_library_element_ad6c2bb438fe200b1224b2d8e05d3eca0_cgraph.svg</file>
       <file>d8/dff/classlibrary_1_1_library_element_ad6c2bb438fe200b1224b2d8e05d3eca0_icgraph.svg</file>
       <file>d8/dff/classlibrary_1_1_library_element_aeb87054a7c12b9ccee59af89a9abf24f_cgraph.svg</file>
@@ -17200,6 +17258,7 @@
       <file>d3/dd3/classlibrary_1_1_package__inherit__graph.svg</file>
       <file>de/dab/classlibrary_1_1_package__coll__graph.svg</file>
       <file>d1/dcf/classlibrary_1_1_package_a2f56ac0d7791d53afa6b21e426b59428_icgraph.svg</file>
+      <file>d1/dcf/classlibrary_1_1_package_a5fbb69612a8272e02bd5d9eb1cbe58cc_icgraph.svg</file>
       <file>d1/dcf/classlibrary_1_1_package_ad6c2bb438fe200b1224b2d8e05d3eca0_cgraph.svg</file>
       <file>d1/dcf/classlibrary_1_1_package_aeb87054a7c12b9ccee59af89a9abf24f_cgraph.svg</file>
       <file>d1/dcf/classlibrary_1_1_package_a524ed0dd8a5522b754411728dfe5c752_cgraph.svg</file>
@@ -17289,6 +17348,7 @@
       <file>d9/da8/classlibrary_1_1_symbol_preview_graphics_item_a686732ebe57e974c4b06dc6da431d1da_cgraph.svg</file>
       <file>d9/da8/classlibrary_1_1_symbol_preview_graphics_item_a0f705807676118c707b8b1e6ed8ef0f5_cgraph.svg</file>
       <file>d9/da8/classlibrary_1_1_symbol_preview_graphics_item_abbb5db1b700a86caa85ff4c0c13142f2_cgraph.svg</file>
+      <file>d9/da8/classlibrary_1_1_symbol_preview_graphics_item_a5a5c94b564322784dd2aa1486fa7901a_icgraph.svg</file>
       <file>d9/da8/classlibrary_1_1_symbol_preview_graphics_item_aa77fc5d2da89e1f09b09f7c6724ed721_cgraph.svg</file>
       <file>d9/da8/classlibrary_1_1_symbol_preview_graphics_item_a675b0181eb14cfede73e0f078a6b2842_cgraph.svg</file>
       <file>d8/d29/classlibrary_1_1_symbol_preview_graphics_item-members.html</file>
@@ -17757,7 +17817,6 @@
       <file>d9/d30/classproject_1_1_project_library.html</file>
       <file>d8/dcf/classproject_1_1_project_library__coll__graph.svg</file>
       <file>d9/d30/classproject_1_1_project_library_aba14a5f76c56ad77b88fdb9f2a14e84b_icgraph.svg</file>
-      <file>d9/d30/classproject_1_1_project_library_a8a9dbd8d8b4d469c974dea2808d62eb1_icgraph.svg</file>
       <file>d9/d30/classproject_1_1_project_library_acc16ec02378a1c17f0b883ff8002e402_cgraph.svg</file>
       <file>d9/d30/classproject_1_1_project_library_acc16ec02378a1c17f0b883ff8002e402_icgraph.svg</file>
       <file>d9/d30/classproject_1_1_project_library_ae3bb445dbe2152d14e57bbf09cbb1ee4_cgraph.svg</file>
@@ -18247,7 +18306,7 @@
       <file>d7/d90/classproject_1_1_b_e_e___redirected_q_event-members.html</file>
       <file>dc/dbb/classproject_1_1_unplaced_components_dock.html</file>
       <file>db/d30/classproject_1_1_unplaced_components_dock__coll__graph.svg</file>
-      <file>dc/dbb/classproject_1_1_unplaced_components_dock_a8fbd3c721cf6a7086b09b00746e8c5bd_cgraph.svg</file>
+      <file>dc/dbb/classproject_1_1_unplaced_components_dock_abda2283f458f0fc17a0ccd8f61df7528_cgraph.svg</file>
       <file>dc/dbb/classproject_1_1_unplaced_components_dock_a538074349f49cbac4a031289b9a96e49_cgraph.svg</file>
       <file>dc/dbb/classproject_1_1_unplaced_components_dock_a5c8f1dac9d4bbb3d9985ca4d9d3c99bb_cgraph.svg</file>
       <file>dc/dbb/classproject_1_1_unplaced_components_dock_a5c8f1dac9d4bbb3d9985ca4d9d3c99bb_icgraph.svg</file>
@@ -18260,7 +18319,6 @@
       <file>dc/dbb/classproject_1_1_unplaced_components_dock_ad000d7056be9060e68ab7f2548d12946_icgraph.svg</file>
       <file>dc/dbb/classproject_1_1_unplaced_components_dock_a8b27105b4d0e8500f6c177ab8bde0b65_cgraph.svg</file>
       <file>dc/dbb/classproject_1_1_unplaced_components_dock_a8b27105b4d0e8500f6c177ab8bde0b65_icgraph.svg</file>
-      <file>dc/dbb/classproject_1_1_unplaced_components_dock_a72f69a594e25f3c54771588086c929c2_cgraph.svg</file>
       <file>dc/dbb/classproject_1_1_unplaced_components_dock_a72f69a594e25f3c54771588086c929c2_icgraph.svg</file>
       <file>dc/dbb/classproject_1_1_unplaced_components_dock_a41c3c33dc2c3c5545110b742d536cc76_cgraph.svg</file>
       <file>dc/dbb/classproject_1_1_unplaced_components_dock_a41c3c33dc2c3c5545110b742d536cc76_icgraph.svg</file>
