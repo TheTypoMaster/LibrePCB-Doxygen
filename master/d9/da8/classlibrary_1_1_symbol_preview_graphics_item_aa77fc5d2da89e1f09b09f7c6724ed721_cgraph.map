@@ -20,7 +20,8 @@
 <area shape="rect" id="node51" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#a24917dabaf5342a7c8d60416bc304a2e" title="library::SymbolEllipse\l::getRadiusY" alt="" coords="125,1149,272,1195"/>
 <area shape="rect" id="node53" href="$d9/db9/classlibrary_1_1_symbol.html#af3e51c69f130dab1acd01d41105c4ea3" title="library::Symbol::getTexts" alt="" coords="115,1219,283,1248"/>
 <area shape="rect" id="node55" href="$db/df7/classlibrary_1_1_symbol_text.html#a3e5bed84d61dd74a10b6ace249c85efe" title="library::SymbolText\l::getLayerId" alt="" coords="132,1271,265,1318"/>
-<area shape="rect" id="node57" href="$db/df7/classlibrary_1_1_symbol_text.html#a01f0e165edb023b0c50cdbfd70f36021" title="library::SymbolText\l::getRotation" alt="" coords="132,1341,265,1387"/>
+<area shape="rect" id="node57" href="$db/df7/classlibrary_1_1_symbol_text.html#ae23dd3ab799e9f70a4037eea91f69a82" title="library::SymbolText\l::getPosition" alt="" coords="132,1341,265,1387"/>
+<area shape="rect" id="node59" href="$db/df7/classlibrary_1_1_symbol_text.html#a01f0e165edb023b0c50cdbfd70f36021" title="library::SymbolText\l::getRotation" alt="" coords="132,1410,265,1457"/>
 <area shape="rect" id="node24" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a894842161e505b56d67b0cf5b0f50087" title="library::SymbolPolygonSegment\l::getAngle" alt="" coords="341,429,549,475"/>
 <area shape="rect" id="node26" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#af89771a9eb5882eaee9f298f663f89dc" title="library::SymbolPolygonSegment\l::getEndPos" alt="" coords="341,498,549,545"/>
 <area shape="rect" id="node28" href="$d2/d39/class_angle.html#a70d223e0c1188606f971188d6f23b66f" title="Get the angle in radians. " alt="" coords="396,568,495,597"/>

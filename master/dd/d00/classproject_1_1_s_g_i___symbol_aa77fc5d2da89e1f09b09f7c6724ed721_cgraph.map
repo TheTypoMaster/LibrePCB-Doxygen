@@ -22,12 +22,13 @@
 <area shape="rect" id="node55" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#a24917dabaf5342a7c8d60416bc304a2e" title="library::SymbolEllipse\l::getRadiusY" alt="" coords="125,1239,272,1286"/>
 <area shape="rect" id="node57" href="$d9/db9/classlibrary_1_1_symbol.html#af3e51c69f130dab1acd01d41105c4ea3" title="library::Symbol::getTexts" alt="" coords="115,1309,283,1339"/>
 <area shape="rect" id="node59" href="$db/df7/classlibrary_1_1_symbol_text.html#a3e5bed84d61dd74a10b6ace249c85efe" title="library::SymbolText\l::getLayerId" alt="" coords="132,1362,265,1409"/>
-<area shape="rect" id="node61" href="$db/df7/classlibrary_1_1_symbol_text.html#a01f0e165edb023b0c50cdbfd70f36021" title="library::SymbolText\l::getRotation" alt="" coords="132,1431,265,1478"/>
-<area shape="rect" id="node64" href="$db/df7/classlibrary_1_1_symbol_text.html#a0956fb9eaa66799447596d95c6f1e46d" title="library::SymbolText\l::getHeight" alt="" coords="132,1501,265,1547"/>
-<area shape="rect" id="node66" href="$de/d50/classproject_1_1_s_i___symbol.html#a7c547c92d2781e3129fd5cf0c4a89668" title="project::SI_Symbol\l::getGenCompInstance" alt="" coords="120,1570,277,1617"/>
-<area shape="rect" id="node68" href="$de/d67/classproject_1_1_gen_comp_instance.html#a385c6fda0e3528a8bb626a0eb1bebc45" title="project::GenCompInstance\l::getPlacedSymbolsCount" alt="" coords="109,1639,288,1686"/>
-<area shape="rect" id="node70" href="$de/d67/classproject_1_1_gen_comp_instance.html#a262b68ad3d75814c875b941e2088d88e" title="project::GenCompInstance\l::getSymbolVariant" alt="" coords="109,1709,288,1755"/>
-<area shape="rect" id="node72" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a95be340ed5134b5b4fc05ab47e4c9c34" title="library::GenCompSymbVar\l::getItems" alt="" coords="109,1778,288,1825"/>
+<area shape="rect" id="node61" href="$db/df7/classlibrary_1_1_symbol_text.html#ae23dd3ab799e9f70a4037eea91f69a82" title="library::SymbolText\l::getPosition" alt="" coords="132,1431,265,1478"/>
+<area shape="rect" id="node63" href="$db/df7/classlibrary_1_1_symbol_text.html#a01f0e165edb023b0c50cdbfd70f36021" title="library::SymbolText\l::getRotation" alt="" coords="132,1501,265,1547"/>
+<area shape="rect" id="node66" href="$db/df7/classlibrary_1_1_symbol_text.html#a0956fb9eaa66799447596d95c6f1e46d" title="library::SymbolText\l::getHeight" alt="" coords="132,1570,265,1617"/>
+<area shape="rect" id="node68" href="$de/d50/classproject_1_1_s_i___symbol.html#a7c547c92d2781e3129fd5cf0c4a89668" title="project::SI_Symbol\l::getGenCompInstance" alt="" coords="120,1639,277,1686"/>
+<area shape="rect" id="node70" href="$de/d67/classproject_1_1_gen_comp_instance.html#a385c6fda0e3528a8bb626a0eb1bebc45" title="project::GenCompInstance\l::getPlacedSymbolsCount" alt="" coords="109,1709,288,1755"/>
+<area shape="rect" id="node72" href="$de/d67/classproject_1_1_gen_comp_instance.html#a262b68ad3d75814c875b941e2088d88e" title="project::GenCompInstance\l::getSymbolVariant" alt="" coords="109,1778,288,1825"/>
+<area shape="rect" id="node74" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a95be340ed5134b5b4fc05ab47e4c9c34" title="library::GenCompSymbVar\l::getItems" alt="" coords="109,1847,288,1894"/>
 <area shape="rect" id="node28" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a894842161e505b56d67b0cf5b0f50087" title="library::SymbolPolygonSegment\l::getAngle" alt="" coords="341,519,549,566"/>
 <area shape="rect" id="node30" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#af89771a9eb5882eaee9f298f663f89dc" title="library::SymbolPolygonSegment\l::getEndPos" alt="" coords="341,589,549,635"/>
 <area shape="rect" id="node32" href="$d2/d39/class_angle.html#a70d223e0c1188606f971188d6f23b66f" title="Get the angle in radians. " alt="" coords="396,659,495,688"/>
