@@ -92,7 +92,7 @@ var NAVTREEINDEX =
 "db/de6/classproject_1_1_cmd_gen_comp_inst_remove.html#a19e8778088bfe76b16745470981bb913",
 "dd/d12/exceptions_8cpp.html",
 "dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858",
-"de/d50/classproject_1_1_s_i___symbol.html#ac102cee468f8c13860067ce854a9c603",
+"de/d50/classproject_1_1_s_i___symbol.html#aab980b2bbd0de37752e75710405a20a2",
 "df/d64/classproject_1_1_s_e_s___draw_wire.html#a8b6291c70792d23ae8a539f72249d730",
 "df/de9/class_alignment.html#a05f975c6c9e8344503fb4244468dfc55"
 ];

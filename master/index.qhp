@@ -323,14 +323,14 @@
               <section title="FootprintText" ref="db/d86/classlibrary_1_1_footprint_text.html#aaf3836cc8c1447ac5cdb87bf508cd936" />
               <section title="getLayerId" ref="db/d86/classlibrary_1_1_footprint_text.html#a3e5bed84d61dd74a10b6ace249c85efe" />
               <section title="getPosition" ref="db/d86/classlibrary_1_1_footprint_text.html#ae23dd3ab799e9f70a4037eea91f69a82" />
-              <section title="getAngle" ref="db/d86/classlibrary_1_1_footprint_text.html#a894842161e505b56d67b0cf5b0f50087" />
+              <section title="getRotation" ref="db/d86/classlibrary_1_1_footprint_text.html#a01f0e165edb023b0c50cdbfd70f36021" />
               <section title="getHeight" ref="db/d86/classlibrary_1_1_footprint_text.html#a0956fb9eaa66799447596d95c6f1e46d" />
               <section title="getAlign" ref="db/d86/classlibrary_1_1_footprint_text.html#a8c33abf636eed65eeeccb22558ba0880" />
               <section title="getText" ref="db/d86/classlibrary_1_1_footprint_text.html#ab42d5f674bbe33d8d5a601bedfd7921e" />
               <section title="setLayerId" ref="db/d86/classlibrary_1_1_footprint_text.html#a0a0c554125335837033d4ad1b7cc8638" />
               <section title="setText" ref="db/d86/classlibrary_1_1_footprint_text.html#a431ba1dc5ffb75872f690c203e303d0e" />
               <section title="setPosition" ref="db/d86/classlibrary_1_1_footprint_text.html#aec8f6fd3fb6f466ea97563621f5dccf9" />
-              <section title="setAngle" ref="db/d86/classlibrary_1_1_footprint_text.html#ad2c89c0ca3cf75c26f1a17027643245f" />
+              <section title="setRotation" ref="db/d86/classlibrary_1_1_footprint_text.html#ab3dec6c106a391608e2795aafd907546" />
               <section title="setHeight" ref="db/d86/classlibrary_1_1_footprint_text.html#a2f6b06b72ec3a0699e89388ca8a3ac73" />
               <section title="setAlign" ref="db/d86/classlibrary_1_1_footprint_text.html#ac43d0c63405c0260fad071f5d07acf7d" />
               <section title="serializeToXmlDomElement" ref="db/d86/classlibrary_1_1_footprint_text.html#aeb87054a7c12b9ccee59af89a9abf24f" />
@@ -339,7 +339,7 @@
               <section title="mLayerId" ref="db/d86/classlibrary_1_1_footprint_text.html#ac25683e78ab19e80ff235ebfcfa41861" />
               <section title="mText" ref="db/d86/classlibrary_1_1_footprint_text.html#a6b0720bcbbd8ddd196daa1e3fbfc5086" />
               <section title="mPosition" ref="db/d86/classlibrary_1_1_footprint_text.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-              <section title="mAngle" ref="db/d86/classlibrary_1_1_footprint_text.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+              <section title="mRotation" ref="db/d86/classlibrary_1_1_footprint_text.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
               <section title="mHeight" ref="db/d86/classlibrary_1_1_footprint_text.html#a2a71f087b0fc8253c3f205d9930aee7d" />
               <section title="mAlign" ref="db/d86/classlibrary_1_1_footprint_text.html#aba9e8e02814ee5624036728a44c24be7" />
             </section>
@@ -717,14 +717,14 @@
               <section title="getUuid" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#ada9b237a8629c03e16491a72730b456b" />
               <section title="getPosition" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#ae23dd3ab799e9f70a4037eea91f69a82" />
               <section title="getLength" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a2e17cfc864c3d153e0f25bfd79277cd1" />
-              <section title="getAngle" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a894842161e505b56d67b0cf5b0f50087" />
+              <section title="getRotation" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a01f0e165edb023b0c50cdbfd70f36021" />
               <section title="getName" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a01f0309d43de518f4e94c724d22f4502" />
               <section title="getDescription" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a0e5b7dc7eca3c6468aa85375bf2c3dde" />
               <section title="getNames" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a495b1b5a80253b4291c4cc3c59661235" />
               <section title="getDescriptions" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#adbf3aae44e55d974740b8125a2b08b68" />
               <section title="setPosition" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#aec8f6fd3fb6f466ea97563621f5dccf9" />
               <section title="setLength" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#adf626c984a8cc907251edb26612065a3" />
-              <section title="setAngle" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#ad2c89c0ca3cf75c26f1a17027643245f" />
+              <section title="setRotation" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#ab3dec6c106a391608e2795aafd907546" />
               <section title="setName" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a1abac19268886b98c8529dccc6256d32" />
               <section title="setDescription" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a531d62377f131f5715afdb3f43994981" />
               <section title="serializeToXmlDomElement" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#aeb87054a7c12b9ccee59af89a9abf24f" />
@@ -733,7 +733,7 @@
               <section title="mUuid" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
               <section title="mPosition" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
               <section title="mLength" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a83da847720ad7b376e7a10a963196e43" />
-              <section title="mAngle" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+              <section title="mRotation" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
               <section title="mNames" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a6f1ec818129bce4ead70dfc185fd873b" />
               <section title="mDescriptions" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a4fc154a17bff454bba131b069594e5a3" />
             </section>
@@ -849,14 +849,14 @@
               <section title="SymbolText" ref="db/df7/classlibrary_1_1_symbol_text.html#a941f5329075036bc7822d32fb1ac5a5c" />
               <section title="getLayerId" ref="db/df7/classlibrary_1_1_symbol_text.html#a3e5bed84d61dd74a10b6ace249c85efe" />
               <section title="getPosition" ref="db/df7/classlibrary_1_1_symbol_text.html#ae23dd3ab799e9f70a4037eea91f69a82" />
-              <section title="getAngle" ref="db/df7/classlibrary_1_1_symbol_text.html#a894842161e505b56d67b0cf5b0f50087" />
+              <section title="getRotation" ref="db/df7/classlibrary_1_1_symbol_text.html#a01f0e165edb023b0c50cdbfd70f36021" />
               <section title="getHeight" ref="db/df7/classlibrary_1_1_symbol_text.html#a0956fb9eaa66799447596d95c6f1e46d" />
               <section title="getAlign" ref="db/df7/classlibrary_1_1_symbol_text.html#a8c33abf636eed65eeeccb22558ba0880" />
               <section title="getText" ref="db/df7/classlibrary_1_1_symbol_text.html#ab42d5f674bbe33d8d5a601bedfd7921e" />
               <section title="setLayerId" ref="db/df7/classlibrary_1_1_symbol_text.html#a0a0c554125335837033d4ad1b7cc8638" />
               <section title="setText" ref="db/df7/classlibrary_1_1_symbol_text.html#a431ba1dc5ffb75872f690c203e303d0e" />
               <section title="setPosition" ref="db/df7/classlibrary_1_1_symbol_text.html#aec8f6fd3fb6f466ea97563621f5dccf9" />
-              <section title="setAngle" ref="db/df7/classlibrary_1_1_symbol_text.html#ad2c89c0ca3cf75c26f1a17027643245f" />
+              <section title="setRotation" ref="db/df7/classlibrary_1_1_symbol_text.html#ab3dec6c106a391608e2795aafd907546" />
               <section title="setHeight" ref="db/df7/classlibrary_1_1_symbol_text.html#a2f6b06b72ec3a0699e89388ca8a3ac73" />
               <section title="setAlign" ref="db/df7/classlibrary_1_1_symbol_text.html#ac43d0c63405c0260fad071f5d07acf7d" />
               <section title="serializeToXmlDomElement" ref="db/df7/classlibrary_1_1_symbol_text.html#aeb87054a7c12b9ccee59af89a9abf24f" />
@@ -865,7 +865,7 @@
               <section title="mLayerId" ref="db/df7/classlibrary_1_1_symbol_text.html#ac25683e78ab19e80ff235ebfcfa41861" />
               <section title="mText" ref="db/df7/classlibrary_1_1_symbol_text.html#a6b0720bcbbd8ddd196daa1e3fbfc5086" />
               <section title="mPosition" ref="db/df7/classlibrary_1_1_symbol_text.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-              <section title="mAngle" ref="db/df7/classlibrary_1_1_symbol_text.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+              <section title="mRotation" ref="db/df7/classlibrary_1_1_symbol_text.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
               <section title="mHeight" ref="db/df7/classlibrary_1_1_symbol_text.html#a2a71f087b0fc8253c3f205d9930aee7d" />
               <section title="mAlign" ref="db/df7/classlibrary_1_1_symbol_text.html#aba9e8e02814ee5624036728a44c24be7" />
             </section>
@@ -2027,11 +2027,11 @@
               <section title="getProject" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a8b9accae182d7ca8c9e6b6d3e3a7f725" />
               <section title="getSchematic" ref="d1/d7b/classproject_1_1_s_i___net_label.html#ae4d4a4c5b541eae5f273f66e800e09e5" />
               <section title="getUuid" ref="d1/d7b/classproject_1_1_s_i___net_label.html#ada9b237a8629c03e16491a72730b456b" />
-              <section title="getAngle" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a894842161e505b56d67b0cf5b0f50087" />
+              <section title="getRotation" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a01f0e165edb023b0c50cdbfd70f36021" />
               <section title="getNetSignal" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a030988c000034a9099850531546baaa9" />
               <section title="setNetSignal" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a6c8d1949f20fd5639ae720fa00aa1241" />
               <section title="setPosition" ref="d1/d7b/classproject_1_1_s_i___net_label.html#aed08011e6158136fd130624f64f14307" />
-              <section title="setAngle" ref="d1/d7b/classproject_1_1_s_i___net_label.html#ad2c89c0ca3cf75c26f1a17027643245f" />
+              <section title="setRotation" ref="d1/d7b/classproject_1_1_s_i___net_label.html#ab3dec6c106a391608e2795aafd907546" />
               <section title="updateText" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a185915e00afcfe0b1e4adf43adad873c" />
               <section title="addToSchematic" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a43e5b1bac02cf98f643843bdd6fcdfb9" />
               <section title="removeFromSchematic" ref="d1/d7b/classproject_1_1_s_i___net_label.html#aaaa53153ea6aca5929ea0972d83ef836" />
@@ -2047,7 +2047,7 @@
               <section title="mGraphicsItem" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a92c6850d80469461756dfbcd063608b6" />
               <section title="mUuid" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
               <section title="mPosition" ref="d1/d7b/classproject_1_1_s_i___net_label.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-              <section title="mAngle" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+              <section title="mRotation" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
               <section title="mNetSignal" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a4bf0cb0a58f644deeb4e05b182598b39" />
             </section>
             <section title="SI_NetLine" ref="d3/d7c/classproject_1_1_s_i___net_line.html">
@@ -2129,14 +2129,14 @@
             </section>
             <section title="SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html">
               <section title="SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a4f4ac3d8b00104cffbb716c1ffc9e8f4" />
-              <section title="SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#ac9886060d53b650910a50ad1890a7383" />
+              <section title="SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a193d7159b0bcc639e98f7eafa1986c7f" />
               <section title="~SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a91cd41d03ab03e6a8c11eb3d88f4cdac" />
               <section title="SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a667cab1c94b7971371f089ce51ecdc80" />
               <section title="SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#acdfc4186d1270d965e4e52e00820c342" />
               <section title="getProject" ref="de/d50/classproject_1_1_s_i___symbol.html#a8b9accae182d7ca8c9e6b6d3e3a7f725" />
               <section title="getSchematic" ref="de/d50/classproject_1_1_s_i___symbol.html#ae4d4a4c5b541eae5f273f66e800e09e5" />
               <section title="getUuid" ref="de/d50/classproject_1_1_s_i___symbol.html#ada9b237a8629c03e16491a72730b456b" />
-              <section title="getAngle" ref="de/d50/classproject_1_1_s_i___symbol.html#a894842161e505b56d67b0cf5b0f50087" />
+              <section title="getRotation" ref="de/d50/classproject_1_1_s_i___symbol.html#a01f0e165edb023b0c50cdbfd70f36021" />
               <section title="getName" ref="de/d50/classproject_1_1_s_i___symbol.html#a4d55d03995b846c5840a2adf64399e94" />
               <section title="getPin" ref="de/d50/classproject_1_1_s_i___symbol.html#a43e9b5255dc9fed908263746e66c5d68" />
               <section title="getPins" ref="de/d50/classproject_1_1_s_i___symbol.html#a16a2a98f4b0e7d1e95f44fbbfd1e3d50" />
@@ -2144,7 +2144,7 @@
               <section title="getLibSymbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a1adcc0f517bae425d73e304eacd62363" />
               <section title="getGenCompSymbVarItem" ref="de/d50/classproject_1_1_s_i___symbol.html#aab980b2bbd0de37752e75710405a20a2" />
               <section title="setPosition" ref="de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" />
-              <section title="setAngle" ref="de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597" />
+              <section title="setRotation" ref="de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5" />
               <section title="addToSchematic" ref="de/d50/classproject_1_1_s_i___symbol.html#a43e5b1bac02cf98f643843bdd6fcdfb9" />
               <section title="removeFromSchematic" ref="de/d50/classproject_1_1_s_i___symbol.html#aaaa53153ea6aca5929ea0972d83ef836" />
               <section title="serializeToXmlDomElement" ref="de/d50/classproject_1_1_s_i___symbol.html#aeb87054a7c12b9ccee59af89a9abf24f" />
@@ -2167,7 +2167,7 @@
               <section title="mGraphicsItem" ref="de/d50/classproject_1_1_s_i___symbol.html#af2b2515849b2094413e32596c43813c2" />
               <section title="mUuid" ref="de/d50/classproject_1_1_s_i___symbol.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
               <section title="mPosition" ref="de/d50/classproject_1_1_s_i___symbol.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-              <section title="mAngle" ref="de/d50/classproject_1_1_s_i___symbol.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+              <section title="mRotation" ref="de/d50/classproject_1_1_s_i___symbol.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
             </section>
             <section title="SI_SymbolPin" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html">
               <section title="SI_SymbolPin" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" />
@@ -2200,7 +2200,7 @@
               <section title="mGenCompSignal" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#ab025ff634cab25d4445807492995d023" />
               <section title="mGenCompSignalInstance" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a89049b19f59157e9c37dfd6e02fe73ed" />
               <section title="mPosition" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-              <section title="mAngle" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+              <section title="mRotation" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
               <section title="mAddedToSchematic" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a3626028e44b489d78888a54e9690de9f" />
               <section title="mRegisteredNetPoint" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#ab4c3e59c76deb2592a0010f4755aea2d" />
               <section title="mGraphicsItem" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a0027b7243ec27935e8c7b00f4e73964c" />
@@ -6151,14 +6151,14 @@
                     <section title="FootprintText" ref="db/d86/classlibrary_1_1_footprint_text.html#aaf3836cc8c1447ac5cdb87bf508cd936" />
                     <section title="getLayerId" ref="db/d86/classlibrary_1_1_footprint_text.html#a3e5bed84d61dd74a10b6ace249c85efe" />
                     <section title="getPosition" ref="db/d86/classlibrary_1_1_footprint_text.html#ae23dd3ab799e9f70a4037eea91f69a82" />
-                    <section title="getAngle" ref="db/d86/classlibrary_1_1_footprint_text.html#a894842161e505b56d67b0cf5b0f50087" />
+                    <section title="getRotation" ref="db/d86/classlibrary_1_1_footprint_text.html#a01f0e165edb023b0c50cdbfd70f36021" />
                     <section title="getHeight" ref="db/d86/classlibrary_1_1_footprint_text.html#a0956fb9eaa66799447596d95c6f1e46d" />
                     <section title="getAlign" ref="db/d86/classlibrary_1_1_footprint_text.html#a8c33abf636eed65eeeccb22558ba0880" />
                     <section title="getText" ref="db/d86/classlibrary_1_1_footprint_text.html#ab42d5f674bbe33d8d5a601bedfd7921e" />
                     <section title="setLayerId" ref="db/d86/classlibrary_1_1_footprint_text.html#a0a0c554125335837033d4ad1b7cc8638" />
                     <section title="setText" ref="db/d86/classlibrary_1_1_footprint_text.html#a431ba1dc5ffb75872f690c203e303d0e" />
                     <section title="setPosition" ref="db/d86/classlibrary_1_1_footprint_text.html#aec8f6fd3fb6f466ea97563621f5dccf9" />
-                    <section title="setAngle" ref="db/d86/classlibrary_1_1_footprint_text.html#ad2c89c0ca3cf75c26f1a17027643245f" />
+                    <section title="setRotation" ref="db/d86/classlibrary_1_1_footprint_text.html#ab3dec6c106a391608e2795aafd907546" />
                     <section title="setHeight" ref="db/d86/classlibrary_1_1_footprint_text.html#a2f6b06b72ec3a0699e89388ca8a3ac73" />
                     <section title="setAlign" ref="db/d86/classlibrary_1_1_footprint_text.html#ac43d0c63405c0260fad071f5d07acf7d" />
                     <section title="serializeToXmlDomElement" ref="db/d86/classlibrary_1_1_footprint_text.html#aeb87054a7c12b9ccee59af89a9abf24f" />
@@ -6167,7 +6167,7 @@
                     <section title="mLayerId" ref="db/d86/classlibrary_1_1_footprint_text.html#ac25683e78ab19e80ff235ebfcfa41861" />
                     <section title="mText" ref="db/d86/classlibrary_1_1_footprint_text.html#a6b0720bcbbd8ddd196daa1e3fbfc5086" />
                     <section title="mPosition" ref="db/d86/classlibrary_1_1_footprint_text.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-                    <section title="mAngle" ref="db/d86/classlibrary_1_1_footprint_text.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+                    <section title="mRotation" ref="db/d86/classlibrary_1_1_footprint_text.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
                     <section title="mHeight" ref="db/d86/classlibrary_1_1_footprint_text.html#a2a71f087b0fc8253c3f205d9930aee7d" />
                     <section title="mAlign" ref="db/d86/classlibrary_1_1_footprint_text.html#aba9e8e02814ee5624036728a44c24be7" />
                   </section>
@@ -6455,14 +6455,14 @@
                     <section title="getUuid" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#ada9b237a8629c03e16491a72730b456b" />
                     <section title="getPosition" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#ae23dd3ab799e9f70a4037eea91f69a82" />
                     <section title="getLength" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a2e17cfc864c3d153e0f25bfd79277cd1" />
-                    <section title="getAngle" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a894842161e505b56d67b0cf5b0f50087" />
+                    <section title="getRotation" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a01f0e165edb023b0c50cdbfd70f36021" />
                     <section title="getName" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a01f0309d43de518f4e94c724d22f4502" />
                     <section title="getDescription" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a0e5b7dc7eca3c6468aa85375bf2c3dde" />
                     <section title="getNames" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a495b1b5a80253b4291c4cc3c59661235" />
                     <section title="getDescriptions" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#adbf3aae44e55d974740b8125a2b08b68" />
                     <section title="setPosition" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#aec8f6fd3fb6f466ea97563621f5dccf9" />
                     <section title="setLength" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#adf626c984a8cc907251edb26612065a3" />
-                    <section title="setAngle" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#ad2c89c0ca3cf75c26f1a17027643245f" />
+                    <section title="setRotation" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#ab3dec6c106a391608e2795aafd907546" />
                     <section title="setName" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a1abac19268886b98c8529dccc6256d32" />
                     <section title="setDescription" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a531d62377f131f5715afdb3f43994981" />
                     <section title="serializeToXmlDomElement" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#aeb87054a7c12b9ccee59af89a9abf24f" />
@@ -6471,7 +6471,7 @@
                     <section title="mUuid" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
                     <section title="mPosition" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
                     <section title="mLength" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a83da847720ad7b376e7a10a963196e43" />
-                    <section title="mAngle" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+                    <section title="mRotation" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
                     <section title="mNames" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a6f1ec818129bce4ead70dfc185fd873b" />
                     <section title="mDescriptions" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a4fc154a17bff454bba131b069594e5a3" />
                   </section>
@@ -6606,14 +6606,14 @@
                     <section title="SymbolText" ref="db/df7/classlibrary_1_1_symbol_text.html#a941f5329075036bc7822d32fb1ac5a5c" />
                     <section title="getLayerId" ref="db/df7/classlibrary_1_1_symbol_text.html#a3e5bed84d61dd74a10b6ace249c85efe" />
                     <section title="getPosition" ref="db/df7/classlibrary_1_1_symbol_text.html#ae23dd3ab799e9f70a4037eea91f69a82" />
-                    <section title="getAngle" ref="db/df7/classlibrary_1_1_symbol_text.html#a894842161e505b56d67b0cf5b0f50087" />
+                    <section title="getRotation" ref="db/df7/classlibrary_1_1_symbol_text.html#a01f0e165edb023b0c50cdbfd70f36021" />
                     <section title="getHeight" ref="db/df7/classlibrary_1_1_symbol_text.html#a0956fb9eaa66799447596d95c6f1e46d" />
                     <section title="getAlign" ref="db/df7/classlibrary_1_1_symbol_text.html#a8c33abf636eed65eeeccb22558ba0880" />
                     <section title="getText" ref="db/df7/classlibrary_1_1_symbol_text.html#ab42d5f674bbe33d8d5a601bedfd7921e" />
                     <section title="setLayerId" ref="db/df7/classlibrary_1_1_symbol_text.html#a0a0c554125335837033d4ad1b7cc8638" />
                     <section title="setText" ref="db/df7/classlibrary_1_1_symbol_text.html#a431ba1dc5ffb75872f690c203e303d0e" />
                     <section title="setPosition" ref="db/df7/classlibrary_1_1_symbol_text.html#aec8f6fd3fb6f466ea97563621f5dccf9" />
-                    <section title="setAngle" ref="db/df7/classlibrary_1_1_symbol_text.html#ad2c89c0ca3cf75c26f1a17027643245f" />
+                    <section title="setRotation" ref="db/df7/classlibrary_1_1_symbol_text.html#ab3dec6c106a391608e2795aafd907546" />
                     <section title="setHeight" ref="db/df7/classlibrary_1_1_symbol_text.html#a2f6b06b72ec3a0699e89388ca8a3ac73" />
                     <section title="setAlign" ref="db/df7/classlibrary_1_1_symbol_text.html#ac43d0c63405c0260fad071f5d07acf7d" />
                     <section title="serializeToXmlDomElement" ref="db/df7/classlibrary_1_1_symbol_text.html#aeb87054a7c12b9ccee59af89a9abf24f" />
@@ -6622,7 +6622,7 @@
                     <section title="mLayerId" ref="db/df7/classlibrary_1_1_symbol_text.html#ac25683e78ab19e80ff235ebfcfa41861" />
                     <section title="mText" ref="db/df7/classlibrary_1_1_symbol_text.html#a6b0720bcbbd8ddd196daa1e3fbfc5086" />
                     <section title="mPosition" ref="db/df7/classlibrary_1_1_symbol_text.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-                    <section title="mAngle" ref="db/df7/classlibrary_1_1_symbol_text.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+                    <section title="mRotation" ref="db/df7/classlibrary_1_1_symbol_text.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
                     <section title="mHeight" ref="db/df7/classlibrary_1_1_symbol_text.html#a2a71f087b0fc8253c3f205d9930aee7d" />
                     <section title="mAlign" ref="db/df7/classlibrary_1_1_symbol_text.html#aba9e8e02814ee5624036728a44c24be7" />
                   </section>
@@ -8072,11 +8072,11 @@
                       <section title="getProject" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a8b9accae182d7ca8c9e6b6d3e3a7f725" />
                       <section title="getSchematic" ref="d1/d7b/classproject_1_1_s_i___net_label.html#ae4d4a4c5b541eae5f273f66e800e09e5" />
                       <section title="getUuid" ref="d1/d7b/classproject_1_1_s_i___net_label.html#ada9b237a8629c03e16491a72730b456b" />
-                      <section title="getAngle" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a894842161e505b56d67b0cf5b0f50087" />
+                      <section title="getRotation" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a01f0e165edb023b0c50cdbfd70f36021" />
                       <section title="getNetSignal" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a030988c000034a9099850531546baaa9" />
                       <section title="setNetSignal" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a6c8d1949f20fd5639ae720fa00aa1241" />
                       <section title="setPosition" ref="d1/d7b/classproject_1_1_s_i___net_label.html#aed08011e6158136fd130624f64f14307" />
-                      <section title="setAngle" ref="d1/d7b/classproject_1_1_s_i___net_label.html#ad2c89c0ca3cf75c26f1a17027643245f" />
+                      <section title="setRotation" ref="d1/d7b/classproject_1_1_s_i___net_label.html#ab3dec6c106a391608e2795aafd907546" />
                       <section title="updateText" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a185915e00afcfe0b1e4adf43adad873c" />
                       <section title="addToSchematic" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a43e5b1bac02cf98f643843bdd6fcdfb9" />
                       <section title="removeFromSchematic" ref="d1/d7b/classproject_1_1_s_i___net_label.html#aaaa53153ea6aca5929ea0972d83ef836" />
@@ -8092,7 +8092,7 @@
                       <section title="mGraphicsItem" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a92c6850d80469461756dfbcd063608b6" />
                       <section title="mUuid" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
                       <section title="mPosition" ref="d1/d7b/classproject_1_1_s_i___net_label.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-                      <section title="mAngle" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+                      <section title="mRotation" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
                       <section title="mNetSignal" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a4bf0cb0a58f644deeb4e05b182598b39" />
                     </section>
                   </section>
@@ -8183,14 +8183,14 @@
                   <section title="si_symbol.h" ref="df/dc0/si__symbol_8h.html">
                     <section title="SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html">
                       <section title="SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a4f4ac3d8b00104cffbb716c1ffc9e8f4" />
-                      <section title="SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#ac9886060d53b650910a50ad1890a7383" />
+                      <section title="SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a193d7159b0bcc639e98f7eafa1986c7f" />
                       <section title="~SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a91cd41d03ab03e6a8c11eb3d88f4cdac" />
                       <section title="SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a667cab1c94b7971371f089ce51ecdc80" />
                       <section title="SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#acdfc4186d1270d965e4e52e00820c342" />
                       <section title="getProject" ref="de/d50/classproject_1_1_s_i___symbol.html#a8b9accae182d7ca8c9e6b6d3e3a7f725" />
                       <section title="getSchematic" ref="de/d50/classproject_1_1_s_i___symbol.html#ae4d4a4c5b541eae5f273f66e800e09e5" />
                       <section title="getUuid" ref="de/d50/classproject_1_1_s_i___symbol.html#ada9b237a8629c03e16491a72730b456b" />
-                      <section title="getAngle" ref="de/d50/classproject_1_1_s_i___symbol.html#a894842161e505b56d67b0cf5b0f50087" />
+                      <section title="getRotation" ref="de/d50/classproject_1_1_s_i___symbol.html#a01f0e165edb023b0c50cdbfd70f36021" />
                       <section title="getName" ref="de/d50/classproject_1_1_s_i___symbol.html#a4d55d03995b846c5840a2adf64399e94" />
                       <section title="getPin" ref="de/d50/classproject_1_1_s_i___symbol.html#a43e9b5255dc9fed908263746e66c5d68" />
                       <section title="getPins" ref="de/d50/classproject_1_1_s_i___symbol.html#a16a2a98f4b0e7d1e95f44fbbfd1e3d50" />
@@ -8198,7 +8198,7 @@
                       <section title="getLibSymbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a1adcc0f517bae425d73e304eacd62363" />
                       <section title="getGenCompSymbVarItem" ref="de/d50/classproject_1_1_s_i___symbol.html#aab980b2bbd0de37752e75710405a20a2" />
                       <section title="setPosition" ref="de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" />
-                      <section title="setAngle" ref="de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597" />
+                      <section title="setRotation" ref="de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5" />
                       <section title="addToSchematic" ref="de/d50/classproject_1_1_s_i___symbol.html#a43e5b1bac02cf98f643843bdd6fcdfb9" />
                       <section title="removeFromSchematic" ref="de/d50/classproject_1_1_s_i___symbol.html#aaaa53153ea6aca5929ea0972d83ef836" />
                       <section title="serializeToXmlDomElement" ref="de/d50/classproject_1_1_s_i___symbol.html#aeb87054a7c12b9ccee59af89a9abf24f" />
@@ -8221,7 +8221,7 @@
                       <section title="mGraphicsItem" ref="de/d50/classproject_1_1_s_i___symbol.html#af2b2515849b2094413e32596c43813c2" />
                       <section title="mUuid" ref="de/d50/classproject_1_1_s_i___symbol.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
                       <section title="mPosition" ref="de/d50/classproject_1_1_s_i___symbol.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-                      <section title="mAngle" ref="de/d50/classproject_1_1_s_i___symbol.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+                      <section title="mRotation" ref="de/d50/classproject_1_1_s_i___symbol.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
                     </section>
                   </section>
                   <section title="si_symbolpin.cpp" ref="d5/d35/si__symbolpin_8cpp.html" />
@@ -8257,7 +8257,7 @@
                       <section title="mGenCompSignal" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#ab025ff634cab25d4445807492995d023" />
                       <section title="mGenCompSignalInstance" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a89049b19f59157e9c37dfd6e02fe73ed" />
                       <section title="mPosition" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-                      <section title="mAngle" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+                      <section title="mRotation" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
                       <section title="mAddedToSchematic" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a3626028e44b489d78888a54e9690de9f" />
                       <section title="mRegisteredNetPoint" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#ab4c3e59c76deb2592a0010f4755aea2d" />
                       <section title="mGraphicsItem" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a0027b7243ec27935e8c7b00f4e73964c" />
@@ -11639,14 +11639,14 @@
       <keyword name="~FootprintText" id="library::FootprintText::~FootprintText" ref="db/d86/classlibrary_1_1_footprint_text.html#a0651831887a7d0320993c171d3437a5a" />
       <keyword name="getLayerId" id="library::FootprintText::getLayerId" ref="db/d86/classlibrary_1_1_footprint_text.html#a3e5bed84d61dd74a10b6ace249c85efe" />
       <keyword name="getPosition" id="library::FootprintText::getPosition" ref="db/d86/classlibrary_1_1_footprint_text.html#ae23dd3ab799e9f70a4037eea91f69a82" />
-      <keyword name="getAngle" id="library::FootprintText::getAngle" ref="db/d86/classlibrary_1_1_footprint_text.html#a894842161e505b56d67b0cf5b0f50087" />
+      <keyword name="getRotation" id="library::FootprintText::getRotation" ref="db/d86/classlibrary_1_1_footprint_text.html#a01f0e165edb023b0c50cdbfd70f36021" />
       <keyword name="getHeight" id="library::FootprintText::getHeight" ref="db/d86/classlibrary_1_1_footprint_text.html#a0956fb9eaa66799447596d95c6f1e46d" />
       <keyword name="getAlign" id="library::FootprintText::getAlign" ref="db/d86/classlibrary_1_1_footprint_text.html#a8c33abf636eed65eeeccb22558ba0880" />
       <keyword name="getText" id="library::FootprintText::getText" ref="db/d86/classlibrary_1_1_footprint_text.html#ab42d5f674bbe33d8d5a601bedfd7921e" />
       <keyword name="setLayerId" id="library::FootprintText::setLayerId" ref="db/d86/classlibrary_1_1_footprint_text.html#a0a0c554125335837033d4ad1b7cc8638" />
       <keyword name="setText" id="library::FootprintText::setText" ref="db/d86/classlibrary_1_1_footprint_text.html#a431ba1dc5ffb75872f690c203e303d0e" />
       <keyword name="setPosition" id="library::FootprintText::setPosition" ref="db/d86/classlibrary_1_1_footprint_text.html#aec8f6fd3fb6f466ea97563621f5dccf9" />
-      <keyword name="setAngle" id="library::FootprintText::setAngle" ref="db/d86/classlibrary_1_1_footprint_text.html#ad2c89c0ca3cf75c26f1a17027643245f" />
+      <keyword name="setRotation" id="library::FootprintText::setRotation" ref="db/d86/classlibrary_1_1_footprint_text.html#ab3dec6c106a391608e2795aafd907546" />
       <keyword name="setHeight" id="library::FootprintText::setHeight" ref="db/d86/classlibrary_1_1_footprint_text.html#a2f6b06b72ec3a0699e89388ca8a3ac73" />
       <keyword name="setAlign" id="library::FootprintText::setAlign" ref="db/d86/classlibrary_1_1_footprint_text.html#ac43d0c63405c0260fad071f5d07acf7d" />
       <keyword name="serializeToXmlDomElement" id="library::FootprintText::serializeToXmlDomElement" ref="db/d86/classlibrary_1_1_footprint_text.html#aeb87054a7c12b9ccee59af89a9abf24f" />
@@ -11658,7 +11658,7 @@
       <keyword name="mLayerId" id="library::FootprintText::mLayerId" ref="db/d86/classlibrary_1_1_footprint_text.html#ac25683e78ab19e80ff235ebfcfa41861" />
       <keyword name="mText" id="library::FootprintText::mText" ref="db/d86/classlibrary_1_1_footprint_text.html#a6b0720bcbbd8ddd196daa1e3fbfc5086" />
       <keyword name="mPosition" id="library::FootprintText::mPosition" ref="db/d86/classlibrary_1_1_footprint_text.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-      <keyword name="mAngle" id="library::FootprintText::mAngle" ref="db/d86/classlibrary_1_1_footprint_text.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+      <keyword name="mRotation" id="library::FootprintText::mRotation" ref="db/d86/classlibrary_1_1_footprint_text.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
       <keyword name="mHeight" id="library::FootprintText::mHeight" ref="db/d86/classlibrary_1_1_footprint_text.html#a2a71f087b0fc8253c3f205d9930aee7d" />
       <keyword name="mAlign" id="library::FootprintText::mAlign" ref="db/d86/classlibrary_1_1_footprint_text.html#aba9e8e02814ee5624036728a44c24be7" />
       <keyword name="library::GenCompSignal" id="library::GenCompSignal" ref="d4/d5f/classlibrary_1_1_gen_comp_signal.html" />
@@ -12266,14 +12266,14 @@
       <keyword name="getUuid" id="library::SymbolPin::getUuid" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#ada9b237a8629c03e16491a72730b456b" />
       <keyword name="getPosition" id="library::SymbolPin::getPosition" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#ae23dd3ab799e9f70a4037eea91f69a82" />
       <keyword name="getLength" id="library::SymbolPin::getLength" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a2e17cfc864c3d153e0f25bfd79277cd1" />
-      <keyword name="getAngle" id="library::SymbolPin::getAngle" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a894842161e505b56d67b0cf5b0f50087" />
+      <keyword name="getRotation" id="library::SymbolPin::getRotation" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a01f0e165edb023b0c50cdbfd70f36021" />
       <keyword name="getName" id="library::SymbolPin::getName" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a01f0309d43de518f4e94c724d22f4502" />
       <keyword name="getDescription" id="library::SymbolPin::getDescription" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a0e5b7dc7eca3c6468aa85375bf2c3dde" />
       <keyword name="getNames" id="library::SymbolPin::getNames" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a495b1b5a80253b4291c4cc3c59661235" />
       <keyword name="getDescriptions" id="library::SymbolPin::getDescriptions" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#adbf3aae44e55d974740b8125a2b08b68" />
       <keyword name="setPosition" id="library::SymbolPin::setPosition" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#aec8f6fd3fb6f466ea97563621f5dccf9" />
       <keyword name="setLength" id="library::SymbolPin::setLength" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#adf626c984a8cc907251edb26612065a3" />
-      <keyword name="setAngle" id="library::SymbolPin::setAngle" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#ad2c89c0ca3cf75c26f1a17027643245f" />
+      <keyword name="setRotation" id="library::SymbolPin::setRotation" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#ab3dec6c106a391608e2795aafd907546" />
       <keyword name="setName" id="library::SymbolPin::setName" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a1abac19268886b98c8529dccc6256d32" />
       <keyword name="setDescription" id="library::SymbolPin::setDescription" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a531d62377f131f5715afdb3f43994981" />
       <keyword name="serializeToXmlDomElement" id="library::SymbolPin::serializeToXmlDomElement" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#aeb87054a7c12b9ccee59af89a9abf24f" />
@@ -12285,7 +12285,7 @@
       <keyword name="mUuid" id="library::SymbolPin::mUuid" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
       <keyword name="mPosition" id="library::SymbolPin::mPosition" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
       <keyword name="mLength" id="library::SymbolPin::mLength" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a83da847720ad7b376e7a10a963196e43" />
-      <keyword name="mAngle" id="library::SymbolPin::mAngle" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+      <keyword name="mRotation" id="library::SymbolPin::mRotation" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
       <keyword name="mNames" id="library::SymbolPin::mNames" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a6f1ec818129bce4ead70dfc185fd873b" />
       <keyword name="mDescriptions" id="library::SymbolPin::mDescriptions" ref="d0/dfd/classlibrary_1_1_symbol_pin.html#a4fc154a17bff454bba131b069594e5a3" />
       <keyword name="library::SymbolPinPreviewGraphicsItem" id="library::SymbolPinPreviewGraphicsItem" ref="da/d20/classlibrary_1_1_symbol_pin_preview_graphics_item.html" />
@@ -12406,14 +12406,14 @@
       <keyword name="~SymbolText" id="library::SymbolText::~SymbolText" ref="db/df7/classlibrary_1_1_symbol_text.html#a31a233257abd7dbe0c7201b03a3c0bc5" />
       <keyword name="getLayerId" id="library::SymbolText::getLayerId" ref="db/df7/classlibrary_1_1_symbol_text.html#a3e5bed84d61dd74a10b6ace249c85efe" />
       <keyword name="getPosition" id="library::SymbolText::getPosition" ref="db/df7/classlibrary_1_1_symbol_text.html#ae23dd3ab799e9f70a4037eea91f69a82" />
-      <keyword name="getAngle" id="library::SymbolText::getAngle" ref="db/df7/classlibrary_1_1_symbol_text.html#a894842161e505b56d67b0cf5b0f50087" />
+      <keyword name="getRotation" id="library::SymbolText::getRotation" ref="db/df7/classlibrary_1_1_symbol_text.html#a01f0e165edb023b0c50cdbfd70f36021" />
       <keyword name="getHeight" id="library::SymbolText::getHeight" ref="db/df7/classlibrary_1_1_symbol_text.html#a0956fb9eaa66799447596d95c6f1e46d" />
       <keyword name="getAlign" id="library::SymbolText::getAlign" ref="db/df7/classlibrary_1_1_symbol_text.html#a8c33abf636eed65eeeccb22558ba0880" />
       <keyword name="getText" id="library::SymbolText::getText" ref="db/df7/classlibrary_1_1_symbol_text.html#ab42d5f674bbe33d8d5a601bedfd7921e" />
       <keyword name="setLayerId" id="library::SymbolText::setLayerId" ref="db/df7/classlibrary_1_1_symbol_text.html#a0a0c554125335837033d4ad1b7cc8638" />
       <keyword name="setText" id="library::SymbolText::setText" ref="db/df7/classlibrary_1_1_symbol_text.html#a431ba1dc5ffb75872f690c203e303d0e" />
       <keyword name="setPosition" id="library::SymbolText::setPosition" ref="db/df7/classlibrary_1_1_symbol_text.html#aec8f6fd3fb6f466ea97563621f5dccf9" />
-      <keyword name="setAngle" id="library::SymbolText::setAngle" ref="db/df7/classlibrary_1_1_symbol_text.html#ad2c89c0ca3cf75c26f1a17027643245f" />
+      <keyword name="setRotation" id="library::SymbolText::setRotation" ref="db/df7/classlibrary_1_1_symbol_text.html#ab3dec6c106a391608e2795aafd907546" />
       <keyword name="setHeight" id="library::SymbolText::setHeight" ref="db/df7/classlibrary_1_1_symbol_text.html#a2f6b06b72ec3a0699e89388ca8a3ac73" />
       <keyword name="setAlign" id="library::SymbolText::setAlign" ref="db/df7/classlibrary_1_1_symbol_text.html#ac43d0c63405c0260fad071f5d07acf7d" />
       <keyword name="serializeToXmlDomElement" id="library::SymbolText::serializeToXmlDomElement" ref="db/df7/classlibrary_1_1_symbol_text.html#aeb87054a7c12b9ccee59af89a9abf24f" />
@@ -12425,7 +12425,7 @@
       <keyword name="mLayerId" id="library::SymbolText::mLayerId" ref="db/df7/classlibrary_1_1_symbol_text.html#ac25683e78ab19e80ff235ebfcfa41861" />
       <keyword name="mText" id="library::SymbolText::mText" ref="db/df7/classlibrary_1_1_symbol_text.html#a6b0720bcbbd8ddd196daa1e3fbfc5086" />
       <keyword name="mPosition" id="library::SymbolText::mPosition" ref="db/df7/classlibrary_1_1_symbol_text.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-      <keyword name="mAngle" id="library::SymbolText::mAngle" ref="db/df7/classlibrary_1_1_symbol_text.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+      <keyword name="mRotation" id="library::SymbolText::mRotation" ref="db/df7/classlibrary_1_1_symbol_text.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
       <keyword name="mHeight" id="library::SymbolText::mHeight" ref="db/df7/classlibrary_1_1_symbol_text.html#a2a71f087b0fc8253c3f205d9930aee7d" />
       <keyword name="mAlign" id="library::SymbolText::mAlign" ref="db/df7/classlibrary_1_1_symbol_text.html#aba9e8e02814ee5624036728a44c24be7" />
       <keyword name="library_editor" id="library_editor" ref="d6/dfe/namespacelibrary__editor.html" />
@@ -13968,11 +13968,11 @@
       <keyword name="getProject" id="project::SI_NetLabel::getProject" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a8b9accae182d7ca8c9e6b6d3e3a7f725" />
       <keyword name="getSchematic" id="project::SI_NetLabel::getSchematic" ref="d1/d7b/classproject_1_1_s_i___net_label.html#ae4d4a4c5b541eae5f273f66e800e09e5" />
       <keyword name="getUuid" id="project::SI_NetLabel::getUuid" ref="d1/d7b/classproject_1_1_s_i___net_label.html#ada9b237a8629c03e16491a72730b456b" />
-      <keyword name="getAngle" id="project::SI_NetLabel::getAngle" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a894842161e505b56d67b0cf5b0f50087" />
+      <keyword name="getRotation" id="project::SI_NetLabel::getRotation" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a01f0e165edb023b0c50cdbfd70f36021" />
       <keyword name="getNetSignal" id="project::SI_NetLabel::getNetSignal" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a030988c000034a9099850531546baaa9" />
       <keyword name="setNetSignal" id="project::SI_NetLabel::setNetSignal" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a6c8d1949f20fd5639ae720fa00aa1241" />
       <keyword name="setPosition" id="project::SI_NetLabel::setPosition" ref="d1/d7b/classproject_1_1_s_i___net_label.html#aed08011e6158136fd130624f64f14307" />
-      <keyword name="setAngle" id="project::SI_NetLabel::setAngle" ref="d1/d7b/classproject_1_1_s_i___net_label.html#ad2c89c0ca3cf75c26f1a17027643245f" />
+      <keyword name="setRotation" id="project::SI_NetLabel::setRotation" ref="d1/d7b/classproject_1_1_s_i___net_label.html#ab3dec6c106a391608e2795aafd907546" />
       <keyword name="updateText" id="project::SI_NetLabel::updateText" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a185915e00afcfe0b1e4adf43adad873c" />
       <keyword name="addToSchematic" id="project::SI_NetLabel::addToSchematic" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a43e5b1bac02cf98f643843bdd6fcdfb9" />
       <keyword name="removeFromSchematic" id="project::SI_NetLabel::removeFromSchematic" ref="d1/d7b/classproject_1_1_s_i___net_label.html#aaaa53153ea6aca5929ea0972d83ef836" />
@@ -13995,7 +13995,7 @@
       <keyword name="mGraphicsItem" id="project::SI_NetLabel::mGraphicsItem" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a92c6850d80469461756dfbcd063608b6" />
       <keyword name="mUuid" id="project::SI_NetLabel::mUuid" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
       <keyword name="mPosition" id="project::SI_NetLabel::mPosition" ref="d1/d7b/classproject_1_1_s_i___net_label.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-      <keyword name="mAngle" id="project::SI_NetLabel::mAngle" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+      <keyword name="mRotation" id="project::SI_NetLabel::mRotation" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
       <keyword name="mNetSignal" id="project::SI_NetLabel::mNetSignal" ref="d1/d7b/classproject_1_1_s_i___net_label.html#a4bf0cb0a58f644deeb4e05b182598b39" />
       <keyword name="project::SI_NetLine" id="project::SI_NetLine" ref="d3/d7c/classproject_1_1_s_i___net_line.html" />
       <keyword name="SI_NetLine" id="project::SI_NetLine::SI_NetLine" ref="d3/d7c/classproject_1_1_s_i___net_line.html#a0b07039b30f19340af1d748db97dc830" />
@@ -14089,12 +14089,12 @@
       <keyword name="attributesChanged" id="project::SI_Symbol::attributesChanged" ref="de/d50/classproject_1_1_s_i___symbol.html#a6f15290c411b59a902b38d07962c5449" />
       <keyword name="attributesChanged" id="IF_AttributeProvider::attributesChanged" ref="d9/d41/class_i_f___attribute_provider.html#a680d123564f30a7bbf347d4a9b39de58" />
       <keyword name="SI_Symbol" id="project::SI_Symbol::SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a4f4ac3d8b00104cffbb716c1ffc9e8f4" />
-      <keyword name="SI_Symbol" id="project::SI_Symbol::SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#ac9886060d53b650910a50ad1890a7383" />
+      <keyword name="SI_Symbol" id="project::SI_Symbol::SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a193d7159b0bcc639e98f7eafa1986c7f" />
       <keyword name="~SI_Symbol" id="project::SI_Symbol::~SI_Symbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a91cd41d03ab03e6a8c11eb3d88f4cdac" />
       <keyword name="getProject" id="project::SI_Symbol::getProject" ref="de/d50/classproject_1_1_s_i___symbol.html#a8b9accae182d7ca8c9e6b6d3e3a7f725" />
       <keyword name="getSchematic" id="project::SI_Symbol::getSchematic" ref="de/d50/classproject_1_1_s_i___symbol.html#ae4d4a4c5b541eae5f273f66e800e09e5" />
       <keyword name="getUuid" id="project::SI_Symbol::getUuid" ref="de/d50/classproject_1_1_s_i___symbol.html#ada9b237a8629c03e16491a72730b456b" />
-      <keyword name="getAngle" id="project::SI_Symbol::getAngle" ref="de/d50/classproject_1_1_s_i___symbol.html#a894842161e505b56d67b0cf5b0f50087" />
+      <keyword name="getRotation" id="project::SI_Symbol::getRotation" ref="de/d50/classproject_1_1_s_i___symbol.html#a01f0e165edb023b0c50cdbfd70f36021" />
       <keyword name="getName" id="project::SI_Symbol::getName" ref="de/d50/classproject_1_1_s_i___symbol.html#a4d55d03995b846c5840a2adf64399e94" />
       <keyword name="getPin" id="project::SI_Symbol::getPin" ref="de/d50/classproject_1_1_s_i___symbol.html#a43e9b5255dc9fed908263746e66c5d68" />
       <keyword name="getPins" id="project::SI_Symbol::getPins" ref="de/d50/classproject_1_1_s_i___symbol.html#a16a2a98f4b0e7d1e95f44fbbfd1e3d50" />
@@ -14102,7 +14102,7 @@
       <keyword name="getLibSymbol" id="project::SI_Symbol::getLibSymbol" ref="de/d50/classproject_1_1_s_i___symbol.html#a1adcc0f517bae425d73e304eacd62363" />
       <keyword name="getGenCompSymbVarItem" id="project::SI_Symbol::getGenCompSymbVarItem" ref="de/d50/classproject_1_1_s_i___symbol.html#aab980b2bbd0de37752e75710405a20a2" />
       <keyword name="setPosition" id="project::SI_Symbol::setPosition" ref="de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" />
-      <keyword name="setAngle" id="project::SI_Symbol::setAngle" ref="de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597" />
+      <keyword name="setRotation" id="project::SI_Symbol::setRotation" ref="de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5" />
       <keyword name="addToSchematic" id="project::SI_Symbol::addToSchematic" ref="de/d50/classproject_1_1_s_i___symbol.html#a43e5b1bac02cf98f643843bdd6fcdfb9" />
       <keyword name="removeFromSchematic" id="project::SI_Symbol::removeFromSchematic" ref="de/d50/classproject_1_1_s_i___symbol.html#aaaa53153ea6aca5929ea0972d83ef836" />
       <keyword name="serializeToXmlDomElement" id="project::SI_Symbol::serializeToXmlDomElement" ref="de/d50/classproject_1_1_s_i___symbol.html#aeb87054a7c12b9ccee59af89a9abf24f" />
@@ -14134,7 +14134,7 @@
       <keyword name="mGraphicsItem" id="project::SI_Symbol::mGraphicsItem" ref="de/d50/classproject_1_1_s_i___symbol.html#af2b2515849b2094413e32596c43813c2" />
       <keyword name="mUuid" id="project::SI_Symbol::mUuid" ref="de/d50/classproject_1_1_s_i___symbol.html#a2c2bc42e869c33cbbfe3393378a44ef8" />
       <keyword name="mPosition" id="project::SI_Symbol::mPosition" ref="de/d50/classproject_1_1_s_i___symbol.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-      <keyword name="mAngle" id="project::SI_Symbol::mAngle" ref="de/d50/classproject_1_1_s_i___symbol.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+      <keyword name="mRotation" id="project::SI_Symbol::mRotation" ref="de/d50/classproject_1_1_s_i___symbol.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
       <keyword name="project::SI_SymbolPin" id="project::SI_SymbolPin" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html" />
       <keyword name="SI_SymbolPin" id="project::SI_SymbolPin::SI_SymbolPin" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" />
       <keyword name="~SI_SymbolPin" id="project::SI_SymbolPin::~SI_SymbolPin" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a14d25e668c755ef93043e16f05f8b2af" />
@@ -14172,7 +14172,7 @@
       <keyword name="mGenCompSignal" id="project::SI_SymbolPin::mGenCompSignal" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#ab025ff634cab25d4445807492995d023" />
       <keyword name="mGenCompSignalInstance" id="project::SI_SymbolPin::mGenCompSignalInstance" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a89049b19f59157e9c37dfd6e02fe73ed" />
       <keyword name="mPosition" id="project::SI_SymbolPin::mPosition" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#aeb305cb4fa9c30aa723aa1cc02c2e690" />
-      <keyword name="mAngle" id="project::SI_SymbolPin::mAngle" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a18c0f13d4de01a6dcbce2a8e29c4b473" />
+      <keyword name="mRotation" id="project::SI_SymbolPin::mRotation" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a97de4ec2b9bd9978446fa98f8edb15cc" />
       <keyword name="mAddedToSchematic" id="project::SI_SymbolPin::mAddedToSchematic" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a3626028e44b489d78888a54e9690de9f" />
       <keyword name="mRegisteredNetPoint" id="project::SI_SymbolPin::mRegisteredNetPoint" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#ab4c3e59c76deb2592a0010f4755aea2d" />
       <keyword name="mGraphicsItem" id="project::SI_SymbolPin::mGraphicsItem" ref="d6/d12/classproject_1_1_s_i___symbol_pin.html#a0027b7243ec27935e8c7b00f4e73964c" />
@@ -16246,6 +16246,7 @@
       <file>d2/d39/class_angle_afba236b33bef9614cb43142b02c79187_icgraph.svg</file>
       <file>d2/d39/class_angle_aa6a6fad8c7af06e21bec6a5fc2b521cc_icgraph.svg</file>
       <file>d2/d39/class_angle_ae76e6384199e1c899025c103affd862f_cgraph.svg</file>
+      <file>d2/d39/class_angle_ae76e6384199e1c899025c103affd862f_icgraph.svg</file>
       <file>d2/d39/class_angle_a74e05120ac11f78df41f0a0304990f9f_icgraph.svg</file>
       <file>d2/d39/class_angle_a0f80113e23a69620a2d810b933e12a8d_cgraph.svg</file>
       <file>d2/d39/class_angle_a0f80113e23a69620a2d810b933e12a8d_icgraph.svg</file>
@@ -17103,7 +17104,7 @@
       <file>d7/db5/classlibrary_1_1_footprint_text__coll__graph.svg</file>
       <file>db/d86/classlibrary_1_1_footprint_text_a3e5bed84d61dd74a10b6ace249c85efe_icgraph.svg</file>
       <file>db/d86/classlibrary_1_1_footprint_text_ae23dd3ab799e9f70a4037eea91f69a82_icgraph.svg</file>
-      <file>db/d86/classlibrary_1_1_footprint_text_a894842161e505b56d67b0cf5b0f50087_icgraph.svg</file>
+      <file>db/d86/classlibrary_1_1_footprint_text_a01f0e165edb023b0c50cdbfd70f36021_icgraph.svg</file>
       <file>db/d86/classlibrary_1_1_footprint_text_a0956fb9eaa66799447596d95c6f1e46d_icgraph.svg</file>
       <file>db/d86/classlibrary_1_1_footprint_text_a8c33abf636eed65eeeccb22558ba0880_icgraph.svg</file>
       <file>db/d86/classlibrary_1_1_footprint_text_ab42d5f674bbe33d8d5a601bedfd7921e_icgraph.svg</file>
@@ -17303,7 +17304,7 @@
       <file>d0/dfd/classlibrary_1_1_symbol_pin_ada9b237a8629c03e16491a72730b456b_icgraph.svg</file>
       <file>d0/dfd/classlibrary_1_1_symbol_pin_ae23dd3ab799e9f70a4037eea91f69a82_icgraph.svg</file>
       <file>d0/dfd/classlibrary_1_1_symbol_pin_a2e17cfc864c3d153e0f25bfd79277cd1_icgraph.svg</file>
-      <file>d0/dfd/classlibrary_1_1_symbol_pin_a894842161e505b56d67b0cf5b0f50087_icgraph.svg</file>
+      <file>d0/dfd/classlibrary_1_1_symbol_pin_a01f0e165edb023b0c50cdbfd70f36021_icgraph.svg</file>
       <file>d0/dfd/classlibrary_1_1_symbol_pin_a01f0309d43de518f4e94c724d22f4502_cgraph.svg</file>
       <file>d0/dfd/classlibrary_1_1_symbol_pin_a01f0309d43de518f4e94c724d22f4502_icgraph.svg</file>
       <file>d0/dfd/classlibrary_1_1_symbol_pin_a0e5b7dc7eca3c6468aa85375bf2c3dde_cgraph.svg</file>
@@ -17360,7 +17361,7 @@
       <file>de/df2/classlibrary_1_1_symbol_text__coll__graph.svg</file>
       <file>db/df7/classlibrary_1_1_symbol_text_a3e5bed84d61dd74a10b6ace249c85efe_icgraph.svg</file>
       <file>db/df7/classlibrary_1_1_symbol_text_ae23dd3ab799e9f70a4037eea91f69a82_icgraph.svg</file>
-      <file>db/df7/classlibrary_1_1_symbol_text_a894842161e505b56d67b0cf5b0f50087_icgraph.svg</file>
+      <file>db/df7/classlibrary_1_1_symbol_text_a01f0e165edb023b0c50cdbfd70f36021_icgraph.svg</file>
       <file>db/df7/classlibrary_1_1_symbol_text_a0956fb9eaa66799447596d95c6f1e46d_icgraph.svg</file>
       <file>db/df7/classlibrary_1_1_symbol_text_a8c33abf636eed65eeeccb22558ba0880_icgraph.svg</file>
       <file>db/df7/classlibrary_1_1_symbol_text_ab42d5f674bbe33d8d5a601bedfd7921e_icgraph.svg</file>
@@ -18045,11 +18046,11 @@
       <file>d6/d01/classproject_1_1_s_i___net_label__coll__graph.svg</file>
       <file>d1/d7b/classproject_1_1_s_i___net_label_a8b9accae182d7ca8c9e6b6d3e3a7f725_cgraph.svg</file>
       <file>d1/d7b/classproject_1_1_s_i___net_label_ada9b237a8629c03e16491a72730b456b_icgraph.svg</file>
-      <file>d1/d7b/classproject_1_1_s_i___net_label_a894842161e505b56d67b0cf5b0f50087_icgraph.svg</file>
+      <file>d1/d7b/classproject_1_1_s_i___net_label_a01f0e165edb023b0c50cdbfd70f36021_icgraph.svg</file>
       <file>d1/d7b/classproject_1_1_s_i___net_label_a030988c000034a9099850531546baaa9_icgraph.svg</file>
       <file>d1/d7b/classproject_1_1_s_i___net_label_a6c8d1949f20fd5639ae720fa00aa1241_icgraph.svg</file>
       <file>d1/d7b/classproject_1_1_s_i___net_label_aed08011e6158136fd130624f64f14307_icgraph.svg</file>
-      <file>d1/d7b/classproject_1_1_s_i___net_label_ad2c89c0ca3cf75c26f1a17027643245f_icgraph.svg</file>
+      <file>d1/d7b/classproject_1_1_s_i___net_label_ab3dec6c106a391608e2795aafd907546_icgraph.svg</file>
       <file>d1/d7b/classproject_1_1_s_i___net_label_a185915e00afcfe0b1e4adf43adad873c_cgraph.svg</file>
       <file>d1/d7b/classproject_1_1_s_i___net_label_a185915e00afcfe0b1e4adf43adad873c_icgraph.svg</file>
       <file>d1/d7b/classproject_1_1_s_i___net_label_aeb87054a7c12b9ccee59af89a9abf24f_cgraph.svg</file>
@@ -18119,7 +18120,7 @@
       <file>de/d50/classproject_1_1_s_i___symbol_a8b9accae182d7ca8c9e6b6d3e3a7f725_icgraph.svg</file>
       <file>de/d50/classproject_1_1_s_i___symbol_ae4d4a4c5b541eae5f273f66e800e09e5_icgraph.svg</file>
       <file>de/d50/classproject_1_1_s_i___symbol_ada9b237a8629c03e16491a72730b456b_icgraph.svg</file>
-      <file>de/d50/classproject_1_1_s_i___symbol_a894842161e505b56d67b0cf5b0f50087_icgraph.svg</file>
+      <file>de/d50/classproject_1_1_s_i___symbol_a01f0e165edb023b0c50cdbfd70f36021_icgraph.svg</file>
       <file>de/d50/classproject_1_1_s_i___symbol_a4d55d03995b846c5840a2adf64399e94_cgraph.svg</file>
       <file>de/d50/classproject_1_1_s_i___symbol_a4d55d03995b846c5840a2adf64399e94_icgraph.svg</file>
       <file>de/d50/classproject_1_1_s_i___symbol_a16a2a98f4b0e7d1e95f44fbbfd1e3d50_icgraph.svg</file>
@@ -18128,8 +18129,8 @@
       <file>de/d50/classproject_1_1_s_i___symbol_aab980b2bbd0de37752e75710405a20a2_icgraph.svg</file>
       <file>de/d50/classproject_1_1_s_i___symbol_ae4d151fe3fae75cb19c5add958a470a8_cgraph.svg</file>
       <file>de/d50/classproject_1_1_s_i___symbol_ae4d151fe3fae75cb19c5add958a470a8_icgraph.svg</file>
-      <file>de/d50/classproject_1_1_s_i___symbol_ac2fecbff745326981395b663b0494597_cgraph.svg</file>
-      <file>de/d50/classproject_1_1_s_i___symbol_ac2fecbff745326981395b663b0494597_icgraph.svg</file>
+      <file>de/d50/classproject_1_1_s_i___symbol_a92a6c99e0892b13f98c8ec4b5e4823f5_cgraph.svg</file>
+      <file>de/d50/classproject_1_1_s_i___symbol_a92a6c99e0892b13f98c8ec4b5e4823f5_icgraph.svg</file>
       <file>de/d50/classproject_1_1_s_i___symbol_a43e5b1bac02cf98f643843bdd6fcdfb9_cgraph.svg</file>
       <file>de/d50/classproject_1_1_s_i___symbol_aaaa53153ea6aca5929ea0972d83ef836_cgraph.svg</file>
       <file>de/d50/classproject_1_1_s_i___symbol_aeb87054a7c12b9ccee59af89a9abf24f_cgraph.svg</file>

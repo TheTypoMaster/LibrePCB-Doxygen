@@ -70,14 +70,14 @@
 <text text-anchor="start" x="291.5" y="-683" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
 <text text-anchor="start" x="291.5" y="-670" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPosition()</text>
 <text text-anchor="start" x="291.5" y="-657" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLength()</text>
-<text text-anchor="start" x="291.5" y="-644" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAngle()</text>
+<text text-anchor="start" x="291.5" y="-644" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
 <text text-anchor="start" x="291.5" y="-631" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
 <text text-anchor="start" x="291.5" y="-618" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescription()</text>
 <text text-anchor="start" x="291.5" y="-605" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNames()</text>
 <text text-anchor="start" x="291.5" y="-592" font-family="Helvetica,sans-Serif" font-size="10.00">+ getDescriptions()</text>
 <text text-anchor="start" x="291.5" y="-579" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPosition()</text>
 <text text-anchor="start" x="291.5" y="-566" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLength()</text>
-<text text-anchor="start" x="291.5" y="-553" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAngle()</text>
+<text text-anchor="start" x="291.5" y="-553" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
 <text text-anchor="start" x="291.5" y="-540" font-family="Helvetica,sans-Serif" font-size="10.00">+ setName()</text>
 <text text-anchor="start" x="291.5" y="-527" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDescription()</text>
 <text text-anchor="start" x="291.5" y="-514" font-family="Helvetica,sans-Serif" font-size="10.00">+ serializeToXmlDomElement()</text>
@@ -228,7 +228,7 @@
 <g id="edge8" class="edge"><title>Node5&#45;&gt;Node3</title>
 <path fill="none" stroke="#404040" d="M352.936,-932.588C353.9,-891.951 354.847,-852.089 355.717,-815.41"/>
 <polygon fill="none" stroke="#404040" points="355.725,-815.093 351.868,-808.999 356.01,-803.096 359.866,-809.189 355.725,-815.093"/>
-<text text-anchor="middle" x="374" y="-904.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mAngle</text>
+<text text-anchor="middle" x="380" y="-904.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mRotation</text>
 </g>
 <!-- Node6 -->
 <g id="node10" class="node"><title>Node6</title>
@@ -302,8 +302,8 @@
 </g>
 <!-- Node6&#45;&gt;Node3 -->
 <g id="edge10" class="edge"><title>Node6&#45;&gt;Node3</title>
-<path fill="none" stroke="#404040" d="M452.25,-1748.83C451.138,-1727.58 450.049,-1706.54 449,-1686 431.889,-1350.94 450.547,-1265.39 413,-932 408.724,-894.029 402.58,-853.581 395.982,-815.15"/>
-<polygon fill="none" stroke="#404040" points="395.976,-815.116 391.007,-809.889 393.921,-803.293 398.889,-808.519 395.976,-815.116"/>
+<path fill="none" stroke="#404040" d="M452.25,-1748.83C451.138,-1727.58 450.049,-1706.54 449,-1686 431.889,-1350.94 436.664,-1266.66 413,-932 410.305,-893.884 404.842,-853.373 398.407,-814.928"/>
+<polygon fill="none" stroke="#404040" points="398.402,-814.896 393.448,-809.655 396.381,-803.067 401.334,-808.308 398.402,-814.896"/>
 <text text-anchor="middle" x="471" y="-1306.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mLength</text>
 </g>
 <!-- Node7 -->

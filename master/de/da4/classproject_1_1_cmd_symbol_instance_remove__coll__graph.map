@@ -27,7 +27,7 @@
 <area shape="rect" id="node69" href="$df/df0/class_length.html" title="The Length class is used to represent a length (for example 12.75 millimeters) " alt="" coords="414,1417,569,2525"/>
 <area shape="rect" id="node108" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="521,4243,646,5213"/>
 <area shape="rect" id="node71" href="$dd/d55/class_length_unit.html" title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth..." alt="" coords="182,1746,321,2195"/>
-<area shape="rect" id="node111" href="$dd/d00/classproject_1_1_s_g_i___symbol.html" title="The SGI_Symbol class. " alt="" coords="1443,8520,1630,8813"/>
+<area shape="rect" id="node111" href="$dd/d00/classproject_1_1_s_g_i___symbol.html" title="The SGI_Symbol class. " alt="" coords="1451,8520,1638,8813"/>
 <area shape="rect" id="node75" href="$d4/dbe/classproject_1_1_s_i___base.html" title="The Schematic Item Base (SI_Base) class. " alt="" coords="1153,7148,1321,7372"/>
 <area shape="rect" id="node79" href="$d2/d39/class_angle.html" title="The Angle class is used to represent an angle (for example 12.75 degrees) " alt="" coords="1345,6758,1505,7762"/>
 <area shape="rect" id="node84" href="$d7/d3c/classproject_1_1_i_f___erc_msg_provider.html" title="The IF_ErcMsgProvider class. " alt="" coords="974,5715,1185,5835"/>
@@ -35,6 +35,6 @@
 <area shape="rect" id="node89" href="$d8/dff/classlibrary_1_1_library_element.html" title="The LibraryElement class extends the LibraryBaseElement class with some attributes and methods which ..." alt="" coords="3063,3561,3266,3785"/>
 <area shape="rect" id="node105" href="$d9/db9/classlibrary_1_1_symbol.html" title="The Symbol class. " alt="" coords="1529,7044,1729,7476"/>
 <area shape="rect" id="node94" href="$de/d34/class_version.html" title="The Version class represents a version number in the format &quot;1.42.7&quot;. " alt="" coords="3014,643,3126,1109"/>
-<area shape="rect" id="node113" href="$d3/d4c/classproject_1_1_s_g_i___base.html" title="The Schematic Graphics Item Base (SGI_Base) class. " alt="" coords="1739,8073,1849,8210"/>
+<area shape="rect" id="node113" href="$d3/d4c/classproject_1_1_s_g_i___base.html" title="The Schematic Graphics Item Base (SGI_Base) class. " alt="" coords="1743,8073,1853,8210"/>
 <area shape="rect" id="node115" href="$d9/d37/class_graphics_item.html" title="The GraphicsItem class. " alt="" coords="1753,7209,1881,7311"/>
 </map>

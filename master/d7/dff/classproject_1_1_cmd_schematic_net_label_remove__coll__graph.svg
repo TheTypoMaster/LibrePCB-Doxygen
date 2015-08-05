@@ -136,41 +136,41 @@
 <!-- Node24 -->
 <g id="node73" class="node"><title>Node24</title>
 <a xlink:href="../../d1/d7b/classproject_1_1_s_i___net_label.html" target="_top" xlink:title="The SI_NetLabel class. ">
-<polygon fill="white" stroke="black" points="432.5,-285 432.5,-647 585.5,-647 585.5,-285 432.5,-285"/>
-<text text-anchor="middle" x="509" y="-634" font-family="Helvetica,sans-Serif" font-size="10.00">SI_NetLabel</text>
-<polyline fill="none" stroke="black" points="432.5,-626 585.5,-626 "/>
-<text text-anchor="start" x="440.5" y="-613" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mUuid</text>
-<polyline fill="none" stroke="black" points="432.5,-605 585.5,-605 "/>
-<text text-anchor="start" x="440.5" y="-592" font-family="Helvetica,sans-Serif" font-size="10.00">+ SI_NetLabel()</text>
-<text text-anchor="start" x="440.5" y="-579" font-family="Helvetica,sans-Serif" font-size="10.00">+ SI_NetLabel()</text>
-<text text-anchor="start" x="440.5" y="-566" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SI_NetLabel()</text>
-<text text-anchor="start" x="440.5" y="-553" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
-<text text-anchor="start" x="440.5" y="-540" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematic()</text>
-<text text-anchor="start" x="440.5" y="-527" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
-<text text-anchor="start" x="440.5" y="-514" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAngle()</text>
-<text text-anchor="start" x="440.5" y="-501" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetSignal()</text>
-<text text-anchor="start" x="440.5" y="-488" font-family="Helvetica,sans-Serif" font-size="10.00">+ setNetSignal()</text>
-<text text-anchor="start" x="440.5" y="-475" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPosition()</text>
-<text text-anchor="start" x="440.5" y="-462" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAngle()</text>
-<text text-anchor="start" x="440.5" y="-449" font-family="Helvetica,sans-Serif" font-size="10.00">+ updateText()</text>
-<text text-anchor="start" x="440.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">+ addToSchematic()</text>
-<text text-anchor="start" x="440.5" y="-423" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFromSchematic()</text>
-<text text-anchor="start" x="440.5" y="-410" font-family="Helvetica,sans-Serif" font-size="10.00">+ serializeToXmlDomElement()</text>
-<text text-anchor="start" x="440.5" y="-397" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
-<text text-anchor="start" x="440.5" y="-384" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPosition()</text>
-<text text-anchor="start" x="440.5" y="-371" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGrabAreaScenePx()</text>
-<text text-anchor="start" x="440.5" y="-358" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSelected()</text>
-<text text-anchor="start" x="440.5" y="-345" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SI_NetLabel()</text>
-<text text-anchor="start" x="440.5" y="-332" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SI_NetLabel()</text>
-<text text-anchor="start" x="440.5" y="-319" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
-<text text-anchor="start" x="440.5" y="-306" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; init()</text>
-<text text-anchor="start" x="440.5" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; checkAttributesValidity()</text>
+<polygon fill="white" stroke="black" points="417.5,-285 417.5,-647 570.5,-647 570.5,-285 417.5,-285"/>
+<text text-anchor="middle" x="494" y="-634" font-family="Helvetica,sans-Serif" font-size="10.00">SI_NetLabel</text>
+<polyline fill="none" stroke="black" points="417.5,-626 570.5,-626 "/>
+<text text-anchor="start" x="425.5" y="-613" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mUuid</text>
+<polyline fill="none" stroke="black" points="417.5,-605 570.5,-605 "/>
+<text text-anchor="start" x="425.5" y="-592" font-family="Helvetica,sans-Serif" font-size="10.00">+ SI_NetLabel()</text>
+<text text-anchor="start" x="425.5" y="-579" font-family="Helvetica,sans-Serif" font-size="10.00">+ SI_NetLabel()</text>
+<text text-anchor="start" x="425.5" y="-566" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SI_NetLabel()</text>
+<text text-anchor="start" x="425.5" y="-553" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
+<text text-anchor="start" x="425.5" y="-540" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematic()</text>
+<text text-anchor="start" x="425.5" y="-527" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
+<text text-anchor="start" x="425.5" y="-514" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
+<text text-anchor="start" x="425.5" y="-501" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetSignal()</text>
+<text text-anchor="start" x="425.5" y="-488" font-family="Helvetica,sans-Serif" font-size="10.00">+ setNetSignal()</text>
+<text text-anchor="start" x="425.5" y="-475" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPosition()</text>
+<text text-anchor="start" x="425.5" y="-462" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
+<text text-anchor="start" x="425.5" y="-449" font-family="Helvetica,sans-Serif" font-size="10.00">+ updateText()</text>
+<text text-anchor="start" x="425.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">+ addToSchematic()</text>
+<text text-anchor="start" x="425.5" y="-423" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFromSchematic()</text>
+<text text-anchor="start" x="425.5" y="-410" font-family="Helvetica,sans-Serif" font-size="10.00">+ serializeToXmlDomElement()</text>
+<text text-anchor="start" x="425.5" y="-397" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
+<text text-anchor="start" x="425.5" y="-384" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPosition()</text>
+<text text-anchor="start" x="425.5" y="-371" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGrabAreaScenePx()</text>
+<text text-anchor="start" x="425.5" y="-358" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSelected()</text>
+<text text-anchor="start" x="425.5" y="-345" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SI_NetLabel()</text>
+<text text-anchor="start" x="425.5" y="-332" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SI_NetLabel()</text>
+<text text-anchor="start" x="425.5" y="-319" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<text text-anchor="start" x="425.5" y="-306" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; init()</text>
+<text text-anchor="start" x="425.5" y="-293" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; checkAttributesValidity()</text>
 </a>
 </g>
 <!-- Node3&#45;&gt;Node24 -->
 <g id="edge116" class="edge"><title>Node3&#45;&gt;Node24</title>
-<path fill="none" stroke="#404040" d="M563.906,-2226.94C562.16,-2157.93 561,-2086.91 561,-2020 561,-2020 561,-2020 561,-1075 561,-892.91 554.971,-847.201 537,-666 536.779,-663.774 536.552,-661.536 536.319,-659.286"/>
-<polygon fill="none" stroke="#404040" points="536.298,-659.089 531.681,-653.549 535.019,-647.157 539.636,-652.697 536.298,-659.089"/>
+<path fill="none" stroke="#404040" d="M563.906,-2226.94C562.16,-2157.93 561,-2086.91 561,-2020 561,-2020 561,-2020 561,-1075 561,-892.91 561.543,-846.429 537,-666 536.681,-663.658 536.35,-661.302 536.007,-658.935"/>
+<polygon fill="none" stroke="#404040" points="536,-658.882 531.145,-653.55 534.201,-647.018 539.055,-652.35 536,-658.882"/>
 <text text-anchor="middle" x="591.5" y="-1655.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mSchematic</text>
 </g>
 <!-- Node4 -->
@@ -431,7 +431,7 @@
 </g>
 <!-- Node5&#45;&gt;Node24 -->
 <g id="edge104" class="edge"><title>Node5&#45;&gt;Node24</title>
-<path fill="none" stroke="midnightblue" d="M643.696,-5032.25C588.74,-4944.77 491.572,-4774.73 455,-4614 413.782,-4432.85 453.222,-3963.78 453,-3778 452.613,-3454.44 452.804,-3373.56 453,-3050 453.222,-2683.78 441.967,-2592.02 454,-2226 465.326,-1881.47 491.767,-1796.5 504,-1452 513.97,-1171.22 513.211,-845.194 511.383,-647.343"/>
+<path fill="none" stroke="midnightblue" d="M643.696,-5032.25C588.74,-4944.77 491.572,-4774.73 455,-4614 413.782,-4432.85 453.222,-3963.78 453,-3778 452.613,-3454.44 452.804,-3373.56 453,-3050 453.222,-2683.78 441.967,-2592.02 454,-2226 465.326,-1881.47 491.767,-1796.5 504,-1452 516.176,-1109.1 507.889,-1023.12 509,-680 509.02,-673.778 509.233,-672.218 509,-666 508.769,-659.824 508.497,-653.543 508.193,-647.201"/>
 <polygon fill="none" stroke="midnightblue" points="640.741,-5034.12 649.041,-5040.71 646.659,-5030.38 640.741,-5034.12"/>
 </g>
 <!-- Node31 -->
@@ -1239,39 +1239,39 @@
 </g>
 <!-- Node24&#45;&gt;Node1 -->
 <g id="edge100" class="edge"><title>Node24&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M432.461,-330.421C420.837,-314.051 408.26,-298.144 395,-284 385.636,-274.012 380.777,-274.445 370,-266 333.553,-237.439 294.189,-204.155 262.043,-176.298"/>
-<polygon fill="none" stroke="#404040" points="261.801,-176.088 254.649,-175.172 252.744,-168.217 259.896,-169.133 261.801,-176.088"/>
-<text text-anchor="middle" x="397" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mNetLabel</text>
+<path fill="none" stroke="#404040" d="M417.17,-352.069C400.352,-328.984 382.134,-305.278 364,-284 331.962,-246.408 292.921,-207.446 260.437,-176.62"/>
+<polygon fill="none" stroke="#404040" points="260.188,-176.385 253.079,-175.176 251.46,-168.149 258.569,-169.358 260.188,-176.385"/>
+<text text-anchor="middle" x="375" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mNetLabel</text>
 </g>
 <!-- Node27 -->
 <g id="node80" class="node"><title>Node27</title>
 <a xlink:href="../../d1/d60/classproject_1_1_s_g_i___net_label.html" target="_top" xlink:title="The SGI_NetLabel class. ">
-<polygon fill="white" stroke="black" points="362,-1 362,-233 502,-233 502,-1 362,-1"/>
-<text text-anchor="middle" x="432" y="-220" font-family="Helvetica,sans-Serif" font-size="10.00">SGI_NetLabel</text>
-<polyline fill="none" stroke="black" points="362,-212 502,-212 "/>
-<text text-anchor="start" x="370" y="-199" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mStaticText</text>
-<text text-anchor="start" x="370" y="-186" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFont</text>
-<text text-anchor="start" x="370" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRotate180</text>
-<text text-anchor="start" x="370" y="-160" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mTextOrigin</text>
-<text text-anchor="start" x="370" y="-147" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoundingRect</text>
-<text text-anchor="start" x="370" y="-134" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; sOriginCrossLines</text>
-<polyline fill="none" stroke="black" points="362,-126 502,-126 "/>
-<text text-anchor="start" x="370" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">+ SGI_NetLabel()</text>
-<text text-anchor="start" x="370" y="-100" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SGI_NetLabel()</text>
-<text text-anchor="start" x="370" y="-87" font-family="Helvetica,sans-Serif" font-size="10.00">+ updateCacheAndRepaint()</text>
-<text text-anchor="start" x="370" y="-74" font-family="Helvetica,sans-Serif" font-size="10.00">+ boundingRect()</text>
-<text text-anchor="start" x="370" y="-61" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint()</text>
-<text text-anchor="start" x="370" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SGI_NetLabel()</text>
-<text text-anchor="start" x="370" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SGI_NetLabel()</text>
-<text text-anchor="start" x="370" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
-<text text-anchor="start" x="370" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; getSchematicLayer()</text>
+<polygon fill="white" stroke="black" points="347,-1 347,-233 487,-233 487,-1 347,-1"/>
+<text text-anchor="middle" x="417" y="-220" font-family="Helvetica,sans-Serif" font-size="10.00">SGI_NetLabel</text>
+<polyline fill="none" stroke="black" points="347,-212 487,-212 "/>
+<text text-anchor="start" x="355" y="-199" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mStaticText</text>
+<text text-anchor="start" x="355" y="-186" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFont</text>
+<text text-anchor="start" x="355" y="-173" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRotate180</text>
+<text text-anchor="start" x="355" y="-160" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mTextOrigin</text>
+<text text-anchor="start" x="355" y="-147" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoundingRect</text>
+<text text-anchor="start" x="355" y="-134" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; sOriginCrossLines</text>
+<polyline fill="none" stroke="black" points="347,-126 487,-126 "/>
+<text text-anchor="start" x="355" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">+ SGI_NetLabel()</text>
+<text text-anchor="start" x="355" y="-100" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SGI_NetLabel()</text>
+<text text-anchor="start" x="355" y="-87" font-family="Helvetica,sans-Serif" font-size="10.00">+ updateCacheAndRepaint()</text>
+<text text-anchor="start" x="355" y="-74" font-family="Helvetica,sans-Serif" font-size="10.00">+ boundingRect()</text>
+<text text-anchor="start" x="355" y="-61" font-family="Helvetica,sans-Serif" font-size="10.00">+ paint()</text>
+<text text-anchor="start" x="355" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SGI_NetLabel()</text>
+<text text-anchor="start" x="355" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SGI_NetLabel()</text>
+<text text-anchor="start" x="355" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<text text-anchor="start" x="355" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; getSchematicLayer()</text>
 </a>
 </g>
 <!-- Node24&#45;&gt;Node27 -->
 <g id="edge114" class="edge"><title>Node24&#45;&gt;Node27</title>
-<path fill="none" stroke="#404040" d="M433.155,-284.852C431.598,-278.538 430.202,-272.243 429,-266 427.823,-259.89 428.931,-258.222 429,-252 429.024,-249.81 429.051,-247.599 429.079,-245.373"/>
-<polygon fill="none" stroke="#404040" points="429.08,-245.345 425.166,-239.289 429.251,-233.346 433.165,-239.402 429.08,-245.345"/>
-<text text-anchor="middle" x="456" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mNetLabel</text>
+<path fill="none" stroke="#404040" d="M418.155,-284.852C416.598,-278.538 415.202,-272.243 414,-266 412.823,-259.89 413.931,-258.222 414,-252 414.024,-249.81 414.051,-247.599 414.079,-245.373"/>
+<polygon fill="none" stroke="#404040" points="414.08,-245.345 410.166,-239.289 414.251,-233.346 418.165,-239.402 414.08,-245.345"/>
+<text text-anchor="middle" x="441" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mNetLabel</text>
 </g>
 <!-- Node25 -->
 <g id="node75" class="node"><title>Node25</title>
@@ -1294,8 +1294,8 @@
 </g>
 <!-- Node25&#45;&gt;Node24 -->
 <g id="edge102" class="edge"><title>Node25&#45;&gt;Node24</title>
-<path fill="none" stroke="midnightblue" d="M916.329,-980.943C913.22,-899.912 898.184,-782.93 843,-698 780.683,-602.092 663.485,-534.662 585.82,-498.075"/>
-<polygon fill="none" stroke="midnightblue" points="912.837,-981.259 916.665,-991.138 919.833,-981.028 912.837,-981.259"/>
+<path fill="none" stroke="midnightblue" d="M916.77,-981.046C913.969,-899.82 899.136,-782.495 843,-698 776.77,-598.311 651.551,-530.944 570.501,-495.522"/>
+<polygon fill="none" stroke="midnightblue" points="913.278,-981.37 917.066,-991.265 920.275,-981.168 913.278,-981.37"/>
 </g>
 <!-- Node26 -->
 <g id="node78" class="node"><title>Node26</title>
@@ -1363,34 +1363,34 @@
 </g>
 <!-- Node26&#45;&gt;Node24 -->
 <g id="edge106" class="edge"><title>Node26&#45;&gt;Node24</title>
-<path fill="none" stroke="#404040" d="M464.59,-699C466,-687.867 467.469,-676.848 469,-666 469.329,-663.666 469.668,-661.318 470.017,-658.959"/>
-<polygon fill="none" stroke="#404040" points="470.02,-658.94 466.972,-652.405 471.832,-647.077 474.88,-653.613 470.02,-658.94"/>
-<text text-anchor="middle" x="489" y="-670.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mAngle</text>
+<path fill="none" stroke="#404040" d="M453.378,-698.752C454.514,-687.705 455.72,-676.768 457,-666 457.266,-663.763 457.542,-661.514 457.826,-659.254"/>
+<polygon fill="none" stroke="#404040" points="457.863,-658.974 454.682,-652.502 459.432,-647.077 462.613,-653.548 457.863,-658.974"/>
+<text text-anchor="middle" x="483" y="-670.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mRotation</text>
 </g>
 <!-- Node27&#45;&gt;Node24 -->
 <g id="edge108" class="edge"><title>Node27&#45;&gt;Node24</title>
-<path fill="none" stroke="#404040" d="M481.67,-233.02C483.639,-239.385 485.437,-245.739 487,-252 488.71,-258.848 490.287,-265.851 491.742,-272.95"/>
-<polygon fill="none" stroke="#404040" points="491.789,-273.194 496.86,-278.322 494.077,-284.974 489.006,-279.847 491.789,-273.194"/>
-<text text-anchor="middle" x="525.5" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mGraphicsItem</text>
+<path fill="none" stroke="#404040" d="M466.67,-233.02C468.639,-239.385 470.437,-245.739 472,-252 473.71,-258.848 475.287,-265.851 476.742,-272.95"/>
+<polygon fill="none" stroke="#404040" points="476.789,-273.194 481.86,-278.322 479.077,-284.974 474.006,-279.847 476.789,-273.194"/>
+<text text-anchor="middle" x="510.5" y="-256.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mGraphicsItem</text>
 </g>
 <!-- Node28 -->
 <g id="node82" class="node"><title>Node28</title>
 <a xlink:href="../../d3/d4c/classproject_1_1_s_g_i___base.html" target="_top" xlink:title="The Schematic Graphics Item Base (SGI_Base) class. ">
-<polygon fill="white" stroke="black" points="303.5,-415 303.5,-517 386.5,-517 386.5,-415 303.5,-415"/>
-<text text-anchor="middle" x="345" y="-504" font-family="Helvetica,sans-Serif" font-size="10.00">SGI_Base</text>
-<polyline fill="none" stroke="black" points="303.5,-496 386.5,-496 "/>
-<text text-anchor="middle" x="345" y="-483" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="303.5,-475 386.5,-475 "/>
-<text text-anchor="start" x="311.5" y="-462" font-family="Helvetica,sans-Serif" font-size="10.00">+ SGI_Base()</text>
-<text text-anchor="start" x="311.5" y="-449" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SGI_Base()</text>
-<text text-anchor="start" x="311.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SGI_Base()</text>
-<text text-anchor="start" x="311.5" y="-423" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<polygon fill="white" stroke="black" points="272.5,-415 272.5,-517 355.5,-517 355.5,-415 272.5,-415"/>
+<text text-anchor="middle" x="314" y="-504" font-family="Helvetica,sans-Serif" font-size="10.00">SGI_Base</text>
+<polyline fill="none" stroke="black" points="272.5,-496 355.5,-496 "/>
+<text text-anchor="middle" x="314" y="-483" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="272.5,-475 355.5,-475 "/>
+<text text-anchor="start" x="280.5" y="-462" font-family="Helvetica,sans-Serif" font-size="10.00">+ SGI_Base()</text>
+<text text-anchor="start" x="280.5" y="-449" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SGI_Base()</text>
+<text text-anchor="start" x="280.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; SGI_Base()</text>
+<text text-anchor="start" x="280.5" y="-423" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
 </a>
 </g>
 <!-- Node28&#45;&gt;Node27 -->
 <g id="edge110" class="edge"><title>Node28&#45;&gt;Node27</title>
-<path fill="none" stroke="midnightblue" d="M360.184,-405.091C371.979,-357.773 388.687,-290.749 403.02,-233.255"/>
-<polygon fill="none" stroke="midnightblue" points="356.767,-404.329 357.744,-414.879 363.559,-406.022 356.767,-404.329"/>
+<path fill="none" stroke="midnightblue" d="M331.976,-405.091C345.941,-357.773 365.722,-290.749 382.69,-233.255"/>
+<polygon fill="none" stroke="midnightblue" points="328.561,-404.297 329.087,-414.879 335.275,-406.278 328.561,-404.297"/>
 </g>
 <!-- Node29 -->
 <g id="node84" class="node"><title>Node29</title>
@@ -1406,20 +1406,20 @@
 </g>
 <!-- Node29&#45;&gt;Node28 -->
 <g id="edge112" class="edge"><title>Node29&#45;&gt;Node28</title>
-<path fill="none" stroke="midnightblue" d="M276.854,-1026.83C290.58,-913.858 324.741,-632.724 338.802,-517.004"/>
-<polygon fill="none" stroke="midnightblue" points="273.361,-1026.56 275.629,-1036.9 280.31,-1027.4 273.361,-1026.56"/>
+<path fill="none" stroke="midnightblue" d="M274.401,-1026.83C282.378,-913.858 302.228,-632.724 310.399,-517.004"/>
+<polygon fill="none" stroke="midnightblue" points="270.903,-1026.68 273.69,-1036.9 277.886,-1027.18 270.903,-1026.68"/>
 </g>
 <!-- Node30&#45;&gt;Node24 -->
 <g id="edge118" class="edge"><title>Node30&#45;&gt;Node24</title>
-<path fill="none" stroke="#404040" d="M208.537,-3133.91C263.646,-2804.94 347,-2292.28 347,-2201 347,-2201 347,-2201 347,-1075 347,-907.232 316.202,-858.207 366,-698 366.992,-694.81 394.954,-649.259 425.891,-599.354"/>
-<polygon fill="none" stroke="#404040" points="425.994,-599.187 425.757,-591.98 432.319,-588.99 432.556,-596.197 425.994,-599.187"/>
+<path fill="none" stroke="#404040" d="M208.537,-3133.91C263.646,-2804.94 347,-2292.28 347,-2201 347,-2201 347,-2201 347,-1075 347,-907.232 320.078,-859.361 366,-698 376.368,-661.57 393.308,-624.573 411.52,-591.144"/>
+<polygon fill="none" stroke="#404040" points="411.648,-590.914 411.062,-583.726 417.471,-580.421 418.057,-587.608 411.648,-590.914"/>
 <text text-anchor="middle" x="372" y="-1836.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mPosition</text>
 </g>
 <!-- Node31&#45;&gt;Node24 -->
 <g id="edge122" class="edge"><title>Node31&#45;&gt;Node24</title>
-<path fill="none" stroke="#404040" d="M673.947,-876.012C645.847,-806.163 614.347,-727.861 586.463,-658.55"/>
-<polygon fill="none" stroke="#404040" points="586.32,-658.194 580.369,-654.121 581.841,-647.061 587.791,-651.135 586.32,-658.194"/>
-<text text-anchor="middle" x="620" y="-670.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mNetSignal</text>
+<path fill="none" stroke="#404040" d="M673.87,-887.311C642.576,-814.011 606.738,-730.067 575.33,-656.499"/>
+<polygon fill="none" stroke="#404040" points="575.241,-656.291 569.206,-652.343 570.529,-645.255 576.564,-649.202 575.241,-656.291"/>
+<text text-anchor="middle" x="610" y="-670.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mNetSignal</text>
 </g>
 <!-- Node32 -->
 <g id="node93" class="node"><title>Node32</title>

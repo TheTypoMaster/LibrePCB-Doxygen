@@ -18,7 +18,7 @@
 <text text-anchor="start" x="72.5" y="-380.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGraphicsItem</text>
 <text text-anchor="start" x="72.5" y="-367.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mUuid</text>
 <text text-anchor="start" x="72.5" y="-354.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPosition</text>
-<text text-anchor="start" x="72.5" y="-341.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mAngle</text>
+<text text-anchor="start" x="72.5" y="-341.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRotation</text>
 <text text-anchor="start" x="72.5" y="-328.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNetSignal</text>
 <polyline fill="none" stroke="black" points="64.5,-320.5 217.5,-320.5 "/>
 <text text-anchor="start" x="72.5" y="-307.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SI_NetLabel()</text>
@@ -27,11 +27,11 @@
 <text text-anchor="start" x="72.5" y="-268.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
 <text text-anchor="start" x="72.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematic()</text>
 <text text-anchor="start" x="72.5" y="-242.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
-<text text-anchor="start" x="72.5" y="-229.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAngle()</text>
+<text text-anchor="start" x="72.5" y="-229.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
 <text text-anchor="start" x="72.5" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetSignal()</text>
 <text text-anchor="start" x="72.5" y="-203.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setNetSignal()</text>
 <text text-anchor="start" x="72.5" y="-190.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPosition()</text>
-<text text-anchor="start" x="72.5" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAngle()</text>
+<text text-anchor="start" x="72.5" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
 <text text-anchor="start" x="72.5" y="-164.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ updateText()</text>
 <text text-anchor="start" x="72.5" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addToSchematic()</text>
 <text text-anchor="start" x="72.5" y="-138.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFromSchematic()</text>

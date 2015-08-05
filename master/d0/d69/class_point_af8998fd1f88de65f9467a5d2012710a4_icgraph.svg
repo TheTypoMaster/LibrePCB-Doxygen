@@ -80,10 +80,10 @@
 </g>
 <!-- Node9 -->
 <g id="node17" class="node"><title>Node9</title>
-<a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597" target="_top" xlink:title="project::SI_Symbol\l::setAngle">
+<a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5" target="_top" xlink:title="project::SI_Symbol\l::setRotation">
 <polygon fill="white" stroke="black" points="465,-104 465,-138 565,-138 565,-104 465,-104"/>
 <text text-anchor="start" x="473" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_Symbol</text>
-<text text-anchor="middle" x="515" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">::setAngle</text>
+<text text-anchor="middle" x="515" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">::setRotation</text>
 </a>
 </g>
 <!-- Node4&#45;&gt;Node9 -->

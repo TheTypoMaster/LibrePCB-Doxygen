@@ -149,7 +149,7 @@
 <text text-anchor="start" x="533" y="-630" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
 <text text-anchor="start" x="533" y="-617" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematic()</text>
 <text text-anchor="start" x="533" y="-604" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
-<text text-anchor="start" x="533" y="-591" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAngle()</text>
+<text text-anchor="start" x="533" y="-591" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
 <text text-anchor="start" x="533" y="-578" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
 <text text-anchor="start" x="533" y="-565" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPin()</text>
 <text text-anchor="start" x="533" y="-552" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPins()</text>
@@ -157,7 +157,7 @@
 <text text-anchor="start" x="533" y="-526" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLibSymbol()</text>
 <text text-anchor="start" x="533" y="-513" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGenCompSymbVarItem()</text>
 <text text-anchor="start" x="533" y="-500" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPosition()</text>
-<text text-anchor="start" x="533" y="-487" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAngle()</text>
+<text text-anchor="start" x="533" y="-487" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
 <text text-anchor="start" x="533" y="-474" font-family="Helvetica,sans-Serif" font-size="10.00">+ addToSchematic()</text>
 <text text-anchor="start" x="533" y="-461" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFromSchematic()</text>
 <text text-anchor="start" x="533" y="-448" font-family="Helvetica,sans-Serif" font-size="10.00">+ serializeToXmlDomElement()</text>
@@ -178,9 +178,9 @@
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge16" class="edge"><title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="#404040" d="M238.64,-814.647C244.525,-805.369 250.963,-796.458 258,-788 284.35,-756.329 305.095,-766.244 345,-756 396.811,-742.699 419.439,-767.59 464,-738 484.11,-724.646 501.863,-707.403 517.405,-688.334"/>
-<polygon fill="none" stroke="#404040" points="517.45,-688.277 518.007,-681.087 524.858,-678.836 524.301,-686.026 517.45,-688.277"/>
-<text text-anchor="middle" x="365" y="-760.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mAngle</text>
+<path fill="none" stroke="#404040" d="M239.492,-814.658C245.135,-805.407 251.29,-796.495 258,-788 280.464,-759.561 298.072,-765.664 333,-756 389.641,-740.329 414.822,-770.177 464,-738 484.114,-724.839 501.857,-707.767 517.381,-688.84"/>
+<polygon fill="none" stroke="#404040" points="517.39,-688.828 517.967,-681.64 524.824,-679.408 524.247,-686.596 517.39,-688.828"/>
+<text text-anchor="middle" x="359" y="-760.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mRotation</text>
 </g>
 <!-- Node4&#45;&gt;Node1 -->
 <g id="edge8" class="edge"><title>Node4&#45;&gt;Node1</title>

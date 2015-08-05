@@ -6,29 +6,31 @@
 <area shape="rect" id="node11" href="$dc/d5a/class_schematic_layer.html#afb49c937aaabbe05a0e5368f8bf9d497" title="SchematicLayer::isVisible" alt="" coords="112,235,285,264"/>
 <area shape="rect" id="node13" href="$dc/d5a/class_schematic_layer.html#aab73dfcfb2d157cdf8df0db760f6cb53" title="SchematicLayer::getColor" alt="" coords="112,288,285,317"/>
 <area shape="rect" id="node15" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#a69af915a70be9a59f27a36ef42fe7606" title="library::SymbolPolygon\l::getWidth" alt="" coords="121,341,276,387"/>
-<area shape="rect" id="node17" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="597,443,693,472"/>
+<area shape="rect" id="node17" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="623,439,719,468"/>
 <area shape="rect" id="node19" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#a063b16509d6e11ebd444f0d4253ff43e" title="library::SymbolPolygon\l::isFilled" alt="" coords="121,461,276,507"/>
 <area shape="rect" id="node21" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#afb5593c9c44f491b400edfa695fea7dc" title="library::SymbolPolygon\l::isGrabArea" alt="" coords="121,530,276,577"/>
 <area shape="rect" id="node23" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::SymbolPolygon\l::toQPainterPathPx" alt="" coords="121,650,276,697"/>
-<area shape="rect" id="node25" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="379,501,512,531"/>
-<area shape="rect" id="node34" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="396,747,495,776"/>
-<area shape="rect" id="node36" href="$d9/db9/classlibrary_1_1_symbol.html#ad066e5ebc05b8304981ceac6bf90a2c5" title="library::Symbol::getEllipses" alt="" coords="108,771,289,800"/>
-<area shape="rect" id="node38" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#a3e5bed84d61dd74a10b6ace249c85efe" title="library::SymbolEllipse\l::getLayerId" alt="" coords="125,823,272,870"/>
-<area shape="rect" id="node40" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#aa30becedcca7c51ed0ffbefdfe4f21b2" title="library::SymbolEllipse\l::getLineWidth" alt="" coords="125,893,272,939"/>
-<area shape="rect" id="node42" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#a063b16509d6e11ebd444f0d4253ff43e" title="library::SymbolEllipse\l::isFilled" alt="" coords="125,962,272,1009"/>
-<area shape="rect" id="node44" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#afb5593c9c44f491b400edfa695fea7dc" title="library::SymbolEllipse\l::isGrabArea" alt="" coords="125,1031,272,1078"/>
-<area shape="rect" id="node46" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#a566b4b0cdb76d02a8b4cc69df41d780d" title="library::SymbolEllipse\l::getCenter" alt="" coords="125,1101,272,1147"/>
-<area shape="rect" id="node49" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#aa72fc430fe3e7b7ce145fa2e72169b00" title="library::SymbolEllipse\l::getRadiusX" alt="" coords="125,1170,272,1217"/>
-<area shape="rect" id="node51" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#a24917dabaf5342a7c8d60416bc304a2e" title="library::SymbolEllipse\l::getRadiusY" alt="" coords="125,1239,272,1286"/>
-<area shape="rect" id="node53" href="$d9/db9/classlibrary_1_1_symbol.html#af3e51c69f130dab1acd01d41105c4ea3" title="library::Symbol::getTexts" alt="" coords="115,1309,283,1339"/>
-<area shape="rect" id="node55" href="$db/df7/classlibrary_1_1_symbol_text.html#a3e5bed84d61dd74a10b6ace249c85efe" title="library::SymbolText\l::getLayerId" alt="" coords="132,1362,265,1409"/>
-<area shape="rect" id="node57" href="$db/df7/classlibrary_1_1_symbol_text.html#a894842161e505b56d67b0cf5b0f50087" title="library::SymbolText\l::getAngle" alt="" coords="132,1431,265,1478"/>
-<area shape="rect" id="node60" href="$db/df7/classlibrary_1_1_symbol_text.html#a0956fb9eaa66799447596d95c6f1e46d" title="library::SymbolText\l::getHeight" alt="" coords="132,1501,265,1547"/>
-<area shape="rect" id="node62" href="$de/d50/classproject_1_1_s_i___symbol.html#a7c547c92d2781e3129fd5cf0c4a89668" title="project::SI_Symbol\l::getGenCompInstance" alt="" coords="120,1570,277,1617"/>
-<area shape="rect" id="node64" href="$de/d67/classproject_1_1_gen_comp_instance.html#a385c6fda0e3528a8bb626a0eb1bebc45" title="project::GenCompInstance\l::getPlacedSymbolsCount" alt="" coords="109,1639,288,1686"/>
-<area shape="rect" id="node66" href="$de/d67/classproject_1_1_gen_comp_instance.html#a262b68ad3d75814c875b941e2088d88e" title="project::GenCompInstance\l::getSymbolVariant" alt="" coords="109,1709,288,1755"/>
-<area shape="rect" id="node68" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a95be340ed5134b5b4fc05ab47e4c9c34" title="library::GenCompSymbVar\l::getItems" alt="" coords="109,1778,288,1825"/>
-<area shape="rect" id="node28" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a894842161e505b56d67b0cf5b0f50087" title="library::SymbolPolygonSegment\l::getAngle" alt="" coords="341,554,549,601"/>
-<area shape="rect" id="node30" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#af89771a9eb5882eaee9f298f663f89dc" title="library::SymbolPolygonSegment\l::getEndPos" alt="" coords="341,623,549,670"/>
-<area shape="rect" id="node32" href="$d2/d39/class_angle.html#a70d223e0c1188606f971188d6f23b66f" title="Get the angle in radians. " alt="" coords="396,693,495,723"/>
+<area shape="rect" id="node25" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="379,467,512,496"/>
+<area shape="rect" id="node38" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="396,765,495,795"/>
+<area shape="rect" id="node40" href="$d9/db9/classlibrary_1_1_symbol.html#ad066e5ebc05b8304981ceac6bf90a2c5" title="library::Symbol::getEllipses" alt="" coords="108,771,289,800"/>
+<area shape="rect" id="node42" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#a3e5bed84d61dd74a10b6ace249c85efe" title="library::SymbolEllipse\l::getLayerId" alt="" coords="125,823,272,870"/>
+<area shape="rect" id="node44" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#aa30becedcca7c51ed0ffbefdfe4f21b2" title="library::SymbolEllipse\l::getLineWidth" alt="" coords="125,893,272,939"/>
+<area shape="rect" id="node46" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#a063b16509d6e11ebd444f0d4253ff43e" title="library::SymbolEllipse\l::isFilled" alt="" coords="125,962,272,1009"/>
+<area shape="rect" id="node48" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#afb5593c9c44f491b400edfa695fea7dc" title="library::SymbolEllipse\l::isGrabArea" alt="" coords="125,1031,272,1078"/>
+<area shape="rect" id="node50" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#a566b4b0cdb76d02a8b4cc69df41d780d" title="library::SymbolEllipse\l::getCenter" alt="" coords="125,1101,272,1147"/>
+<area shape="rect" id="node53" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#aa72fc430fe3e7b7ce145fa2e72169b00" title="library::SymbolEllipse\l::getRadiusX" alt="" coords="125,1170,272,1217"/>
+<area shape="rect" id="node55" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#a24917dabaf5342a7c8d60416bc304a2e" title="library::SymbolEllipse\l::getRadiusY" alt="" coords="125,1239,272,1286"/>
+<area shape="rect" id="node57" href="$d9/db9/classlibrary_1_1_symbol.html#af3e51c69f130dab1acd01d41105c4ea3" title="library::Symbol::getTexts" alt="" coords="115,1309,283,1339"/>
+<area shape="rect" id="node59" href="$db/df7/classlibrary_1_1_symbol_text.html#a3e5bed84d61dd74a10b6ace249c85efe" title="library::SymbolText\l::getLayerId" alt="" coords="132,1362,265,1409"/>
+<area shape="rect" id="node61" href="$db/df7/classlibrary_1_1_symbol_text.html#a01f0e165edb023b0c50cdbfd70f36021" title="library::SymbolText\l::getRotation" alt="" coords="132,1431,265,1478"/>
+<area shape="rect" id="node64" href="$db/df7/classlibrary_1_1_symbol_text.html#a0956fb9eaa66799447596d95c6f1e46d" title="library::SymbolText\l::getHeight" alt="" coords="132,1501,265,1547"/>
+<area shape="rect" id="node66" href="$de/d50/classproject_1_1_s_i___symbol.html#a7c547c92d2781e3129fd5cf0c4a89668" title="project::SI_Symbol\l::getGenCompInstance" alt="" coords="120,1570,277,1617"/>
+<area shape="rect" id="node68" href="$de/d67/classproject_1_1_gen_comp_instance.html#a385c6fda0e3528a8bb626a0eb1bebc45" title="project::GenCompInstance\l::getPlacedSymbolsCount" alt="" coords="109,1639,288,1686"/>
+<area shape="rect" id="node70" href="$de/d67/classproject_1_1_gen_comp_instance.html#a262b68ad3d75814c875b941e2088d88e" title="project::GenCompInstance\l::getSymbolVariant" alt="" coords="109,1709,288,1755"/>
+<area shape="rect" id="node72" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a95be340ed5134b5b4fc05ab47e4c9c34" title="library::GenCompSymbVar\l::getItems" alt="" coords="109,1778,288,1825"/>
+<area shape="rect" id="node28" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a894842161e505b56d67b0cf5b0f50087" title="library::SymbolPolygonSegment\l::getAngle" alt="" coords="341,519,549,566"/>
+<area shape="rect" id="node30" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#af89771a9eb5882eaee9f298f663f89dc" title="library::SymbolPolygonSegment\l::getEndPos" alt="" coords="341,589,549,635"/>
+<area shape="rect" id="node32" href="$d2/d39/class_angle.html#a70d223e0c1188606f971188d6f23b66f" title="Get the angle in radians. " alt="" coords="396,659,495,688"/>
+<area shape="rect" id="node34" href="$d2/d39/class_angle.html#ae76e6384199e1c899025c103affd862f" title="Get an Angle object which is mapped to [&#45;180..+180[ degrees. " alt="" coords="363,712,528,741"/>
+<area shape="rect" id="node36" href="$d2/d39/class_angle.html#a74e05120ac11f78df41f0a0304990f9f" title="Map this Angle object to [&#45;180..+180[ degrees. " alt="" coords="599,712,743,741"/>
 </map>

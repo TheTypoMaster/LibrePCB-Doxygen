@@ -30,7 +30,7 @@ var classproject_1_1_s_i___symbol_pin =
     [ "mGenCompSignal", "d6/d12/classproject_1_1_s_i___symbol_pin.html#ab025ff634cab25d4445807492995d023", null ],
     [ "mGenCompSignalInstance", "d6/d12/classproject_1_1_s_i___symbol_pin.html#a89049b19f59157e9c37dfd6e02fe73ed", null ],
     [ "mPosition", "d6/d12/classproject_1_1_s_i___symbol_pin.html#aeb305cb4fa9c30aa723aa1cc02c2e690", null ],
-    [ "mAngle", "d6/d12/classproject_1_1_s_i___symbol_pin.html#a18c0f13d4de01a6dcbce2a8e29c4b473", null ],
+    [ "mRotation", "d6/d12/classproject_1_1_s_i___symbol_pin.html#a97de4ec2b9bd9978446fa98f8edb15cc", null ],
     [ "mAddedToSchematic", "d6/d12/classproject_1_1_s_i___symbol_pin.html#a3626028e44b489d78888a54e9690de9f", null ],
     [ "mRegisteredNetPoint", "d6/d12/classproject_1_1_s_i___symbol_pin.html#ab4c3e59c76deb2592a0010f4755aea2d", null ],
     [ "mGraphicsItem", "d6/d12/classproject_1_1_s_i___symbol_pin.html#a0027b7243ec27935e8c7b00f4e73964c", null ],

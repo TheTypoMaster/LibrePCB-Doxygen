@@ -42,7 +42,7 @@
 <area shape="rect" id="node69" href="$dd/d2d/classproject_1_1_schematic.html#a1e81bd3e07987e2b02f760b3d6d75c21" title="project::Schematic\l::setSelectionRect" alt="" coords="744,469,875,515"/>
 <area shape="rect" id="node71" href="$d8/d8b/classproject_1_1_s_e_s___select.html#ae7b1d9775f8e164e825c0cdecf27eff5" title="project::SES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="1003,460,1189,524"/>
 <area shape="rect" id="node75" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" title="project::SI_Symbol\l::setPosition" alt="" coords="743,1547,876,1594"/>
-<area shape="rect" id="node83" href="$de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597" title="project::SI_Symbol\l::setAngle" alt="" coords="743,1478,876,1525"/>
+<area shape="rect" id="node83" href="$de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5" title="project::SI_Symbol\l::setRotation" alt="" coords="743,1478,876,1525"/>
 <area shape="rect" id="node88" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="project::SI_SymbolPin\l::SI_SymbolPin" alt="" coords="733,1409,885,1455"/>
 <area shape="rect" id="node77" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a6eaf0a56905dd18ebdf240a2229576c6" title="project::CmdSymbolInstance\lEdit::~CmdSymbolInstanceEdit" alt="" coords="993,1521,1199,1567"/>
 <area shape="rect" id="node79" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="1001,1590,1191,1637"/>

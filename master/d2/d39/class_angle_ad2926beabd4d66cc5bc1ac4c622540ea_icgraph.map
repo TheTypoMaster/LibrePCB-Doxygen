@@ -32,7 +32,7 @@
 <area shape="rect" id="node68" href="$da/d96/classproject_1_1_b_i___footprint.html#a271c63e12acd19bccc27bf6861938df2" title="project::BI_Footprint\l::componentInstanceMoved" alt="" coords="699,600,880,646"/>
 <area shape="rect" id="node72" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#ac81e6cd36593d731c5e2e23048ed6754" title="project::BI_FootprintPad\l::BI_FootprintPad" alt="" coords="428,625,591,672"/>
 <area shape="rect" id="node79" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" title="project::SI_Symbol\l::setPosition" alt="" coords="443,1161,576,1208"/>
-<area shape="rect" id="node87" href="$de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597" title="project::SI_Symbol\l::setAngle" alt="" coords="443,1092,576,1138"/>
+<area shape="rect" id="node87" href="$de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5" title="project::SI_Symbol\l::setRotation" alt="" coords="443,1092,576,1138"/>
 <area shape="rect" id="node92" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="project::SI_SymbolPin\l::SI_SymbolPin" alt="" coords="433,1230,585,1277"/>
 <area shape="rect" id="node81" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a6eaf0a56905dd18ebdf240a2229576c6" title="project::CmdSymbolInstance\lEdit::~CmdSymbolInstanceEdit" alt="" coords="687,1201,892,1248"/>
 <area shape="rect" id="node83" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="695,1062,884,1109"/>

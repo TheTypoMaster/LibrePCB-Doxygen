@@ -1,31 +1,32 @@
 <map id="init" name="init">
-<area shape="rect" id="node3" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#ada9b237a8629c03e16491a72730b456b" title="library::SymbolPin\l::getUuid" alt="" coords="135,581,263,627"/>
-<area shape="rect" id="node5" href="$de/d50/classproject_1_1_s_i___symbol.html#a803d371853cd2d72f4df8a45349d0cb7" title="schematicOrGenCompAttributes\lChanged" alt="" coords="93,650,304,697"/>
-<area shape="rect" id="node7" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_Symbol\l::updateCacheAndRepaint" alt="" coords="353,650,527,697"/>
-<area shape="rect" id="node9" href="$d9/db9/classlibrary_1_1_symbol.html#aa8dd7ebe32db86a2f2124e341482d48c" title="library::Symbol::getPolygons" alt="" coords="587,85,776,115"/>
-<area shape="rect" id="node11" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::SymbolPolygon\l::toQPainterPathPx" alt="" coords="604,189,759,235"/>
-<area shape="rect" id="node13" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="872,5,1005,35"/>
-<area shape="rect" id="node15" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="1091,155,1187,184"/>
-<area shape="rect" id="node25" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#a69af915a70be9a59f27a36ef42fe7606" title="library::SymbolPolygon\l::getWidth" alt="" coords="604,354,759,401"/>
-<area shape="rect" id="node28" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#afb5593c9c44f491b400edfa695fea7dc" title="library::SymbolPolygon\l::isGrabArea" alt="" coords="604,423,759,470"/>
-<area shape="rect" id="node30" href="$d9/db9/classlibrary_1_1_symbol.html#af3e51c69f130dab1acd01d41105c4ea3" title="library::Symbol::getTexts" alt="" coords="597,493,765,523"/>
-<area shape="rect" id="node32" href="$db/df7/classlibrary_1_1_symbol_text.html#ab42d5f674bbe33d8d5a601bedfd7921e" title="library::SymbolText\l::getText" alt="" coords="615,546,748,593"/>
-<area shape="rect" id="node34" href="$d9/d41/class_i_f___attribute_provider.html#a64e9824168a64622ace994d0ce6dd8ba" title="Replace all variables in a text with their attribute values. " alt="" coords="577,615,785,662"/>
-<area shape="rect" id="node36" href="$db/df7/classlibrary_1_1_symbol_text.html#a0956fb9eaa66799447596d95c6f1e46d" title="library::SymbolText\l::getHeight" alt="" coords="615,685,748,731"/>
-<area shape="rect" id="node38" href="$db/df7/classlibrary_1_1_symbol_text.html#a8c33abf636eed65eeeccb22558ba0880" title="library::SymbolText\l::getAlign" alt="" coords="615,754,748,801"/>
-<area shape="rect" id="node40" href="$df/de9/class_alignment.html#a4fbb4767912b1fed45bc601018994247" title="Alignment::toQtAlign" alt="" coords="611,824,752,853"/>
-<area shape="rect" id="node46" href="$db/df7/classlibrary_1_1_symbol_text.html#a894842161e505b56d67b0cf5b0f50087" title="library::SymbolText\l::getAngle" alt="" coords="615,877,748,923"/>
-<area shape="rect" id="node48" href="$de/d50/classproject_1_1_s_i___symbol.html#a894842161e505b56d67b0cf5b0f50087" title="getAngle" alt="" coords="645,947,717,976"/>
-<area shape="rect" id="node50" href="$d2/d39/class_angle.html#a74e05120ac11f78df41f0a0304990f9f" title="Map this Angle object to [&#45;180..+180[ degrees. " alt="" coords="609,1000,753,1029"/>
-<area shape="rect" id="node52" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="632,1053,731,1083"/>
-<area shape="rect" id="node56" href="$db/df7/classlibrary_1_1_symbol_text.html#ae23dd3ab799e9f70a4037eea91f69a82" title="library::SymbolText\l::getPosition" alt="" coords="615,1106,748,1153"/>
-<area shape="rect" id="node59" href="$df/de9/class_alignment.html#a5e73aa1977269073f3ce5f2af38443a0" title="Alignment::mirrored" alt="" coords="615,1176,748,1205"/>
-<area shape="rect" id="node17" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a894842161e505b56d67b0cf5b0f50087" title="library::SymbolPolygonSegment\l::getAngle" alt="" coords="835,58,1043,105"/>
-<area shape="rect" id="node19" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#af89771a9eb5882eaee9f298f663f89dc" title="library::SymbolPolygonSegment\l::getEndPos" alt="" coords="835,127,1043,174"/>
-<area shape="rect" id="node21" href="$d2/d39/class_angle.html#a70d223e0c1188606f971188d6f23b66f" title="Get the angle in radians. " alt="" coords="889,197,988,227"/>
-<area shape="rect" id="node23" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="889,251,988,280"/>
-<area shape="rect" id="node42" href="$d7/d39/class_h_align.html#a5947e6026a6c38886e5598e032fa7317" title="HAlign::toQtAlignFlag" alt="" coords="865,797,1012,827"/>
-<area shape="rect" id="node44" href="$d9/dbc/class_v_align.html#a5947e6026a6c38886e5598e032fa7317" title="VAlign::toQtAlignFlag" alt="" coords="865,851,1012,880"/>
-<area shape="rect" id="node54" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="891,1053,987,1083"/>
-<area shape="rect" id="node61" href="$df/de9/class_alignment.html#ac2a03de30f0ea7f185b8ae3625c8b076" title="Alignment::Alignment" alt="" coords="865,1176,1012,1205"/>
+<area shape="rect" id="node3" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#ada9b237a8629c03e16491a72730b456b" title="library::SymbolPin\l::getUuid" alt="" coords="135,615,263,662"/>
+<area shape="rect" id="node5" href="$de/d50/classproject_1_1_s_i___symbol.html#a803d371853cd2d72f4df8a45349d0cb7" title="schematicOrGenCompAttributes\lChanged" alt="" coords="93,685,304,731"/>
+<area shape="rect" id="node7" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_Symbol\l::updateCacheAndRepaint" alt="" coords="353,685,527,731"/>
+<area shape="rect" id="node9" href="$d9/db9/classlibrary_1_1_symbol.html#aa8dd7ebe32db86a2f2124e341482d48c" title="library::Symbol::getPolygons" alt="" coords="587,5,776,35"/>
+<area shape="rect" id="node11" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::SymbolPolygon\l::toQPainterPathPx" alt="" coords="604,285,759,331"/>
+<area shape="rect" id="node13" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="872,109,1005,139"/>
+<area shape="rect" id="node15" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="1116,84,1212,113"/>
+<area shape="rect" id="node25" href="$d2/d39/class_angle.html#a74e05120ac11f78df41f0a0304990f9f" title="Map this Angle object to [&#45;180..+180[ degrees. " alt="" coords="1092,433,1236,463"/>
+<area shape="rect" id="node29" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#a69af915a70be9a59f27a36ef42fe7606" title="library::SymbolPolygon\l::getWidth" alt="" coords="604,458,759,505"/>
+<area shape="rect" id="node32" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#afb5593c9c44f491b400edfa695fea7dc" title="library::SymbolPolygon\l::isGrabArea" alt="" coords="604,527,759,574"/>
+<area shape="rect" id="node34" href="$d9/db9/classlibrary_1_1_symbol.html#af3e51c69f130dab1acd01d41105c4ea3" title="library::Symbol::getTexts" alt="" coords="597,597,765,627"/>
+<area shape="rect" id="node36" href="$db/df7/classlibrary_1_1_symbol_text.html#ab42d5f674bbe33d8d5a601bedfd7921e" title="library::SymbolText\l::getText" alt="" coords="615,650,748,697"/>
+<area shape="rect" id="node38" href="$d9/d41/class_i_f___attribute_provider.html#a64e9824168a64622ace994d0ce6dd8ba" title="Replace all variables in a text with their attribute values. " alt="" coords="577,719,785,766"/>
+<area shape="rect" id="node40" href="$db/df7/classlibrary_1_1_symbol_text.html#a0956fb9eaa66799447596d95c6f1e46d" title="library::SymbolText\l::getHeight" alt="" coords="615,789,748,835"/>
+<area shape="rect" id="node42" href="$db/df7/classlibrary_1_1_symbol_text.html#a8c33abf636eed65eeeccb22558ba0880" title="library::SymbolText\l::getAlign" alt="" coords="615,858,748,905"/>
+<area shape="rect" id="node44" href="$df/de9/class_alignment.html#a4fbb4767912b1fed45bc601018994247" title="Alignment::toQtAlign" alt="" coords="611,928,752,957"/>
+<area shape="rect" id="node50" href="$db/df7/classlibrary_1_1_symbol_text.html#a01f0e165edb023b0c50cdbfd70f36021" title="library::SymbolText\l::getRotation" alt="" coords="615,981,748,1027"/>
+<area shape="rect" id="node52" href="$de/d50/classproject_1_1_s_i___symbol.html#a01f0e165edb023b0c50cdbfd70f36021" title="getRotation" alt="" coords="637,1051,725,1080"/>
+<area shape="rect" id="node55" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="632,1104,731,1133"/>
+<area shape="rect" id="node59" href="$db/df7/classlibrary_1_1_symbol_text.html#ae23dd3ab799e9f70a4037eea91f69a82" title="library::SymbolText\l::getPosition" alt="" coords="615,1157,748,1203"/>
+<area shape="rect" id="node62" href="$df/de9/class_alignment.html#a5e73aa1977269073f3ce5f2af38443a0" title="Alignment::mirrored" alt="" coords="615,1227,748,1256"/>
+<area shape="rect" id="node17" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a894842161e505b56d67b0cf5b0f50087" title="library::SymbolPolygonSegment\l::getAngle" alt="" coords="835,215,1043,262"/>
+<area shape="rect" id="node19" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#af89771a9eb5882eaee9f298f663f89dc" title="library::SymbolPolygonSegment\l::getEndPos" alt="" coords="835,285,1043,331"/>
+<area shape="rect" id="node21" href="$d2/d39/class_angle.html#a70d223e0c1188606f971188d6f23b66f" title="Get the angle in radians. " alt="" coords="889,355,988,384"/>
+<area shape="rect" id="node23" href="$d2/d39/class_angle.html#ae76e6384199e1c899025c103affd862f" title="Get an Angle object which is mapped to [&#45;180..+180[ degrees. " alt="" coords="856,408,1021,437"/>
+<area shape="rect" id="node27" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="889,163,988,192"/>
+<area shape="rect" id="node46" href="$d7/d39/class_h_align.html#a5947e6026a6c38886e5598e032fa7317" title="HAlign::toQtAlignFlag" alt="" coords="865,901,1012,931"/>
+<area shape="rect" id="node48" href="$d9/dbc/class_v_align.html#a5947e6026a6c38886e5598e032fa7317" title="VAlign::toQtAlignFlag" alt="" coords="865,955,1012,984"/>
+<area shape="rect" id="node57" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="891,1104,987,1133"/>
+<area shape="rect" id="node64" href="$df/de9/class_alignment.html#ac2a03de30f0ea7f185b8ae3625c8b076" title="Alignment::Alignment" alt="" coords="865,1227,1012,1256"/>
 </map>

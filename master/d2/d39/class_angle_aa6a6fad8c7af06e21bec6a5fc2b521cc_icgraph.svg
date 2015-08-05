@@ -104,10 +104,10 @@
 </g>
 <!-- Node11 -->
 <g id="node21" class="node"><title>Node11</title>
-<a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597" target="_top" xlink:title="project::SI_Symbol\l::setAngle">
+<a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5" target="_top" xlink:title="project::SI_Symbol\l::setRotation">
 <polygon fill="white" stroke="black" points="787,-104 787,-138 887,-138 887,-104 787,-104"/>
 <text text-anchor="start" x="795" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_Symbol</text>
-<text text-anchor="middle" x="837" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">::setAngle</text>
+<text text-anchor="middle" x="837" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">::setRotation</text>
 </a>
 </g>
 <!-- Node6&#45;&gt;Node11 -->

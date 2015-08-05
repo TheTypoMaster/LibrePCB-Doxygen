@@ -452,7 +452,7 @@
 <text text-anchor="start" x="1268" y="-660.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGraphicsItem</text>
 <text text-anchor="start" x="1268" y="-647.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mUuid</text>
 <text text-anchor="start" x="1268" y="-634.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPosition</text>
-<text text-anchor="start" x="1268" y="-621.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mAngle</text>
+<text text-anchor="start" x="1268" y="-621.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRotation</text>
 <polyline fill="none" stroke="black" points="1260,-613.5 1424,-613.5 "/>
 <text text-anchor="start" x="1268" y="-600.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SI_Symbol()</text>
 <text text-anchor="start" x="1268" y="-587.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ SI_Symbol()</text>
@@ -460,7 +460,7 @@
 <text text-anchor="start" x="1268" y="-561.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
 <text text-anchor="start" x="1268" y="-548.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematic()</text>
 <text text-anchor="start" x="1268" y="-535.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
-<text text-anchor="start" x="1268" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAngle()</text>
+<text text-anchor="start" x="1268" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
 <text text-anchor="start" x="1268" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getName()</text>
 <text text-anchor="start" x="1268" y="-496.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPin()</text>
 <text text-anchor="start" x="1268" y="-483.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPins()</text>
@@ -468,7 +468,7 @@
 <text text-anchor="start" x="1268" y="-457.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLibSymbol()</text>
 <text text-anchor="start" x="1268" y="-444.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGenCompSymbVarItem()</text>
 <text text-anchor="start" x="1268" y="-431.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPosition()</text>
-<text text-anchor="start" x="1268" y="-418.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAngle()</text>
+<text text-anchor="start" x="1268" y="-418.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
 <text text-anchor="start" x="1268" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addToSchematic()</text>
 <text text-anchor="start" x="1268" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFromSchematic()</text>
 <text text-anchor="start" x="1268" y="-379.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ serializeToXmlDomElement()</text>

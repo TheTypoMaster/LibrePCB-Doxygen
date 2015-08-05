@@ -1,7 +1,7 @@
 <map id="CmdSchematicNetLabelRemove" name="CmdSchematicNetLabelRemove">
 <area shape="rect" id="node2" href="$d3/d26/class_undo_command.html" title="The UndoCommand class represents a command which you can undo/redo. " alt="" coords="5,7837,147,8200"/>
 <area shape="rect" id="node5" href="$dd/d2d/classproject_1_1_schematic.html" title="The Schematic class represents one schematic page of a project and is always part of a circuit..." alt="" coords="679,4598,879,5671"/>
-<area shape="rect" id="node73" href="$d1/d7b/classproject_1_1_s_i___net_label.html" title="The SI_NetLabel class. " alt="" coords="583,7777,785,8261"/>
+<area shape="rect" id="node73" href="$d1/d7b/classproject_1_1_s_i___net_label.html" title="The SI_NetLabel class. " alt="" coords="563,7777,765,8261"/>
 <area shape="rect" id="node7" href="$d9/d41/class_i_f___attribute_provider.html" title="The IF_AttributeProvider class defines an interface for classes which provides some attributes which ..." alt="" coords="1428,1756,1649,1945"/>
 <area shape="rect" id="node19" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="1876,2488,2076,3579"/>
 <area shape="rect" id="node9" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="815,1782,1017,1919"/>
@@ -26,10 +26,10 @@
 <area shape="rect" id="node69" href="$df/df0/class_length.html" title="The Length class is used to represent a length (for example 12.75 millimeters) " alt="" coords="111,1297,265,2405"/>
 <area shape="rect" id="node88" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="157,3603,283,4573"/>
 <area shape="rect" id="node71" href="$dd/d55/class_length_unit.html" title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth..." alt="" coords="405,1626,544,2075"/>
-<area shape="rect" id="node80" href="$d1/d60/classproject_1_1_s_g_i___net_label.html" title="The SGI_NetLabel class. " alt="" coords="488,8329,675,8639"/>
+<area shape="rect" id="node80" href="$d1/d60/classproject_1_1_s_g_i___net_label.html" title="The SGI_NetLabel class. " alt="" coords="468,8329,655,8639"/>
 <area shape="rect" id="node75" href="$d4/dbe/classproject_1_1_s_i___base.html" title="The Schematic Item Base (SI_Base) class. " alt="" coords="1141,7095,1309,7319"/>
 <area shape="rect" id="node78" href="$d2/d39/class_angle.html" title="The Angle class is used to represent an angle (for example 12.75 degrees) " alt="" coords="505,6705,665,7709"/>
-<area shape="rect" id="node82" href="$d3/d4c/classproject_1_1_s_g_i___base.html" title="The Schematic Graphics Item Base (SGI_Base) class. " alt="" coords="411,7950,520,8087"/>
+<area shape="rect" id="node82" href="$d3/d4c/classproject_1_1_s_g_i___base.html" title="The Schematic Graphics Item Base (SGI_Base) class. " alt="" coords="369,7950,479,8087"/>
 <area shape="rect" id="node84" href="$d9/d37/class_graphics_item.html" title="The GraphicsItem class. " alt="" coords="303,7155,431,7258"/>
 <area shape="rect" id="node93" href="$d7/d3c/classproject_1_1_i_f___erc_msg_provider.html" title="The IF_ErcMsgProvider class. " alt="" coords="903,5075,1113,5195"/>
 </map>

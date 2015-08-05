@@ -20,7 +20,7 @@
 <text text-anchor="start" x="63" y="-420" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGenCompSignal</text>
 <text text-anchor="start" x="63" y="-407" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGenCompSignalInstance</text>
 <text text-anchor="start" x="63" y="-394" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPosition</text>
-<text text-anchor="start" x="63" y="-381" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mAngle</text>
+<text text-anchor="start" x="63" y="-381" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRotation</text>
 <text text-anchor="start" x="63" y="-368" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mAddedToSchematic</text>
 <text text-anchor="start" x="63" y="-355" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRegisteredNetPoint</text>
 <text text-anchor="start" x="63" y="-342" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGraphicsItem</text>

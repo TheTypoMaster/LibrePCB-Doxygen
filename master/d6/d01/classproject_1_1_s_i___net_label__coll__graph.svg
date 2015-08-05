@@ -22,11 +22,11 @@
 <text text-anchor="start" x="411.5" y="-553" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
 <text text-anchor="start" x="411.5" y="-540" font-family="Helvetica,sans-Serif" font-size="10.00">+ getSchematic()</text>
 <text text-anchor="start" x="411.5" y="-527" font-family="Helvetica,sans-Serif" font-size="10.00">+ getUuid()</text>
-<text text-anchor="start" x="411.5" y="-514" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAngle()</text>
+<text text-anchor="start" x="411.5" y="-514" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
 <text text-anchor="start" x="411.5" y="-501" font-family="Helvetica,sans-Serif" font-size="10.00">+ getNetSignal()</text>
 <text text-anchor="start" x="411.5" y="-488" font-family="Helvetica,sans-Serif" font-size="10.00">+ setNetSignal()</text>
 <text text-anchor="start" x="411.5" y="-475" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPosition()</text>
-<text text-anchor="start" x="411.5" y="-462" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAngle()</text>
+<text text-anchor="start" x="411.5" y="-462" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
 <text text-anchor="start" x="411.5" y="-449" font-family="Helvetica,sans-Serif" font-size="10.00">+ updateText()</text>
 <text text-anchor="start" x="411.5" y="-436" font-family="Helvetica,sans-Serif" font-size="10.00">+ addToSchematic()</text>
 <text text-anchor="start" x="411.5" y="-423" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFromSchematic()</text>
@@ -547,9 +547,9 @@
 </g>
 <!-- Node4&#45;&gt;Node1 -->
 <g id="edge6" class="edge"><title>Node4&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M204.413,-698.981C209.026,-687.662 214.203,-676.636 220,-666 258.372,-595.596 333.182,-542.138 392.742,-508.281"/>
-<polygon fill="none" stroke="#404040" points="392.814,-508.241 396.106,-501.825 403.294,-502.395 400.003,-508.812 392.814,-508.241"/>
-<text text-anchor="middle" x="240" y="-670.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mAngle</text>
+<path fill="none" stroke="#404040" d="M192.699,-698.983C197.176,-687.663 202.255,-676.636 208,-666 248.158,-591.655 329.342,-537.619 392.612,-504.595"/>
+<polygon fill="none" stroke="#404040" points="392.719,-504.54 396.238,-498.246 403.401,-499.074 399.882,-505.368 392.719,-504.54"/>
+<text text-anchor="middle" x="234" y="-670.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mRotation</text>
 </g>
 <!-- Node5&#45;&gt;Node1 -->
 <g id="edge8" class="edge"><title>Node5&#45;&gt;Node1</title>
