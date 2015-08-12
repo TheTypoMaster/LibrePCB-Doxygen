@@ -1,5 +1,5 @@
 <map id="getFootprintUuid" name="getFootprintUuid">
-<area shape="rect" id="node3" href="$de/d02/classlibrary_1_1_library.html#a186f36ac4cac0a49367b5bf9923e4680" title="library::Library::addPackagesToDb" alt="" coords="175,13,396,43"/>
+<area shape="rect" id="node3" href="$de/d02/classlibrary_1_1_library.html#aec23f71851cecc7466fbd5e10bd48fae" title="library::Library::addPackagesToDb" alt="" coords="175,13,396,43"/>
 <area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="216,66,355,113"/>
 <area shape="rect" id="node11" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a41c3c33dc2c3c5545110b742d536cc76" title="project::UnplacedComponents\lDock::addComponent" alt="" coords="187,135,384,182"/>
 <area shape="rect" id="node5" href="$de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. " alt="" coords="471,13,620,43"/>

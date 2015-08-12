@@ -1,11 +1,11 @@
 <map id="LibraryElement" name="LibraryElement">
-<area shape="rect" id="node7" href="$d3/dad/classlibrary_1_1_component.html" title="The Component class. " alt="" coords="5,1560,205,1957"/>
-<area shape="rect" id="node9" href="$d8/dea/classlibrary_1_1_footprint.html" title="The Footprint class. " alt="" coords="229,1517,429,2001"/>
-<area shape="rect" id="node11" href="$d7/d7c/classlibrary_1_1_generic_component.html" title="The GenericComponent class. " alt="" coords="453,1361,667,2157"/>
-<area shape="rect" id="node13" href="$da/dae/classlibrary_1_1_model3_d.html" title="The Model3D class. " alt="" coords="691,1673,813,1845"/>
-<area shape="rect" id="node15" href="$d1/dcf/classlibrary_1_1_package.html" title="The Package class. " alt="" coords="837,1603,1037,1914"/>
-<area shape="rect" id="node17" href="$da/d3b/classlibrary_1_1_spice_model.html" title="The SpiceModel class. " alt="" coords="1061,1673,1184,1845"/>
-<area shape="rect" id="node19" href="$d9/db9/classlibrary_1_1_symbol.html" title="The Symbol class. " alt="" coords="1208,1543,1408,1975"/>
-<area shape="rect" id="node2" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="651,192,853,1040"/>
+<area shape="rect" id="node7" href="$d3/dad/classlibrary_1_1_component.html" title="The Component class. " alt="" coords="5,1579,205,1976"/>
+<area shape="rect" id="node9" href="$d8/dea/classlibrary_1_1_footprint.html" title="The Footprint class. " alt="" coords="229,1535,429,2019"/>
+<area shape="rect" id="node11" href="$d7/d7c/classlibrary_1_1_generic_component.html" title="The GenericComponent class. " alt="" coords="453,1379,667,2175"/>
+<area shape="rect" id="node13" href="$da/dae/classlibrary_1_1_model3_d.html" title="The Model3D class. " alt="" coords="691,1691,813,1863"/>
+<area shape="rect" id="node15" href="$d1/dcf/classlibrary_1_1_package.html" title="The Package class. " alt="" coords="837,1622,1037,1933"/>
+<area shape="rect" id="node17" href="$da/d3b/classlibrary_1_1_spice_model.html" title="The SpiceModel class. " alt="" coords="1061,1691,1184,1863"/>
+<area shape="rect" id="node19" href="$d9/db9/classlibrary_1_1_symbol.html" title="The Symbol class. " alt="" coords="1208,1561,1408,1993"/>
+<area shape="rect" id="node2" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="651,193,853,1058"/>
 <area shape="rect" id="node4" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="651,6,853,143"/>
 </map>

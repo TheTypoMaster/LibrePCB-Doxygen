@@ -1,29 +1,26 @@
 <map id="on_actionRescanLibrary_triggered" name="on_actionRescanLibrary_triggered">
-<area shape="rect" id="node3" href="$d5/d56/class_workspace.html#a0aaab7f8db4623adc7227460a859db51" title="Get the workspace library. " alt="" coords="220,356,372,385"/>
-<area shape="rect" id="node5" href="$de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. " alt="" coords="221,409,371,439"/>
-<area shape="rect" id="node67" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="217,463,375,492"/>
-<area shape="rect" id="node7" href="$de/d02/classlibrary_1_1_library.html#a7252d2908c652122452d1f47b8c7bb16" title="library::Library::clearDatabase\lAndCreateTables" alt="" coords="447,58,641,105"/>
-<area shape="rect" id="node13" href="$de/d02/classlibrary_1_1_library.html#af2169476bf038e2de29eb968e25c561e" title="library::Library::getAll\lXmlFilesInLibDir" alt="" coords="472,289,616,335"/>
-<area shape="rect" id="node17" href="$de/d02/classlibrary_1_1_library.html#a186f36ac4cac0a49367b5bf9923e4680" title="library::Library::addPackagesToDb" alt="" coords="433,659,655,688"/>
-<area shape="rect" id="node51" href="$de/d02/classlibrary_1_1_library.html#aec416b88c369dd6f94af6e524b46df0e" title="library::Library::addComponentsToDb" alt="" coords="425,520,663,549"/>
-<area shape="rect" id="node9" href="$de/d02/classlibrary_1_1_library.html#a4e341ac749738a97962a224277794303" title="library::Library::prepare\lQuery" alt="" coords="745,58,900,105"/>
-<area shape="rect" id="node11" href="$de/d02/classlibrary_1_1_library.html#aa3f504ec425bb6a3578ffd34ccc51cb7" title="library::Library::execQuery" alt="" coords="736,5,909,35"/>
+<area shape="rect" id="node3" href="$d5/d56/class_workspace.html#a0aaab7f8db4623adc7227460a859db51" title="Get the workspace library. " alt="" coords="220,321,372,351"/>
+<area shape="rect" id="node5" href="$de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. " alt="" coords="221,375,371,404"/>
+<area shape="rect" id="node58" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="217,428,375,457"/>
+<area shape="rect" id="node7" href="$de/d02/classlibrary_1_1_library.html#a7252d2908c652122452d1f47b8c7bb16" title="library::Library::clearDatabase\lAndCreateTables" alt="" coords="447,66,641,113"/>
+<area shape="rect" id="node13" href="$de/d02/classlibrary_1_1_library.html#ae2c451640cd0fb8a5dd531af13b56149" title="library::Library::getAll\lElementDirectories" alt="" coords="472,289,616,335"/>
+<area shape="rect" id="node17" href="$de/d02/classlibrary_1_1_library.html#aec23f71851cecc7466fbd5e10bd48fae" title="library::Library::addPackagesToDb" alt="" coords="433,608,655,637"/>
+<area shape="rect" id="node43" href="$de/d02/classlibrary_1_1_library.html#a1dea3b622e340b2b8685735b15878ed1" title="library::Library::addComponentsToDb" alt="" coords="425,481,663,511"/>
+<area shape="rect" id="node9" href="$de/d02/classlibrary_1_1_library.html#a4e341ac749738a97962a224277794303" title="library::Library::prepare\lQuery" alt="" coords="745,5,900,51"/>
+<area shape="rect" id="node11" href="$de/d02/classlibrary_1_1_library.html#aa3f504ec425bb6a3578ffd34ccc51cb7" title="library::Library::execQuery" alt="" coords="736,75,909,104"/>
 <area shape="rect" id="node15" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="769,128,876,157"/>
-<area shape="rect" id="node19" href="$d4/d1c/class_file_path.html#ab03554821fd99cccf6f55a6686bcdc0d" title="Get the filepath of the parent directory of the file or directory. " alt="" coords="748,789,897,819"/>
-<area shape="rect" id="node25" href="$d4/d1c/class_file_path.html#a6b8813b995eae08609c56e147fb14b2c" title="Convert an absolute filepath to a relative filepath (relative to another filepath) ..." alt="" coords="755,843,891,872"/>
-<area shape="rect" id="node27" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" title="library::LibraryBaseElement\l::getUuid" alt="" coords="732,895,913,942"/>
-<area shape="rect" id="node29" href="$dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" title="library::LibraryBaseElement\l::getVersion" alt="" coords="732,319,913,366"/>
-<area shape="rect" id="node31" href="$de/d34/class_version.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the version as a string in the format &quot;1.2.3&quot;. " alt="" coords="772,389,873,419"/>
-<area shape="rect" id="node33" href="$d1/dcf/classlibrary_1_1_package.html#a2f56ac0d7791d53afa6b21e426b59428" title="library::Package::getFootprintUuid" alt="" coords="713,1019,932,1048"/>
-<area shape="rect" id="node35" href="$d1/dcf/classlibrary_1_1_package.html#a5fbb69612a8272e02bd5d9eb1cbe58cc" title="library::Package::getModel3dUuid" alt="" coords="713,965,932,995"/>
-<area shape="rect" id="node37" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a30ba02075765b27b4215a8b5347ea8dd" title="library::LibraryBaseElement\l::getAllAvailableLocales" alt="" coords="732,442,913,489"/>
-<area shape="rect" id="node39" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a01f0309d43de518f4e94c724d22f4502" title="library::LibraryBaseElement\l::getName" alt="" coords="732,511,913,558"/>
-<area shape="rect" id="node43" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a0e5b7dc7eca3c6468aa85375bf2c3dde" title="library::LibraryBaseElement\l::getDescription" alt="" coords="732,581,913,627"/>
-<area shape="rect" id="node46" href="$dd/d8a/classlibrary_1_1_library_base_element.html#aa727a7c7c573ac31926f21ec507aec76" title="library::LibraryBaseElement\l::getKeywords" alt="" coords="732,650,913,697"/>
-<area shape="rect" id="node49" href="$d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" title="library::LibraryElement\l::getCategories" alt="" coords="747,719,899,766"/>
-<area shape="rect" id="node21" href="$d4/d1c/class_file_path.html#a329a3fd87c1339c347833a8026e24c80" title="Check if the specified filepath is the root directory. " alt="" coords="1016,763,1131,792"/>
-<area shape="rect" id="node23" href="$d4/d1c/class_file_path.html#abad2142d090ea829d85560b03d47d98f" title="The default constructor (this will create an invalid object!) " alt="" coords="1011,816,1136,845"/>
-<area shape="rect" id="node41" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" title="Get the string of a specific locale from a QMap. " alt="" coords="983,581,1164,627"/>
-<area shape="rect" id="node58" href="$d3/dad/classlibrary_1_1_component.html#a88f1a973e2036997bc17ce0782c36587" title="library::Component\l::getGenCompUuid" alt="" coords="756,250,889,297"/>
-<area shape="rect" id="node60" href="$d3/dad/classlibrary_1_1_component.html#a2497cc4820790247b6ac9a1cdc00317d" title="library::Component\l::getPackageUuid" alt="" coords="757,181,888,227"/>
+<area shape="rect" id="node19" href="$d4/d1c/class_file_path.html#a6b8813b995eae08609c56e147fb14b2c" title="Convert an absolute filepath to a relative filepath (relative to another filepath) ..." alt="" coords="755,320,891,349"/>
+<area shape="rect" id="node21" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" title="library::LibraryBaseElement\l::getUuid" alt="" coords="732,373,913,419"/>
+<area shape="rect" id="node23" href="$dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" title="library::LibraryBaseElement\l::getVersion" alt="" coords="732,442,913,489"/>
+<area shape="rect" id="node25" href="$de/d34/class_version.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the version as a string in the format &quot;1.2.3&quot;. " alt="" coords="772,512,873,541"/>
+<area shape="rect" id="node27" href="$d1/dcf/classlibrary_1_1_package.html#a2f56ac0d7791d53afa6b21e426b59428" title="library::Package::getFootprintUuid" alt="" coords="713,912,932,941"/>
+<area shape="rect" id="node29" href="$d1/dcf/classlibrary_1_1_package.html#a5fbb69612a8272e02bd5d9eb1cbe58cc" title="library::Package::getModel3dUuid" alt="" coords="713,965,932,995"/>
+<area shape="rect" id="node31" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a30ba02075765b27b4215a8b5347ea8dd" title="library::LibraryBaseElement\l::getAllAvailableLocales" alt="" coords="732,565,913,611"/>
+<area shape="rect" id="node33" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a495b1b5a80253b4291c4cc3c59661235" title="library::LibraryBaseElement\l::getNames" alt="" coords="732,634,913,681"/>
+<area shape="rect" id="node35" href="$dd/d8a/classlibrary_1_1_library_base_element.html#adbf3aae44e55d974740b8125a2b08b68" title="library::LibraryBaseElement\l::getDescriptions" alt="" coords="732,703,913,750"/>
+<area shape="rect" id="node37" href="$dd/d8a/classlibrary_1_1_library_base_element.html#aa727a7c7c573ac31926f21ec507aec76" title="library::LibraryBaseElement\l::getKeywords" alt="" coords="732,773,913,819"/>
+<area shape="rect" id="node41" href="$d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" title="library::LibraryElement\l::getCategories" alt="" coords="747,842,899,889"/>
+<area shape="rect" id="node39" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" title="Get the string of a specific locale from a QMap. " alt="" coords="983,773,1164,819"/>
+<area shape="rect" id="node49" href="$d3/dad/classlibrary_1_1_component.html#a88f1a973e2036997bc17ce0782c36587" title="library::Component\l::getGenCompUuid" alt="" coords="756,181,889,227"/>
+<area shape="rect" id="node51" href="$d3/dad/classlibrary_1_1_component.html#a2497cc4820790247b6ac9a1cdc00317d" title="library::Component\l::getPackageUuid" alt="" coords="757,250,888,297"/>
 </map>

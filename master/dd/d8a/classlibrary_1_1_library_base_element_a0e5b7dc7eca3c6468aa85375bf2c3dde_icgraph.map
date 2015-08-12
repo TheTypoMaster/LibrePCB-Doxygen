@@ -1,11 +1,7 @@
 <map id="getDescription" name="getDescription">
-<area shape="rect" id="node3" href="$de/d02/classlibrary_1_1_library.html#a186f36ac4cac0a49367b5bf9923e4680" title="library::Library::addPackagesToDb" alt="" coords="169,5,391,35"/>
-<area shape="rect" id="node9" href="$de/d02/classlibrary_1_1_library.html#aec416b88c369dd6f94af6e524b46df0e" title="library::Library::addComponentsToDb" alt="" coords="161,59,399,88"/>
-<area shape="rect" id="node12" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#abf6af5dc67073d848d5cf561412d4b27" title="project::AddGenCompDialog\l::setSelectedGenComp" alt="" coords="187,111,373,158"/>
-<area shape="rect" id="node5" href="$de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. " alt="" coords="468,16,617,45"/>
-<area shape="rect" id="node7" href="$d1/def/class_control_panel.html#a65617210fcf4b06dcce361e933bbb994" title="ControlPanel::on_actionRescan\lLibrary_triggered" alt="" coords="703,7,908,54"/>
-<area shape="rect" id="node14" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a5951d1d20ef2d9675b3b1690d6799fa7" title="project::AddGenCompDialog\l::on_listGenericComponents\l_currentItemChanged" alt="" coords="449,91,636,155"/>
-<area shape="rect" id="node16" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="project::AddGenCompDialog\l::setSelectedCategory" alt="" coords="449,178,636,225"/>
-<area shape="rect" id="node18" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ab30df3fcf42614694068294b48161b00" title="project::AddGenCompDialog\l::treeCategories_currentItemChanged" alt="" coords="685,178,925,225"/>
-<area shape="rect" id="node20" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="project::AddGenCompDialog\l::AddGenCompDialog" alt="" coords="975,178,1161,225"/>
+<area shape="rect" id="node3" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#abf6af5dc67073d848d5cf561412d4b27" title="project::AddGenCompDialog\l::setSelectedGenComp" alt="" coords="161,54,348,101"/>
+<area shape="rect" id="node5" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a5951d1d20ef2d9675b3b1690d6799fa7" title="project::AddGenCompDialog\l::on_listGenericComponents\l_currentItemChanged" alt="" coords="399,5,585,69"/>
+<area shape="rect" id="node7" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="project::AddGenCompDialog\l::setSelectedCategory" alt="" coords="399,93,585,139"/>
+<area shape="rect" id="node9" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ab30df3fcf42614694068294b48161b00" title="project::AddGenCompDialog\l::treeCategories_currentItemChanged" alt="" coords="635,93,875,139"/>
+<area shape="rect" id="node11" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="project::AddGenCompDialog\l::AddGenCompDialog" alt="" coords="924,93,1111,139"/>
 </map>

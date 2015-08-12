@@ -204,7 +204,7 @@
 <text text-anchor="start" x="399.056" y="-1555.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; getCategoryChilds()</text>
 <text text-anchor="start" x="399.056" y="-1542.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; getElementsByCategory()</text>
 <text text-anchor="start" x="399.056" y="-1529.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; clearDatabaseAndCreateTables()</text>
-<text text-anchor="start" x="399.056" y="-1516.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; getAllXmlFilesInLibDir()</text>
+<text text-anchor="start" x="399.056" y="-1516.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; getAllElementDirectories()</text>
 <text text-anchor="start" x="399.056" y="-1503.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; prepareQuery()</text>
 <text text-anchor="start" x="399.056" y="-1490.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; execQuery()</text>
 </a>

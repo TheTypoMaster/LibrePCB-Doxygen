@@ -12,7 +12,7 @@
 <area shape="rect" id="node6" href="$d2/d39/class_angle.html" title="The Angle class is used to represent an angle (for example 12.75 degrees) " alt="" coords="1081,7841,1241,8845"/>
 <area shape="rect" id="node8" href="$d0/dfd/classlibrary_1_1_symbol_pin.html" title="The SymbolPin class. " alt="" coords="379,8999,581,9449"/>
 <area shape="rect" id="node10" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="1491,1461,1693,1598"/>
-<area shape="rect" id="node32" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="580,2210,783,3006"/>
+<area shape="rect" id="node32" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="580,2201,783,3015"/>
 <area shape="rect" id="node39" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="2039,2305,2257,2911"/>
 <area shape="rect" id="node47" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="2949,3765,3149,4856"/>
 <area shape="rect" id="node56" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="2469,5692,2669,5985"/>

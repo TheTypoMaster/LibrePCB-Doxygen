@@ -19,6 +19,7 @@ var searchData=
   ['iscommandactive',['isCommandActive',['../d4/d90/class_undo_stack.html#ab672ee441d03b6d0d82f86fa6b238f56',1,'UndoStack']]],
   ['iscreated',['isCreated',['../d1/d7f/class_smart_file.html#ac75eb9bf847724d32b9a3603932d7ad3',1,'SmartFile']]],
   ['isdefault',['isDefault',['../d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a8e3b6104c3fd62f36ce94537b91d4be7',1,'library::GenCompSymbVar']]],
+  ['isdirectoryvalidelement',['isDirectoryValidElement',['../dd/d8a/classlibrary_1_1_library_base_element.html#a628de6fd2b62ced10f53c1bf9e337ffe',1,'library::LibraryBaseElement']]],
   ['isempty',['isEmpty',['../d5/d07/classproject_1_1_board.html#ac59c252677adb89638b735cf19d3151b',1,'project::Board::isEmpty()'],['../dd/d2d/classproject_1_1_schematic.html#ac59c252677adb89638b735cf19d3151b',1,'project::Schematic::isEmpty()']]],
   ['isemptydir',['isEmptyDir',['../d4/d1c/class_file_path.html#abb1a303df12a931efec94f17183f3a2c',1,'FilePath']]],
   ['isexecuted',['isExecuted',['../d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb',1,'UndoCommand']]],

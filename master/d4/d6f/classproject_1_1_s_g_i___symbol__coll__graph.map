@@ -5,7 +5,7 @@
 <area shape="rect" id="node8" href="$d4/dbe/classproject_1_1_s_i___base.html" title="The Schematic Item Base (SI_Base) class. " alt="" coords="23,7785,191,8009"/>
 <area shape="rect" id="node10" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="953,1461,1156,1598"/>
 <area shape="rect" id="node16" href="$de/d67/classproject_1_1_gen_comp_instance.html" title="The GenCompInstance class. " alt="" coords="837,7482,1080,8313"/>
-<area shape="rect" id="node26" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="381,2210,584,3006"/>
+<area shape="rect" id="node26" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="381,2201,584,3015"/>
 <area shape="rect" id="node33" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="2079,2305,2297,2911"/>
 <area shape="rect" id="node41" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="1861,3765,2061,4856"/>
 <area shape="rect" id="node50" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="1047,6265,1247,6559"/>

@@ -1,60 +1,60 @@
 <map id="SES_FSM" name="SES_FSM">
-<area shape="rect" id="node72" href="$dd/d24/classproject_1_1_schematic_editor.html" title="The SchematicEditor class. " alt="" coords="2594,8449,2794,9210"/>
-<area shape="rect" id="node2" href="$d4/d85/classproject_1_1_s_e_s___base.html" title="The SES_Base (SchematicEditorState Base) class. " alt="" coords="2894,9381,3009,9536"/>
-<area shape="rect" id="node4" href="$dd/dd5/class_graphics_view.html" title="The GraphicsView class. " alt="" coords="3281,6771,3494,7255"/>
-<area shape="rect" id="node87" href="$d4/dfb/classproject_1_1_board_editor.html" title="The BoardEditor class. " alt="" coords="1965,10224,2181,10795"/>
-<area shape="rect" id="node91" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html" title="The UnplacedComponentsDock class. " alt="" coords="2123,9707,2339,10157"/>
-<area shape="rect" id="node136" href="$d0/d4b/classproject_1_1_b_e_s___base.html" title="The BES_Base (BoardEditorState Base) class. " alt="" coords="1575,10861,1690,11016"/>
-<area shape="rect" id="node6" href="$dc/dcc/class_graphics_scene.html" title="The GraphicsScene class. " alt="" coords="2765,5581,2914,5736"/>
-<area shape="rect" id="node119" href="$d5/d07/classproject_1_1_board.html" title="The Board class represents a PCB of a project and is always part of a circuit. " alt="" coords="2499,6615,2745,7411"/>
-<area shape="rect" id="node8" href="$dc/dd0/class_i_f___graphics_view_event_handler.html" title="The IF_GraphicsViewEventHandler class. " alt="" coords="3394,5599,3623,5719"/>
-<area shape="rect" id="node10" href="$d8/dbf/class_grid_properties.html" title="The GridProperties class. " alt="" coords="3167,5486,3370,5831"/>
+<area shape="rect" id="node72" href="$dd/d24/classproject_1_1_schematic_editor.html" title="The SchematicEditor class. " alt="" coords="2594,8465,2794,9226"/>
+<area shape="rect" id="node2" href="$d4/d85/classproject_1_1_s_e_s___base.html" title="The SES_Base (SchematicEditorState Base) class. " alt="" coords="2894,9397,3009,9552"/>
+<area shape="rect" id="node4" href="$dd/dd5/class_graphics_view.html" title="The GraphicsView class. " alt="" coords="3281,6787,3494,7271"/>
+<area shape="rect" id="node87" href="$d4/dfb/classproject_1_1_board_editor.html" title="The BoardEditor class. " alt="" coords="1965,10240,2181,10811"/>
+<area shape="rect" id="node91" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html" title="The UnplacedComponentsDock class. " alt="" coords="2123,9723,2339,10173"/>
+<area shape="rect" id="node136" href="$d0/d4b/classproject_1_1_b_e_s___base.html" title="The BES_Base (BoardEditorState Base) class. " alt="" coords="1575,10877,1690,11032"/>
+<area shape="rect" id="node6" href="$dc/dcc/class_graphics_scene.html" title="The GraphicsScene class. " alt="" coords="2765,5597,2914,5752"/>
+<area shape="rect" id="node119" href="$d5/d07/classproject_1_1_board.html" title="The Board class represents a PCB of a project and is always part of a circuit. " alt="" coords="2499,6631,2745,7427"/>
+<area shape="rect" id="node8" href="$dc/dd0/class_i_f___graphics_view_event_handler.html" title="The IF_GraphicsViewEventHandler class. " alt="" coords="3394,5615,3623,5735"/>
+<area shape="rect" id="node10" href="$d8/dbf/class_grid_properties.html" title="The GridProperties class. " alt="" coords="3167,5502,3370,5847"/>
 <area shape="rect" id="node12" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="2462,1997,2665,2134"/>
-<area shape="rect" id="node18" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="1859,2685,2078,3291"/>
-<area shape="rect" id="node27" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="1342,3999,1542,5089"/>
-<area shape="rect" id="node37" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="1999,5512,2199,5805"/>
-<area shape="rect" id="node55" href="$d7/d04/classproject_1_1_project_settings.html" title="The ProjectSettings class. " alt="" coords="967,5486,1167,5831"/>
-<area shape="rect" id="node94" href="$de/d67/classproject_1_1_gen_comp_instance.html" title="The GenCompInstance class. " alt="" coords="2182,6598,2425,7429"/>
-<area shape="rect" id="node104" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="2753,2590,2955,3386"/>
-<area shape="rect" id="node111" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html" title="The GenCompSymbVar class. " alt="" coords="2583,3411,2786,3965"/>
-<area shape="rect" id="node14" href="$df/df0/class_length.html" title="The Length class is used to represent a length (for example 12.75 millimeters) " alt="" coords="2843,3990,2998,5098"/>
-<area shape="rect" id="node130" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="3121,7454,3246,8423"/>
-<area shape="rect" id="node16" href="$dd/d55/class_length_unit.html" title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth..." alt="" coords="4302,2763,4441,3213"/>
-<area shape="rect" id="node183" href="$d3/d01/class_w_s_i___app_default_measurement_units.html" title="The WSI_AppDefaultMeasurementUnits class represents the application&#39;s default measurement units (for ..." alt="" coords="4397,4345,4647,4743"/>
+<area shape="rect" id="node18" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="1859,2693,2078,3299"/>
+<area shape="rect" id="node27" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="1342,4015,1542,5105"/>
+<area shape="rect" id="node37" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="1999,5528,2199,5821"/>
+<area shape="rect" id="node55" href="$d7/d04/classproject_1_1_project_settings.html" title="The ProjectSettings class. " alt="" coords="967,5502,1167,5847"/>
+<area shape="rect" id="node94" href="$de/d67/classproject_1_1_gen_comp_instance.html" title="The GenCompInstance class. " alt="" coords="2182,6614,2425,7445"/>
+<area shape="rect" id="node104" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="2753,2589,2955,3403"/>
+<area shape="rect" id="node111" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html" title="The GenCompSymbVar class. " alt="" coords="2583,3427,2786,3981"/>
+<area shape="rect" id="node14" href="$df/df0/class_length.html" title="The Length class is used to represent a length (for example 12.75 millimeters) " alt="" coords="2843,4006,2998,5114"/>
+<area shape="rect" id="node130" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="3121,7470,3246,8439"/>
+<area shape="rect" id="node16" href="$dd/d55/class_length_unit.html" title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth..." alt="" coords="4302,2771,4441,3221"/>
+<area shape="rect" id="node183" href="$d3/d01/class_w_s_i___app_default_measurement_units.html" title="The WSI_AppDefaultMeasurementUnits class represents the application&#39;s default measurement units (for ..." alt="" coords="4397,4361,4647,4759"/>
 <area shape="rect" id="node21" href="$da/db0/class_smart_xml_file.html" title="The SmartXmlFile class represents a XML file and provides methods to load/save XML DOM trees (XmlDomD..." alt="" coords="1722,1953,1922,2177"/>
 <area shape="rect" id="node23" href="$d1/d7f/class_smart_file.html" title="The abstract SmartFile class represents a file and provides some useful methods to work with that fil..." alt="" coords="1710,651,1934,997"/>
 <area shape="rect" id="node51" href="$db/deb/class_smart_text_file.html" title="The SmartTextFile class represents a text file and provides access to its content. " alt="" coords="1519,2323,1650,2565"/>
 <area shape="rect" id="node25" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="2898,5,3077,541"/>
 <area shape="rect" id="node61" href="$d9/d57/class_file_lock.html" title="This class can be used to implement file&#45;based file locks. " alt="" coords="2918,1936,3081,2195"/>
-<area shape="rect" id="node64" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="723,5165,939,6152"/>
-<area shape="rect" id="node149" href="$d5/d56/class_workspace.html" title="The Workspace class represents a workspace with all its data (library, projects, settings, ...) " alt="" coords="3618,2755,3882,3221"/>
+<area shape="rect" id="node64" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="723,5181,939,6168"/>
+<area shape="rect" id="node149" href="$d5/d56/class_workspace.html" title="The Workspace class represents a workspace with all its data (library, projects, settings, ...) " alt="" coords="3618,2763,3882,3229"/>
 <area shape="rect" id="node154" href="$de/d02/classlibrary_1_1_library.html" title="The Library class. " alt="" coords="3333,1029,3591,1808"/>
 <area shape="rect" id="node157" href="$de/d52/class_workspace_settings.html" title="The WorkspaceSettings class manages all workspace related settings (and more) " alt="" coords="4961,1893,5158,2238"/>
 <area shape="rect" id="node189" href="$db/d9c/class_project_tree_item.html" title="The ProjectTreeItem class. " alt="" coords="3669,643,3810,1005"/>
-<area shape="rect" id="node43" href="$d1/d2c/classproject_1_1_board_layer_provider.html" title="The BoardLayerProvider class provides and manages all available board layers which are used in the pr..." alt="" coords="151,5555,314,5762"/>
-<area shape="rect" id="node47" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="451,5555,643,5762"/>
-<area shape="rect" id="node76" href="$d2/dc4/classproject_1_1_erc_msg_dock.html" title="The ErcMsgDock class. " alt="" coords="1851,6858,2051,7169"/>
-<area shape="rect" id="node80" href="$da/dda/classproject_1_1_schematic_pages_dock.html" title="The SchematicPagesDock class. " alt="" coords="2271,9295,2461,9623"/>
-<area shape="rect" id="node85" href="$d3/dd6/classproject_1_1_project_editor.html" title="The ProjectEditor class. " alt="" coords="2537,9277,2747,9640"/>
-<area shape="rect" id="node29" href="$d9/d41/class_i_f___attribute_provider.html" title="The IF_AttributeProvider class defines an interface for classes which provides some attributes which ..." alt="" coords="2254,2893,2475,3083"/>
-<area shape="rect" id="node31" href="$d5/d3f/class_i_f___schematic_layer_provider.html" title="The IF_SchematicLayerProvider class defines an interface for classes which provide schematic layers..." alt="" coords="771,2911,982,3065"/>
-<area shape="rect" id="node33" href="$d6/db7/class_i_f___board_layer_provider.html" title="The IF_BoardLayerProvider class defines an interface for classes which provide board layers..." alt="" coords="541,2911,722,3065"/>
-<area shape="rect" id="node70" href="$d4/d90/class_undo_stack.html" title="The UndoStack class holds UndoCommand objects and provides undo/redo commands. " alt="" coords="3174,8605,3331,9054"/>
-<area shape="rect" id="node97" href="$d7/d3c/classproject_1_1_i_f___erc_msg_provider.html" title="The IF_ErcMsgProvider class. " alt="" coords="1655,5599,1866,5719"/>
-<area shape="rect" id="node100" href="$d7/d7c/classlibrary_1_1_generic_component.html" title="The GenericComponent class. " alt="" coords="2477,5261,2690,6057"/>
-<area shape="rect" id="node102" href="$d8/dff/classlibrary_1_1_library_element.html" title="The LibraryElement class extends the LibraryBaseElement class with some attributes and methods which ..." alt="" coords="3073,4432,3275,4656"/>
-<area shape="rect" id="node116" href="$d3/dad/classlibrary_1_1_component.html" title="The Component class. " alt="" coords="3534,6176,3734,6573"/>
+<area shape="rect" id="node43" href="$d1/d2c/classproject_1_1_board_layer_provider.html" title="The BoardLayerProvider class provides and manages all available board layers which are used in the pr..." alt="" coords="151,5571,314,5778"/>
+<area shape="rect" id="node47" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="451,5571,643,5778"/>
+<area shape="rect" id="node76" href="$d2/dc4/classproject_1_1_erc_msg_dock.html" title="The ErcMsgDock class. " alt="" coords="1851,6874,2051,7185"/>
+<area shape="rect" id="node80" href="$da/dda/classproject_1_1_schematic_pages_dock.html" title="The SchematicPagesDock class. " alt="" coords="2271,9311,2461,9639"/>
+<area shape="rect" id="node85" href="$d3/dd6/classproject_1_1_project_editor.html" title="The ProjectEditor class. " alt="" coords="2537,9293,2747,9656"/>
+<area shape="rect" id="node29" href="$d9/d41/class_i_f___attribute_provider.html" title="The IF_AttributeProvider class defines an interface for classes which provides some attributes which ..." alt="" coords="2254,2901,2475,3091"/>
+<area shape="rect" id="node31" href="$d5/d3f/class_i_f___schematic_layer_provider.html" title="The IF_SchematicLayerProvider class defines an interface for classes which provide schematic layers..." alt="" coords="771,2919,982,3073"/>
+<area shape="rect" id="node33" href="$d6/db7/class_i_f___board_layer_provider.html" title="The IF_BoardLayerProvider class defines an interface for classes which provide board layers..." alt="" coords="541,2919,722,3073"/>
+<area shape="rect" id="node70" href="$d4/d90/class_undo_stack.html" title="The UndoStack class holds UndoCommand objects and provides undo/redo commands. " alt="" coords="3174,8621,3331,9070"/>
+<area shape="rect" id="node97" href="$d7/d3c/classproject_1_1_i_f___erc_msg_provider.html" title="The IF_ErcMsgProvider class. " alt="" coords="1655,5615,1866,5735"/>
+<area shape="rect" id="node100" href="$d7/d7c/classlibrary_1_1_generic_component.html" title="The GenericComponent class. " alt="" coords="2477,5277,2690,6073"/>
+<area shape="rect" id="node102" href="$d8/dff/classlibrary_1_1_library_element.html" title="The LibraryElement class extends the LibraryBaseElement class with some attributes and methods which ..." alt="" coords="3073,4448,3275,4672"/>
+<area shape="rect" id="node116" href="$d3/dad/classlibrary_1_1_component.html" title="The Component class. " alt="" coords="3534,6192,3734,6589"/>
 <area shape="rect" id="node107" href="$de/d34/class_version.html" title="The Version class represents a version number in the format &quot;1.42.7&quot;. " alt="" coords="2730,1832,2842,2299"/>
-<area shape="rect" id="node134" href="$db/d99/classproject_1_1_b_e_s___f_s_m.html" title="The BES_FSM (Board Editor Finite State Machine) class. " alt="" coords="1346,11067,1525,11256"/>
-<area shape="rect" id="node151" href="$d6/d7e/class_favorite_projects_model.html" title="The FavoriteProjectsModel class. " alt="" coords="3797,4423,3975,4665"/>
-<area shape="rect" id="node193" href="$d2/d25/class_recent_projects_model.html" title="The RecentProjectsModel class. " alt="" coords="4049,4441,4222,4647"/>
-<area shape="rect" id="node159" href="$d1/d5c/class_workspace_settings_dialog.html" title="The WorkspaceSettingsDialog class. " alt="" coords="4981,2885,5181,3091"/>
-<area shape="rect" id="node164" href="$d4/dda/class_w_s_i___base.html" title="The WSI_Base class is the base class of all workspace settings items. " alt="" coords="5205,2867,5327,3109"/>
-<area shape="rect" id="node162" href="$db/d82/class_w_s_i___app_locale.html" title="The WSI_AppLocale class represents the application&#39;s locale settings (for translation and localizatio..." alt="" coords="5803,4363,5990,4725"/>
-<area shape="rect" id="node167" href="$d8/dcb/class_w_s_i___appearance.html" title="The WSI_Appearance class. " alt="" coords="5379,4406,5563,4682"/>
-<area shape="rect" id="node170" href="$d5/da3/class_w_s_i___library_norm_order.html" title="The WSI_LibraryNormOrder class contains a list of norms which should be used for all library elements..." alt="" coords="4689,4302,4875,4786"/>
-<area shape="rect" id="node173" href="$de/ded/class_w_s_i___library_locale_order.html" title="The WSI_LibraryLocaleOrder class contains a list of locales which should be used for all (translatabl..." alt="" coords="5587,4302,5779,4786"/>
-<area shape="rect" id="node176" href="$df/def/class_w_s_i___debug_tools.html" title="The WSI_DebugTools class contains some tools/settings which are useful for debugging. " alt="" coords="4929,4432,5081,4656"/>
-<area shape="rect" id="node179" href="$d6/d31/class_w_s_i___project_autosave_interval.html" title="The WSI_ProjectAutosaveInterval class represents the project autosave interval setting. " alt="" coords="5133,4380,5354,4708"/>
+<area shape="rect" id="node134" href="$db/d99/classproject_1_1_b_e_s___f_s_m.html" title="The BES_FSM (Board Editor Finite State Machine) class. " alt="" coords="1346,11083,1525,11272"/>
+<area shape="rect" id="node151" href="$d6/d7e/class_favorite_projects_model.html" title="The FavoriteProjectsModel class. " alt="" coords="3797,4439,3975,4681"/>
+<area shape="rect" id="node193" href="$d2/d25/class_recent_projects_model.html" title="The RecentProjectsModel class. " alt="" coords="4049,4457,4222,4663"/>
+<area shape="rect" id="node159" href="$d1/d5c/class_workspace_settings_dialog.html" title="The WorkspaceSettingsDialog class. " alt="" coords="4981,2893,5181,3099"/>
+<area shape="rect" id="node164" href="$d4/dda/class_w_s_i___base.html" title="The WSI_Base class is the base class of all workspace settings items. " alt="" coords="5205,2875,5327,3117"/>
+<area shape="rect" id="node162" href="$db/d82/class_w_s_i___app_locale.html" title="The WSI_AppLocale class represents the application&#39;s locale settings (for translation and localizatio..." alt="" coords="5803,4379,5990,4741"/>
+<area shape="rect" id="node167" href="$d8/dcb/class_w_s_i___appearance.html" title="The WSI_Appearance class. " alt="" coords="5379,4422,5563,4698"/>
+<area shape="rect" id="node170" href="$d5/da3/class_w_s_i___library_norm_order.html" title="The WSI_LibraryNormOrder class contains a list of norms which should be used for all library elements..." alt="" coords="4689,4318,4875,4802"/>
+<area shape="rect" id="node173" href="$de/ded/class_w_s_i___library_locale_order.html" title="The WSI_LibraryLocaleOrder class contains a list of locales which should be used for all (translatabl..." alt="" coords="5587,4318,5779,4802"/>
+<area shape="rect" id="node176" href="$df/def/class_w_s_i___debug_tools.html" title="The WSI_DebugTools class contains some tools/settings which are useful for debugging. " alt="" coords="4929,4448,5081,4672"/>
+<area shape="rect" id="node179" href="$d6/d31/class_w_s_i___project_autosave_interval.html" title="The WSI_ProjectAutosaveInterval class represents the project autosave interval setting. " alt="" coords="5133,4396,5354,4724"/>
 <area shape="rect" id="node187" href="$db/d76/class_project_tree_model.html" title="The ProjectTreeModel class. " alt="" coords="3665,1927,3835,2203"/>
 </map>

@@ -10,7 +10,7 @@
 <area shape="rect" id="node45" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="1494,5472,1713,6077"/>
 <area shape="rect" id="node51" href="$d7/d04/classproject_1_1_project_settings.html" title="The ProjectSettings class. " alt="" coords="1259,5602,1459,5947"/>
 <area shape="rect" id="node66" href="$d8/dbf/class_grid_properties.html" title="The GridProperties class. " alt="" coords="150,3501,353,3846"/>
-<area shape="rect" id="node91" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="3073,1573,3275,2369"/>
+<area shape="rect" id="node91" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="3073,1564,3275,2377"/>
 <area shape="rect" id="node98" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html" title="The GenCompSymbVar class. " alt="" coords="698,2550,901,3103"/>
 <area shape="rect" id="node101" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html" title="The GenCompSymbVarItem class. " alt="" coords="565,6336,767,6733"/>
 <area shape="rect" id="node11" href="$da/db0/class_smart_xml_file.html" title="The SmartXmlFile class represents a XML file and provides methods to load/save XML DOM trees (XmlDomD..." alt="" coords="1858,1859,2058,2083"/>

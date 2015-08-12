@@ -28,6 +28,7 @@ var classlibrary_1_1_library_base_element =
     [ "saveTo", "dd/d8a/classlibrary_1_1_library_base_element.html#ac28e667ebe8da94751cd1d69ca0ba057", null ],
     [ "readLocaleDomNodes", "dd/d8a/classlibrary_1_1_library_base_element.html#a6082cb826f55941403d9bf4fb771928f", null ],
     [ "localeStringFromList", "dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e", null ],
+    [ "isDirectoryValidElement", "dd/d8a/classlibrary_1_1_library_base_element.html#a628de6fd2b62ced10f53c1bf9e337ffe", null ],
     [ "operator=", "dd/d8a/classlibrary_1_1_library_base_element.html#a462cb51b6f044aee8d72d1c3716c2c7c", null ],
     [ "readFromFile", "dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080", null ],
     [ "parseDomTree", "dd/d8a/classlibrary_1_1_library_base_element.html#ad6c2bb438fe200b1224b2d8e05d3eca0", null ],

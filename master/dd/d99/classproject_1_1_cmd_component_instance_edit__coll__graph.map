@@ -9,7 +9,7 @@
 <area shape="rect" id="node91" href="$d5/d07/classproject_1_1_board.html" title="The Board class represents a PCB of a project and is always part of a circuit. " alt="" coords="843,4397,1088,5193"/>
 <area shape="rect" id="node11" href="$d7/d3c/classproject_1_1_i_f___erc_msg_provider.html" title="The IF_ErcMsgProvider class. " alt="" coords="1385,3613,1596,3733"/>
 <area shape="rect" id="node13" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="1645,807,1848,945"/>
-<area shape="rect" id="node25" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="3285,1573,3488,2369"/>
+<area shape="rect" id="node25" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="3285,1564,3488,2377"/>
 <area shape="rect" id="node32" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="1705,4492,1924,5097"/>
 <area shape="rect" id="node49" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="2327,4648,2527,4941"/>
 <area shape="rect" id="node67" href="$d7/d04/classproject_1_1_project_settings.html" title="The ProjectSettings class. " alt="" coords="2028,4622,2228,4967"/>

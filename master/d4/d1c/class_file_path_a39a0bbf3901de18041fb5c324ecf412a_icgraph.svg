@@ -214,10 +214,10 @@
 </g>
 <!-- Node23 -->
 <g id="node50" class="node"><title>Node23</title>
-<a xlink:href="../../de/d02/classlibrary_1_1_library.html#af2169476bf038e2de29eb968e25c561e" target="_top" xlink:title="library::Library::getAll\lXmlFilesInLibDir">
+<a xlink:href="../../de/d02/classlibrary_1_1_library.html#ae2c451640cd0fb8a5dd531af13b56149" target="_top" xlink:title="library::Library::getAll\lElementDirectories">
 <polygon fill="white" stroke="black" points="93.5,-878 93.5,-912 202.5,-912 202.5,-878 93.5,-878"/>
 <text text-anchor="start" x="101.5" y="-899" font-family="Helvetica,sans-Serif" font-size="10.00">library::Library::getAll</text>
-<text text-anchor="middle" x="148" y="-886" font-family="Helvetica,sans-Serif" font-size="10.00">XmlFilesInLibDir</text>
+<text text-anchor="middle" x="148" y="-886" font-family="Helvetica,sans-Serif" font-size="10.00">ElementDirectories</text>
 </a>
 </g>
 <!-- Node1&#45;&gt;Node23 -->
