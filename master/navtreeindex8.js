@@ -1,5 +1,14 @@
 var NAVTREEINDEX8 =
 {
+"d6/d67/packagecategory_8h.html":[3,0,1,1,1,9],
+"d6/d67/packagecategory_8h_source.html":[3,0,1,1,1,9],
+"d6/d6a/classproject_1_1_cmd_component_instance_add.html":[2,0,2,3],
+"d6/d6a/classproject_1_1_cmd_component_instance_add.html#a19e8778088bfe76b16745470981bb913":[2,0,2,3,5],
+"d6/d6a/classproject_1_1_cmd_component_instance_add.html#a7e488020a8f65675a719e4b901d017de":[2,0,2,3,6],
+"d6/d6a/classproject_1_1_cmd_component_instance_add.html#a8eb7b8be4c1b90b382d158355c2391d7":[2,0,2,3,3],
+"d6/d6a/classproject_1_1_cmd_component_instance_add.html#a91ca7652063093da57fc1bd0141dcc95":[2,0,2,3,4],
+"d6/d6a/classproject_1_1_cmd_component_instance_add.html#aaf841c60f69c00ef1d448c2bc5d7c6c7":[2,0,2,3,7],
+"d6/d6a/classproject_1_1_cmd_component_instance_add.html#ace844491011b47aae5436adbe1bc69c2":[2,0,2,3,2],
 "d6/d6a/classproject_1_1_cmd_component_instance_add.html#aebbb95898c7230a7318d36254ecf06bb":[2,0,2,3,1],
 "d6/d6a/classproject_1_1_cmd_component_instance_add.html#af6f007d14b6eabf119431736395c8b79":[2,0,2,3,0],
 "d6/d7b/cmdprojectsetmetadata_8cpp.html":[3,0,1,3,2,0],
@@ -240,14 +249,5 @@ var NAVTREEINDEX8 =
 "d7/dbc/cmdschematicnetpointedit_8cpp.html":[3,0,1,3,5,0,16],
 "d7/dc1/si__base_8cpp.html":[3,0,1,3,5,2,0],
 "d7/dc7/cmdcomponentinstanceadd_8h.html":[3,0,1,3,0,0,3],
-"d7/dc7/cmdcomponentinstanceadd_8h_source.html":[3,0,1,3,0,0,3],
-"d7/dce/bi__footprint_8h.html":[3,0,1,3,0,2,3],
-"d7/dce/bi__footprint_8h_source.html":[3,0,1,3,0,2,3],
-"d7/de9/cmdgencompsiginstsetnetsignal_8h.html":[3,0,1,3,1,0,13],
-"d7/de9/cmdgencompsiginstsetnetsignal_8h_source.html":[3,0,1,3,1,0,13],
-"d7/deb/class_system_info.html":[2,0,47],
-"d7/deb/class_system_info.html#a522af149c6385195104ab143e74c3466":[2,0,47,3],
-"d7/deb/class_system_info.html#a527387b438f668d7805b2874994de02a":[2,0,47,2],
-"d7/deb/class_system_info.html#ab01a34f1c172b83ed814c86189078347":[2,0,47,1],
-"d7/deb/class_system_info.html#ad51a839db33d0a7a2aac2111e214ced0":[2,0,47,0]
+"d7/dc7/cmdcomponentinstanceadd_8h_source.html":[3,0,1,3,0,0,3]
 };

@@ -17,26 +17,26 @@
 <!-- Node2 -->
 <g id="node3" class="node"><title>Node2</title>
 <a xlink:href="../../da/dac/angle_8h.html#a735e179f4e5a0d19dd6056925aecaee0" target="_top" xlink:title="operator\&lt;\&lt;">
-<polygon fill="white" stroke="black" points="133,-739.5 133,-760.5 197,-760.5 197,-739.5 133,-739.5"/>
-<text text-anchor="middle" x="165" y="-747.5" font-family="Helvetica,sans-Serif" font-size="10.00">operator&lt;&lt;</text>
+<polygon fill="white" stroke="black" points="133,-746.5 133,-767.5 197,-767.5 197,-746.5 133,-746.5"/>
+<text text-anchor="middle" x="165" y="-754.5" font-family="Helvetica,sans-Serif" font-size="10.00">operator&lt;&lt;</text>
 </a>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge2" class="edge"><title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M22.5418,-402.116C24.7252,-470.151 35.073,-681.986 80,-730 93.3617,-744.28 114.841,-749.247 132.863,-750.66"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="26.0314,-401.705 22.2397,-391.812 19.0344,-401.91 26.0314,-401.705"/>
+<path fill="none" stroke="midnightblue" d="M22.4646,-402.078C24.4206,-470.969 34.1728,-687.867 80,-737 93.339,-751.301 114.818,-756.268 132.847,-757.676"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="25.953,-401.576 22.1979,-391.669 18.9553,-401.756 25.953,-401.576"/>
 </g>
 <!-- Node3 -->
 <g id="node5" class="node"><title>Node3</title>
 <a xlink:href="../../d2/d39/class_angle.html#adc81c430c409954497b6387ad818ae10" target="_top" xlink:title="Get the angle in degrees as a QString. ">
-<polygon fill="white" stroke="black" points="131,-699.5 131,-720.5 199,-720.5 199,-699.5 131,-699.5"/>
-<text text-anchor="middle" x="165" y="-707.5" font-family="Helvetica,sans-Serif" font-size="10.00">toDegString</text>
+<polygon fill="white" stroke="black" points="131,-706.5 131,-727.5 199,-727.5 199,-706.5 131,-706.5"/>
+<text text-anchor="middle" x="165" y="-714.5" font-family="Helvetica,sans-Serif" font-size="10.00">toDegString</text>
 </a>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge4" class="edge"><title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M25.8656,-402.055C33.215,-439.493 51.1003,-519.573 80,-582 101.741,-628.963 139.345,-678.255 156.284,-699.377"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="29.2349,-401.039 23.9225,-391.872 22.359,-402.351 29.2349,-401.039"/>
+<path fill="none" stroke="midnightblue" d="M25.5428,-401.746C32.5624,-440.034 50.1905,-523.842 80,-589 101.53,-636.06 139.242,-685.302 156.246,-706.394"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="28.9707,-401.032 23.7726,-391.8 22.079,-402.258 28.9707,-401.032"/>
 </g>
 <!-- Node15 -->
 <g id="node34" class="node"><title>Node15</title>
@@ -54,300 +54,300 @@
 <!-- Node18 -->
 <g id="node40" class="node"><title>Node18</title>
 <a xlink:href="../../da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" target="_top" xlink:title="project::BI_Footprint\l::init">
-<polygon fill="white" stroke="black" points="725.5,-476 725.5,-510 830.5,-510 830.5,-476 725.5,-476"/>
-<text text-anchor="start" x="733.5" y="-497" font-family="Helvetica,sans-Serif" font-size="10.00">project::BI_Footprint</text>
-<text text-anchor="middle" x="778" y="-484" font-family="Helvetica,sans-Serif" font-size="10.00">::init</text>
+<polygon fill="white" stroke="black" points="725.5,-454 725.5,-488 830.5,-488 830.5,-454 725.5,-454"/>
+<text text-anchor="start" x="733.5" y="-475" font-family="Helvetica,sans-Serif" font-size="10.00">project::BI_Footprint</text>
+<text text-anchor="middle" x="778" y="-462" font-family="Helvetica,sans-Serif" font-size="10.00">::init</text>
 </a>
 </g>
 <!-- Node1&#45;&gt;Node18 -->
-<g id="edge76" class="edge"><title>Node1&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M24.0842,-401.842C28.4349,-433.286 41.5356,-492.229 80,-521 185.108,-599.62 542.478,-580.095 670,-549 700.574,-541.545 732.144,-523.797 753.193,-510.264"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="27.522,-401.116 22.8464,-391.609 20.5726,-401.957 27.522,-401.116"/>
+<g id="edge80" class="edge"><title>Node1&#45;&gt;Node18</title>
+<path fill="none" stroke="midnightblue" d="M23.3453,-401.721C26.7254,-435.319 38.5703,-501.218 80,-534 152.412,-591.297 193.857,-554.987 286,-561 456.319,-572.114 509.428,-613.867 670,-556 708.385,-542.167 743.678,-508.888 762.883,-488.315"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="26.8247,-401.329 22.493,-391.66 19.8497,-401.92 26.8247,-401.329"/>
 </g>
 <!-- Node20 -->
 <g id="node45" class="node"><title>Node20</title>
 <a xlink:href="../../da/d96/classproject_1_1_b_i___footprint.html#ab6c0fcabcb9d5a38a27ed7aeb34f0958" target="_top" xlink:title="project::BI_Footprint\l::componentInstanceRotated">
-<polygon fill="white" stroke="black" points="516.5,-506 516.5,-540 659.5,-540 659.5,-506 516.5,-506"/>
-<text text-anchor="start" x="524.5" y="-527" font-family="Helvetica,sans-Serif" font-size="10.00">project::BI_Footprint</text>
-<text text-anchor="middle" x="588" y="-514" font-family="Helvetica,sans-Serif" font-size="10.00">::componentInstanceRotated</text>
+<polygon fill="white" stroke="black" points="516.5,-513 516.5,-547 659.5,-547 659.5,-513 516.5,-513"/>
+<text text-anchor="start" x="524.5" y="-534" font-family="Helvetica,sans-Serif" font-size="10.00">project::BI_Footprint</text>
+<text text-anchor="middle" x="588" y="-521" font-family="Helvetica,sans-Serif" font-size="10.00">::componentInstanceRotated</text>
 </a>
 </g>
 <!-- Node1&#45;&gt;Node20 -->
-<g id="edge78" class="edge"><title>Node1&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M26.6006,-401.311C33.5086,-426.687 49.1758,-469.286 80,-490 149.321,-536.584 393.175,-532.371 516.07,-526.975"/>
+<g id="edge82" class="edge"><title>Node1&#45;&gt;Node20</title>
+<path fill="none" stroke="midnightblue" d="M26.6006,-401.311C33.5086,-426.687 49.1758,-469.286 80,-490 212.537,-579.066 410.721,-562.42 516.09,-544.855"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="29.9926,-400.448 24.1577,-391.604 23.2043,-402.156 29.9926,-400.448"/>
 </g>
-<!-- Node21 -->
-<g id="node48" class="node"><title>Node21</title>
+<!-- Node22 -->
+<g id="node51" class="node"><title>Node22</title>
 <a xlink:href="../../dc/d87/classproject_1_1_b_g_i___footprint.html#aa77fc5d2da89e1f09b09f7c6724ed721" target="_top" xlink:title="project::BGI_Footprint\l::paint">
 <polygon fill="white" stroke="black" points="321.5,-416 321.5,-450 434.5,-450 434.5,-416 321.5,-416"/>
 <text text-anchor="start" x="329.5" y="-437" font-family="Helvetica,sans-Serif" font-size="10.00">project::BGI_Footprint</text>
 <text text-anchor="middle" x="378" y="-424" font-family="Helvetica,sans-Serif" font-size="10.00">::paint</text>
 </a>
 </g>
-<!-- Node1&#45;&gt;Node21 -->
-<g id="edge74" class="edge"><title>Node1&#45;&gt;Node21</title>
+<!-- Node1&#45;&gt;Node22 -->
+<g id="edge78" class="edge"><title>Node1&#45;&gt;Node22</title>
 <path fill="none" stroke="midnightblue" d="M53.5927,-389.292C62.1242,-391.349 71.3809,-393.415 80,-395 163.483,-410.35 261.261,-421.541 321.417,-427.657"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="54.1859,-385.834 43.6373,-386.822 52.4999,-392.627 54.1859,-385.834"/>
 </g>
-<!-- Node22 -->
-<g id="node50" class="node"><title>Node22</title>
+<!-- Node23 -->
+<g id="node53" class="node"><title>Node23</title>
 <a xlink:href="../../d1/d7f/classlibrary_1_1_symbol_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" target="_top" xlink:title="library::SymbolPolygon\l::toQPainterPathPx">
 <polygon fill="white" stroke="black" points="106.5,-281 106.5,-315 223.5,-315 223.5,-281 106.5,-281"/>
 <text text-anchor="start" x="114.5" y="-302" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolPolygon</text>
 <text text-anchor="middle" x="165" y="-289" font-family="Helvetica,sans-Serif" font-size="10.00">::toQPainterPathPx</text>
 </a>
 </g>
-<!-- Node1&#45;&gt;Node22 -->
-<g id="edge56" class="edge"><title>Node1&#45;&gt;Node22</title>
+<!-- Node1&#45;&gt;Node23 -->
+<g id="edge60" class="edge"><title>Node1&#45;&gt;Node23</title>
 <path fill="none" stroke="midnightblue" d="M38.8738,-362.674C49.7565,-351.715 64.6951,-338.181 80,-329 88.8903,-323.667 98.8462,-319.024 108.727,-315.068"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="36.1369,-360.47 31.719,-370.1 41.1779,-365.327 36.1369,-360.47"/>
 </g>
-<!-- Node24 -->
-<g id="node54" class="node"><title>Node24</title>
+<!-- Node25 -->
+<g id="node57" class="node"><title>Node25</title>
 <a xlink:href="../../d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#aa77fc5d2da89e1f09b09f7c6724ed721" target="_top" xlink:title="library::SymbolPreviewGraphics\lItem::paint">
 <polygon fill="white" stroke="black" points="300,-312 300,-346 456,-346 456,-312 300,-312"/>
 <text text-anchor="start" x="308" y="-333" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolPreviewGraphics</text>
 <text text-anchor="middle" x="378" y="-320" font-family="Helvetica,sans-Serif" font-size="10.00">Item::paint</text>
 </a>
 </g>
-<!-- Node1&#45;&gt;Node24 -->
-<g id="edge72" class="edge"><title>Node1&#45;&gt;Node24</title>
+<!-- Node1&#45;&gt;Node25 -->
+<g id="edge76" class="edge"><title>Node1&#45;&gt;Node25</title>
 <path fill="none" stroke="midnightblue" d="M53.9038,-376.34C108.832,-368.317 222.772,-351.674 299.827,-340.419"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="53.1226,-372.917 43.7335,-377.825 54.1344,-379.843 53.1226,-372.917"/>
 </g>
-<!-- Node28 -->
-<g id="node62" class="node"><title>Node28</title>
+<!-- Node29 -->
+<g id="node65" class="node"><title>Node29</title>
 <a xlink:href="../../dd/d00/classproject_1_1_s_g_i___symbol.html#aa77fc5d2da89e1f09b09f7c6724ed721" target="_top" xlink:title="project::SGI_Symbol\l::paint">
 <polygon fill="white" stroke="black" points="324.5,-156 324.5,-190 431.5,-190 431.5,-156 324.5,-156"/>
 <text text-anchor="start" x="332.5" y="-177" font-family="Helvetica,sans-Serif" font-size="10.00">project::SGI_Symbol</text>
 <text text-anchor="middle" x="378" y="-164" font-family="Helvetica,sans-Serif" font-size="10.00">::paint</text>
 </a>
 </g>
-<!-- Node1&#45;&gt;Node28 -->
-<g id="edge88" class="edge"><title>Node1&#45;&gt;Node28</title>
+<!-- Node1&#45;&gt;Node29 -->
+<g id="edge94" class="edge"><title>Node1&#45;&gt;Node29</title>
 <path fill="none" stroke="midnightblue" d="M27.2127,-360.539C34.6425,-335.673 50.735,-294.287 80,-272 141.593,-225.094 181.895,-270.819 250,-234 269.63,-223.387 266.672,-210.153 286,-199 297.645,-192.281 311.131,-187.21 324.127,-183.418"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="23.784,-359.804 24.4687,-370.377 30.5267,-361.685 23.784,-359.804"/>
 </g>
-<!-- Node29 -->
-<g id="node64" class="node"><title>Node29</title>
+<!-- Node30 -->
+<g id="node67" class="node"><title>Node30</title>
 <a xlink:href="../../d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#a686732ebe57e974c4b06dc6da431d1da" target="_top" xlink:title="library::SymbolPreviewGraphics\lItem::SymbolPreviewGraphicsItem">
 <polygon fill="white" stroke="black" points="80.5,-191 80.5,-225 249.5,-225 249.5,-191 80.5,-191"/>
 <text text-anchor="start" x="88.5" y="-212" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolPreviewGraphics</text>
 <text text-anchor="middle" x="165" y="-199" font-family="Helvetica,sans-Serif" font-size="10.00">Item::SymbolPreviewGraphicsItem</text>
 </a>
 </g>
-<!-- Node1&#45;&gt;Node29 -->
-<g id="edge70" class="edge"><title>Node1&#45;&gt;Node29</title>
+<!-- Node1&#45;&gt;Node30 -->
+<g id="edge74" class="edge"><title>Node1&#45;&gt;Node30</title>
 <path fill="none" stroke="midnightblue" d="M25.013,-360.533C30.5488,-330.006 45.1431,-272.555 80,-239 85.7713,-233.444 92.6167,-228.872 99.879,-225.111"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="21.5489,-360.029 23.3626,-370.467 28.4542,-361.176 21.5489,-360.029"/>
 </g>
-<!-- Node30 -->
-<g id="node70" class="node"><title>Node30</title>
+<!-- Node31 -->
+<g id="node73" class="node"><title>Node31</title>
 <a xlink:href="../../d4/ddd/classproject_1_1_b_i___footprint_pad.html#a212e36e19edc323ddeb73387d2f011a5" target="_top" xlink:title="project::BI_FootprintPad\l::updatePosition">
 <polygon fill="white" stroke="black" points="317,-364 317,-398 439,-398 439,-364 317,-364"/>
 <text text-anchor="start" x="325" y="-385" font-family="Helvetica,sans-Serif" font-size="10.00">project::BI_FootprintPad</text>
 <text text-anchor="middle" x="378" y="-372" font-family="Helvetica,sans-Serif" font-size="10.00">::updatePosition</text>
 </a>
 </g>
-<!-- Node1&#45;&gt;Node30 -->
-<g id="edge80" class="edge"><title>Node1&#45;&gt;Node30</title>
+<!-- Node1&#45;&gt;Node31 -->
+<g id="edge84" class="edge"><title>Node1&#45;&gt;Node31</title>
 <path fill="none" stroke="midnightblue" d="M53.9518,-381C113.079,-381 240.47,-381 316.73,-381"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="53.7335,-377.5 43.7335,-381 53.7335,-384.5 53.7335,-377.5"/>
 </g>
-<!-- Node32 -->
-<g id="node77" class="node"><title>Node32</title>
+<!-- Node33 -->
+<g id="node81" class="node"><title>Node33</title>
 <a xlink:href="../../d1/d7b/classproject_1_1_s_i___net_label.html#a02fd73d861ef2e4aabb38c0c9ff82947" target="_top" xlink:title="project::SI_NetLabel\l::init">
 <polygon fill="white" stroke="black" points="112,-139 112,-173 218,-173 218,-139 112,-139"/>
 <text text-anchor="start" x="120" y="-160" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_NetLabel</text>
 <text text-anchor="middle" x="165" y="-147" font-family="Helvetica,sans-Serif" font-size="10.00">::init</text>
 </a>
 </g>
-<!-- Node1&#45;&gt;Node32 -->
-<g id="edge90" class="edge"><title>Node1&#45;&gt;Node32</title>
+<!-- Node1&#45;&gt;Node33 -->
+<g id="edge96" class="edge"><title>Node1&#45;&gt;Node33</title>
 <path fill="none" stroke="midnightblue" d="M25.4266,-360.597C33.4413,-315.17 54.6635,-207.674 80,-182 88.5632,-173.323 99.9358,-167.525 111.569,-163.656"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="21.9716,-360.037 23.7186,-370.487 28.8695,-361.228 21.9716,-360.037"/>
 </g>
-<!-- Node33 -->
-<g id="node79" class="node"><title>Node33</title>
+<!-- Node34 -->
+<g id="node83" class="node"><title>Node34</title>
 <a xlink:href="../../d6/d12/classproject_1_1_s_i___symbol_pin.html#a212e36e19edc323ddeb73387d2f011a5" target="_top" xlink:title="project::SI_SymbolPin\l::updatePosition">
 <polygon fill="white" stroke="black" points="108,-70 108,-104 222,-104 222,-70 108,-70"/>
 <text text-anchor="start" x="116" y="-91" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_SymbolPin</text>
 <text text-anchor="middle" x="165" y="-78" font-family="Helvetica,sans-Serif" font-size="10.00">::updatePosition</text>
 </a>
 </g>
-<!-- Node1&#45;&gt;Node33 -->
-<g id="edge92" class="edge"><title>Node1&#45;&gt;Node33</title>
+<!-- Node1&#45;&gt;Node34 -->
+<g id="edge98" class="edge"><title>Node1&#45;&gt;Node34</title>
 <path fill="none" stroke="midnightblue" d="M24.4891,-360.417C31.2795,-307.133 51.5379,-166.314 80,-130 88.6715,-118.936 100.955,-110.479 113.497,-104.117"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="21.0099,-360.033 23.2464,-370.389 27.9562,-360.899 21.0099,-360.033"/>
 </g>
 <!-- Node4 -->
 <g id="node7" class="node"><title>Node4</title>
 <a xlink:href="../../d1/dad/classlibrary_1_1_footprint_ellipse.html#aeb87054a7c12b9ccee59af89a9abf24f" target="_top" xlink:title="Serialize the object to a XML DOM element. ">
-<polygon fill="white" stroke="black" points="516,-596 516,-630 660,-630 660,-596 516,-596"/>
-<text text-anchor="start" x="524" y="-617" font-family="Helvetica,sans-Serif" font-size="10.00">library::FootprintEllipse</text>
-<text text-anchor="middle" x="588" y="-604" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
+<polygon fill="white" stroke="black" points="516,-603 516,-637 660,-637 660,-603 516,-603"/>
+<text text-anchor="start" x="524" y="-624" font-family="Helvetica,sans-Serif" font-size="10.00">library::FootprintEllipse</text>
+<text text-anchor="middle" x="588" y="-611" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
 </a>
 </g>
 <!-- Node3&#45;&gt;Node4 -->
 <g id="edge6" class="edge"><title>Node3&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M197.994,-695.441C221.998,-685.349 255.502,-672.286 286,-664 363.226,-643.018 454.027,-629.08 515.751,-621.155"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="196.475,-692.284 188.646,-699.423 199.218,-698.724 196.475,-692.284"/>
+<path fill="none" stroke="midnightblue" d="M197.994,-702.441C221.998,-692.349 255.502,-679.286 286,-671 363.226,-650.018 454.027,-636.08 515.751,-628.155"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="196.475,-699.284 188.646,-706.423 199.218,-705.724 196.475,-699.284"/>
 </g>
 <!-- Node6 -->
 <g id="node11" class="node"><title>Node6</title>
 <a xlink:href="../../da/d46/classlibrary_1_1_footprint_polygon_segment.html#aeb87054a7c12b9ccee59af89a9abf24f" target="_top" xlink:title="Serialize the object to a XML DOM element. ">
-<polygon fill="white" stroke="black" points="286.5,-693 286.5,-727 469.5,-727 469.5,-693 286.5,-693"/>
-<text text-anchor="start" x="294.5" y="-714" font-family="Helvetica,sans-Serif" font-size="10.00">library::FootprintPolygon</text>
-<text text-anchor="middle" x="378" y="-701" font-family="Helvetica,sans-Serif" font-size="10.00">Segment::serializeToXmlDomElement</text>
+<polygon fill="white" stroke="black" points="286.5,-700 286.5,-734 469.5,-734 469.5,-700 286.5,-700"/>
+<text text-anchor="start" x="294.5" y="-721" font-family="Helvetica,sans-Serif" font-size="10.00">library::FootprintPolygon</text>
+<text text-anchor="middle" x="378" y="-708" font-family="Helvetica,sans-Serif" font-size="10.00">Segment::serializeToXmlDomElement</text>
 </a>
 </g>
 <!-- Node3&#45;&gt;Node6 -->
 <g id="edge10" class="edge"><title>Node3&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M209.394,-710C231.75,-710 259.718,-710 286.411,-710"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="209.222,-706.5 199.222,-710 209.222,-713.5 209.222,-706.5"/>
+<path fill="none" stroke="midnightblue" d="M209.394,-717C231.75,-717 259.718,-717 286.411,-717"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="209.222,-713.5 199.222,-717 209.222,-720.5 209.222,-713.5"/>
 </g>
 <!-- Node8 -->
 <g id="node16" class="node"><title>Node8</title>
 <a xlink:href="../../db/d86/classlibrary_1_1_footprint_text.html#aeb87054a7c12b9ccee59af89a9abf24f" target="_top" xlink:title="Serialize the object to a XML DOM element. ">
-<polygon fill="white" stroke="black" points="516,-648 516,-682 660,-682 660,-648 516,-648"/>
-<text text-anchor="start" x="524" y="-669" font-family="Helvetica,sans-Serif" font-size="10.00">library::FootprintText</text>
-<text text-anchor="middle" x="588" y="-656" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
+<polygon fill="white" stroke="black" points="516,-655 516,-689 660,-689 660,-655 516,-655"/>
+<text text-anchor="start" x="524" y="-676" font-family="Helvetica,sans-Serif" font-size="10.00">library::FootprintText</text>
+<text text-anchor="middle" x="588" y="-663" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
 </a>
 </g>
 <!-- Node3&#45;&gt;Node8 -->
 <g id="edge16" class="edge"><title>Node3&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M208.926,-698.913C231.767,-693.568 260.228,-687.559 286,-684 364.06,-673.219 454.327,-668.549 515.696,-666.53"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="208.099,-695.512 199.181,-701.232 209.72,-702.322 208.099,-695.512"/>
+<path fill="none" stroke="midnightblue" d="M208.926,-705.913C231.767,-700.568 260.228,-694.559 286,-691 364.06,-680.219 454.327,-675.549 515.696,-673.53"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="208.099,-702.512 199.181,-708.232 209.72,-709.322 208.099,-702.512"/>
 </g>
 <!-- Node9 -->
 <g id="node19" class="node"><title>Node9</title>
 <a xlink:href="../../d3/d06/classlibrary_1_1_symbol_ellipse.html#aeb87054a7c12b9ccee59af89a9abf24f" target="_top" xlink:title="Serialize the object to a XML DOM element. ">
-<polygon fill="white" stroke="black" points="516,-894 516,-928 660,-928 660,-894 516,-894"/>
-<text text-anchor="start" x="524" y="-915" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolEllipse</text>
-<text text-anchor="middle" x="588" y="-902" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
+<polygon fill="white" stroke="black" points="516,-759 516,-793 660,-793 660,-759 516,-759"/>
+<text text-anchor="start" x="524" y="-780" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolEllipse</text>
+<text text-anchor="middle" x="588" y="-767" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
 </a>
 </g>
 <!-- Node3&#45;&gt;Node9 -->
 <g id="edge20" class="edge"><title>Node3&#45;&gt;Node9</title>
-<path fill="none" stroke="midnightblue" d="M209.236,-711.365C223.905,-713.971 239.222,-719.353 250,-730 297.24,-776.664 236.213,-831.065 286,-875 348.355,-930.026 448.295,-930.971 515.971,-923.552"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="209.634,-707.887 199.247,-709.975 208.669,-714.82 209.634,-707.887"/>
+<path fill="none" stroke="midnightblue" d="M208.999,-727.594C231.861,-732.808 260.317,-738.849 286,-743 364.1,-755.624 454.36,-764.784 515.717,-770.205"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="209.776,-724.181 199.245,-725.342 208.202,-731.002 209.776,-724.181"/>
 </g>
 <!-- Node11 -->
 <g id="node23" class="node"><title>Node11</title>
 <a xlink:href="../../d0/dfd/classlibrary_1_1_symbol_pin.html#aeb87054a7c12b9ccee59af89a9abf24f" target="_top" xlink:title="Serialize the object to a XML DOM element. ">
-<polygon fill="white" stroke="black" points="516,-842 516,-876 660,-876 660,-842 516,-842"/>
-<text text-anchor="start" x="524" y="-863" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolPin</text>
-<text text-anchor="middle" x="588" y="-850" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
+<polygon fill="white" stroke="black" points="306,-894 306,-928 450,-928 450,-894 306,-894"/>
+<text text-anchor="start" x="314" y="-915" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolPin</text>
+<text text-anchor="middle" x="378" y="-902" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
 </a>
 </g>
 <!-- Node3&#45;&gt;Node11 -->
 <g id="edge24" class="edge"><title>Node3&#45;&gt;Node11</title>
-<path fill="none" stroke="midnightblue" d="M209.587,-711.954C223.983,-714.647 239.038,-719.934 250,-730 287.89,-764.792 245.321,-808.515 286,-840 350.913,-890.241 449.09,-886.231 515.744,-875.478"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="209.695,-708.432 199.288,-710.421 208.664,-715.355 209.695,-708.432"/>
+<path fill="none" stroke="midnightblue" d="M209.264,-718.337C223.936,-720.94 239.247,-726.327 250,-737 298.048,-784.688 239.021,-836.259 286,-885 291.644,-890.856 298.498,-895.422 305.892,-898.979"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="209.659,-714.858 199.272,-716.949 208.696,-721.792 209.659,-714.858"/>
 </g>
 <!-- Node12 -->
 <g id="node26" class="node"><title>Node12</title>
 <a xlink:href="../../d9/d94/classlibrary_1_1_symbol_polygon_segment.html#aeb87054a7c12b9ccee59af89a9abf24f" target="_top" xlink:title="Serialize the object to a XML DOM element. ">
-<polygon fill="white" stroke="black" points="300,-797 300,-831 456,-831 456,-797 300,-797"/>
-<text text-anchor="start" x="308" y="-818" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolPolygonSegment</text>
-<text text-anchor="middle" x="378" y="-805" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
+<polygon fill="white" stroke="black" points="300,-842 300,-876 456,-876 456,-842 300,-842"/>
+<text text-anchor="start" x="308" y="-863" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolPolygonSegment</text>
+<text text-anchor="middle" x="378" y="-850" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
 </a>
 </g>
 <!-- Node3&#45;&gt;Node12 -->
 <g id="edge28" class="edge"><title>Node3&#45;&gt;Node12</title>
-<path fill="none" stroke="midnightblue" d="M209.363,-713.74C223.35,-716.595 238.212,-721.527 250,-730 274.636,-747.707 261.762,-769.751 286,-788 290.508,-791.394 295.442,-794.346 300.608,-796.912"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="209.84,-710.27 199.389,-712.007 208.642,-717.167 209.84,-710.27"/>
+<path fill="none" stroke="midnightblue" d="M209.346,-719.222C223.722,-721.937 238.826,-727.169 250,-737 284.211,-767.1 252.464,-802.149 286,-833 290.153,-836.821 294.826,-840.085 299.807,-842.874"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="209.485,-715.703 199.073,-717.661 208.433,-722.624 209.485,-715.703"/>
 </g>
 <!-- Node14 -->
 <g id="node31" class="node"><title>Node14</title>
 <a xlink:href="../../db/df7/classlibrary_1_1_symbol_text.html#aeb87054a7c12b9ccee59af89a9abf24f" target="_top" xlink:title="Serialize the object to a XML DOM element. ">
-<polygon fill="white" stroke="black" points="306,-745 306,-779 450,-779 450,-745 306,-745"/>
-<text text-anchor="start" x="314" y="-766" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolText</text>
-<text text-anchor="middle" x="378" y="-753" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
+<polygon fill="white" stroke="black" points="306,-790 306,-824 450,-824 450,-790 306,-790"/>
+<text text-anchor="start" x="314" y="-811" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolText</text>
+<text text-anchor="middle" x="378" y="-798" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
 </a>
 </g>
 <!-- Node3&#45;&gt;Node14 -->
 <g id="edge34" class="edge"><title>Node3&#45;&gt;Node14</title>
-<path fill="none" stroke="midnightblue" d="M209.124,-720.259C222.284,-723.352 236.734,-726.781 250,-730 269.7,-734.78 291.077,-740.079 310.617,-744.968"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="209.888,-716.844 199.353,-717.969 208.29,-723.659 209.888,-716.844"/>
+<path fill="none" stroke="midnightblue" d="M208.832,-722.173C222.663,-725.12 237.567,-729.745 250,-737 270.374,-748.889 266.207,-763.168 286,-776 294.485,-781.501 304.047,-786.127 313.714,-789.985"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="209.478,-718.733 199.001,-720.31 208.174,-725.611 209.478,-718.733"/>
 </g>
 <!-- Node5 -->
 <g id="node9" class="node"><title>Node5</title>
 <a xlink:href="../../d8/dea/classlibrary_1_1_footprint.html#aeb87054a7c12b9ccee59af89a9abf24f" target="_top" xlink:title="Serialize the object to a XML DOM element. ">
-<polygon fill="white" stroke="black" points="706,-648 706,-682 850,-682 850,-648 706,-648"/>
-<text text-anchor="start" x="714" y="-669" font-family="Helvetica,sans-Serif" font-size="10.00">library::Footprint</text>
-<text text-anchor="middle" x="778" y="-656" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
+<polygon fill="white" stroke="black" points="706,-655 706,-689 850,-689 850,-655 706,-655"/>
+<text text-anchor="start" x="714" y="-676" font-family="Helvetica,sans-Serif" font-size="10.00">library::Footprint</text>
+<text text-anchor="middle" x="778" y="-663" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
 </a>
 </g>
 <!-- Node4&#45;&gt;Node5 -->
 <g id="edge8" class="edge"><title>Node4&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M659.961,-632.695C678.292,-637.712 697.841,-643.062 715.647,-647.935"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="660.782,-629.291 650.213,-630.027 658.934,-636.042 660.782,-629.291"/>
+<path fill="none" stroke="midnightblue" d="M659.961,-639.695C678.292,-644.712 697.841,-650.062 715.647,-654.935"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="660.782,-636.291 650.213,-637.027 658.934,-643.042 660.782,-636.291"/>
 </g>
 <!-- Node7 -->
 <g id="node13" class="node"><title>Node7</title>
 <a xlink:href="../../d2/d28/classlibrary_1_1_footprint_polygon.html#aeb87054a7c12b9ccee59af89a9abf24f" target="_top" xlink:title="Serialize the object to a XML DOM element. ">
-<polygon fill="white" stroke="black" points="516,-700 516,-734 660,-734 660,-700 516,-700"/>
-<text text-anchor="start" x="524" y="-721" font-family="Helvetica,sans-Serif" font-size="10.00">library::FootprintPolygon</text>
-<text text-anchor="middle" x="588" y="-708" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
+<polygon fill="white" stroke="black" points="516,-707 516,-741 660,-741 660,-707 516,-707"/>
+<text text-anchor="start" x="524" y="-728" font-family="Helvetica,sans-Serif" font-size="10.00">library::FootprintPolygon</text>
+<text text-anchor="middle" x="588" y="-715" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
 </a>
 </g>
 <!-- Node6&#45;&gt;Node7 -->
 <g id="edge12" class="edge"><title>Node6&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M479.985,-713.399C492.137,-713.805 504.344,-714.211 515.953,-714.598"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="479.915,-709.895 469.804,-713.06 479.681,-716.891 479.915,-709.895"/>
+<path fill="none" stroke="midnightblue" d="M479.985,-720.399C492.137,-720.805 504.344,-721.211 515.953,-721.598"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="479.915,-716.895 469.804,-720.06 479.681,-723.891 479.915,-716.895"/>
 </g>
 <!-- Node7&#45;&gt;Node5 -->
 <g id="edge14" class="edge"><title>Node7&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M659.961,-697.305C678.292,-692.288 697.841,-686.938 715.647,-682.065"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="658.934,-693.958 650.213,-699.973 660.782,-700.709 658.934,-693.958"/>
+<path fill="none" stroke="midnightblue" d="M659.961,-704.305C678.292,-699.288 697.841,-693.938 715.647,-689.065"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="658.934,-700.958 650.213,-706.973 660.782,-707.709 658.934,-700.958"/>
 </g>
 <!-- Node8&#45;&gt;Node5 -->
 <g id="edge18" class="edge"><title>Node8&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M670.411,-665C682.242,-665 694.338,-665 705.947,-665"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="670.102,-661.5 660.102,-665 670.102,-668.5 670.102,-661.5"/>
+<path fill="none" stroke="midnightblue" d="M670.411,-672C682.242,-672 694.338,-672 705.947,-672"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="670.102,-668.5 660.102,-672 670.102,-675.5 670.102,-668.5"/>
 </g>
 <!-- Node10 -->
 <g id="node21" class="node"><title>Node10</title>
 <a xlink:href="../../d9/db9/classlibrary_1_1_symbol.html#aeb87054a7c12b9ccee59af89a9abf24f" target="_top" xlink:title="Serialize the object to a XML DOM element. ">
-<polygon fill="white" stroke="black" points="716,-816 716,-850 840,-850 840,-816 716,-816"/>
-<text text-anchor="start" x="724" y="-837" font-family="Helvetica,sans-Serif" font-size="10.00">library::Symbol::serialize</text>
-<text text-anchor="middle" x="778" y="-824" font-family="Helvetica,sans-Serif" font-size="10.00">ToXmlDomElement</text>
+<polygon fill="white" stroke="black" points="716,-826 716,-860 840,-860 840,-826 716,-826"/>
+<text text-anchor="start" x="724" y="-847" font-family="Helvetica,sans-Serif" font-size="10.00">library::Symbol::serialize</text>
+<text text-anchor="middle" x="778" y="-834" font-family="Helvetica,sans-Serif" font-size="10.00">ToXmlDomElement</text>
 </a>
 </g>
 <!-- Node9&#45;&gt;Node10 -->
 <g id="edge22" class="edge"><title>Node9&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M655.075,-890.595C660.156,-888.787 665.179,-886.914 670,-885 695.918,-874.711 724.294,-860.946 745.453,-850.163"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="653.578,-887.41 645.272,-893.987 655.866,-894.025 653.578,-887.41"/>
+<path fill="none" stroke="midnightblue" d="M646.065,-796.476C672.821,-805.911 704.206,-816.978 729.652,-825.951"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="647.031,-793.105 636.437,-793.08 644.703,-799.707 647.031,-793.105"/>
 </g>
 <!-- Node11&#45;&gt;Node10 -->
 <g id="edge26" class="edge"><title>Node11&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M670.106,-847.765C685.455,-845.664 701.262,-843.501 715.884,-841.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="669.535,-844.31 660.102,-849.133 670.484,-851.245 669.535,-844.31"/>
+<path fill="none" stroke="midnightblue" d="M460.255,-913.479C519.437,-913.38 600.706,-909.358 670,-892 697.562,-885.096 726.792,-871.396 747.883,-860.234"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="460.219,-909.979 450.212,-913.459 460.205,-916.979 460.219,-909.979"/>
 </g>
 <!-- Node13 -->
 <g id="node28" class="node"><title>Node13</title>
 <a xlink:href="../../d1/d7f/classlibrary_1_1_symbol_polygon.html#aeb87054a7c12b9ccee59af89a9abf24f" target="_top" xlink:title="Serialize the object to a XML DOM element. ">
-<polygon fill="white" stroke="black" points="516,-790 516,-824 660,-824 660,-790 516,-790"/>
-<text text-anchor="start" x="524" y="-811" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolPolygon</text>
-<text text-anchor="middle" x="588" y="-798" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
+<polygon fill="white" stroke="black" points="516,-849 516,-883 660,-883 660,-849 516,-849"/>
+<text text-anchor="start" x="524" y="-870" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolPolygon</text>
+<text text-anchor="middle" x="588" y="-857" font-family="Helvetica,sans-Serif" font-size="10.00">::serializeToXmlDomElement</text>
 </a>
 </g>
 <!-- Node12&#45;&gt;Node13 -->
 <g id="edge30" class="edge"><title>Node12&#45;&gt;Node13</title>
-<path fill="none" stroke="midnightblue" d="M466.401,-811.053C482.932,-810.502 500.025,-809.932 515.987,-809.4"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="466.074,-807.562 456.196,-811.393 466.307,-814.558 466.074,-807.562"/>
+<path fill="none" stroke="midnightblue" d="M466.401,-861.947C482.932,-862.498 500.025,-863.068 515.987,-863.6"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="466.307,-858.442 456.196,-861.607 466.074,-865.438 466.307,-858.442"/>
 </g>
 <!-- Node13&#45;&gt;Node10 -->
 <g id="edge32" class="edge"><title>Node13&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M670.106,-818.235C685.455,-820.336 701.262,-822.499 715.884,-824.5"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="670.484,-814.755 660.102,-816.867 669.535,-821.69 670.484,-814.755"/>
+<path fill="none" stroke="midnightblue" d="M670.106,-856.061C685.455,-854.203 701.262,-852.289 715.884,-850.519"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="669.609,-852.595 660.102,-857.272 670.45,-859.545 669.609,-852.595"/>
 </g>
 <!-- Node14&#45;&gt;Node10 -->
 <g id="edge36" class="edge"><title>Node14&#45;&gt;Node10</title>
-<path fill="none" stroke="midnightblue" d="M460.08,-759.041C519.346,-758.896 600.792,-762.823 670,-781 698.782,-788.56 729.108,-803.899 750.273,-815.968"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="460.001,-755.541 450.023,-759.105 460.045,-762.541 460.001,-755.541"/>
+<path fill="none" stroke="midnightblue" d="M460.443,-814.42C536.355,-821.252 647.294,-831.237 715.947,-837.415"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="460.71,-810.93 450.437,-813.519 460.083,-817.902 460.71,-810.93"/>
 </g>
 <!-- Node16 -->
 <g id="node36" class="node"><title>Node16</title>
@@ -362,236 +362,259 @@
 <path fill="none" stroke="midnightblue" d="M236.058,-471.006C260.735,-473.439 288.278,-476.154 312.487,-478.541"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="236.332,-467.516 226.037,-470.018 235.646,-474.482 236.332,-467.516"/>
 </g>
-<!-- Node15&#45;&gt;Node21 -->
-<g id="edge54" class="edge"><title>Node15&#45;&gt;Node21</title>
+<!-- Node15&#45;&gt;Node22 -->
+<g id="edge58" class="edge"><title>Node15&#45;&gt;Node22</title>
 <path fill="none" stroke="midnightblue" d="M236.076,-453.656C263.812,-449.619 295.165,-445.056 321.335,-441.247"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="235.429,-450.213 226.037,-455.117 236.437,-457.14 235.429,-450.213"/>
 </g>
 <!-- Node17 -->
 <g id="node38" class="node"><title>Node17</title>
 <a xlink:href="../../da/d96/classproject_1_1_b_i___footprint.html#a80db668afe30ac6b6c9e5eb061b61cfc" target="_top" xlink:title="project::BI_Footprint\l::componentInstanceAttributes\lChanged">
-<polygon fill="white" stroke="black" points="513,-440.5 513,-487.5 663,-487.5 663,-440.5 513,-440.5"/>
-<text text-anchor="start" x="521" y="-474.5" font-family="Helvetica,sans-Serif" font-size="10.00">project::BI_Footprint</text>
-<text text-anchor="start" x="521" y="-461.5" font-family="Helvetica,sans-Serif" font-size="10.00">::componentInstanceAttributes</text>
-<text text-anchor="middle" x="588" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00">Changed</text>
+<polygon fill="white" stroke="black" points="513,-447.5 513,-494.5 663,-494.5 663,-447.5 513,-447.5"/>
+<text text-anchor="start" x="521" y="-481.5" font-family="Helvetica,sans-Serif" font-size="10.00">project::BI_Footprint</text>
+<text text-anchor="start" x="521" y="-468.5" font-family="Helvetica,sans-Serif" font-size="10.00">::componentInstanceAttributes</text>
+<text text-anchor="middle" x="588" y="-455.5" font-family="Helvetica,sans-Serif" font-size="10.00">Changed</text>
 </a>
 </g>
 <!-- Node16&#45;&gt;Node17 -->
 <g id="edge42" class="edge"><title>Node16&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M453.762,-477.424C472.927,-475.507 493.505,-473.45 512.65,-471.535"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="453.184,-473.964 443.582,-478.442 453.88,-480.929 453.184,-473.964"/>
+<path fill="none" stroke="midnightblue" d="M453.762,-479.949C472.927,-478.672 493.505,-477.3 512.65,-476.023"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="453.327,-476.47 443.582,-480.628 453.792,-483.455 453.327,-476.47"/>
 </g>
 <!-- Node19 -->
 <g id="node42" class="node"><title>Node19</title>
 <a xlink:href="../../da/d96/classproject_1_1_b_i___footprint.html#a271c63e12acd19bccc27bf6861938df2" target="_top" xlink:title="project::BI_Footprint\l::componentInstanceMoved">
-<polygon fill="white" stroke="black" points="519.5,-388 519.5,-422 656.5,-422 656.5,-388 519.5,-388"/>
-<text text-anchor="start" x="527.5" y="-409" font-family="Helvetica,sans-Serif" font-size="10.00">project::BI_Footprint</text>
-<text text-anchor="middle" x="588" y="-396" font-family="Helvetica,sans-Serif" font-size="10.00">::componentInstanceMoved</text>
+<polygon fill="white" stroke="black" points="519.5,-343 519.5,-377 656.5,-377 656.5,-343 519.5,-343"/>
+<text text-anchor="start" x="527.5" y="-364" font-family="Helvetica,sans-Serif" font-size="10.00">project::BI_Footprint</text>
+<text text-anchor="middle" x="588" y="-351" font-family="Helvetica,sans-Serif" font-size="10.00">::componentInstanceMoved</text>
 </a>
 </g>
 <!-- Node16&#45;&gt;Node19 -->
 <g id="edge46" class="edge"><title>Node16&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M453.3,-466.349C459.055,-464.132 464.686,-461.687 470,-459 488.088,-449.852 488.059,-440.433 506,-431 512.213,-427.733 518.908,-424.79 525.7,-422.161"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="451.753,-463.187 443.532,-469.869 454.126,-469.772 451.753,-463.187"/>
+<path fill="none" stroke="midnightblue" d="M453.349,-469.636C459.322,-466.69 464.976,-463.18 470,-459 497.807,-435.861 478.562,-409.576 506,-386 510.078,-382.496 514.63,-379.463 519.443,-376.839"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="451.517,-466.616 443.746,-473.817 454.312,-473.034 451.517,-466.616"/>
 </g>
 <!-- Node16&#45;&gt;Node20 -->
 <g id="edge50" class="edge"><title>Node16&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M453.491,-498.66C473.975,-502.367 496.089,-506.369 516.354,-510.035"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="454.045,-495.204 443.582,-496.867 452.798,-502.092 454.045,-495.204"/>
+<path fill="none" stroke="midnightblue" d="M453.491,-501.177C473.975,-505.566 496.089,-510.305 516.354,-514.647"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="454.093,-497.726 443.582,-499.053 452.626,-504.571 454.093,-497.726"/>
+</g>
+<!-- Node21 -->
+<g id="node48" class="node"><title>Node21</title>
+<a xlink:href="../../da/d96/classproject_1_1_b_i___footprint.html#ae00c60cb068f7bb3703a6c84450afeaf" target="_top" xlink:title="project::BI_Footprint\l::componentInstanceMirrored">
+<polygon fill="white" stroke="black" points="516.5,-395 516.5,-429 659.5,-429 659.5,-395 516.5,-395"/>
+<text text-anchor="start" x="524.5" y="-416" font-family="Helvetica,sans-Serif" font-size="10.00">project::BI_Footprint</text>
+<text text-anchor="middle" x="588" y="-403" font-family="Helvetica,sans-Serif" font-size="10.00">::componentInstanceMirrored</text>
+</a>
+</g>
+<!-- Node16&#45;&gt;Node21 -->
+<g id="edge54" class="edge"><title>Node16&#45;&gt;Node21</title>
+<path fill="none" stroke="midnightblue" d="M453.243,-465.444C458.974,-463.437 464.618,-461.287 470,-459 487.048,-451.757 489.068,-445.512 506,-438 513.235,-434.79 520.989,-431.795 528.737,-429.063"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="451.92,-462.196 443.546,-468.686 454.14,-468.834 451.92,-462.196"/>
 </g>
 <!-- Node17&#45;&gt;Node18 -->
 <g id="edge44" class="edge"><title>Node17&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M673.444,-477.041C691.144,-479.743 709.291,-482.513 725.394,-484.971"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="673.507,-473.511 663.093,-475.462 672.45,-480.43 673.507,-473.511"/>
+<path fill="none" stroke="midnightblue" d="M673.444,-471C691.144,-471 709.291,-471 725.394,-471"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="673.093,-467.5 663.093,-471 673.093,-474.5 673.093,-467.5"/>
 </g>
 <!-- Node19&#45;&gt;Node18 -->
 <g id="edge48" class="edge"><title>Node19&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M656.658,-425.554C661.214,-427.29 665.697,-429.109 670,-431 699.095,-443.788 730.387,-462.332 751.759,-475.806"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="657.836,-422.258 647.242,-422.11 655.431,-428.832 657.836,-422.258"/>
+<path fill="none" stroke="midnightblue" d="M659.76,-381.043C663.272,-382.603 666.704,-384.255 670,-386 705.005,-404.533 740.024,-434.771 760.32,-453.742"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="660.897,-377.726 650.319,-377.125 658.214,-384.191 660.897,-377.726"/>
 </g>
 <!-- Node20&#45;&gt;Node18 -->
 <g id="edge52" class="edge"><title>Node20&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M669.665,-510.105C688.57,-507.121 708.194,-504.022 725.461,-501.296"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="668.892,-506.684 659.56,-511.701 669.984,-513.598 668.892,-506.684"/>
+<path fill="none" stroke="midnightblue" d="M652.589,-509.943C676.329,-502.572 702.901,-494.32 725.455,-487.317"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="651.468,-506.627 642.956,-512.935 653.544,-513.312 651.468,-506.627"/>
 </g>
-<!-- Node23 -->
-<g id="node52" class="node"><title>Node23</title>
+<!-- Node21&#45;&gt;Node18 -->
+<g id="edge56" class="edge"><title>Node21&#45;&gt;Node18</title>
+<path fill="none" stroke="midnightblue" d="M652.589,-432.057C676.329,-439.428 702.901,-447.68 725.455,-454.683"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="653.544,-428.688 642.956,-429.065 651.468,-435.373 653.544,-428.688"/>
+</g>
+<!-- Node24 -->
+<g id="node55" class="node"><title>Node24</title>
 <a xlink:href="../../d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" target="_top" xlink:title="library::SymbolPreviewGraphics\lItem::updateCacheAndRepaint">
 <polygon fill="white" stroke="black" points="300,-208 300,-242 456,-242 456,-208 300,-208"/>
 <text text-anchor="start" x="308" y="-229" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolPreviewGraphics</text>
 <text text-anchor="middle" x="378" y="-216" font-family="Helvetica,sans-Serif" font-size="10.00">Item::updateCacheAndRepaint</text>
 </a>
 </g>
-<!-- Node22&#45;&gt;Node23 -->
-<g id="edge58" class="edge"><title>Node22&#45;&gt;Node23</title>
+<!-- Node23&#45;&gt;Node24 -->
+<g id="edge62" class="edge"><title>Node23&#45;&gt;Node24</title>
 <path fill="none" stroke="midnightblue" d="M223.385,-277.306C232.338,-273.96 241.444,-270.457 250,-267 266.234,-260.441 269.533,-256.952 286,-251 294.741,-247.841 304.061,-244.819 313.287,-242.027"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="221.929,-274.113 213.765,-280.865 224.358,-280.678 221.929,-274.113"/>
 </g>
-<!-- Node22&#45;&gt;Node24 -->
-<g id="edge60" class="edge"><title>Node22&#45;&gt;Node24</title>
+<!-- Node23&#45;&gt;Node25 -->
+<g id="edge64" class="edge"><title>Node23&#45;&gt;Node25</title>
 <path fill="none" stroke="midnightblue" d="M233.904,-308.028C254.958,-311.092 278.259,-314.484 299.878,-317.63"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="234.167,-304.53 223.767,-306.553 233.159,-311.457 234.167,-304.53"/>
 </g>
-<!-- Node25 -->
-<g id="node56" class="node"><title>Node25</title>
+<!-- Node26 -->
+<g id="node59" class="node"><title>Node26</title>
 <a xlink:href="../../dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" target="_top" xlink:title="project::SGI_Symbol\l::updateCacheAndRepaint">
 <polygon fill="white" stroke="black" points="312.5,-260 312.5,-294 443.5,-294 443.5,-260 312.5,-260"/>
 <text text-anchor="start" x="320.5" y="-281" font-family="Helvetica,sans-Serif" font-size="10.00">project::SGI_Symbol</text>
 <text text-anchor="middle" x="378" y="-268" font-family="Helvetica,sans-Serif" font-size="10.00">::updateCacheAndRepaint</text>
 </a>
 </g>
-<!-- Node22&#45;&gt;Node25 -->
-<g id="edge62" class="edge"><title>Node22&#45;&gt;Node25</title>
+<!-- Node23&#45;&gt;Node26 -->
+<g id="edge66" class="edge"><title>Node23&#45;&gt;Node26</title>
 <path fill="none" stroke="midnightblue" d="M233.96,-291.201C259.104,-288.722 287.449,-285.928 312.302,-283.477"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="233.375,-287.742 223.767,-292.206 234.062,-294.708 233.375,-287.742"/>
 </g>
-<!-- Node22&#45;&gt;Node28 -->
-<g id="edge68" class="edge"><title>Node22&#45;&gt;Node28</title>
+<!-- Node23&#45;&gt;Node29 -->
+<g id="edge72" class="edge"><title>Node23&#45;&gt;Node29</title>
 <path fill="none" stroke="midnightblue" d="M233.036,-278.546C239.128,-275.259 244.908,-271.437 250,-267 275.781,-244.534 259.403,-220.493 286,-199 296.973,-190.133 310.802,-184.287 324.38,-180.435"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="231.382,-275.458 223.929,-282.989 234.451,-281.75 231.382,-275.458"/>
 </g>
-<!-- Node26 -->
-<g id="node58" class="node"><title>Node26</title>
-<a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#a803d371853cd2d72f4df8a45349d0cb7" target="_top" xlink:title="project::SI_Symbol\l::schematicOrGenCompAttributes\lChanged">
-<polygon fill="white" stroke="black" points="506,-253.5 506,-300.5 670,-300.5 670,-253.5 506,-253.5"/>
-<text text-anchor="start" x="514" y="-287.5" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_Symbol</text>
-<text text-anchor="start" x="514" y="-274.5" font-family="Helvetica,sans-Serif" font-size="10.00">::schematicOrGenCompAttributes</text>
-<text text-anchor="middle" x="588" y="-261.5" font-family="Helvetica,sans-Serif" font-size="10.00">Changed</text>
-</a>
-</g>
-<!-- Node25&#45;&gt;Node26 -->
-<g id="edge64" class="edge"><title>Node25&#45;&gt;Node26</title>
-<path fill="none" stroke="midnightblue" d="M453.933,-277C470.813,-277 488.78,-277 505.895,-277"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="453.582,-273.5 443.582,-277 453.581,-280.5 453.582,-273.5"/>
-</g>
 <!-- Node27 -->
-<g id="node60" class="node"><title>Node27</title>
-<a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#ae4e286593d2a82f74246f9cba8193605" target="_top" xlink:title="project::SI_Symbol\l::init">
-<polygon fill="white" stroke="black" points="728,-260 728,-294 828,-294 828,-260 728,-260"/>
-<text text-anchor="start" x="736" y="-281" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_Symbol</text>
-<text text-anchor="middle" x="778" y="-268" font-family="Helvetica,sans-Serif" font-size="10.00">::init</text>
+<g id="node61" class="node"><title>Node27</title>
+<a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#a803d371853cd2d72f4df8a45349d0cb7" target="_top" xlink:title="project::SI_Symbol\l::schematicOrGenCompAttributes\lChanged">
+<polygon fill="white" stroke="black" points="506,-225.5 506,-272.5 670,-272.5 670,-225.5 506,-225.5"/>
+<text text-anchor="start" x="514" y="-259.5" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_Symbol</text>
+<text text-anchor="start" x="514" y="-246.5" font-family="Helvetica,sans-Serif" font-size="10.00">::schematicOrGenCompAttributes</text>
+<text text-anchor="middle" x="588" y="-233.5" font-family="Helvetica,sans-Serif" font-size="10.00">Changed</text>
 </a>
 </g>
 <!-- Node26&#45;&gt;Node27 -->
-<g id="edge66" class="edge"><title>Node26&#45;&gt;Node27</title>
-<path fill="none" stroke="midnightblue" d="M680.416,-277C696.822,-277 713.33,-277 727.983,-277"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="680.232,-273.5 670.232,-277 680.232,-280.5 680.232,-273.5"/>
+<g id="edge68" class="edge"><title>Node26&#45;&gt;Node27</title>
+<path fill="none" stroke="midnightblue" d="M453.933,-266.876C470.813,-264.625 488.78,-262.229 505.895,-259.947"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="453.031,-263.465 443.582,-268.256 453.956,-270.403 453.031,-263.465"/>
 </g>
-<!-- Node30&#45;&gt;Node19 -->
-<g id="edge82" class="edge"><title>Node30&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M449.259,-389.144C471.937,-391.736 496.965,-394.596 519.447,-397.165"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="449.356,-385.632 439.023,-387.974 448.561,-392.587 449.356,-385.632"/>
-</g>
-<!-- Node30&#45;&gt;Node20 -->
-<g id="edge84" class="edge"><title>Node30&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M448.968,-393.675C456.632,-397.114 463.861,-401.474 470,-407 502.021,-435.821 474.439,-467.676 506,-497 509.611,-500.355 513.653,-503.276 517.956,-505.821"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="450.037,-390.334 439.45,-389.922 447.468,-396.846 450.037,-390.334"/>
-</g>
-<!-- Node31 -->
-<g id="node74" class="node"><title>Node31</title>
-<a xlink:href="../../d4/ddd/classproject_1_1_b_i___footprint_pad.html#ac81e6cd36593d731c5e2e23048ed6754" target="_top" xlink:title="project::BI_FootprintPad\l::BI_FootprintPad">
-<polygon fill="white" stroke="black" points="527,-336 527,-370 649,-370 649,-336 527,-336"/>
-<text text-anchor="start" x="535" y="-357" font-family="Helvetica,sans-Serif" font-size="10.00">project::BI_FootprintPad</text>
-<text text-anchor="middle" x="588" y="-344" font-family="Helvetica,sans-Serif" font-size="10.00">::BI_FootprintPad</text>
+<!-- Node28 -->
+<g id="node63" class="node"><title>Node28</title>
+<a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#ae4e286593d2a82f74246f9cba8193605" target="_top" xlink:title="project::SI_Symbol\l::init">
+<polygon fill="white" stroke="black" points="728,-232 728,-266 828,-266 828,-232 728,-232"/>
+<text text-anchor="start" x="736" y="-253" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_Symbol</text>
+<text text-anchor="middle" x="778" y="-240" font-family="Helvetica,sans-Serif" font-size="10.00">::init</text>
 </a>
 </g>
-<!-- Node30&#45;&gt;Node31 -->
-<g id="edge86" class="edge"><title>Node30&#45;&gt;Node31</title>
-<path fill="none" stroke="midnightblue" d="M449.254,-371.5C474.447,-368.14 502.542,-364.394 526.825,-361.157"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="448.472,-368.073 439.023,-372.864 449.398,-375.011 448.472,-368.073"/>
+<!-- Node27&#45;&gt;Node28 -->
+<g id="edge70" class="edge"><title>Node27&#45;&gt;Node28</title>
+<path fill="none" stroke="midnightblue" d="M680.416,-249C696.822,-249 713.33,-249 727.983,-249"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="680.232,-245.5 670.232,-249 680.232,-252.5 680.232,-245.5"/>
 </g>
-<!-- Node34 -->
-<g id="node81" class="node"><title>Node34</title>
+<!-- Node31&#45;&gt;Node19 -->
+<g id="edge86" class="edge"><title>Node31&#45;&gt;Node19</title>
+<path fill="none" stroke="midnightblue" d="M449.259,-373.874C471.937,-371.606 496.965,-369.104 519.447,-366.855"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="448.625,-370.42 439.023,-374.898 449.321,-377.385 448.625,-370.42"/>
+</g>
+<!-- Node31&#45;&gt;Node20 -->
+<g id="edge88" class="edge"><title>Node31&#45;&gt;Node20</title>
+<path fill="none" stroke="midnightblue" d="M448.521,-393.264C456.378,-396.767 463.776,-401.255 470,-407 503.789,-438.19 472.708,-472.279 506,-504 509.568,-507.4 513.579,-510.355 517.859,-512.924"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="449.717,-389.973 439.129,-389.587 447.165,-396.492 449.717,-389.973"/>
+</g>
+<!-- Node31&#45;&gt;Node21 -->
+<g id="edge90" class="edge"><title>Node31&#45;&gt;Node21</title>
+<path fill="none" stroke="midnightblue" d="M449.153,-391.504C470.854,-394.707 494.714,-398.229 516.441,-401.437"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="449.427,-388.006 439.023,-390.008 448.404,-394.931 449.427,-388.006"/>
+</g>
+<!-- Node32 -->
+<g id="node78" class="node"><title>Node32</title>
+<a xlink:href="../../d4/ddd/classproject_1_1_b_i___footprint_pad.html#ac81e6cd36593d731c5e2e23048ed6754" target="_top" xlink:title="project::BI_FootprintPad\l::BI_FootprintPad">
+<polygon fill="white" stroke="black" points="527,-291 527,-325 649,-325 649,-291 527,-291"/>
+<text text-anchor="start" x="535" y="-312" font-family="Helvetica,sans-Serif" font-size="10.00">project::BI_FootprintPad</text>
+<text text-anchor="middle" x="588" y="-299" font-family="Helvetica,sans-Serif" font-size="10.00">::BI_FootprintPad</text>
+</a>
+</g>
+<!-- Node31&#45;&gt;Node32 -->
+<g id="edge92" class="edge"><title>Node31&#45;&gt;Node32</title>
+<path fill="none" stroke="midnightblue" d="M448.952,-362.915C456.15,-360.498 463.278,-357.856 470,-355 487.048,-347.757 489.068,-341.512 506,-334 513.235,-330.79 520.989,-327.795 528.737,-325.063"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="447.577,-359.681 439.127,-366.072 449.718,-366.346 447.577,-359.681"/>
+</g>
+<!-- Node35 -->
+<g id="node85" class="node"><title>Node35</title>
 <a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" target="_top" xlink:title="project::SI_Symbol\l::setPosition">
 <polygon fill="white" stroke="black" points="328,-52 328,-86 428,-86 428,-52 328,-52"/>
 <text text-anchor="start" x="336" y="-73" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_Symbol</text>
 <text text-anchor="middle" x="378" y="-60" font-family="Helvetica,sans-Serif" font-size="10.00">::setPosition</text>
 </a>
 </g>
-<!-- Node33&#45;&gt;Node34 -->
-<g id="edge94" class="edge"><title>Node33&#45;&gt;Node34</title>
+<!-- Node34&#45;&gt;Node35 -->
+<g id="edge100" class="edge"><title>Node34&#45;&gt;Node35</title>
 <path fill="none" stroke="midnightblue" d="M232.337,-81.3096C263.212,-78.7004 299.189,-75.6601 327.663,-73.2538"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="231.75,-77.8466 222.08,-82.1763 232.339,-84.8217 231.75,-77.8466"/>
 </g>
-<!-- Node38 -->
-<g id="node89" class="node"><title>Node38</title>
+<!-- Node39 -->
+<g id="node93" class="node"><title>Node39</title>
 <a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5" target="_top" xlink:title="project::SI_Symbol\l::setRotation">
 <polygon fill="white" stroke="black" points="328,-104 328,-138 428,-138 428,-104 328,-104"/>
 <text text-anchor="start" x="336" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_Symbol</text>
 <text text-anchor="middle" x="378" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">::setRotation</text>
 </a>
 </g>
-<!-- Node33&#45;&gt;Node38 -->
-<g id="edge102" class="edge"><title>Node33&#45;&gt;Node38</title>
+<!-- Node34&#45;&gt;Node39 -->
+<g id="edge108" class="edge"><title>Node34&#45;&gt;Node39</title>
 <path fill="none" stroke="midnightblue" d="M232.337,-97.7486C263.212,-102.677 299.189,-108.42 327.663,-112.965"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="232.507,-94.2315 222.08,-96.1114 231.403,-101.144 232.507,-94.2315"/>
 </g>
-<!-- Node39 -->
-<g id="node94" class="node"><title>Node39</title>
+<!-- Node40 -->
+<g id="node98" class="node"><title>Node40</title>
 <a xlink:href="../../d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" target="_top" xlink:title="project::SI_SymbolPin\l::SI_SymbolPin">
 <polygon fill="white" stroke="black" points="321,-0 321,-34 435,-34 435,-0 321,-0"/>
 <text text-anchor="start" x="329" y="-21" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_SymbolPin</text>
 <text text-anchor="middle" x="378" y="-8" font-family="Helvetica,sans-Serif" font-size="10.00">::SI_SymbolPin</text>
 </a>
 </g>
-<!-- Node33&#45;&gt;Node39 -->
-<g id="edge110" class="edge"><title>Node33&#45;&gt;Node39</title>
+<!-- Node34&#45;&gt;Node40 -->
+<g id="edge116" class="edge"><title>Node34&#45;&gt;Node40</title>
 <path fill="none" stroke="midnightblue" d="M219.162,-66.3441C239.947,-58.671 263.963,-50.1102 286,-43 297.215,-39.3815 309.286,-35.7702 320.875,-32.4405"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="217.707,-63.151 209.551,-69.9137 220.144,-69.7131 217.707,-63.151"/>
 </g>
-<!-- Node35 -->
-<g id="node83" class="node"><title>Node35</title>
-<a xlink:href="../../dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a6eaf0a56905dd18ebdf240a2229576c6" target="_top" xlink:title="project::CmdSymbolInstance\lEdit::~CmdSymbolInstanceEdit">
-<polygon fill="white" stroke="black" points="510.5,-78 510.5,-112 665.5,-112 665.5,-78 510.5,-78"/>
-<text text-anchor="start" x="518.5" y="-99" font-family="Helvetica,sans-Serif" font-size="10.00">project::CmdSymbolInstance</text>
-<text text-anchor="middle" x="588" y="-86" font-family="Helvetica,sans-Serif" font-size="10.00">Edit::~CmdSymbolInstanceEdit</text>
-</a>
-</g>
-<!-- Node34&#45;&gt;Node35 -->
-<g id="edge96" class="edge"><title>Node34&#45;&gt;Node35</title>
-<path fill="none" stroke="midnightblue" d="M438.124,-76.4439C460.647,-79.2324 486.563,-82.4411 510.443,-85.3977"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="438.388,-72.9499 428.033,-75.1946 437.528,-79.8969 438.388,-72.9499"/>
-</g>
 <!-- Node36 -->
-<g id="node85" class="node"><title>Node36</title>
-<a xlink:href="../../dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a91ca7652063093da57fc1bd0141dcc95" target="_top" xlink:title="Redo/execute the command (and all child commands in normal order) ">
-<polygon fill="white" stroke="black" points="516.5,-26 516.5,-60 659.5,-60 659.5,-26 516.5,-26"/>
-<text text-anchor="start" x="524.5" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00">project::CmdSymbolInstance</text>
-<text text-anchor="middle" x="588" y="-34" font-family="Helvetica,sans-Serif" font-size="10.00">Edit::redo</text>
+<g id="node87" class="node"><title>Node36</title>
+<a xlink:href="../../dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a6eaf0a56905dd18ebdf240a2229576c6" target="_top" xlink:title="project::CmdSymbolInstance\lEdit::~CmdSymbolInstanceEdit">
+<polygon fill="white" stroke="black" points="510.5,-130 510.5,-164 665.5,-164 665.5,-130 510.5,-130"/>
+<text text-anchor="start" x="518.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">project::CmdSymbolInstance</text>
+<text text-anchor="middle" x="588" y="-138" font-family="Helvetica,sans-Serif" font-size="10.00">Edit::~CmdSymbolInstanceEdit</text>
 </a>
 </g>
-<!-- Node34&#45;&gt;Node36 -->
-<g id="edge98" class="edge"><title>Node34&#45;&gt;Node36</title>
-<path fill="none" stroke="midnightblue" d="M438.235,-61.5424C462.652,-58.5193 491.043,-55.0042 516.499,-51.8524"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="437.528,-58.1031 428.033,-62.8054 438.388,-65.0501 437.528,-58.1031"/>
-</g>
-<!-- Node37 -->
-<g id="node87" class="node"><title>Node37</title>
-<a xlink:href="../../dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a19e8778088bfe76b16745470981bb913" target="_top" xlink:title="Undo the command (and all child commands in reverse order) ">
-<polygon fill="white" stroke="black" points="516.5,-130 516.5,-164 659.5,-164 659.5,-130 516.5,-130"/>
-<text text-anchor="start" x="524.5" y="-151" font-family="Helvetica,sans-Serif" font-size="10.00">project::CmdSymbolInstance</text>
-<text text-anchor="middle" x="588" y="-138" font-family="Helvetica,sans-Serif" font-size="10.00">Edit::undo</text>
-</a>
-</g>
-<!-- Node34&#45;&gt;Node37 -->
-<g id="edge100" class="edge"><title>Node34&#45;&gt;Node37</title>
+<!-- Node35&#45;&gt;Node36 -->
+<g id="edge102" class="edge"><title>Node35&#45;&gt;Node36</title>
 <path fill="none" stroke="midnightblue" d="M438.214,-82.7321C449.045,-86.1178 460.047,-90.1866 470,-95 487.768,-103.593 488.37,-112.127 506,-121 512.537,-124.29 519.575,-127.273 526.684,-129.946"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="438.932,-79.2946 428.35,-79.8129 436.945,-86.0068 438.932,-79.2946"/>
 </g>
-<!-- Node38&#45;&gt;Node35 -->
-<g id="edge104" class="edge"><title>Node38&#45;&gt;Node35</title>
-<path fill="none" stroke="midnightblue" d="M438.124,-113.556C460.647,-110.768 486.563,-107.559 510.443,-104.602"/>
+<!-- Node37 -->
+<g id="node89" class="node"><title>Node37</title>
+<a xlink:href="../../dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a91ca7652063093da57fc1bd0141dcc95" target="_top" xlink:title="Redo/execute the command (and all child commands in normal order) ">
+<polygon fill="white" stroke="black" points="516.5,-78 516.5,-112 659.5,-112 659.5,-78 516.5,-78"/>
+<text text-anchor="start" x="524.5" y="-99" font-family="Helvetica,sans-Serif" font-size="10.00">project::CmdSymbolInstance</text>
+<text text-anchor="middle" x="588" y="-86" font-family="Helvetica,sans-Serif" font-size="10.00">Edit::redo</text>
+</a>
+</g>
+<!-- Node35&#45;&gt;Node37 -->
+<g id="edge104" class="edge"><title>Node35&#45;&gt;Node37</title>
+<path fill="none" stroke="midnightblue" d="M438.235,-76.4576C462.652,-79.4807 491.043,-82.9958 516.499,-86.1476"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="438.388,-72.9499 428.033,-75.1946 437.528,-79.8969 438.388,-72.9499"/>
+</g>
+<!-- Node38 -->
+<g id="node91" class="node"><title>Node38</title>
+<a xlink:href="../../dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a19e8778088bfe76b16745470981bb913" target="_top" xlink:title="Undo the command (and all child commands in reverse order) ">
+<polygon fill="white" stroke="black" points="516.5,-26 516.5,-60 659.5,-60 659.5,-26 516.5,-26"/>
+<text text-anchor="start" x="524.5" y="-47" font-family="Helvetica,sans-Serif" font-size="10.00">project::CmdSymbolInstance</text>
+<text text-anchor="middle" x="588" y="-34" font-family="Helvetica,sans-Serif" font-size="10.00">Edit::undo</text>
+</a>
+</g>
+<!-- Node35&#45;&gt;Node38 -->
+<g id="edge106" class="edge"><title>Node35&#45;&gt;Node38</title>
+<path fill="none" stroke="midnightblue" d="M438.235,-61.5424C462.652,-58.5193 491.043,-55.0042 516.499,-51.8524"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="437.528,-58.1031 428.033,-62.8054 438.388,-65.0501 437.528,-58.1031"/>
+</g>
+<!-- Node39&#45;&gt;Node36 -->
+<g id="edge110" class="edge"><title>Node39&#45;&gt;Node36</title>
+<path fill="none" stroke="midnightblue" d="M438.124,-128.444C460.647,-131.232 486.563,-134.441 510.443,-137.398"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="438.388,-124.95 428.033,-127.195 437.528,-131.897 438.388,-124.95"/>
+</g>
+<!-- Node39&#45;&gt;Node37 -->
+<g id="edge112" class="edge"><title>Node39&#45;&gt;Node37</title>
+<path fill="none" stroke="midnightblue" d="M438.235,-113.542C462.652,-110.519 491.043,-107.004 516.499,-103.852"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="437.528,-110.103 428.033,-114.805 438.388,-117.05 437.528,-110.103"/>
 </g>
-<!-- Node38&#45;&gt;Node36 -->
-<g id="edge106" class="edge"><title>Node38&#45;&gt;Node36</title>
+<!-- Node39&#45;&gt;Node38 -->
+<g id="edge114" class="edge"><title>Node39&#45;&gt;Node38</title>
 <path fill="none" stroke="midnightblue" d="M438.214,-107.268C449.045,-103.882 460.047,-99.8134 470,-95 487.768,-86.4072 488.37,-77.8726 506,-69 512.537,-65.7102 519.575,-62.7272 526.684,-60.0541"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="436.945,-103.993 428.35,-110.187 438.932,-110.705 436.945,-103.993"/>
-</g>
-<!-- Node38&#45;&gt;Node37 -->
-<g id="edge108" class="edge"><title>Node38&#45;&gt;Node37</title>
-<path fill="none" stroke="midnightblue" d="M438.235,-128.458C462.652,-131.481 491.043,-134.996 516.499,-138.148"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="438.388,-124.95 428.033,-127.195 437.528,-131.897 438.388,-124.95"/>
 </g>
 </g>
 </svg>

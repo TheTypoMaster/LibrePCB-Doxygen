@@ -1,16 +1,17 @@
 <map id="toRad" name="toRad">
-<area shape="rect" id="node3" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::FootprintPolygon\l::toQPainterPathPx" alt="" coords="112,162,275,209"/>
-<area shape="rect" id="node19" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::SymbolPolygon\l::toQPainterPathPx" alt="" coords="116,301,271,347"/>
-<area shape="rect" id="node5" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_Footprint\l::updateCacheAndRepaint" alt="" coords="340,93,513,139"/>
-<area shape="rect" id="node17" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::BGI_Footprint\l::paint" alt="" coords="352,162,501,209"/>
+<area shape="rect" id="node3" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::FootprintPolygon\l::toQPainterPathPx" alt="" coords="112,197,275,243"/>
+<area shape="rect" id="node22" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::SymbolPolygon\l::toQPainterPathPx" alt="" coords="116,335,271,382"/>
+<area shape="rect" id="node5" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_Footprint\l::updateCacheAndRepaint" alt="" coords="340,127,513,174"/>
+<area shape="rect" id="node20" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::BGI_Footprint\l::paint" alt="" coords="352,197,501,243"/>
 <area shape="rect" id="node7" href="$da/d96/classproject_1_1_b_i___footprint.html#a80db668afe30ac6b6c9e5eb061b61cfc" title="project::BI_Footprint\l::componentInstanceAttributes\lChanged" alt="" coords="588,5,788,69"/>
 <area shape="rect" id="node11" href="$da/d96/classproject_1_1_b_i___footprint.html#a271c63e12acd19bccc27bf6861938df2" title="project::BI_Footprint\l::componentInstanceMoved" alt="" coords="597,93,779,139"/>
 <area shape="rect" id="node14" href="$da/d96/classproject_1_1_b_i___footprint.html#ab6c0fcabcb9d5a38a27ed7aeb34f0958" title="project::BI_Footprint\l::componentInstanceRotated" alt="" coords="593,162,783,209"/>
-<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="847,93,985,139"/>
-<area shape="rect" id="node21" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" title="library::SymbolPreviewGraphics\lItem::updateCacheAndRepaint" alt="" coords="323,231,531,278"/>
-<area shape="rect" id="node23" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="library::SymbolPreviewGraphics\lItem::paint" alt="" coords="323,301,531,347"/>
-<area shape="rect" id="node25" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_Symbol\l::updateCacheAndRepaint" alt="" coords="340,370,513,417"/>
-<area shape="rect" id="node31" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::SGI_Symbol\l::paint" alt="" coords="356,439,497,486"/>
-<area shape="rect" id="node27" href="$de/d50/classproject_1_1_s_i___symbol.html#a803d371853cd2d72f4df8a45349d0cb7" title="project::SI_Symbol\l::schematicOrGenCompAttributes\lChanged" alt="" coords="579,361,797,425"/>
-<area shape="rect" id="node29" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4e286593d2a82f74246f9cba8193605" title="project::SI_Symbol\l::init" alt="" coords="849,370,983,417"/>
+<area shape="rect" id="node17" href="$da/d96/classproject_1_1_b_i___footprint.html#ae00c60cb068f7bb3703a6c84450afeaf" title="project::BI_Footprint\l::componentInstanceMirrored" alt="" coords="593,231,783,278"/>
+<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="847,127,985,174"/>
+<area shape="rect" id="node24" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" title="library::SymbolPreviewGraphics\lItem::updateCacheAndRepaint" alt="" coords="323,266,531,313"/>
+<area shape="rect" id="node26" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="library::SymbolPreviewGraphics\lItem::paint" alt="" coords="323,335,531,382"/>
+<area shape="rect" id="node28" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_Symbol\l::updateCacheAndRepaint" alt="" coords="340,405,513,451"/>
+<area shape="rect" id="node34" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::SGI_Symbol\l::paint" alt="" coords="356,474,497,521"/>
+<area shape="rect" id="node30" href="$de/d50/classproject_1_1_s_i___symbol.html#a803d371853cd2d72f4df8a45349d0cb7" title="project::SI_Symbol\l::schematicOrGenCompAttributes\lChanged" alt="" coords="579,396,797,460"/>
+<area shape="rect" id="node32" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4e286593d2a82f74246f9cba8193605" title="project::SI_Symbol\l::init" alt="" coords="849,405,983,451"/>
 </map>

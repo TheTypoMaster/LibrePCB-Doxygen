@@ -1,6 +1,6 @@
 <map id="IF_ErcMsgProvider" name="IF_ErcMsgProvider">
 <area shape="rect" id="node3" href="$d5/d07/classproject_1_1_board.html" title="The Board class represents a PCB of a project and is always part of a circuit. " alt="" coords="5,173,251,1056"/>
-<area shape="rect" id="node5" href="$d0/d7d/classproject_1_1_component_instance.html" title="The ComponentInstance class. " alt="" coords="275,312,477,917"/>
+<area shape="rect" id="node5" href="$d0/d7d/classproject_1_1_component_instance.html" title="The ComponentInstance class. " alt="" coords="275,286,477,943"/>
 <area shape="rect" id="node7" href="$de/d67/classproject_1_1_gen_comp_instance.html" title="The GenCompInstance class. " alt="" coords="501,173,744,1056"/>
 <area shape="rect" id="node9" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html" title="The GenCompSignalInstance class. " alt="" coords="768,338,987,891"/>
 <area shape="rect" id="node11" href="$d3/d21/classproject_1_1_net_class.html" title="The NetClass class. " alt="" coords="1011,390,1213,839"/>

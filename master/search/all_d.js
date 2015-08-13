@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['nanometers',['nanometers',['../dd/d55/class_length_unit.html#a49067ecb60e053ec9dc62f1a28d1bccb',1,'LengthUnit::nanometers() noexcept'],['../dd/d55/class_length_unit.html#a693ad72e816a82efcb84ed5b955e511da06ee1635ec67aa5e9eff29a6e728b915',1,'LengthUnit::Nanometers()']]],
+  ['nanometers',['Nanometers',['../dd/d55/class_length_unit.html#a693ad72e816a82efcb84ed5b955e511da06ee1635ec67aa5e9eff29a6e728b915',1,'LengthUnit::Nanometers()'],['../dd/d55/class_length_unit.html#a49067ecb60e053ec9dc62f1a28d1bccb',1,'LengthUnit::nanometers() noexcept']]],
   ['netclass',['NetClass',['../d3/d21/classproject_1_1_net_class.html#abc48abc347c57e0b08ef2655207a45b2',1,'project::NetClass::NetClass(const Circuit &amp;circuit, const XmlDomElement &amp;domElement)'],['../d3/d21/classproject_1_1_net_class.html#a59831ca91c274da97a5e18d4caf999de',1,'project::NetClass::NetClass(const Circuit &amp;circuit, const QString &amp;name)'],['../d3/d21/classproject_1_1_net_class.html#afe7b58f89b2b8660d4bddfb798c436d2',1,'project::NetClass::NetClass()'],['../d3/d21/classproject_1_1_net_class.html#af9236713a4e60fe0e3398df272ffa748',1,'project::NetClass::NetClass(const NetClass &amp;other)']]],
   ['netclass',['NetClass',['../d3/d21/classproject_1_1_net_class.html',1,'project']]],
   ['netclass_2ecpp',['netclass.cpp',['../d0/d21/netclass_8cpp.html',1,'']]],

@@ -15,10 +15,10 @@
 <area shape="rect" id="node51" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html" title="The SymbolPolygon class. " alt="" coords="2952,565,3155,1101"/>
 <area shape="rect" id="node53" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html" title="The SymbolPolygonSegment class. " alt="" coords="3179,687,3381,980"/>
 <area shape="rect" id="node55" href="$db/df7/classlibrary_1_1_symbol_text.html" title="The SymbolText class. " alt="" coords="3405,591,3608,1075"/>
-<area shape="rect" id="node57" href="$da/d96/classproject_1_1_b_i___footprint.html" title="The BI_Footprint class. " alt="" coords="3632,531,3835,1136"/>
+<area shape="rect" id="node57" href="$da/d96/classproject_1_1_b_i___footprint.html" title="The BI_Footprint class. " alt="" coords="3632,513,3835,1153"/>
 <area shape="rect" id="node59" href="$d5/d07/classproject_1_1_board.html" title="The Board class represents a PCB of a project and is always part of a circuit. " alt="" coords="3859,392,4104,1275"/>
 <area shape="rect" id="node61" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="4128,505,4347,1162"/>
-<area shape="rect" id="node63" href="$d0/d7d/classproject_1_1_component_instance.html" title="The ComponentInstance class. " alt="" coords="4371,531,4573,1136"/>
+<area shape="rect" id="node63" href="$d0/d7d/classproject_1_1_component_instance.html" title="The ComponentInstance class. " alt="" coords="4371,505,4573,1162"/>
 <area shape="rect" id="node65" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="4597,661,4797,1006"/>
 <area shape="rect" id="node67" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html" title="The GenCompAttributeInstance class. " alt="" coords="4821,652,5029,1015"/>
 <area shape="rect" id="node69" href="$de/d67/classproject_1_1_gen_comp_instance.html" title="The GenCompInstance class. " alt="" coords="5053,392,5296,1275"/>

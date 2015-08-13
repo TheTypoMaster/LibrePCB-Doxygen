@@ -23,7 +23,7 @@
 <area shape="rect" id="node223" href="$d3/d21/classproject_1_1_net_class.html" title="The NetClass class. " alt="" coords="1015,7259,1217,7674"/>
 <area shape="rect" id="node229" href="$d1/d7b/classproject_1_1_s_i___net_label.html" title="The SI_NetLabel class. " alt="" coords="937,9401,1140,9885"/>
 <area shape="rect" id="node14" href="$df/df0/class_length.html" title="The Length class is used to represent a length (for example 12.75 millimeters) " alt="" coords="5,1851,160,2959"/>
-<area shape="rect" id="node132" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="443,8346,568,9315"/>
+<area shape="rect" id="node132" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="443,8329,568,9333"/>
 <area shape="rect" id="node16" href="$dd/d55/class_length_unit.html" title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth..." alt="" coords="2171,2181,2309,2630"/>
 <area shape="rect" id="node179" href="$d3/d01/class_w_s_i___app_default_measurement_units.html" title="The WSI_AppDefaultMeasurementUnits class represents the application&#39;s default measurement units (for ..." alt="" coords="4172,3389,4423,3787"/>
 <area shape="rect" id="node21" href="$da/db0/class_smart_xml_file.html" title="The SmartXmlFile class represents a XML file and provides methods to load/save XML DOM trees (XmlDomD..." alt="" coords="2333,2293,2533,2517"/>

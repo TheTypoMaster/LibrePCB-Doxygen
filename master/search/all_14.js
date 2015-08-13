@@ -6,6 +6,7 @@ var searchData=
   ['version',['Version',['../de/d34/class_version.html',1,'Version'],['../de/d34/class_version.html#ae0773e267076755c263f349af7e813a6',1,'Version::Version() noexcept'],['../de/d34/class_version.html#a4cdba3b4deca53dd6bcf8db948a5f931',1,'Version::Version(const QString &amp;version) noexcept'],['../de/d34/class_version.html#a2c0c17bbd2a277ca1cfe3611fef6ac70',1,'Version::Version(const Version &amp;other) noexcept']]],
   ['version_2ecpp',['version.cpp',['../d5/d1f/version_8cpp.html',1,'']]],
   ['version_2eh',['version.h',['../df/dfc/version_8h.html',1,'']]],
+  ['viarestrict',['ViaRestrict',['../df/d85/class_board_layer.html#a176a1fee332dc1a193b4b97dae579eaeaf85e55c21a0db27d759a4acba249f2e7',1,'BoardLayer']]],
   ['vias',['Vias',['../df/d85/class_board_layer.html#a176a1fee332dc1a193b4b97dae579eaea465696330dc0bece4893df15c8c78951',1,'BoardLayer']]],
   ['voltage',['Voltage',['../d8/d57/class_attribute_type.html#a248b92a7f869a405ba11941b00225c72a4a92fbe41f6463598c39850b8335096c',1,'AttributeType']]]
 ];

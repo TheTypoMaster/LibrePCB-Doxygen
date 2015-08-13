@@ -1,20 +1,21 @@
 <map id="replaceVariablesWithAttributes" name="replaceVariablesWithAttributes">
-<area shape="rect" id="node3" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" title="library::SymbolPreviewGraphics\lItem::updateCacheAndRepaint" alt="" coords="260,93,468,139"/>
-<area shape="rect" id="node5" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_Footprint\l::updateCacheAndRepaint" alt="" coords="277,162,451,209"/>
-<area shape="rect" id="node17" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#aa821b370fece67458578c040f67873e6" title="project::GenCompSignalInstance\l::getForcedNetSignalName" alt="" coords="257,266,471,313"/>
-<area shape="rect" id="node35" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_Symbol\l::updateCacheAndRepaint" alt="" coords="277,374,451,421"/>
+<area shape="rect" id="node3" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" title="library::SymbolPreviewGraphics\lItem::updateCacheAndRepaint" alt="" coords="260,127,468,174"/>
+<area shape="rect" id="node5" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_Footprint\l::updateCacheAndRepaint" alt="" coords="277,197,451,243"/>
+<area shape="rect" id="node20" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#aa821b370fece67458578c040f67873e6" title="project::GenCompSignalInstance\l::getForcedNetSignalName" alt="" coords="257,335,471,382"/>
+<area shape="rect" id="node38" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_Symbol\l::updateCacheAndRepaint" alt="" coords="277,443,451,490"/>
 <area shape="rect" id="node7" href="$da/d96/classproject_1_1_b_i___footprint.html#a80db668afe30ac6b6c9e5eb061b61cfc" title="project::BI_Footprint\l::componentInstanceAttributes\lChanged" alt="" coords="529,5,729,69"/>
 <area shape="rect" id="node11" href="$da/d96/classproject_1_1_b_i___footprint.html#a271c63e12acd19bccc27bf6861938df2" title="project::BI_Footprint\l::componentInstanceMoved" alt="" coords="539,93,720,139"/>
 <area shape="rect" id="node14" href="$da/d96/classproject_1_1_b_i___footprint.html#ab6c0fcabcb9d5a38a27ed7aeb34f0958" title="project::BI_Footprint\l::componentInstanceRotated" alt="" coords="535,162,724,209"/>
-<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="825,93,964,139"/>
-<area shape="rect" id="node19" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::GenCompSignalInstance\l::updateErcMessages" alt="" coords="523,231,736,278"/>
-<area shape="rect" id="node31" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#ac0d67255f68a55c37b5a1e2a661ab69c" title="project::SES_DrawWire\l::startPositioning" alt="" coords="549,301,709,347"/>
-<area shape="rect" id="node33" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#a72ccca96a5dabd93710518c9d18b93a1" title="project::SES_DrawWire\l::addNextNetPoint" alt="" coords="549,370,709,417"/>
-<area shape="rect" id="node21" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::GenCompSignalInstance\l::init" alt="" coords="788,162,1001,209"/>
-<area shape="rect" id="node23" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#af00f21a639ab7a55e814293e9bd76c0f" title="project::GenCompSignalInstance\l::addToCircuit" alt="" coords="788,231,1001,278"/>
-<area shape="rect" id="node27" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#ac295ebdc117f47883b0a7af285b69a5e" title="project::GenCompSignalInstance\l::removeFromCircuit" alt="" coords="788,301,1001,347"/>
-<area shape="rect" id="node25" href="$de/d67/classproject_1_1_gen_comp_instance.html#af00f21a639ab7a55e814293e9bd76c0f" title="project::GenCompInstance\l::addToCircuit" alt="" coords="1051,231,1229,278"/>
-<area shape="rect" id="node29" href="$de/d67/classproject_1_1_gen_comp_instance.html#ac295ebdc117f47883b0a7af285b69a5e" title="project::GenCompInstance\l::removeFromCircuit" alt="" coords="1051,301,1229,347"/>
-<area shape="rect" id="node37" href="$de/d50/classproject_1_1_s_i___symbol.html#a803d371853cd2d72f4df8a45349d0cb7" title="project::SI_Symbol\l::schematicOrGenCompAttributes\lChanged" alt="" coords="520,440,739,504"/>
-<area shape="rect" id="node39" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4e286593d2a82f74246f9cba8193605" title="project::SI_Symbol\l::init" alt="" coords="828,449,961,495"/>
+<area shape="rect" id="node17" href="$da/d96/classproject_1_1_b_i___footprint.html#ae00c60cb068f7bb3703a6c84450afeaf" title="project::BI_Footprint\l::componentInstanceMirrored" alt="" coords="535,231,724,278"/>
+<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="825,127,964,174"/>
+<area shape="rect" id="node22" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::GenCompSignalInstance\l::updateErcMessages" alt="" coords="523,301,736,347"/>
+<area shape="rect" id="node34" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#ac0d67255f68a55c37b5a1e2a661ab69c" title="project::SES_DrawWire\l::startPositioning" alt="" coords="549,370,709,417"/>
+<area shape="rect" id="node36" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#a72ccca96a5dabd93710518c9d18b93a1" title="project::SES_DrawWire\l::addNextNetPoint" alt="" coords="549,439,709,486"/>
+<area shape="rect" id="node24" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::GenCompSignalInstance\l::init" alt="" coords="788,231,1001,278"/>
+<area shape="rect" id="node26" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#af00f21a639ab7a55e814293e9bd76c0f" title="project::GenCompSignalInstance\l::addToCircuit" alt="" coords="788,301,1001,347"/>
+<area shape="rect" id="node30" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#ac295ebdc117f47883b0a7af285b69a5e" title="project::GenCompSignalInstance\l::removeFromCircuit" alt="" coords="788,370,1001,417"/>
+<area shape="rect" id="node28" href="$de/d67/classproject_1_1_gen_comp_instance.html#af00f21a639ab7a55e814293e9bd76c0f" title="project::GenCompInstance\l::addToCircuit" alt="" coords="1051,301,1229,347"/>
+<area shape="rect" id="node32" href="$de/d67/classproject_1_1_gen_comp_instance.html#ac295ebdc117f47883b0a7af285b69a5e" title="project::GenCompInstance\l::removeFromCircuit" alt="" coords="1051,370,1229,417"/>
+<area shape="rect" id="node40" href="$de/d50/classproject_1_1_s_i___symbol.html#a803d371853cd2d72f4df8a45349d0cb7" title="project::SI_Symbol\l::schematicOrGenCompAttributes\lChanged" alt="" coords="520,509,739,573"/>
+<area shape="rect" id="node42" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4e286593d2a82f74246f9cba8193605" title="project::SI_Symbol\l::init" alt="" coords="828,518,961,565"/>
 </map>

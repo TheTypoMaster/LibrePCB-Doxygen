@@ -23,7 +23,7 @@
 <area shape="rect" id="node132" href="$dd/d2d/classproject_1_1_schematic.html" title="The Schematic class represents one schematic page of a project and is always part of a circuit..." alt="" coords="508,5302,708,6375"/>
 <area shape="rect" id="node141" href="$d8/dbf/class_grid_properties.html" title="The GridProperties class. " alt="" coords="557,4138,760,4483"/>
 <area shape="rect" id="node13" href="$df/df0/class_length.html" title="The Length class is used to represent a length (for example 12.75 millimeters) " alt="" coords="61,2054,216,3162"/>
-<area shape="rect" id="node15" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="392,7858,517,8827"/>
+<area shape="rect" id="node15" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="392,7841,517,8845"/>
 <area shape="rect" id="node24" href="$d9/d41/class_i_f___attribute_provider.html" title="The IF_AttributeProvider class defines an interface for classes which provides some attributes which ..." alt="" coords="1167,2513,1388,2703"/>
 <area shape="rect" id="node28" href="$d7/d7c/classlibrary_1_1_generic_component.html" title="The GenericComponent class. " alt="" coords="976,5441,1189,6237"/>
 <area shape="rect" id="node30" href="$d8/dff/classlibrary_1_1_library_element.html" title="The LibraryElement class extends the LibraryBaseElement class with some attributes and methods which ..." alt="" coords="987,4199,1189,4423"/>

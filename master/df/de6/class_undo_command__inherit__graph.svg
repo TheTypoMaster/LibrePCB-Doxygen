@@ -83,14 +83,16 @@
 <!-- Node4 -->
 <g id="node7" class="node"><title>Node4</title>
 <a xlink:href="../../d8/d2c/classproject_1_1_cmd_component_instance_edit.html" target="_top" xlink:title="The CmdComponentInstanceEdit class. ">
-<polygon fill="white" stroke="black" points="300,-72 300,-278 464,-278 464,-72 300,-72"/>
-<text text-anchor="middle" x="382" y="-265" font-family="Helvetica,sans-Serif" font-size="10.00">CmdComponentInstanceEdit</text>
-<polyline fill="none" stroke="black" points="300,-257 464,-257 "/>
-<text text-anchor="start" x="308" y="-244" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mComponent</text>
-<text text-anchor="start" x="308" y="-231" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mOldPos</text>
-<text text-anchor="start" x="308" y="-218" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNewPos</text>
-<text text-anchor="start" x="308" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mOldRotation</text>
-<text text-anchor="start" x="308" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNewRotation</text>
+<polygon fill="white" stroke="black" points="300,-46 300,-304 464,-304 464,-46 300,-46"/>
+<text text-anchor="middle" x="382" y="-291" font-family="Helvetica,sans-Serif" font-size="10.00">CmdComponentInstanceEdit</text>
+<polyline fill="none" stroke="black" points="300,-283 464,-283 "/>
+<text text-anchor="start" x="308" y="-270" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mComponent</text>
+<text text-anchor="start" x="308" y="-257" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mOldPos</text>
+<text text-anchor="start" x="308" y="-244" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNewPos</text>
+<text text-anchor="start" x="308" y="-231" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mOldRotation</text>
+<text text-anchor="start" x="308" y="-218" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNewRotation</text>
+<text text-anchor="start" x="308" y="-205" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mOldMirrored</text>
+<text text-anchor="start" x="308" y="-192" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mNewMirrored</text>
 <polyline fill="none" stroke="black" points="300,-184 464,-184 "/>
 <text text-anchor="start" x="308" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00">+ CmdComponentInstanceEdit()</text>
 <text text-anchor="start" x="308" y="-158" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~CmdComponentInstanceEdit()</text>
@@ -98,13 +100,15 @@
 <text text-anchor="start" x="308" y="-132" font-family="Helvetica,sans-Serif" font-size="10.00">+ setDeltaToStartPos()</text>
 <text text-anchor="start" x="308" y="-119" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
 <text text-anchor="start" x="308" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">+ rotate()</text>
-<text text-anchor="start" x="308" y="-93" font-family="Helvetica,sans-Serif" font-size="10.00">+ redo()</text>
-<text text-anchor="start" x="308" y="-80" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
+<text text-anchor="start" x="308" y="-93" font-family="Helvetica,sans-Serif" font-size="10.00">+ setMirrored()</text>
+<text text-anchor="start" x="308" y="-80" font-family="Helvetica,sans-Serif" font-size="10.00">+ mirror()</text>
+<text text-anchor="start" x="308" y="-67" font-family="Helvetica,sans-Serif" font-size="10.00">+ redo()</text>
+<text text-anchor="start" x="308" y="-54" font-family="Helvetica,sans-Serif" font-size="10.00">+ undo()</text>
 </a>
 </g>
 <!-- Node1&#45;&gt;Node4 -->
 <g id="edge6" class="edge"><title>Node1&#45;&gt;Node4</title>
-<path fill="none" stroke="midnightblue" d="M2681.65,-527.64C2333.52,-519.687 662.009,-475.174 473,-350 447.162,-332.888 428.219,-306.005 414.526,-278.397"/>
+<path fill="none" stroke="midnightblue" d="M2681.65,-527.64C2333.52,-519.687 662.009,-475.174 473,-350 455.441,-338.371 441.067,-322.23 429.361,-304.416"/>
 <polygon fill="none" stroke="midnightblue" points="2681.72,-531.142 2691.8,-527.87 2681.88,-524.144 2681.72,-531.142"/>
 </g>
 <!-- Node5 -->

@@ -1,31 +1,33 @@
 <map id="componentInstanceAttributesChanged" name="componentInstanceAttributesChanged">
-<area shape="rect" id="node3" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_Footprint\l::updateCacheAndRepaint" alt="" coords="247,709,420,755"/>
-<area shape="rect" id="node5" href="$d8/dea/classlibrary_1_1_footprint.html#a9c943945df1aedef5ac24c7d41605c1d" title="library::Footprint\l::getPolygons" alt="" coords="517,5,632,51"/>
-<area shape="rect" id="node7" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::FootprintPolygon\l::toQPainterPathPx" alt="" coords="493,285,656,331"/>
-<area shape="rect" id="node9" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="755,125,888,155"/>
-<area shape="rect" id="node11" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="988,100,1084,129"/>
-<area shape="rect" id="node21" href="$d2/d39/class_angle.html#a74e05120ac11f78df41f0a0304990f9f" title="Map this Angle object to [&#45;180..+180[ degrees. " alt="" coords="964,449,1108,479"/>
-<area shape="rect" id="node25" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#a69af915a70be9a59f27a36ef42fe7606" title="library::FootprintPolygon\l::getWidth" alt="" coords="493,466,656,513"/>
-<area shape="rect" id="node28" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#afb5593c9c44f491b400edfa695fea7dc" title="library::FootprintPolygon\l::isGrabArea" alt="" coords="493,535,656,582"/>
-<area shape="rect" id="node30" href="$d8/dea/classlibrary_1_1_footprint.html#ae95a0911ef4861dfe1b2f56d08d3169f" title="library::Footprint\l::getTexts" alt="" coords="517,605,632,651"/>
-<area shape="rect" id="node32" href="$db/d86/classlibrary_1_1_footprint_text.html#ab42d5f674bbe33d8d5a601bedfd7921e" title="library::FootprintText\l::getText" alt="" coords="504,674,645,721"/>
-<area shape="rect" id="node34" href="$d9/d41/class_i_f___attribute_provider.html#a64e9824168a64622ace994d0ce6dd8ba" title="Replace all variables in a text with their attribute values. " alt="" coords="471,743,679,790"/>
-<area shape="rect" id="node36" href="$db/d86/classlibrary_1_1_footprint_text.html#a0956fb9eaa66799447596d95c6f1e46d" title="library::FootprintText\l::getHeight" alt="" coords="504,813,645,859"/>
-<area shape="rect" id="node38" href="$db/d86/classlibrary_1_1_footprint_text.html#a8c33abf636eed65eeeccb22558ba0880" title="library::FootprintText\l::getAlign" alt="" coords="504,882,645,929"/>
-<area shape="rect" id="node40" href="$df/de9/class_alignment.html#a4fbb4767912b1fed45bc601018994247" title="Alignment::toQtAlign" alt="" coords="504,952,645,981"/>
-<area shape="rect" id="node46" href="$db/d86/classlibrary_1_1_footprint_text.html#a01f0e165edb023b0c50cdbfd70f36021" title="library::FootprintText\l::getRotation" alt="" coords="504,1005,645,1051"/>
-<area shape="rect" id="node48" href="$da/d96/classproject_1_1_b_i___footprint.html#a1220d662c6088cae7ec3f1a2427bc6c5" title="getRotation" alt="" coords="531,1075,619,1104"/>
-<area shape="rect" id="node53" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="525,1128,624,1157"/>
-<area shape="rect" id="node57" href="$db/d86/classlibrary_1_1_footprint_text.html#ae23dd3ab799e9f70a4037eea91f69a82" title="library::FootprintText\l::getPosition" alt="" coords="504,1181,645,1227"/>
-<area shape="rect" id="node60" href="$df/de9/class_alignment.html#a5e73aa1977269073f3ce5f2af38443a0" title="Alignment::mirrored" alt="" coords="508,1251,641,1280"/>
-<area shape="rect" id="node13" href="$da/d46/classlibrary_1_1_footprint_polygon_segment.html#a894842161e505b56d67b0cf5b0f50087" title="library::FootprintPolygon\lSegment::getAngle" alt="" coords="740,285,903,331"/>
-<area shape="rect" id="node15" href="$da/d46/classlibrary_1_1_footprint_polygon_segment.html#af89771a9eb5882eaee9f298f663f89dc" title="library::FootprintPolygon\lSegment::getEndPos" alt="" coords="740,354,903,401"/>
-<area shape="rect" id="node17" href="$d2/d39/class_angle.html#a70d223e0c1188606f971188d6f23b66f" title="Get the angle in radians. " alt="" coords="772,179,871,208"/>
-<area shape="rect" id="node19" href="$d2/d39/class_angle.html#ae76e6384199e1c899025c103affd862f" title="Get an Angle object which is mapped to [&#45;180..+180[ degrees. " alt="" coords="739,424,904,453"/>
-<area shape="rect" id="node23" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="772,232,871,261"/>
-<area shape="rect" id="node42" href="$d7/d39/class_h_align.html#a5947e6026a6c38886e5598e032fa7317" title="HAlign::toQtAlignFlag" alt="" coords="748,979,895,1008"/>
-<area shape="rect" id="node44" href="$d9/dbc/class_v_align.html#a5947e6026a6c38886e5598e032fa7317" title="VAlign::toQtAlignFlag" alt="" coords="748,925,895,955"/>
-<area shape="rect" id="node50" href="$d0/d7d/classproject_1_1_component_instance.html#a01f0e165edb023b0c50cdbfd70f36021" title="project::ComponentInstance\l::getRotation" alt="" coords="728,1062,915,1109"/>
-<area shape="rect" id="node55" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="773,1132,869,1161"/>
-<area shape="rect" id="node62" href="$df/de9/class_alignment.html#ac2a03de30f0ea7f185b8ae3625c8b076" title="Alignment::Alignment" alt="" coords="748,1251,895,1280"/>
+<area shape="rect" id="node3" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_Footprint\l::updateCacheAndRepaint" alt="" coords="247,667,420,714"/>
+<area shape="rect" id="node5" href="$da/d96/classproject_1_1_b_i___footprint.html#ad998db94981ac7167deba7a777b9945d" title="getIsMirrored" alt="" coords="525,13,624,43"/>
+<area shape="rect" id="node9" href="$d8/dea/classlibrary_1_1_footprint.html#a9c943945df1aedef5ac24c7d41605c1d" title="library::Footprint\l::getPolygons" alt="" coords="517,66,632,113"/>
+<area shape="rect" id="node11" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::FootprintPolygon\l::toQPainterPathPx" alt="" coords="493,339,656,386"/>
+<area shape="rect" id="node13" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="755,187,888,216"/>
+<area shape="rect" id="node15" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="988,161,1084,191"/>
+<area shape="rect" id="node25" href="$d2/d39/class_angle.html#a74e05120ac11f78df41f0a0304990f9f" title="Map this Angle object to [&#45;180..+180[ degrees. " alt="" coords="964,484,1108,513"/>
+<area shape="rect" id="node29" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#a69af915a70be9a59f27a36ef42fe7606" title="library::FootprintPolygon\l::getWidth" alt="" coords="493,459,656,506"/>
+<area shape="rect" id="node32" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#afb5593c9c44f491b400edfa695fea7dc" title="library::FootprintPolygon\l::isGrabArea" alt="" coords="493,529,656,575"/>
+<area shape="rect" id="node34" href="$d8/dea/classlibrary_1_1_footprint.html#ae95a0911ef4861dfe1b2f56d08d3169f" title="library::Footprint\l::getTexts" alt="" coords="517,598,632,645"/>
+<area shape="rect" id="node36" href="$db/d86/classlibrary_1_1_footprint_text.html#ab42d5f674bbe33d8d5a601bedfd7921e" title="library::FootprintText\l::getText" alt="" coords="504,667,645,714"/>
+<area shape="rect" id="node38" href="$d9/d41/class_i_f___attribute_provider.html#a64e9824168a64622ace994d0ce6dd8ba" title="Replace all variables in a text with their attribute values. " alt="" coords="471,737,679,783"/>
+<area shape="rect" id="node40" href="$db/d86/classlibrary_1_1_footprint_text.html#a0956fb9eaa66799447596d95c6f1e46d" title="library::FootprintText\l::getHeight" alt="" coords="504,806,645,853"/>
+<area shape="rect" id="node42" href="$db/d86/classlibrary_1_1_footprint_text.html#a8c33abf636eed65eeeccb22558ba0880" title="library::FootprintText\l::getAlign" alt="" coords="504,875,645,922"/>
+<area shape="rect" id="node44" href="$df/de9/class_alignment.html#a4fbb4767912b1fed45bc601018994247" title="Alignment::toQtAlign" alt="" coords="504,945,645,975"/>
+<area shape="rect" id="node50" href="$db/d86/classlibrary_1_1_footprint_text.html#a01f0e165edb023b0c50cdbfd70f36021" title="library::FootprintText\l::getRotation" alt="" coords="504,998,645,1045"/>
+<area shape="rect" id="node52" href="$da/d96/classproject_1_1_b_i___footprint.html#a1220d662c6088cae7ec3f1a2427bc6c5" title="getRotation" alt="" coords="531,1068,619,1097"/>
+<area shape="rect" id="node57" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="525,1121,624,1151"/>
+<area shape="rect" id="node61" href="$db/d86/classlibrary_1_1_footprint_text.html#ae23dd3ab799e9f70a4037eea91f69a82" title="library::FootprintText\l::getPosition" alt="" coords="504,1174,645,1221"/>
+<area shape="rect" id="node64" href="$df/de9/class_alignment.html#a5e73aa1977269073f3ce5f2af38443a0" title="Alignment::mirrored" alt="" coords="508,1244,641,1273"/>
+<area shape="rect" id="node7" href="$d0/d7d/classproject_1_1_component_instance.html#a24b25f817cadcc6b1d0a0a6516c890fa" title="project::ComponentInstance\l::getIsMirrored" alt="" coords="728,5,915,51"/>
+<area shape="rect" id="node17" href="$da/d46/classlibrary_1_1_footprint_polygon_segment.html#a894842161e505b56d67b0cf5b0f50087" title="library::FootprintPolygon\lSegment::getAngle" alt="" coords="740,239,903,286"/>
+<area shape="rect" id="node19" href="$da/d46/classlibrary_1_1_footprint_polygon_segment.html#af89771a9eb5882eaee9f298f663f89dc" title="library::FootprintPolygon\lSegment::getEndPos" alt="" coords="740,309,903,355"/>
+<area shape="rect" id="node21" href="$d2/d39/class_angle.html#a70d223e0c1188606f971188d6f23b66f" title="Get the angle in radians. " alt="" coords="772,379,871,408"/>
+<area shape="rect" id="node23" href="$d2/d39/class_angle.html#ae76e6384199e1c899025c103affd862f" title="Get an Angle object which is mapped to [&#45;180..+180[ degrees. " alt="" coords="739,432,904,461"/>
+<area shape="rect" id="node27" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="772,485,871,515"/>
+<area shape="rect" id="node46" href="$d7/d39/class_h_align.html#a5947e6026a6c38886e5598e032fa7317" title="HAlign::toQtAlignFlag" alt="" coords="748,919,895,948"/>
+<area shape="rect" id="node48" href="$d9/dbc/class_v_align.html#a5947e6026a6c38886e5598e032fa7317" title="VAlign::toQtAlignFlag" alt="" coords="748,972,895,1001"/>
+<area shape="rect" id="node54" href="$d0/d7d/classproject_1_1_component_instance.html#a01f0e165edb023b0c50cdbfd70f36021" title="project::ComponentInstance\l::getRotation" alt="" coords="728,1055,915,1102"/>
+<area shape="rect" id="node59" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="773,1125,869,1155"/>
+<area shape="rect" id="node66" href="$df/de9/class_alignment.html#ac2a03de30f0ea7f185b8ae3625c8b076" title="Alignment::Alignment" alt="" coords="748,1244,895,1273"/>
 </map>

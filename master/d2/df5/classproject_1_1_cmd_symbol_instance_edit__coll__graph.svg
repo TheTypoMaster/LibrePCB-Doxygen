@@ -1552,69 +1552,71 @@
 <!-- Node36 -->
 <g id="node108" class="node"><title>Node36</title>
 <a xlink:href="../../d0/d69/class_point.html" target="_top" xlink:title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5...">
-<polygon fill="white" stroke="black" points="266.5,-828 266.5,-1554 361.5,-1554 361.5,-828 266.5,-828"/>
-<text text-anchor="middle" x="314" y="-1541" font-family="Helvetica,sans-Serif" font-size="10.00">Point</text>
-<polyline fill="none" stroke="black" points="266.5,-1533 361.5,-1533 "/>
-<text text-anchor="middle" x="314" y="-1520" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
-<polyline fill="none" stroke="black" points="266.5,-1512 361.5,-1512 "/>
+<polygon fill="white" stroke="black" points="266.5,-815 266.5,-1567 361.5,-1567 361.5,-815 266.5,-815"/>
+<text text-anchor="middle" x="314" y="-1554" font-family="Helvetica,sans-Serif" font-size="10.00">Point</text>
+<polyline fill="none" stroke="black" points="266.5,-1546 361.5,-1546 "/>
+<text text-anchor="middle" x="314" y="-1533" font-family="Helvetica,sans-Serif" font-size="10.00"> </text>
+<polyline fill="none" stroke="black" points="266.5,-1525 361.5,-1525 "/>
+<text text-anchor="start" x="274.5" y="-1512" font-family="Helvetica,sans-Serif" font-size="10.00">+ Point()</text>
 <text text-anchor="start" x="274.5" y="-1499" font-family="Helvetica,sans-Serif" font-size="10.00">+ Point()</text>
 <text text-anchor="start" x="274.5" y="-1486" font-family="Helvetica,sans-Serif" font-size="10.00">+ Point()</text>
-<text text-anchor="start" x="274.5" y="-1473" font-family="Helvetica,sans-Serif" font-size="10.00">+ Point()</text>
-<text text-anchor="start" x="274.5" y="-1460" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Point()</text>
-<text text-anchor="start" x="274.5" y="-1447" font-family="Helvetica,sans-Serif" font-size="10.00">+ setX()</text>
-<text text-anchor="start" x="274.5" y="-1434" font-family="Helvetica,sans-Serif" font-size="10.00">+ setY()</text>
-<text text-anchor="start" x="274.5" y="-1421" font-family="Helvetica,sans-Serif" font-size="10.00">+ setXmm()</text>
-<text text-anchor="start" x="274.5" y="-1408" font-family="Helvetica,sans-Serif" font-size="10.00">+ setYmm()</text>
-<text text-anchor="start" x="274.5" y="-1395" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPointNm()</text>
-<text text-anchor="start" x="274.5" y="-1382" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPointMm()</text>
-<text text-anchor="start" x="274.5" y="-1369" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPointInch()</text>
-<text text-anchor="start" x="274.5" y="-1356" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPointMil()</text>
-<text text-anchor="start" x="274.5" y="-1343" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPointPx()</text>
-<text text-anchor="start" x="274.5" y="-1330" font-family="Helvetica,sans-Serif" font-size="10.00">+ getX()</text>
-<text text-anchor="start" x="274.5" y="-1317" font-family="Helvetica,sans-Serif" font-size="10.00">+ getY()</text>
-<text text-anchor="start" x="274.5" y="-1304" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLength()</text>
-<text text-anchor="start" x="274.5" y="-1291" font-family="Helvetica,sans-Serif" font-size="10.00">+ isOrigin()</text>
-<text text-anchor="start" x="274.5" y="-1278" font-family="Helvetica,sans-Serif" font-size="10.00">+ toMmQPointF()</text>
-<text text-anchor="start" x="274.5" y="-1265" font-family="Helvetica,sans-Serif" font-size="10.00">+ toInchQPointF()</text>
-<text text-anchor="start" x="274.5" y="-1252" font-family="Helvetica,sans-Serif" font-size="10.00">+ toMilQPointF()</text>
-<text text-anchor="start" x="274.5" y="-1239" font-family="Helvetica,sans-Serif" font-size="10.00">+ toPxQPointF()</text>
-<text text-anchor="start" x="274.5" y="-1226" font-family="Helvetica,sans-Serif" font-size="10.00">+ abs()</text>
-<text text-anchor="start" x="274.5" y="-1213" font-family="Helvetica,sans-Serif" font-size="10.00">+ makeAbs()</text>
-<text text-anchor="start" x="274.5" y="-1200" font-family="Helvetica,sans-Serif" font-size="10.00">+ mappedToGrid()</text>
-<text text-anchor="start" x="274.5" y="-1187" font-family="Helvetica,sans-Serif" font-size="10.00">+ mapToGrid()</text>
-<text text-anchor="start" x="274.5" y="-1174" font-family="Helvetica,sans-Serif" font-size="10.00">+ rotated()</text>
-<text text-anchor="start" x="274.5" y="-1161" font-family="Helvetica,sans-Serif" font-size="10.00">+ rotate()</text>
-<text text-anchor="start" x="274.5" y="-1148" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator=()</text>
-<text text-anchor="start" x="274.5" y="-1135" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator+=()</text>
-<text text-anchor="start" x="274.5" y="-1122" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&#45;=()</text>
-<text text-anchor="start" x="274.5" y="-1109" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator*=()</text>
+<text text-anchor="start" x="274.5" y="-1473" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~Point()</text>
+<text text-anchor="start" x="274.5" y="-1460" font-family="Helvetica,sans-Serif" font-size="10.00">+ setX()</text>
+<text text-anchor="start" x="274.5" y="-1447" font-family="Helvetica,sans-Serif" font-size="10.00">+ setY()</text>
+<text text-anchor="start" x="274.5" y="-1434" font-family="Helvetica,sans-Serif" font-size="10.00">+ setXmm()</text>
+<text text-anchor="start" x="274.5" y="-1421" font-family="Helvetica,sans-Serif" font-size="10.00">+ setYmm()</text>
+<text text-anchor="start" x="274.5" y="-1408" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPointNm()</text>
+<text text-anchor="start" x="274.5" y="-1395" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPointMm()</text>
+<text text-anchor="start" x="274.5" y="-1382" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPointInch()</text>
+<text text-anchor="start" x="274.5" y="-1369" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPointMil()</text>
+<text text-anchor="start" x="274.5" y="-1356" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPointPx()</text>
+<text text-anchor="start" x="274.5" y="-1343" font-family="Helvetica,sans-Serif" font-size="10.00">+ getX()</text>
+<text text-anchor="start" x="274.5" y="-1330" font-family="Helvetica,sans-Serif" font-size="10.00">+ getY()</text>
+<text text-anchor="start" x="274.5" y="-1317" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLength()</text>
+<text text-anchor="start" x="274.5" y="-1304" font-family="Helvetica,sans-Serif" font-size="10.00">+ isOrigin()</text>
+<text text-anchor="start" x="274.5" y="-1291" font-family="Helvetica,sans-Serif" font-size="10.00">+ toMmQPointF()</text>
+<text text-anchor="start" x="274.5" y="-1278" font-family="Helvetica,sans-Serif" font-size="10.00">+ toInchQPointF()</text>
+<text text-anchor="start" x="274.5" y="-1265" font-family="Helvetica,sans-Serif" font-size="10.00">+ toMilQPointF()</text>
+<text text-anchor="start" x="274.5" y="-1252" font-family="Helvetica,sans-Serif" font-size="10.00">+ toPxQPointF()</text>
+<text text-anchor="start" x="274.5" y="-1239" font-family="Helvetica,sans-Serif" font-size="10.00">+ abs()</text>
+<text text-anchor="start" x="274.5" y="-1226" font-family="Helvetica,sans-Serif" font-size="10.00">+ makeAbs()</text>
+<text text-anchor="start" x="274.5" y="-1213" font-family="Helvetica,sans-Serif" font-size="10.00">+ mappedToGrid()</text>
+<text text-anchor="start" x="274.5" y="-1200" font-family="Helvetica,sans-Serif" font-size="10.00">+ mapToGrid()</text>
+<text text-anchor="start" x="274.5" y="-1187" font-family="Helvetica,sans-Serif" font-size="10.00">+ rotated()</text>
+<text text-anchor="start" x="274.5" y="-1174" font-family="Helvetica,sans-Serif" font-size="10.00">+ rotate()</text>
+<text text-anchor="start" x="274.5" y="-1161" font-family="Helvetica,sans-Serif" font-size="10.00">+ mirrored()</text>
+<text text-anchor="start" x="274.5" y="-1148" font-family="Helvetica,sans-Serif" font-size="10.00">+ mirror()</text>
+<text text-anchor="start" x="274.5" y="-1135" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator=()</text>
+<text text-anchor="start" x="274.5" y="-1122" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator+=()</text>
+<text text-anchor="start" x="274.5" y="-1109" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&#45;=()</text>
 <text text-anchor="start" x="274.5" y="-1096" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator*=()</text>
-<text text-anchor="start" x="274.5" y="-1083" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator/=()</text>
+<text text-anchor="start" x="274.5" y="-1083" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator*=()</text>
 <text text-anchor="start" x="274.5" y="-1070" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator/=()</text>
-<text text-anchor="start" x="274.5" y="-1057" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator+()</text>
-<text text-anchor="start" x="274.5" y="-1044" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&#45;()</text>
+<text text-anchor="start" x="274.5" y="-1057" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator/=()</text>
+<text text-anchor="start" x="274.5" y="-1044" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator+()</text>
 <text text-anchor="start" x="274.5" y="-1031" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&#45;()</text>
-<text text-anchor="start" x="274.5" y="-1018" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator*()</text>
+<text text-anchor="start" x="274.5" y="-1018" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator&#45;()</text>
 <text text-anchor="start" x="274.5" y="-1005" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator*()</text>
-<text text-anchor="start" x="274.5" y="-992" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator/()</text>
+<text text-anchor="start" x="274.5" y="-992" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator*()</text>
 <text text-anchor="start" x="274.5" y="-979" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator/()</text>
-<text text-anchor="start" x="274.5" y="-966" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator%()</text>
-<text text-anchor="start" x="274.5" y="-953" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator==()</text>
-<text text-anchor="start" x="274.5" y="-940" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator!=()</text>
-<text text-anchor="start" x="274.5" y="-927" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromMm()</text>
+<text text-anchor="start" x="274.5" y="-966" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator/()</text>
+<text text-anchor="start" x="274.5" y="-953" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator%()</text>
+<text text-anchor="start" x="274.5" y="-940" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator==()</text>
+<text text-anchor="start" x="274.5" y="-927" font-family="Helvetica,sans-Serif" font-size="10.00">+ operator!=()</text>
 <text text-anchor="start" x="274.5" y="-914" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromMm()</text>
-<text text-anchor="start" x="274.5" y="-901" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromInch()</text>
+<text text-anchor="start" x="274.5" y="-901" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromMm()</text>
 <text text-anchor="start" x="274.5" y="-888" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromInch()</text>
-<text text-anchor="start" x="274.5" y="-875" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromMil()</text>
+<text text-anchor="start" x="274.5" y="-875" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromInch()</text>
 <text text-anchor="start" x="274.5" y="-862" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromMil()</text>
-<text text-anchor="start" x="274.5" y="-849" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromPx()</text>
+<text text-anchor="start" x="274.5" y="-849" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromMil()</text>
 <text text-anchor="start" x="274.5" y="-836" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromPx()</text>
+<text text-anchor="start" x="274.5" y="-823" font-family="Helvetica,sans-Serif" font-size="10.00">+ fromPx()</text>
 </a>
 </g>
 <!-- Node33&#45;&gt;Node36 -->
 <g id="edge148" class="edge"><title>Node33&#45;&gt;Node36</title>
-<path fill="none" stroke="#404040" d="M380.293,-3198.85C365.149,-2740.19 340.979,-2008.14 326.386,-1566.15"/>
-<polygon fill="none" stroke="#404040" points="326.386,-1566.13 322.19,-1560.27 325.99,-1554.14 330.186,-1560 326.386,-1566.13"/>
+<path fill="none" stroke="#404040" d="M380.293,-3198.85C365.299,-2744.71 341.455,-2022.55 326.821,-1579.31"/>
+<polygon fill="none" stroke="#404040" points="326.819,-1579.25 322.623,-1573.39 326.423,-1567.26 330.619,-1573.13 326.819,-1579.25"/>
 <text text-anchor="middle" x="377" y="-2341" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mX</text>
 <text text-anchor="middle" x="377" y="-2328" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;mY</text>
 </g>
@@ -1670,14 +1672,14 @@
 </g>
 <!-- Node36&#45;&gt;Node1 -->
 <g id="edge160" class="edge"><title>Node36&#45;&gt;Node1</title>
-<path fill="none" stroke="#404040" d="M308.462,-827.968C303.758,-658.23 295.064,-453.511 279,-270 276.99,-247.033 274.001,-222.314 270.87,-199.338"/>
+<path fill="none" stroke="#404040" d="M308.094,-814.908C303.309,-647.796 294.654,-448.829 279,-270 276.99,-247.033 274.001,-222.314 270.87,-199.338"/>
 <polygon fill="none" stroke="#404040" points="270.827,-199.024 266.038,-193.633 269.173,-187.139 273.962,-192.53 270.827,-199.024"/>
 <text text-anchor="middle" x="332" y="-508" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mNewPos</text>
 <text text-anchor="middle" x="332" y="-495" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;mOldPos</text>
 </g>
 <!-- Node36&#45;&gt;Node4 -->
 <g id="edge146" class="edge"><title>Node36&#45;&gt;Node4</title>
-<path fill="none" stroke="#404040" d="M346.748,-827.864C353.488,-813.955 361.199,-800.593 370,-788 397.109,-749.214 429.556,-770.447 464,-738 483.698,-719.444 501.698,-697.593 517.783,-674.825"/>
+<path fill="none" stroke="#404040" d="M353.561,-814.612C358.564,-805.434 364.031,-796.54 370,-788 397.109,-749.214 429.556,-770.447 464,-738 483.698,-719.444 501.698,-697.593 517.783,-674.825"/>
 <polygon fill="none" stroke="#404040" points="517.98,-674.539 518.097,-667.329 524.798,-664.664 524.681,-671.874 517.98,-674.539"/>
 <text text-anchor="middle" x="457" y="-760.5" font-family="Helvetica,sans-Serif" font-size="10.00"> &#45;mPosition</text>
 </g>

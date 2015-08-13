@@ -1,5 +1,11 @@
 var NAVTREEINDEX3 =
 {
+"d2/d05/classproject_1_1_project.html#a448e53b465f12e54d5ccbe0b6fbf14b3":[2,0,2,38,52],
+"d2/d05/classproject_1_1_project.html#a46ccfa0fa920843d0626be456879b382":[2,0,2,38,35],
+"d2/d05/classproject_1_1_project.html#a48060c2dcae92f7800808324ba6b4ea4":[2,0,2,38,65],
+"d2/d05/classproject_1_1_project.html#a48841a90821782952bc8ce7edc3ce8f2":[2,0,2,38,73],
+"d2/d05/classproject_1_1_project.html#a4fe4aabef56a1c4920b8c76cd3ab2d2e":[2,0,2,38,1],
+"d2/d05/classproject_1_1_project.html#a505580327a442b26f4ff537e68201ed1":[2,0,2,38,42],
 "d2/d05/classproject_1_1_project.html#a524ed0dd8a5522b754411728dfe5c752":[2,0,2,38,51],
 "d2/d05/classproject_1_1_project.html#a525e9a7ba3b1dfed186d1fc83e9da949":[2,0,2,38,37],
 "d2/d05/classproject_1_1_project.html#a5a304382795bedf7f5c502eb213f6709":[2,0,2,38,46],
@@ -243,11 +249,5 @@ var NAVTREEINDEX3 =
 "d2/d8a/sgi__netpoint_8cpp.html":[3,0,1,3,5,1,6],
 "d2/d91/point_8h.html":[3,0,1,0,4,8],
 "d2/d91/point_8h.html#a1ad6c1c85c548ac4eb7fd474f23d5f8e":[3,0,1,0,4,8,2],
-"d2/d91/point_8h.html#a4764c9dbfbe64c7c268acba3197b658d":[3,0,1,0,4,8,1],
-"d2/d91/point_8h_source.html":[3,0,1,0,4,8],
-"d2/d93/attrtypeinductance_8cpp.html":[3,0,1,0,0,8],
-"d2/d9a/classproject_1_1_schematic_clipboard.html":[2,0,2,98],
-"d2/d9a/classproject_1_1_schematic_clipboard.html#a53956a354638f45f2fe15e90b9eabcc7":[2,0,2,98,3],
-"d2/d9a/classproject_1_1_schematic_clipboard.html#a7aea78a371049b2fb03081d6a5a4d4e4":[2,0,2,98,2],
-"d2/d9a/classproject_1_1_schematic_clipboard.html#a85bb7e420972c7aca4ff613918803211":[2,0,2,98,1]
+"d2/d91/point_8h.html#a4764c9dbfbe64c7c268acba3197b658d":[3,0,1,0,4,8,1]
 };

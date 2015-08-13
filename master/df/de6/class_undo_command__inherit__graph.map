@@ -1,7 +1,7 @@
 <map id="UndoCommand" name="UndoCommand">
 <area shape="rect" id="node3" href="$d0/d91/classproject_1_1_cmd_board_add.html" title="The CmdBoardAdd class. " alt="" coords="5,565,139,771"/>
 <area shape="rect" id="node5" href="$d6/d6a/classproject_1_1_cmd_component_instance_add.html" title="The CmdComponentInstanceAdd class. " alt="" coords="163,573,381,763"/>
-<area shape="rect" id="node7" href="$d8/d2c/classproject_1_1_cmd_component_instance_edit.html" title="The CmdComponentInstanceEdit class. " alt="" coords="405,530,624,806"/>
+<area shape="rect" id="node7" href="$d8/d2c/classproject_1_1_cmd_component_instance_edit.html" title="The CmdComponentInstanceEdit class. " alt="" coords="405,495,624,841"/>
 <area shape="rect" id="node9" href="$d3/df7/classproject_1_1_cmd_component_instance_remove.html" title="The CmdComponentInstanceRemove class. " alt="" coords="648,591,891,745"/>
 <area shape="rect" id="node11" href="$dd/d26/classproject_1_1_cmd_gen_comp_attr_inst_add.html" title="The CmdGenCompAttrInstAdd class. " alt="" coords="915,547,1117,789"/>
 <area shape="rect" id="node13" href="$d9/d07/classproject_1_1_cmd_gen_comp_attr_inst_edit.html" title="The CmdGenCompAttrInstEdit class. " alt="" coords="1141,539,1344,797"/>

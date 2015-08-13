@@ -108,6 +108,7 @@ $(document).ready(function(){initNavTree('df/d85/class_board_layer.html','../../
   <div class="summary">
 <a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d0/dec/class_board_layer-members.html">List of all members</a>  </div>
@@ -127,7 +128,7 @@ $(document).ready(function(){initNavTree('df/d85/class_board_layer.html','../../
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="../../db/dfe/class_board_layer__coll__graph.svg" width="147" height="304"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../db/dfe/class_board_layer__coll__graph.svg" width="160" height="339"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 <table class="memberdecls">
@@ -151,6 +152,13 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:aab73dfcfb2d157cdf8df0db760f6cb53"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afb49c937aaabbe05a0e5368f8bf9d497"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d85/class_board_layer.html#afb49c937aaabbe05a0e5368f8bf9d497">isVisible</a> () const noexcept</td></tr>
 <tr class="separator:afb49c937aaabbe05a0e5368f8bf9d497"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afda6b17aa57ed134aad9e8407629e697"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d85/class_board_layer.html#afda6b17aa57ed134aad9e8407629e697">getMirroredLayerId</a> () const noexcept</td></tr>
+<tr class="separator:afda6b17aa57ed134aad9e8407629e697"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a0141d02d512259209e9c881254dd143b"><td class="memItemLeft" align="right" valign="top">static int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d85/class_board_layer.html#a0141d02d512259209e9c881254dd143b">getMirroredLayerId</a> (int id) noexcept</td></tr>
+<tr class="separator:a0141d02d512259209e9c881254dd143b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
@@ -206,7 +214,10 @@ Private Attributes</h2></td></tr>
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaea465696330dc0bece4893df15c8c78951"></a>Vias</em>&#160;</td><td class="fielddoc">
 </td></tr>
-<tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaea0a636cd67c8daf5551872278d970fd6b"></a>TopKeepout</em>&#160;</td><td class="fielddoc">
+<tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaeaf85e55c21a0db27d759a4acba249f2e7"></a>ViaRestrict</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaeaacd57fd12e2b293b506eee628e6ddd18"></a>_TOP_LAYERS_START</em>&#160;</td><td class="fielddoc">
+<p>required for mirroring layers </p>
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaeacd235cea39e1213bc0d411527213bd98"></a>TopDeviceOutlines</em>&#160;</td><td class="fielddoc">
 </td></tr>
@@ -223,6 +234,13 @@ Private Attributes</h2></td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaea2beefde1f7208d77346c8127b9a8dedb"></a>TopOverlay</em>&#160;</td><td class="fielddoc">
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaeaa0e08316217dc47792d4136671b4bae8"></a>TopStopMask</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaea00a6ed86bdf256269f875f7d7b445afb"></a>TopDeviceKeepout</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaea16af6baf5c36117461ca71d16406b544"></a>TopCopperRestrict</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaea41f4fe893950a860d50d9cdd135a837b"></a>_TOP_LAYERS_END</em>&#160;</td><td class="fielddoc">
+<p>required for mirroring layers </p>
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaeaa7ac519b4d5f9d0a5b3fdaff3981fbaf"></a>TopCopper</em>&#160;</td><td class="fielddoc">
 </td></tr>
@@ -422,7 +440,16 @@ Private Attributes</h2></td></tr>
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaea74bc826f6618f7fbbd4461f9c78bb5a1"></a>InnerCopper98</em>&#160;</td><td class="fielddoc">
 </td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaea66e0f13d2406c7330d821c143ecfe041"></a>InnerCopper99</em>&#160;</td><td class="fielddoc">
+</td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaeaf7f7eb3faeaed18730b9d72dd232f24b"></a>BottomCopper</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaeaf8973c5731b08e1fe7c7f81e82c46c5b"></a>_BOTTOM_LAYERS_START</em>&#160;</td><td class="fielddoc">
+<p>required for mirroring layers </p>
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaea80b4fd7ae0f5066611108ef094b378cc"></a>BottomCopperRestrict</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaeac813d426c4ad61c7ea184ad932caff3e"></a>BottomDeviceKeepout</em>&#160;</td><td class="fielddoc">
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaead9f417540ef4d1593fc9712d1e8ffa4f"></a>BottomStopMask</em>&#160;</td><td class="fielddoc">
 </td></tr>
@@ -440,7 +467,8 @@ Private Attributes</h2></td></tr>
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaea1f032e681e5dffd067e7fe322fc6fe48"></a>BottomDeviceOutlines</em>&#160;</td><td class="fielddoc">
 </td></tr>
-<tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaea9093558d28f89e2f90f741edf6ad504a"></a>BootomKeepout</em>&#160;</td><td class="fielddoc">
+<tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaea41cb3529ff9fed01c4f349d534a00ee7"></a>_BOTTOM_LAYERS_END</em>&#160;</td><td class="fielddoc">
+<p>required for mirroring layers </p>
 </td></tr>
 <tr><td class="fieldname"><em><a class="anchor" id="a176a1fee332dc1a193b4b97dae579eaeaab71c14714fc44d3af0ed14644c023af"></a>UserDefinedBaseId</em>&#160;</td><td class="fielddoc">
 </td></tr>
@@ -641,6 +669,73 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="afda6b17aa57ed134aad9e8407629e697"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int getMirroredLayerId </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p><div id="dynsection-3" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-3-trigger" src="../../closed.png" alt="+"/> Here is the call graph for this function:</div>
+<div id="dynsection-3-summary" class="dynsummary" style="display:block;">
+</div>
+<div id="dynsection-3-content" class="dyncontent" style="display:none;">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../df/d85/class_board_layer_afda6b17aa57ed134aad9e8407629e697_cgraph.svg" width="142" height="64"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+</p>
+
+<p><div id="dynsection-4" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-4-trigger" src="../../closed.png" alt="+"/> Here is the caller graph for this function:</div>
+<div id="dynsection-4-summary" class="dynsummary" style="display:block;">
+</div>
+<div id="dynsection-4-content" class="dyncontent" style="display:none;">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../df/d85/class_board_layer_afda6b17aa57ed134aad9e8407629e697_icgraph.svg" width="584" height="126"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="a0141d02d512259209e9c881254dd143b"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int getMirroredLayerId </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>id</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a class="anchor" id="a709bf3e84b50a96e532f52a59e5ba8a8"></a>
 <div class="memitem">
 <div class="memproto">
@@ -776,7 +871,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d85/class_board_layer.html">BoardLayer</a></li>
-    <li class="footer">Generated on Thu Aug 13 2015 19:19:06 for LibrePCB Developers Documentation by
+    <li class="footer">Generated on Thu Aug 13 2015 21:41:02 for LibrePCB Developers Documentation by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="../../doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

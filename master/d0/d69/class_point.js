@@ -27,6 +27,8 @@ var class_point =
     [ "mapToGrid", "d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90", null ],
     [ "rotated", "d0/d69/class_point.html#a5234cfe8b9f31ba928745912067f90b4", null ],
     [ "rotate", "d0/d69/class_point.html#af8998fd1f88de65f9467a5d2012710a4", null ],
+    [ "mirrored", "d0/d69/class_point.html#a8fad0ac9d7775cee4ff79ee327e1eb30", null ],
+    [ "mirror", "d0/d69/class_point.html#ae0dd2aa73e6242010ab2ecf69bc6646b", null ],
     [ "fromMm", "d0/d69/class_point.html#adb9043980e8c2b8b1f2289cd48a3e168", null ],
     [ "fromMm", "d0/d69/class_point.html#a659892926b1a1e30819d57d8d0ad58b0", null ],
     [ "fromInch", "d0/d69/class_point.html#a18219672e7f768b5654c2507ada7fbfb", null ],

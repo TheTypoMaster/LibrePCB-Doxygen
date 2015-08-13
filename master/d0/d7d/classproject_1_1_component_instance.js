@@ -13,8 +13,10 @@ var classproject_1_1_component_instance =
     [ "getFootprint", "d0/d7d/classproject_1_1_component_instance.html#a43009465a74e4ea29421f269c876916d", null ],
     [ "getRotation", "d0/d7d/classproject_1_1_component_instance.html#a01f0e165edb023b0c50cdbfd70f36021", null ],
     [ "getPosition", "d0/d7d/classproject_1_1_component_instance.html#ae23dd3ab799e9f70a4037eea91f69a82", null ],
+    [ "getIsMirrored", "d0/d7d/classproject_1_1_component_instance.html#a24b25f817cadcc6b1d0a0a6516c890fa", null ],
     [ "setPosition", "d0/d7d/classproject_1_1_component_instance.html#aec8f6fd3fb6f466ea97563621f5dccf9", null ],
     [ "setRotation", "d0/d7d/classproject_1_1_component_instance.html#abe3686cf5581829dce0c2a619207915f", null ],
+    [ "setIsMirrored", "d0/d7d/classproject_1_1_component_instance.html#a00909bd1aa9a06e93db7fc24af14e2ee", null ],
     [ "addToBoard", "d0/d7d/classproject_1_1_component_instance.html#a1713f92d705116c3ecb235a91ae31fe3", null ],
     [ "removeFromBoard", "d0/d7d/classproject_1_1_component_instance.html#a000d5c24004fbd2efafe1c48b51ccc7e", null ],
     [ "serializeToXmlDomElement", "d0/d7d/classproject_1_1_component_instance.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
@@ -22,6 +24,7 @@ var classproject_1_1_component_instance =
     [ "attributesChanged", "d0/d7d/classproject_1_1_component_instance.html#a6f15290c411b59a902b38d07962c5449", null ],
     [ "moved", "d0/d7d/classproject_1_1_component_instance.html#aa177beb65528e29cd5aaa0e2ccaad3b7", null ],
     [ "rotated", "d0/d7d/classproject_1_1_component_instance.html#ac93b662860586a9e0fb93b767e5eb07c", null ],
+    [ "mirrored", "d0/d7d/classproject_1_1_component_instance.html#a6630fe1822a998c637ddc380a1c24888", null ],
     [ "operator=", "d0/d7d/classproject_1_1_component_instance.html#aa246247c67818987ec3c8c07074f96bb", null ],
     [ "initComponentAndPackage", "d0/d7d/classproject_1_1_component_instance.html#a074c8cd61c9dfeb20a68cc80a93426f6", null ],
     [ "init", "d0/d7d/classproject_1_1_component_instance.html#a02fd73d861ef2e4aabb38c0c9ff82947", null ],
@@ -34,5 +37,6 @@ var classproject_1_1_component_instance =
     [ "mPackage", "d0/d7d/classproject_1_1_component_instance.html#a7cd0f428bf373d972a347881bdbb4667", null ],
     [ "mFootprint", "d0/d7d/classproject_1_1_component_instance.html#a1130e165494279dfc44cd36948738204", null ],
     [ "mPosition", "d0/d7d/classproject_1_1_component_instance.html#aeb305cb4fa9c30aa723aa1cc02c2e690", null ],
-    [ "mRotation", "d0/d7d/classproject_1_1_component_instance.html#a97de4ec2b9bd9978446fa98f8edb15cc", null ]
+    [ "mRotation", "d0/d7d/classproject_1_1_component_instance.html#a97de4ec2b9bd9978446fa98f8edb15cc", null ],
+    [ "mIsMirrored", "d0/d7d/classproject_1_1_component_instance.html#a00fe9abe03e3d7762cbe2e0d5aed759c", null ]
 ];

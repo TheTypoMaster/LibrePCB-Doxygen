@@ -3,6 +3,8 @@ var classproject_1_1_board =
     [ "ItemZValue", "d5/d07/classproject_1_1_board.html#a031a4a79a6a2388a7829b994dc8f894c", [
       [ "ZValue_Default", "d5/d07/classproject_1_1_board.html#a031a4a79a6a2388a7829b994dc8f894ca36dae0e455e5c4dd0f56cb84e9033de0", null ],
       [ "ZValue_FootprintsBottom", "d5/d07/classproject_1_1_board.html#a031a4a79a6a2388a7829b994dc8f894caf1f8294796029c1b4636a8bd610ba8e2", null ],
+      [ "ZValue_FootprintPadsBottom", "d5/d07/classproject_1_1_board.html#a031a4a79a6a2388a7829b994dc8f894ca47999c4a156407ec2485ffff21bba7c1", null ],
+      [ "ZValue_FootprintPadsTop", "d5/d07/classproject_1_1_board.html#a031a4a79a6a2388a7829b994dc8f894ca9aa135e34e2f13a218de331907942c44", null ],
       [ "ZValue_FootprintsTop", "d5/d07/classproject_1_1_board.html#a031a4a79a6a2388a7829b994dc8f894ca0f13d96cb57ad445961acbd33cb259b5", null ]
     ] ],
     [ "Board", "d5/d07/classproject_1_1_board.html#a00df2b2ae9adcdd43f56c7716eee555f", null ],

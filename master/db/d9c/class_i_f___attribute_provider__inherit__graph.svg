@@ -62,31 +62,32 @@
 <!-- Node3 -->
 <g id="node5" class="node"><title>Node3</title>
 <a xlink:href="../../da/d96/classproject_1_1_b_i___footprint.html" target="_top" xlink:title="The BI_Footprint class. ">
-<polygon fill="white" stroke="black" points="181.5,-254.5 181.5,-707.5 334.5,-707.5 334.5,-254.5 181.5,-254.5"/>
-<text text-anchor="middle" x="258" y="-694.5" font-family="Helvetica,sans-Serif" font-size="10.00">BI_Footprint</text>
-<polyline fill="none" stroke="black" points="181.5,-686.5 334.5,-686.5 "/>
-<text text-anchor="start" x="189.5" y="-673.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mComponentInstance</text>
-<text text-anchor="start" x="189.5" y="-660.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFootprint</text>
-<text text-anchor="start" x="189.5" y="-647.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPads</text>
-<text text-anchor="start" x="189.5" y="-634.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGraphicsItem</text>
-<polyline fill="none" stroke="black" points="181.5,-626.5 334.5,-626.5 "/>
+<polygon fill="white" stroke="black" points="181.5,-241.5 181.5,-720.5 334.5,-720.5 334.5,-241.5 181.5,-241.5"/>
+<text text-anchor="middle" x="258" y="-707.5" font-family="Helvetica,sans-Serif" font-size="10.00">BI_Footprint</text>
+<polyline fill="none" stroke="black" points="181.5,-699.5 334.5,-699.5 "/>
+<text text-anchor="start" x="189.5" y="-686.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mComponentInstance</text>
+<text text-anchor="start" x="189.5" y="-673.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFootprint</text>
+<text text-anchor="start" x="189.5" y="-660.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPads</text>
+<text text-anchor="start" x="189.5" y="-647.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGraphicsItem</text>
+<polyline fill="none" stroke="black" points="181.5,-639.5 334.5,-639.5 "/>
+<text text-anchor="start" x="189.5" y="-626.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ BI_Footprint()</text>
 <text text-anchor="start" x="189.5" y="-613.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ BI_Footprint()</text>
-<text text-anchor="start" x="189.5" y="-600.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ BI_Footprint()</text>
-<text text-anchor="start" x="189.5" y="-587.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~BI_Footprint()</text>
-<text text-anchor="start" x="189.5" y="-574.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
-<text text-anchor="start" x="189.5" y="-561.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoard()</text>
-<text text-anchor="start" x="189.5" y="-548.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getComponentInstance()</text>
-<text text-anchor="start" x="189.5" y="-535.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPad()</text>
-<text text-anchor="start" x="189.5" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPads()</text>
-<text text-anchor="start" x="189.5" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLibFootprint()</text>
-<text text-anchor="start" x="189.5" y="-496.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
-<text text-anchor="start" x="189.5" y="-483.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addToBoard()</text>
-<text text-anchor="start" x="189.5" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFromBoard()</text>
-<text text-anchor="start" x="189.5" y="-457.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ serializeToXmlDomElement()</text>
-<text text-anchor="start" x="189.5" y="-444.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ mapToScene()</text>
-<text text-anchor="start" x="189.5" y="-431.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAttributeValue()</text>
-<text text-anchor="start" x="189.5" y="-418.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
-<text text-anchor="start" x="189.5" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPosition()</text>
+<text text-anchor="start" x="189.5" y="-600.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~BI_Footprint()</text>
+<text text-anchor="start" x="189.5" y="-587.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
+<text text-anchor="start" x="189.5" y="-574.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoard()</text>
+<text text-anchor="start" x="189.5" y="-561.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getComponentInstance()</text>
+<text text-anchor="start" x="189.5" y="-548.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPad()</text>
+<text text-anchor="start" x="189.5" y="-535.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPads()</text>
+<text text-anchor="start" x="189.5" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLibFootprint()</text>
+<text text-anchor="start" x="189.5" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
+<text text-anchor="start" x="189.5" y="-496.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addToBoard()</text>
+<text text-anchor="start" x="189.5" y="-483.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFromBoard()</text>
+<text text-anchor="start" x="189.5" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ serializeToXmlDomElement()</text>
+<text text-anchor="start" x="189.5" y="-457.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ mapToScene()</text>
+<text text-anchor="start" x="189.5" y="-444.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAttributeValue()</text>
+<text text-anchor="start" x="189.5" y="-431.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getType()</text>
+<text text-anchor="start" x="189.5" y="-418.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPosition()</text>
+<text text-anchor="start" x="189.5" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getIsMirrored()</text>
 <text text-anchor="start" x="189.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGrabAreaScenePx()</text>
 <text text-anchor="start" x="189.5" y="-379.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setSelected()</text>
 <text text-anchor="start" x="189.5" y="-366.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; BI_Footprint()</text>
@@ -98,11 +99,12 @@
 <text text-anchor="start" x="189.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">Changed()</text>
 <text text-anchor="start" x="189.5" y="-275.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; componentInstanceMoved()</text>
 <text text-anchor="start" x="189.5" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; componentInstanceRotated()</text>
+<text text-anchor="start" x="189.5" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; componentInstanceMirrored()</text>
 </a>
 </g>
 <!-- Node1&#45;&gt;Node3 -->
 <g id="edge4" class="edge"><title>Node1&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M628.607,-1054.24C529.208,-1036.6 381.077,-1004.1 343,-962 281.21,-893.683 256.554,-796.741 248.643,-707.766"/>
+<path fill="none" stroke="midnightblue" d="M628.607,-1054.24C529.208,-1036.6 381.077,-1004.1 343,-962 284.197,-896.985 259.024,-806.045 249.909,-720.718"/>
 <polygon fill="none" stroke="midnightblue" points="628.215,-1057.73 638.669,-1056.01 629.424,-1050.83 628.215,-1057.73"/>
 </g>
 <!-- Node4 -->
@@ -170,47 +172,50 @@
 <!-- Node5 -->
 <g id="node9" class="node"><title>Node5</title>
 <a xlink:href="../../d0/d7d/classproject_1_1_component_instance.html" target="_top" xlink:title="The ComponentInstance class. ">
-<polygon fill="white" stroke="black" points="553.5,-254.5 553.5,-707.5 706.5,-707.5 706.5,-254.5 553.5,-254.5"/>
-<text text-anchor="middle" x="630" y="-694.5" font-family="Helvetica,sans-Serif" font-size="10.00">ComponentInstance</text>
-<polyline fill="none" stroke="black" points="553.5,-686.5 706.5,-686.5 "/>
-<text text-anchor="start" x="561.5" y="-673.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoard</text>
-<text text-anchor="start" x="561.5" y="-660.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mAddedToBoard</text>
-<text text-anchor="start" x="561.5" y="-647.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGenCompInstance</text>
-<text text-anchor="start" x="561.5" y="-634.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mComponent</text>
-<text text-anchor="start" x="561.5" y="-621.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPackage</text>
-<text text-anchor="start" x="561.5" y="-608.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFootprint</text>
-<text text-anchor="start" x="561.5" y="-595.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPosition</text>
-<text text-anchor="start" x="561.5" y="-582.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRotation</text>
-<polyline fill="none" stroke="black" points="553.5,-574.5 706.5,-574.5 "/>
-<text text-anchor="start" x="561.5" y="-561.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ComponentInstance()</text>
-<text text-anchor="start" x="561.5" y="-548.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ComponentInstance()</text>
-<text text-anchor="start" x="561.5" y="-535.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~ComponentInstance()</text>
-<text text-anchor="start" x="561.5" y="-522.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
-<text text-anchor="start" x="561.5" y="-509.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoard()</text>
-<text text-anchor="start" x="561.5" y="-496.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGenCompInstance()</text>
-<text text-anchor="start" x="561.5" y="-483.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLibComponent()</text>
-<text text-anchor="start" x="561.5" y="-470.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLibPackage()</text>
-<text text-anchor="start" x="561.5" y="-457.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFootprint()</text>
-<text text-anchor="start" x="561.5" y="-444.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
-<text text-anchor="start" x="561.5" y="-431.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPosition()</text>
-<text text-anchor="start" x="561.5" y="-418.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPosition()</text>
-<text text-anchor="start" x="561.5" y="-405.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
-<text text-anchor="start" x="561.5" y="-392.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ addToBoard()</text>
-<text text-anchor="start" x="561.5" y="-379.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFromBoard()</text>
-<text text-anchor="start" x="561.5" y="-366.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ serializeToXmlDomElement()</text>
-<text text-anchor="start" x="561.5" y="-353.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAttributeValue()</text>
-<text text-anchor="start" x="561.5" y="-340.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; ComponentInstance()</text>
-<text text-anchor="start" x="561.5" y="-327.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; ComponentInstance()</text>
-<text text-anchor="start" x="561.5" y="-314.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
-<text text-anchor="start" x="561.5" y="-301.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; initComponentAndPackage()</text>
-<text text-anchor="start" x="561.5" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; init()</text>
-<text text-anchor="start" x="561.5" y="-275.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; checkAttributesValidity()</text>
-<text text-anchor="start" x="561.5" y="-262.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; updateErcMessages()</text>
+<polygon fill="white" stroke="black" points="553.5,-235 553.5,-727 706.5,-727 706.5,-235 553.5,-235"/>
+<text text-anchor="middle" x="630" y="-714" font-family="Helvetica,sans-Serif" font-size="10.00">ComponentInstance</text>
+<polyline fill="none" stroke="black" points="553.5,-706 706.5,-706 "/>
+<text text-anchor="start" x="561.5" y="-693" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoard</text>
+<text text-anchor="start" x="561.5" y="-680" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mAddedToBoard</text>
+<text text-anchor="start" x="561.5" y="-667" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGenCompInstance</text>
+<text text-anchor="start" x="561.5" y="-654" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mComponent</text>
+<text text-anchor="start" x="561.5" y="-641" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPackage</text>
+<text text-anchor="start" x="561.5" y="-628" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFootprint</text>
+<text text-anchor="start" x="561.5" y="-615" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPosition</text>
+<text text-anchor="start" x="561.5" y="-602" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRotation</text>
+<text text-anchor="start" x="561.5" y="-589" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mIsMirrored</text>
+<polyline fill="none" stroke="black" points="553.5,-581 706.5,-581 "/>
+<text text-anchor="start" x="561.5" y="-568" font-family="Helvetica,sans-Serif" font-size="10.00">+ ComponentInstance()</text>
+<text text-anchor="start" x="561.5" y="-555" font-family="Helvetica,sans-Serif" font-size="10.00">+ ComponentInstance()</text>
+<text text-anchor="start" x="561.5" y="-542" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~ComponentInstance()</text>
+<text text-anchor="start" x="561.5" y="-529" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
+<text text-anchor="start" x="561.5" y="-516" font-family="Helvetica,sans-Serif" font-size="10.00">+ getBoard()</text>
+<text text-anchor="start" x="561.5" y="-503" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGenCompInstance()</text>
+<text text-anchor="start" x="561.5" y="-490" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLibComponent()</text>
+<text text-anchor="start" x="561.5" y="-477" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLibPackage()</text>
+<text text-anchor="start" x="561.5" y="-464" font-family="Helvetica,sans-Serif" font-size="10.00">+ getFootprint()</text>
+<text text-anchor="start" x="561.5" y="-451" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
+<text text-anchor="start" x="561.5" y="-438" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPosition()</text>
+<text text-anchor="start" x="561.5" y="-425" font-family="Helvetica,sans-Serif" font-size="10.00">+ getIsMirrored()</text>
+<text text-anchor="start" x="561.5" y="-412" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPosition()</text>
+<text text-anchor="start" x="561.5" y="-399" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
+<text text-anchor="start" x="561.5" y="-386" font-family="Helvetica,sans-Serif" font-size="10.00">+ setIsMirrored()</text>
+<text text-anchor="start" x="561.5" y="-373" font-family="Helvetica,sans-Serif" font-size="10.00">+ addToBoard()</text>
+<text text-anchor="start" x="561.5" y="-360" font-family="Helvetica,sans-Serif" font-size="10.00">+ removeFromBoard()</text>
+<text text-anchor="start" x="561.5" y="-347" font-family="Helvetica,sans-Serif" font-size="10.00">+ serializeToXmlDomElement()</text>
+<text text-anchor="start" x="561.5" y="-334" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAttributeValue()</text>
+<text text-anchor="start" x="561.5" y="-321" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; ComponentInstance()</text>
+<text text-anchor="start" x="561.5" y="-308" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; ComponentInstance()</text>
+<text text-anchor="start" x="561.5" y="-295" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<text text-anchor="start" x="561.5" y="-282" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; initComponentAndPackage()</text>
+<text text-anchor="start" x="561.5" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; init()</text>
+<text text-anchor="start" x="561.5" y="-256" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; checkAttributesValidity()</text>
+<text text-anchor="start" x="561.5" y="-243" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; updateErcMessages()</text>
 </a>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge8" class="edge"><title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M709.393,-988.424C698.089,-916.178 680.951,-806.646 665.488,-707.816"/>
+<path fill="none" stroke="midnightblue" d="M709.361,-988.22C698.786,-920.633 683.122,-820.519 668.498,-727.05"/>
 <polygon fill="none" stroke="midnightblue" points="705.945,-989.027 710.948,-998.366 712.86,-987.945 705.945,-989.027"/>
 </g>
 <!-- Node6 -->

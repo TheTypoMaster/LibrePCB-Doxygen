@@ -1,5 +1,11 @@
 var NAVTREEINDEX4 =
 {
+"d2/d91/point_8h_source.html":[3,0,1,0,4,8],
+"d2/d93/attrtypeinductance_8cpp.html":[3,0,1,0,0,8],
+"d2/d9a/classproject_1_1_schematic_clipboard.html":[2,0,2,98],
+"d2/d9a/classproject_1_1_schematic_clipboard.html#a53956a354638f45f2fe15e90b9eabcc7":[2,0,2,98,3],
+"d2/d9a/classproject_1_1_schematic_clipboard.html#a7aea78a371049b2fb03081d6a5a4d4e4":[2,0,2,98,2],
+"d2/d9a/classproject_1_1_schematic_clipboard.html#a85bb7e420972c7aca4ff613918803211":[2,0,2,98,1],
 "d2/d9a/classproject_1_1_schematic_clipboard.html#ab66acd9999a0c1508cd01252495cc095":[2,0,2,98,0],
 "d2/db7/schematiceditor_8h.html":[3,0,1,4,3,4],
 "d2/db7/schematiceditor_8h_source.html":[3,0,1,4,3,4],
@@ -243,11 +249,5 @@ var NAVTREEINDEX4 =
 "d3/d8f/classproject_1_1_edit_net_classes_dialog.html#a8a6fd015b05da4e769ad2191e7b14675":[2,0,2,77,10],
 "d3/d8f/classproject_1_1_edit_net_classes_dialog.html#a8f71b9f861cdda4cfefba4359fbf792e":[2,0,2,77,2],
 "d3/d8f/classproject_1_1_edit_net_classes_dialog.html#accd0a903591840efc04eae995ba9518a":[2,0,2,77,5],
-"d3/d8f/classproject_1_1_edit_net_classes_dialog.html#ade8f735a69f01721bd3833bab5d0706d":[2,0,2,77,7],
-"d3/d8f/classproject_1_1_edit_net_classes_dialog.html#aebd5b8c290c00608d10d0d88bfdf9317":[2,0,2,77,0],
-"d3/d93/classproject_1_1_net_signal.html":[2,0,2,31],
-"d3/d93/classproject_1_1_net_signal.html#a032811cee8c8dc4f16304a991ede80f5":[2,0,2,31,32],
-"d3/d93/classproject_1_1_net_signal.html#a09b8f71f7ed0d3890e755c7fb8f560a0":[2,0,2,31,15],
-"d3/d93/classproject_1_1_net_signal.html#a09edf875973871484f59d35a741b1048":[2,0,2,31,29],
-"d3/d93/classproject_1_1_net_signal.html#a0ef2e374696b194e64da857ca94be207":[2,0,2,31,27]
+"d3/d8f/classproject_1_1_edit_net_classes_dialog.html#ade8f735a69f01721bd3833bab5d0706d":[2,0,2,77,7]
 };

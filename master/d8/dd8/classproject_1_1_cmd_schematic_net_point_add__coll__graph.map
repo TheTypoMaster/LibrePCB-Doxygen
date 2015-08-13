@@ -33,7 +33,7 @@
 <area shape="rect" id="node24" href="$d6/db7/class_i_f___board_layer_provider.html" title="The IF_BoardLayerProvider class defines an interface for classes which provide board layers..." alt="" coords="1281,2531,1463,2685"/>
 <area shape="rect" id="node94" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html" title="The SI_SymbolPin class. " alt="" coords="2839,9637,3073,10139"/>
 <area shape="rect" id="node69" href="$df/df0/class_length.html" title="The Length class is used to represent a length (for example 12.75 millimeters) " alt="" coords="2816,2054,2971,3162"/>
-<area shape="rect" id="node91" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="3120,7858,3245,8827"/>
+<area shape="rect" id="node91" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="3120,7841,3245,8845"/>
 <area shape="rect" id="node71" href="$dd/d55/class_length_unit.html" title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth..." alt="" coords="2447,2383,2585,2833"/>
 <area shape="rect" id="node82" href="$da/db5/classproject_1_1_s_g_i___net_point.html" title="The SGI_NetPoint class. " alt="" coords="2119,9767,2305,10009"/>
 <area shape="rect" id="node75" href="$d4/dbe/classproject_1_1_s_i___base.html" title="The Schematic Item Base (SI_Base) class. " alt="" coords="2928,8231,3096,8455"/>

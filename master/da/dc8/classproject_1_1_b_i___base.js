@@ -12,6 +12,7 @@ var classproject_1_1_b_i___base =
     [ "BI_Base", "da/dc8/classproject_1_1_b_i___base.html#ae3c7da21333365fbab114b6318607f63", null ],
     [ "getType", "da/dc8/classproject_1_1_b_i___base.html#a67376e778d857201eb9d295eafa6aeb6", null ],
     [ "getPosition", "da/dc8/classproject_1_1_b_i___base.html#a39ddeb20c373c27b48c7f3f629270a7e", null ],
+    [ "getIsMirrored", "da/dc8/classproject_1_1_b_i___base.html#a65aa56784bf8352cb077015b763146fb", null ],
     [ "isSelected", "da/dc8/classproject_1_1_b_i___base.html#afe4e9ea4eba8862c8e6dd56d0b9712ce", null ],
     [ "getGrabAreaScenePx", "da/dc8/classproject_1_1_b_i___base.html#ab06ed7df12bf631b99ccc391452f0c38", null ],
     [ "setSelected", "da/dc8/classproject_1_1_b_i___base.html#ab98bb60eca6122e4def2f7d285046547", null ],

@@ -1,5 +1,6 @@
 <map id="getType" name="getType">
 <area shape="rect" id="node3" href="$db/dd3/classproject_1_1_b_e_s___select.html#a82f67b84fff325f62072faa6bd5a3206" title="project::BES_Select\l::startMovingSelectedItems" alt="" coords="124,5,305,51"/>
 <area shape="rect" id="node5" href="$db/dd3/classproject_1_1_b_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::BES_Select\l::rotateSelectedItems" alt="" coords="141,74,288,121"/>
-<area shape="rect" id="node7" href="$db/dd3/classproject_1_1_b_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::BES_Select\l::removeSelectedItems" alt="" coords="136,143,293,190"/>
+<area shape="rect" id="node7" href="$db/dd3/classproject_1_1_b_e_s___select.html#a4f8e8c70feead094c696afcd912fc26a" title="project::BES_Select\l::flipSelectedItems" alt="" coords="145,143,284,190"/>
+<area shape="rect" id="node9" href="$db/dd3/classproject_1_1_b_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::BES_Select\l::removeSelectedItems" alt="" coords="136,213,293,259"/>
 </map>
