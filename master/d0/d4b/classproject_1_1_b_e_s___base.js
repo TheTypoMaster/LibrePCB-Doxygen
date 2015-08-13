@@ -10,6 +10,7 @@ var classproject_1_1_b_e_s___base =
     [ "process", "d0/d4b/classproject_1_1_b_e_s___base.html#ad0e51167fdf30d76f5f29a3ff63ffce7", null ],
     [ "entry", "d0/d4b/classproject_1_1_b_e_s___base.html#a51e3098b4672acd3c5ec69e745df876e", null ],
     [ "exit", "d0/d4b/classproject_1_1_b_e_s___base.html#a4d757b4900b1290527a54d901f5f77bf", null ],
+    [ "mWorkspace", "d0/d4b/classproject_1_1_b_e_s___base.html#aaf8f4a37785d9bbcba635b7bb0b8aaa1", null ],
     [ "mProject", "d0/d4b/classproject_1_1_b_e_s___base.html#a9887e07d0b08a071e02e6d1fd6cf9ab9", null ],
     [ "mCircuit", "d0/d4b/classproject_1_1_b_e_s___base.html#a26e1424fba2a472fb3a5e6e6a3de8c23", null ],
     [ "mEditor", "d0/d4b/classproject_1_1_b_e_s___base.html#a3002777f3cf446416a4848e7d29b145a", null ],

@@ -1,13 +1,14 @@
 <map id="getGenComp" name="getGenComp">
-<area shape="rect" id="node3" href="$d5/d07/classproject_1_1_board.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::Board::updateErc\lMessages" alt="" coords="167,43,337,90"/>
-<area shape="rect" id="node9" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="project::SI_SymbolPin\l::SI_SymbolPin" alt="" coords="176,113,328,159"/>
-<area shape="rect" id="node11" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="project::UnplacedComponents\lDock::on_pushButton_clicked" alt="" coords="412,157,609,203"/>
-<area shape="rect" id="node13" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ad000d7056be9060e68ab7f2548d12946" title="project::UnplacedComponents\lDock::updateComponentsList" alt="" coords="153,265,351,311"/>
-<area shape="rect" id="node5" href="$d5/d07/classproject_1_1_board.html#a95b66fc6a5db1ecdd9d52fbe963818e0" title="project::Board::addToProject" alt="" coords="417,5,604,35"/>
-<area shape="rect" id="node7" href="$d5/d07/classproject_1_1_board.html#ad8078122fac80d0623a2604e7ca69777" title="project::Board::removeFrom\lProject" alt="" coords="419,58,603,105"/>
-<area shape="rect" id="node15" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#abda2283f458f0fc17a0ccd8f61df7528" title="project::UnplacedComponents\lDock::UnplacedComponentsDock" alt="" coords="400,226,621,273"/>
-<area shape="rect" id="node17" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="project::UnplacedComponents\lDock::setBoard" alt="" coords="412,295,609,342"/>
-<area shape="rect" id="node21" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#accd0a903591840efc04eae995ba9518a" title="project::UnplacedComponents\lDock::on_btnAdd_clicked" alt="" coords="412,365,609,411"/>
-<area shape="rect" id="node24" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="project::UnplacedComponents\lDock::on_btnAddAll_clicked" alt="" coords="412,434,609,481"/>
-<area shape="rect" id="node19" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" title="project::UnplacedComponents\lDock::~UnplacedComponentsDock" alt="" coords="669,295,899,342"/>
+<area shape="rect" id="node3" href="$d5/d07/classproject_1_1_board.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::Board::updateErc\lMessages" alt="" coords="168,27,339,74"/>
+<area shape="rect" id="node9" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="project::SI_SymbolPin\l::SI_SymbolPin" alt="" coords="177,97,329,143"/>
+<area shape="rect" id="node11" href="$db/dd3/classproject_1_1_b_e_s___select.html#a4a1156d123edf8ab83919f7bd13b4afa" title="project::BES_Select\l::proccessIdleSceneRightClick" alt="" coords="152,166,355,213"/>
+<area shape="rect" id="node13" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="project::UnplacedComponents\lDock::on_pushButton_clicked" alt="" coords="415,206,612,253"/>
+<area shape="rect" id="node15" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ad000d7056be9060e68ab7f2548d12946" title="project::UnplacedComponents\lDock::updateComponentsList" alt="" coords="155,325,352,371"/>
+<area shape="rect" id="node5" href="$d5/d07/classproject_1_1_board.html#a95b66fc6a5db1ecdd9d52fbe963818e0" title="project::Board::addToProject" alt="" coords="420,5,607,35"/>
+<area shape="rect" id="node7" href="$d5/d07/classproject_1_1_board.html#ad8078122fac80d0623a2604e7ca69777" title="project::Board::removeFrom\lProject" alt="" coords="421,58,605,105"/>
+<area shape="rect" id="node17" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#abda2283f458f0fc17a0ccd8f61df7528" title="project::UnplacedComponents\lDock::UnplacedComponentsDock" alt="" coords="403,275,624,322"/>
+<area shape="rect" id="node19" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="project::UnplacedComponents\lDock::setBoard" alt="" coords="415,345,612,391"/>
+<area shape="rect" id="node23" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#accd0a903591840efc04eae995ba9518a" title="project::UnplacedComponents\lDock::on_btnAdd_clicked" alt="" coords="415,414,612,461"/>
+<area shape="rect" id="node26" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="project::UnplacedComponents\lDock::on_btnAddAll_clicked" alt="" coords="415,483,612,530"/>
+<area shape="rect" id="node21" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" title="project::UnplacedComponents\lDock::~UnplacedComponentsDock" alt="" coords="672,345,901,391"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="rotateSelectedItems" name="rotateSelectedItems">
-<area shape="rect" id="node3" href="$dd/d2d/classproject_1_1_schematic.html#a0784e33cb985a56c1ac86c631ee3ee1b" title="project::Schematic\l::getSelectedItems" alt="" coords="223,226,353,273"/>
+<area shape="rect" id="node3" href="$dd/d2d/classproject_1_1_schematic.html#a3102ea04118cf756a10705c6d3b607ab" title="project::Schematic\l::getSelectedItems" alt="" coords="223,226,353,273"/>
 <area shape="rect" id="node22" href="$d4/dbe/classproject_1_1_s_i___base.html#a39ddeb20c373c27b48c7f3f629270a7e" title="project::SI_Base::getPosition" alt="" coords="192,296,384,325"/>
 <area shape="rect" id="node24" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="227,373,349,403"/>
 <area shape="rect" id="node27" href="$d4/dbe/classproject_1_1_s_i___base.html#a67376e778d857201eb9d295eafa6aeb6" title="project::SI_Base::getType" alt="" coords="201,427,375,456"/>

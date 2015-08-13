@@ -32,8 +32,8 @@
 <path fill="none" stroke="midnightblue" d="M2748.24,-428.952C2533.66,-411.116 1905.88,-358.934 1704.76,-342.217"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="2748.19,-432.46 2758.44,-429.8 2748.77,-425.484 2748.19,-432.46"/>
 </g>
-<!-- Node9 -->
-<g id="node17" class="node"><title>Node9</title>
+<!-- Node10 -->
+<g id="node19" class="node"><title>Node10</title>
 <a xlink:href="../../dd/d8b/gencompsymbvaritem_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/gencmp\l/gencompsymbvaritem.cpp">
 <polygon fill="white" stroke="black" points="2672,-105 2672,-165 2806,-165 2806,-105 2672,-105"/>
 <text text-anchor="start" x="2680" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -42,13 +42,13 @@
 <text text-anchor="middle" x="2739" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/gencompsymbvaritem.cpp</text>
 </a>
 </g>
-<!-- Node1&#45;&gt;Node9 -->
-<g id="edge58" class="edge"><title>Node1&#45;&gt;Node9</title>
+<!-- Node1&#45;&gt;Node10 -->
+<g id="edge60" class="edge"><title>Node1&#45;&gt;Node10</title>
 <path fill="none" stroke="midnightblue" d="M2810.02,-394.846C2793.37,-333.915 2762.09,-219.462 2747.23,-165.119"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="2806.75,-396.138 2812.76,-404.861 2813.5,-394.292 2806.75,-396.138"/>
 </g>
-<!-- Node23 -->
-<g id="node45" class="node"><title>Node23</title>
+<!-- Node24 -->
+<g id="node47" class="node"><title>Node24</title>
 <a xlink:href="../../d5/d35/si__symbolpin_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_symbolpin.cpp">
 <polygon fill="white" stroke="black" points="3360,-105 3360,-165 3496,-165 3496,-105 3360,-105"/>
 <text text-anchor="start" x="3368" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -57,13 +57,13 @@
 <text text-anchor="middle" x="3428" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/items/si_symbolpin.cpp</text>
 </a>
 </g>
-<!-- Node1&#45;&gt;Node23 -->
-<g id="edge66" class="edge"><title>Node1&#45;&gt;Node23</title>
+<!-- Node1&#45;&gt;Node24 -->
+<g id="edge68" class="edge"><title>Node1&#45;&gt;Node24</title>
 <path fill="none" stroke="midnightblue" d="M2890.81,-400.497C3010.64,-341.273 3253.51,-221.24 3366.99,-165.153"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="2889.11,-397.431 2881.7,-405 2892.22,-403.707 2889.11,-397.431"/>
 </g>
-<!-- Node27 -->
-<g id="node57" class="node"><title>Node27</title>
+<!-- Node28 -->
+<g id="node59" class="node"><title>Node28</title>
 <a xlink:href="../../d1/d21/symbolpinpreviewgraphicsitem_8h.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/sym/symbolpinpreviewgraphicsitem.h">
 <polygon fill="white" stroke="black" points="2823,-215.5 2823,-262.5 3069,-262.5 3069,-215.5 2823,-215.5"/>
 <text text-anchor="start" x="2831" y="-249.5" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -71,8 +71,8 @@
 <text text-anchor="middle" x="2946" y="-223.5" font-family="Helvetica,sans-Serif" font-size="10.00">/librepcblibrary/sym/symbolpinpreviewgraphicsitem.h</text>
 </a>
 </g>
-<!-- Node1&#45;&gt;Node27 -->
-<g id="edge60" class="edge"><title>Node1&#45;&gt;Node27</title>
+<!-- Node1&#45;&gt;Node28 -->
+<g id="edge62" class="edge"><title>Node1&#45;&gt;Node28</title>
 <path fill="none" stroke="midnightblue" d="M2845.77,-396.162C2871.12,-356.408 2909.71,-295.898 2930.85,-262.755"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="2842.68,-394.491 2840.26,-404.805 2848.59,-398.255 2842.68,-394.491"/>
 </g>
@@ -91,8 +91,8 @@
 <path fill="none" stroke="midnightblue" d="M1642,-296.696C1642,-287.527 1642,-277.939 1642,-269.272"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1638.5,-296.797 1642,-306.797 1645.5,-296.797 1638.5,-296.797"/>
 </g>
-<!-- Node8 -->
-<g id="node15" class="node"><title>Node8</title>
+<!-- Node9 -->
+<g id="node17" class="node"><title>Node9</title>
 <a xlink:href="../../df/d80/gencompsymbvar_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/gencmp\l/gencompsymbvar.cpp">
 <polygon fill="white" stroke="black" points="169.5,-105 169.5,-165 294.5,-165 294.5,-105 169.5,-105"/>
 <text text-anchor="start" x="177.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -101,18 +101,18 @@
 <text text-anchor="middle" x="232" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/gencompsymbvar.cpp</text>
 </a>
 </g>
-<!-- Node2&#45;&gt;Node8 -->
-<g id="edge52" class="edge"><title>Node2&#45;&gt;Node8</title>
+<!-- Node2&#45;&gt;Node9 -->
+<g id="edge54" class="edge"><title>Node2&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M1569.01,-331.455C1325.62,-312.428 543.611,-246.827 303,-172 296.895,-170.101 290.691,-167.69 284.621,-165.012"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1568.92,-334.958 1579.16,-332.246 1569.46,-327.98 1568.92,-334.958"/>
 </g>
-<!-- Node2&#45;&gt;Node9 -->
-<g id="edge54" class="edge"><title>Node2&#45;&gt;Node9</title>
+<!-- Node2&#45;&gt;Node10 -->
+<g id="edge56" class="edge"><title>Node2&#45;&gt;Node10</title>
 <path fill="none" stroke="midnightblue" d="M1714.82,-332.557C1884.6,-320.633 2318.48,-281.087 2663,-172 2669.16,-170.051 2675.44,-167.679 2681.63,-165.087"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1714.48,-329.072 1704.75,-333.254 1714.96,-336.055 1714.48,-329.072"/>
 </g>
-<!-- Node24 -->
-<g id="node47" class="node"><title>Node24</title>
+<!-- Node25 -->
+<g id="node49" class="node"><title>Node25</title>
 <a xlink:href="../../da/d64/addgencompdialog_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/dialogs/addgencompdialog.cpp">
 <polygon fill="white" stroke="black" points="-0.5,-105 -0.5,-165 152.5,-165 152.5,-105 -0.5,-105"/>
 <text text-anchor="start" x="7.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -121,8 +121,8 @@
 <text text-anchor="middle" x="76" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/dialogs/addgencompdialog.cpp</text>
 </a>
 </g>
-<!-- Node2&#45;&gt;Node24 -->
-<g id="edge56" class="edge"><title>Node2&#45;&gt;Node24</title>
+<!-- Node2&#45;&gt;Node25 -->
+<g id="edge58" class="edge"><title>Node2&#45;&gt;Node25</title>
 <path fill="none" stroke="midnightblue" d="M1568.97,-335.358C1345.56,-329.941 673.505,-310.619 459,-270 343.836,-248.192 216.724,-197.774 141.752,-165.103"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1569.18,-338.864 1579.26,-335.605 1569.35,-331.866 1569.18,-338.864"/>
 </g>
@@ -140,8 +140,8 @@
 <path fill="none" stroke="midnightblue" d="M1569.14,-233.78C1350.94,-218.143 717.576,-172.707 715,-172 703.503,-168.844 691.683,-163.845 680.957,-158.53"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1568.99,-237.278 1579.21,-234.502 1569.49,-230.296 1568.99,-237.278"/>
 </g>
-<!-- Node7 -->
-<g id="node13" class="node"><title>Node7</title>
+<!-- Node8 -->
+<g id="node15" class="node"><title>Node8</title>
 <a xlink:href="../../dd/df2/gencompsignal_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/gencmp\l/gencompsignal.cpp">
 <polygon fill="white" stroke="black" points="723.5,-105 723.5,-165 848.5,-165 848.5,-105 723.5,-105"/>
 <text text-anchor="start" x="731.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -150,23 +150,23 @@
 <text text-anchor="middle" x="786" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/gencompsignal.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node7 -->
-<g id="edge12" class="edge"><title>Node3&#45;&gt;Node7</title>
+<!-- Node3&#45;&gt;Node8 -->
+<g id="edge14" class="edge"><title>Node3&#45;&gt;Node8</title>
 <path fill="none" stroke="midnightblue" d="M1569.31,-233.574C1381.24,-219.432 890.916,-181.855 857,-172 850.727,-170.177 844.364,-167.777 838.155,-165.072"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1569.14,-237.071 1579.38,-234.33 1569.67,-230.091 1569.14,-237.071"/>
 </g>
-<!-- Node3&#45;&gt;Node8 -->
-<g id="edge14" class="edge"><title>Node3&#45;&gt;Node8</title>
+<!-- Node3&#45;&gt;Node9 -->
+<g id="edge16" class="edge"><title>Node3&#45;&gt;Node9</title>
 <path fill="none" stroke="midnightblue" d="M1569.15,-233.108C1482.79,-226.285 1334.49,-215.079 1207,-208 1006.26,-196.853 497.286,-223.706 303,-172 296.418,-170.248 289.755,-167.812 283.282,-165.017"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1569.12,-236.616 1579.37,-233.917 1569.68,-229.638 1569.12,-236.616"/>
 </g>
-<!-- Node3&#45;&gt;Node9 -->
-<g id="edge16" class="edge"><title>Node3&#45;&gt;Node9</title>
+<!-- Node3&#45;&gt;Node10 -->
+<g id="edge18" class="edge"><title>Node3&#45;&gt;Node10</title>
 <path fill="none" stroke="midnightblue" d="M1714.95,-234.986C1940.98,-222.448 2617.29,-184.125 2663,-172 2669.81,-170.194 2676.74,-167.764 2683.5,-165.009"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1714.64,-231.498 1704.85,-235.546 1715.03,-238.487 1714.64,-231.498"/>
 </g>
-<!-- Node10 -->
-<g id="node19" class="node"><title>Node10</title>
+<!-- Node11 -->
+<g id="node21" class="node"><title>Node11</title>
 <a xlink:href="../../d3/d7f/genericcomponent_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/gencmp\l/genericcomponent.cpp">
 <polygon fill="white" stroke="black" points="865.5,-105 865.5,-165 990.5,-165 990.5,-105 865.5,-105"/>
 <text text-anchor="start" x="873.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -175,13 +175,13 @@
 <text text-anchor="middle" x="928" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/genericcomponent.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node10 -->
-<g id="edge18" class="edge"><title>Node3&#45;&gt;Node10</title>
+<!-- Node3&#45;&gt;Node11 -->
+<g id="edge20" class="edge"><title>Node3&#45;&gt;Node11</title>
 <path fill="none" stroke="midnightblue" d="M1569.24,-234.861C1424.24,-226.048 1104.16,-203.623 999,-172 992.877,-170.159 986.662,-167.784 980.586,-165.128"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1569.18,-238.363 1579.37,-235.471 1569.6,-231.376 1569.18,-238.363"/>
 </g>
-<!-- Node11 -->
-<g id="node21" class="node"><title>Node11</title>
+<!-- Node12 -->
+<g id="node23" class="node"><title>Node12</title>
 <a xlink:href="../../d7/d7d/library_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/library.cpp">
 <polygon fill="white" stroke="black" points="1008,-111.5 1008,-158.5 1136,-158.5 1136,-111.5 1008,-111.5"/>
 <text text-anchor="start" x="1016" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -189,13 +189,13 @@
 <text text-anchor="middle" x="1072" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">/librepcblibrary/library.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node11 -->
-<g id="edge20" class="edge"><title>Node3&#45;&gt;Node11</title>
+<!-- Node3&#45;&gt;Node12 -->
+<g id="edge22" class="edge"><title>Node3&#45;&gt;Node12</title>
 <path fill="none" stroke="midnightblue" d="M1569.23,-236.776C1470.91,-232.076 1291.14,-217.455 1145,-172 1134.15,-168.624 1122.95,-163.745 1112.68,-158.631"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1569.2,-240.279 1579.35,-237.239 1569.52,-233.286 1569.2,-240.279"/>
 </g>
-<!-- Node12 -->
-<g id="node23" class="node"><title>Node12</title>
+<!-- Node13 -->
+<g id="node25" class="node"><title>Node13</title>
 <a xlink:href="../../d9/ded/symbolpinpreviewgraphicsitem_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/sym/symbolpinpreviewgraphicsitem.cpp">
 <polygon fill="white" stroke="black" points="3085.5,-111.5 3085.5,-158.5 3342.5,-158.5 3342.5,-111.5 3085.5,-111.5"/>
 <text text-anchor="start" x="3093.5" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -203,13 +203,13 @@
 <text text-anchor="middle" x="3214" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">/librepcblibrary/sym/symbolpinpreviewgraphicsitem.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node12 -->
-<g id="edge22" class="edge"><title>Node3&#45;&gt;Node12</title>
+<!-- Node3&#45;&gt;Node13 -->
+<g id="edge24" class="edge"><title>Node3&#45;&gt;Node13</title>
 <path fill="none" stroke="midnightblue" d="M1714.9,-237.688C1968.36,-232.799 2810.27,-213.737 3077,-172 3097.2,-168.839 3118.71,-163.838 3138.54,-158.523"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1714.63,-234.192 1704.7,-237.883 1714.77,-241.191 1714.63,-234.192"/>
 </g>
-<!-- Node13 -->
-<g id="node25" class="node"><title>Node13</title>
+<!-- Node14 -->
+<g id="node27" class="node"><title>Node14</title>
 <a xlink:href="../../d0/d05/symbolpreviewgraphicsitem_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/sym/symbolpreviewgraphicsitem.cpp">
 <polygon fill="white" stroke="black" points="2824,-111.5 2824,-158.5 3068,-158.5 3068,-111.5 2824,-111.5"/>
 <text text-anchor="start" x="2832" y="-145.5" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -217,13 +217,13 @@
 <text text-anchor="middle" x="2946" y="-119.5" font-family="Helvetica,sans-Serif" font-size="10.00">/librepcblibrary/sym/symbolpreviewgraphicsitem.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node13 -->
-<g id="edge24" class="edge"><title>Node3&#45;&gt;Node13</title>
+<!-- Node3&#45;&gt;Node14 -->
+<g id="edge26" class="edge"><title>Node3&#45;&gt;Node14</title>
 <path fill="none" stroke="midnightblue" d="M1714.73,-236.925C1936.43,-230.269 2601.63,-207.785 2815,-172 2834.23,-168.775 2854.67,-163.786 2873.54,-158.505"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1714.4,-233.433 1704.51,-237.229 1714.61,-240.43 1714.4,-233.433"/>
 </g>
-<!-- Node14 -->
-<g id="node27" class="node"><title>Node14</title>
+<!-- Node15 -->
+<g id="node29" class="node"><title>Node15</title>
 <a xlink:href="../../df/d6e/board_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/board.cpp">
 <polygon fill="white" stroke="black" points="1153.5,-105 1153.5,-165 1278.5,-165 1278.5,-105 1153.5,-105"/>
 <text text-anchor="start" x="1161.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -232,13 +232,13 @@
 <text text-anchor="middle" x="1216" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/board.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node14 -->
-<g id="edge26" class="edge"><title>Node3&#45;&gt;Node14</title>
+<!-- Node3&#45;&gt;Node15 -->
+<g id="edge28" class="edge"><title>Node3&#45;&gt;Node15</title>
 <path fill="none" stroke="midnightblue" d="M1569.32,-231.615C1496.41,-222.749 1381.67,-204.794 1287,-172 1281.35,-170.044 1275.6,-167.701 1269.93,-165.156"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1568.98,-235.099 1579.32,-232.806 1569.81,-228.148 1568.98,-235.099"/>
 </g>
-<!-- Node15 -->
-<g id="node29" class="node"><title>Node15</title>
+<!-- Node16 -->
+<g id="node31" class="node"><title>Node16</title>
 <a xlink:href="../../d6/d55/componentinstance_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/componentinstance.cpp">
 <polygon fill="white" stroke="black" points="1295.5,-105 1295.5,-165 1420.5,-165 1420.5,-105 1295.5,-105"/>
 <text text-anchor="start" x="1303.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -247,13 +247,13 @@
 <text text-anchor="middle" x="1358" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/componentinstance.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node15 -->
-<g id="edge28" class="edge"><title>Node3&#45;&gt;Node15</title>
+<!-- Node3&#45;&gt;Node16 -->
+<g id="edge30" class="edge"><title>Node3&#45;&gt;Node16</title>
 <path fill="none" stroke="midnightblue" d="M1569.65,-219.669C1527.89,-207.67 1474.76,-190.947 1429,-172 1423.86,-169.873 1418.6,-167.507 1413.37,-165.029"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1568.88,-223.091 1579.46,-222.463 1570.8,-216.358 1568.88,-223.091"/>
 </g>
-<!-- Node16 -->
-<g id="node31" class="node"><title>Node16</title>
+<!-- Node17 -->
+<g id="node33" class="node"><title>Node17</title>
 <a xlink:href="../../d4/d6f/circuit_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/circuit.cpp">
 <polygon fill="white" stroke="black" points="1437.5,-105 1437.5,-165 1562.5,-165 1562.5,-105 1437.5,-105"/>
 <text text-anchor="start" x="1445.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -262,13 +262,13 @@
 <text text-anchor="middle" x="1500" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/circuit.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node16 -->
-<g id="edge30" class="edge"><title>Node3&#45;&gt;Node16</title>
+<!-- Node3&#45;&gt;Node17 -->
+<g id="edge32" class="edge"><title>Node3&#45;&gt;Node17</title>
 <path fill="none" stroke="midnightblue" d="M1592.79,-202.962C1575.89,-190.582 1557.16,-176.864 1540.98,-165.014"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1590.79,-205.834 1600.93,-208.919 1594.93,-200.186 1590.79,-205.834"/>
 </g>
-<!-- Node17 -->
-<g id="node33" class="node"><title>Node17</title>
+<!-- Node18 -->
+<g id="node35" class="node"><title>Node18</title>
 <a xlink:href="../../de/de8/gencompinstance_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/gencompinstance.cpp">
 <polygon fill="white" stroke="black" points="1579.5,-105 1579.5,-165 1704.5,-165 1704.5,-105 1579.5,-105"/>
 <text text-anchor="start" x="1587.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -277,13 +277,13 @@
 <text text-anchor="middle" x="1642" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/gencompinstance.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node17 -->
-<g id="edge32" class="edge"><title>Node3&#45;&gt;Node17</title>
+<!-- Node3&#45;&gt;Node18 -->
+<g id="edge34" class="edge"><title>Node3&#45;&gt;Node18</title>
 <path fill="none" stroke="midnightblue" d="M1642,-198.867C1642,-187.611 1642,-175.571 1642,-165.014"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1638.5,-198.919 1642,-208.919 1645.5,-198.919 1638.5,-198.919"/>
 </g>
-<!-- Node18 -->
-<g id="node35" class="node"><title>Node18</title>
+<!-- Node19 -->
+<g id="node37" class="node"><title>Node19</title>
 <a xlink:href="../../d2/d38/gencompsignalinstance_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/gencompsignalinstance.cpp">
 <polygon fill="white" stroke="black" points="1722,-105 1722,-165 1862,-165 1862,-105 1722,-105"/>
 <text text-anchor="start" x="1730" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -292,13 +292,13 @@
 <text text-anchor="middle" x="1792" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/gencompsignalinstance.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node18 -->
-<g id="edge34" class="edge"><title>Node3&#45;&gt;Node18</title>
+<!-- Node3&#45;&gt;Node19 -->
+<g id="edge36" class="edge"><title>Node3&#45;&gt;Node19</title>
 <path fill="none" stroke="midnightblue" d="M1693.98,-202.962C1711.83,-190.582 1731.62,-176.864 1748.71,-165.014"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1691.61,-200.345 1685.39,-208.919 1695.6,-206.097 1691.61,-200.345"/>
 </g>
-<!-- Node19 -->
-<g id="node37" class="node"><title>Node19</title>
+<!-- Node20 -->
+<g id="node39" class="node"><title>Node20</title>
 <a xlink:href="../../d4/d20/projectlibrary_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/projectlibrary.cpp">
 <polygon fill="white" stroke="black" points="1879.5,-105 1879.5,-165 2004.5,-165 2004.5,-105 1879.5,-105"/>
 <text text-anchor="start" x="1887.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -307,13 +307,13 @@
 <text text-anchor="middle" x="1942" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/projectlibrary.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node19 -->
-<g id="edge36" class="edge"><title>Node3&#45;&gt;Node19</title>
+<!-- Node3&#45;&gt;Node20 -->
+<g id="edge38" class="edge"><title>Node3&#45;&gt;Node20</title>
 <path fill="none" stroke="midnightblue" d="M1714.65,-221.639C1760.29,-209.782 1819.98,-192.527 1871,-172 1876.16,-169.925 1881.44,-167.595 1886.67,-165.14"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1713.65,-218.282 1704.83,-224.161 1715.39,-225.061 1713.65,-218.282"/>
 </g>
-<!-- Node20 -->
-<g id="node39" class="node"><title>Node20</title>
+<!-- Node21 -->
+<g id="node41" class="node"><title>Node21</title>
 <a xlink:href="../../de/dd8/sgi__symbol_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/graphicsitems/sgi_symbol.cpp">
 <polygon fill="white" stroke="black" points="2022,-105 2022,-165 2174,-165 2174,-105 2022,-105"/>
 <text text-anchor="start" x="2030" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -322,13 +322,13 @@
 <text text-anchor="middle" x="2098" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/graphicsitems/sgi_symbol.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node20 -->
-<g id="edge38" class="edge"><title>Node3&#45;&gt;Node20</title>
+<!-- Node3&#45;&gt;Node21 -->
+<g id="edge40" class="edge"><title>Node3&#45;&gt;Node21</title>
 <path fill="none" stroke="midnightblue" d="M1715.12,-230.882C1790.81,-221.304 1911.91,-202.676 2013,-172 2019.62,-169.99 2026.42,-167.612 2033.14,-165.046"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1714.24,-227.465 1704.75,-232.174 1715.1,-234.411 1714.24,-227.465"/>
 </g>
-<!-- Node21 -->
-<g id="node41" class="node"><title>Node21</title>
+<!-- Node22 -->
+<g id="node43" class="node"><title>Node22</title>
 <a xlink:href="../../d9/d24/sgi__symbolpin_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/graphicsitems/sgi_symbolpin.cpp">
 <polygon fill="white" stroke="black" points="2192,-105 2192,-165 2356,-165 2356,-105 2192,-105"/>
 <text text-anchor="start" x="2200" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -337,13 +337,13 @@
 <text text-anchor="middle" x="2274" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/graphicsitems/sgi_symbolpin.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node21 -->
-<g id="edge40" class="edge"><title>Node3&#45;&gt;Node21</title>
+<!-- Node3&#45;&gt;Node22 -->
+<g id="edge42" class="edge"><title>Node3&#45;&gt;Node22</title>
 <path fill="none" stroke="midnightblue" d="M1714.83,-236.05C1819.79,-230.44 2019.02,-214.692 2183,-172 2190.43,-170.066 2198.05,-167.669 2205.58,-165.031"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1714.46,-232.564 1704.66,-236.577 1714.83,-239.555 1714.46,-232.564"/>
 </g>
-<!-- Node22 -->
-<g id="node43" class="node"><title>Node22</title>
+<!-- Node23 -->
+<g id="node45" class="node"><title>Node23</title>
 <a xlink:href="../../d0/da6/si__symbol_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/schematics\l/items/si_symbol.cpp">
 <polygon fill="white" stroke="black" points="2374,-105 2374,-165 2510,-165 2510,-105 2374,-105"/>
 <text text-anchor="start" x="2382" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -352,23 +352,23 @@
 <text text-anchor="middle" x="2442" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/items/si_symbol.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node22 -->
-<g id="edge42" class="edge"><title>Node3&#45;&gt;Node22</title>
+<!-- Node3&#45;&gt;Node23 -->
+<g id="edge44" class="edge"><title>Node3&#45;&gt;Node23</title>
 <path fill="none" stroke="midnightblue" d="M1714.7,-235.539C1872.9,-227.475 2243.9,-205.539 2365,-172 2371.57,-170.179 2378.27,-167.818 2384.84,-165.169"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1714.4,-232.049 1704.59,-236.05 1714.76,-239.04 1714.4,-232.049"/>
 </g>
-<!-- Node3&#45;&gt;Node23 -->
-<g id="edge44" class="edge"><title>Node3&#45;&gt;Node23</title>
+<!-- Node3&#45;&gt;Node24 -->
+<g id="edge46" class="edge"><title>Node3&#45;&gt;Node24</title>
 <path fill="none" stroke="midnightblue" d="M1714.95,-236.968C2031.11,-228.055 3270.6,-191.98 3351,-172 3358.05,-170.247 3365.23,-167.81 3372.22,-165.015"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1714.44,-233.481 1704.54,-237.261 1714.64,-240.478 1714.44,-233.481"/>
 </g>
-<!-- Node3&#45;&gt;Node24 -->
-<g id="edge46" class="edge"><title>Node3&#45;&gt;Node24</title>
+<!-- Node3&#45;&gt;Node25 -->
+<g id="edge48" class="edge"><title>Node3&#45;&gt;Node25</title>
 <path fill="none" stroke="midnightblue" d="M1569.27,-237.263C1290.47,-230.394 298.687,-203.931 161,-172 153.474,-170.255 145.783,-167.863 138.252,-165.129"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1569.19,-240.762 1579.27,-237.509 1569.36,-233.765 1569.19,-240.762"/>
 </g>
-<!-- Node25 -->
-<g id="node49" class="node"><title>Node25</title>
+<!-- Node26 -->
+<g id="node51" class="node"><title>Node26</title>
 <a xlink:href="../../d8/df2/ses__addcomponents_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addcomponents.cpp">
 <polygon fill="white" stroke="black" points="2527.5,-98.5 2527.5,-171.5 2654.5,-171.5 2654.5,-98.5 2527.5,-98.5"/>
 <text text-anchor="start" x="2535.5" y="-158.5" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -378,13 +378,13 @@
 <text text-anchor="middle" x="2591" y="-106.5" font-family="Helvetica,sans-Serif" font-size="10.00">_addcomponents.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node25 -->
-<g id="edge48" class="edge"><title>Node3&#45;&gt;Node25</title>
+<!-- Node3&#45;&gt;Node26 -->
+<g id="edge50" class="edge"><title>Node3&#45;&gt;Node26</title>
 <path fill="none" stroke="midnightblue" d="M1714.8,-235.099C1911.25,-224.338 2442.58,-193.601 2519,-172 2521.7,-171.235 2524.43,-170.365 2527.15,-169.409"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1714.37,-231.617 1704.58,-235.657 1714.75,-238.607 1714.37,-231.617"/>
 </g>
-<!-- Node26 -->
-<g id="node51" class="node"><title>Node26</title>
+<!-- Node27 -->
+<g id="node53" class="node"><title>Node27</title>
 <a xlink:href="../../da/d89/symbolinstancepropertiesdialog_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/symbolinstancepropertiesdialog.cpp">
 <polygon fill="white" stroke="black" points="311.5,-105 311.5,-165 558.5,-165 558.5,-105 311.5,-105"/>
 <text text-anchor="start" x="319.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
@@ -393,48 +393,63 @@
 <text text-anchor="middle" x="435" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">/schematiceditor/symbolinstancepropertiesdialog.cpp</text>
 </a>
 </g>
-<!-- Node3&#45;&gt;Node26 -->
-<g id="edge50" class="edge"><title>Node3&#45;&gt;Node26</title>
+<!-- Node3&#45;&gt;Node27 -->
+<g id="edge52" class="edge"><title>Node3&#45;&gt;Node27</title>
 <path fill="none" stroke="midnightblue" d="M1569.13,-233.472C1482.74,-226.997 1334.43,-216.124 1207,-208 922.683,-189.874 848.037,-218.722 567,-172 555.965,-170.166 544.533,-167.758 533.222,-165.048"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="1569.11,-236.981 1579.35,-234.24 1569.64,-230.001 1569.11,-236.981"/>
 </g>
 <!-- Node5 -->
 <g id="node9" class="node"><title>Node5</title>
 <a xlink:href="../../da/d6c/cmdprojectlibraryaddelement_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/cmd/cmdprojectlibraryaddelement.cpp">
-<polygon fill="white" stroke="black" points="442.5,-1 442.5,-61 627.5,-61 627.5,-1 442.5,-1"/>
-<text text-anchor="start" x="450.5" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
-<text text-anchor="start" x="450.5" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">/LibrePCB/LibrePCB/libs</text>
-<text text-anchor="start" x="450.5" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">/librepcbproject/library</text>
-<text text-anchor="middle" x="535" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00">/cmd/cmdprojectlibraryaddelement.cpp</text>
+<polygon fill="white" stroke="black" points="360.5,-1 360.5,-61 545.5,-61 545.5,-1 360.5,-1"/>
+<text text-anchor="start" x="368.5" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
+<text text-anchor="start" x="368.5" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">/LibrePCB/LibrePCB/libs</text>
+<text text-anchor="start" x="368.5" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">/librepcbproject/library</text>
+<text text-anchor="middle" x="453" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00">/cmd/cmdprojectlibraryaddelement.cpp</text>
 </a>
 </g>
 <!-- Node4&#45;&gt;Node5 -->
 <g id="edge8" class="edge"><title>Node4&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M609.543,-104.137C595.726,-90.5798 579.554,-74.7131 565.811,-61.2295"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="607.358,-106.896 616.947,-111.401 612.26,-101.899 607.358,-106.896"/>
+<path fill="none" stroke="midnightblue" d="M589.55,-106.538C564.026,-92.4188 533.198,-75.3647 507.297,-61.0364"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="587.895,-109.623 598.34,-111.401 591.284,-103.498 587.895,-109.623"/>
 </g>
 <!-- Node6 -->
 <g id="node11" class="node"><title>Node6</title>
-<a xlink:href="../../de/dd2/unplacedcomponentsdock_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/unplacedcomponentsdock.cpp">
-<polygon fill="white" stroke="black" points="644.5,-1 644.5,-61 847.5,-61 847.5,-1 644.5,-1"/>
-<text text-anchor="start" x="652.5" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
-<text text-anchor="start" x="652.5" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">/LibrePCB/LibrePCB/libs</text>
-<text text-anchor="start" x="652.5" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">/librepcbprojecteditor</text>
-<text text-anchor="middle" x="746" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00">/boardeditor/unplacedcomponentsdock.cpp</text>
+<a xlink:href="../../d7/d20/bes__select_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_select.cpp">
+<polygon fill="white" stroke="black" points="563,-1 563,-61 719,-61 719,-1 563,-1"/>
+<text text-anchor="start" x="571" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
+<text text-anchor="start" x="571" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">/LibrePCB/LibrePCB/libs</text>
+<text text-anchor="start" x="571" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">/librepcbprojecteditor</text>
+<text text-anchor="middle" x="641" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00">/boardeditor/fsm/bes_select.cpp</text>
 </a>
 </g>
 <!-- Node4&#45;&gt;Node6 -->
 <g id="edge10" class="edge"><title>Node4&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M672.16,-104.137C685.847,-90.5798 701.867,-74.7131 715.48,-61.2295"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="669.468,-101.877 664.826,-111.401 674.394,-106.85 669.468,-101.877"/>
+<path fill="none" stroke="midnightblue" d="M641,-101.088C641,-88.2422 641,-73.7143 641,-61.2295"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="637.5,-101.401 641,-111.401 644.5,-101.401 637.5,-101.401"/>
 </g>
-<!-- Node27&#45;&gt;Node12 -->
-<g id="edge62" class="edge"><title>Node27&#45;&gt;Node12</title>
+<!-- Node7 -->
+<g id="node13" class="node"><title>Node7</title>
+<a xlink:href="../../de/dd2/unplacedcomponentsdock_8cpp.html" target="_top" xlink:title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/unplacedcomponentsdock.cpp">
+<polygon fill="white" stroke="black" points="736.5,-1 736.5,-61 939.5,-61 939.5,-1 736.5,-1"/>
+<text text-anchor="start" x="744.5" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">/home/travis/build</text>
+<text text-anchor="start" x="744.5" y="-35" font-family="Helvetica,sans-Serif" font-size="10.00">/LibrePCB/LibrePCB/libs</text>
+<text text-anchor="start" x="744.5" y="-22" font-family="Helvetica,sans-Serif" font-size="10.00">/librepcbprojecteditor</text>
+<text text-anchor="middle" x="838" y="-9" font-family="Helvetica,sans-Serif" font-size="10.00">/boardeditor/unplacedcomponentsdock.cpp</text>
+</a>
+</g>
+<!-- Node4&#45;&gt;Node7 -->
+<g id="edge12" class="edge"><title>Node4&#45;&gt;Node7</title>
+<path fill="none" stroke="midnightblue" d="M694.563,-106.723C721.376,-92.5678 753.844,-75.4273 781.104,-61.0364"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="692.912,-103.637 685.702,-111.401 696.18,-109.827 692.912,-103.637"/>
+</g>
+<!-- Node28&#45;&gt;Node13 -->
+<g id="edge64" class="edge"><title>Node28&#45;&gt;Node13</title>
 <path fill="none" stroke="midnightblue" d="M3016.28,-211.728C3058.89,-195.193 3112.7,-174.309 3153.43,-158.506"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="3014.87,-208.52 3006.81,-215.401 3017.4,-215.046 3014.87,-208.52"/>
 </g>
-<!-- Node27&#45;&gt;Node13 -->
-<g id="edge64" class="edge"><title>Node27&#45;&gt;Node13</title>
+<!-- Node28&#45;&gt;Node14 -->
+<g id="edge66" class="edge"><title>Node28&#45;&gt;Node14</title>
 <path fill="none" stroke="midnightblue" d="M2946,-205.287C2946,-190.009 2946,-172.317 2946,-158.506"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="2942.5,-205.401 2946,-215.401 2949.5,-205.401 2942.5,-205.401"/>
 </g>

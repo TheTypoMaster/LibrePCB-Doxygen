@@ -4,6 +4,7 @@ var classproject_1_1_board_editor =
     [ "~BoardEditor", "d4/dfb/classproject_1_1_board_editor.html#ab5c7c9c2df285e44215e9e4edb43314a", null ],
     [ "BoardEditor", "d4/dfb/classproject_1_1_board_editor.html#af09c791f4af1fd8d089dad4f797ee963", null ],
     [ "BoardEditor", "d4/dfb/classproject_1_1_board_editor.html#a7d6a40ccaf9758bd597300c8a27c1b91", null ],
+    [ "getProjectEditor", "d4/dfb/classproject_1_1_board_editor.html#a47f2324cd29f26bdb940304a71019d72", null ],
     [ "getProject", "d4/dfb/classproject_1_1_board_editor.html#ac48a585009b5ee63f88e0c2b5357d6e9", null ],
     [ "getActiveBoardIndex", "d4/dfb/classproject_1_1_board_editor.html#a852b1db757523e156767d1cd8759f9d0", null ],
     [ "getActiveBoard", "d4/dfb/classproject_1_1_board_editor.html#a6df0b9122ac9d5c134eb95a14f701214", null ],

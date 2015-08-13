@@ -1,6 +1,12 @@
 <map id="getWorkspace" name="getWorkspace">
 <area shape="rect" id="node3" href="$d4/dfb/classproject_1_1_board_editor.html#a2622890007f7f744656c64f1e2326ed4" title="project::BoardEditor\l::BoardEditor" alt="" coords="203,5,339,51"/>
 <area shape="rect" id="node5" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#abc20576b1a90981588679be439a1762a" title="project::UnplacedComponents\lDock::on_cbxSelectedComponent\l_currentIndexChanged" alt="" coords="160,75,381,139"/>
-<area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="project::UnplacedComponents\lDock::on_btnAddAll_clicked" alt="" coords="172,162,369,209"/>
-<area shape="rect" id="node9" href="$dd/d24/classproject_1_1_schematic_editor.html#a00c3b550b94494cf7cd411acc8e4469d" title="project::SchematicEditor\l::SchematicEditor" alt="" coords="188,231,353,278"/>
+<area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="project::UnplacedComponents\lDock::on_btnAddAll_clicked" alt="" coords="441,109,639,155"/>
+<area shape="rect" id="node9" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ad000d7056be9060e68ab7f2548d12946" title="project::UnplacedComponents\lDock::updateComponentsList" alt="" coords="172,213,369,259"/>
+<area shape="rect" id="node22" href="$dd/d24/classproject_1_1_schematic_editor.html#a00c3b550b94494cf7cd411acc8e4469d" title="project::SchematicEditor\l::SchematicEditor" alt="" coords="188,282,353,329"/>
+<area shape="rect" id="node11" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#abda2283f458f0fc17a0ccd8f61df7528" title="project::UnplacedComponents\lDock::UnplacedComponentsDock" alt="" coords="429,178,651,225"/>
+<area shape="rect" id="node13" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="project::UnplacedComponents\lDock::setBoard" alt="" coords="441,247,639,294"/>
+<area shape="rect" id="node17" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#accd0a903591840efc04eae995ba9518a" title="project::UnplacedComponents\lDock::on_btnAdd_clicked" alt="" coords="441,317,639,363"/>
+<area shape="rect" id="node19" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="project::UnplacedComponents\lDock::on_pushButton_clicked" alt="" coords="441,386,639,433"/>
+<area shape="rect" id="node15" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" title="project::UnplacedComponents\lDock::~UnplacedComponentsDock" alt="" coords="699,247,928,294"/>
 </map>

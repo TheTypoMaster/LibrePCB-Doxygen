@@ -520,7 +520,8 @@
               <section title="getLatestPackage" ref="de/d02/classlibrary_1_1_library.html#af68d3a33978ea137de3bcc9bcf6e5a55" />
               <section title="getLatestGenericComponent" ref="de/d02/classlibrary_1_1_library.html#a7b2e96907b8ffdb28f7fd9621486975e" />
               <section title="getLatestComponent" ref="de/d02/classlibrary_1_1_library.html#ad5121bf85bceffc79b92edc6d7445a07" />
-              <section title="getComponentMetadata" ref="de/d02/classlibrary_1_1_library.html#af8af49d2a3cccc9fe6840e6cccff24bb" />
+              <section title="getComponentMetadata" ref="de/d02/classlibrary_1_1_library.html#ac3e5661193e5b7441e81dd3f12efb7f4" />
+              <section title="getPackageMetadata" ref="de/d02/classlibrary_1_1_library.html#ae3c8936e8efec88d4a9e7f8dba9c7114" />
               <section title="getComponentCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a9855877076c9b29abac550c1748c1ac6" />
               <section title="getPackageCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a03968d2654aaae028f71dc6d83554861" />
               <section title="getGenericComponentsByCategory" ref="de/d02/classlibrary_1_1_library.html#a3ced65a4208c679dfdda963d848aae9b" />
@@ -897,7 +898,7 @@
               <section title="getFilePath" ref="d5/d07/classproject_1_1_board.html#ae389dc6ac296201da01420401a142f38" />
               <section title="getGridProperties" ref="d5/d07/classproject_1_1_board.html#a8fdde458ce65c4d4a40545c222303ae9" />
               <section title="isEmpty" ref="d5/d07/classproject_1_1_board.html#ac59c252677adb89638b735cf19d3151b" />
-              <section title="getSelectedItems" ref="d5/d07/classproject_1_1_board.html#a262639fc1207769d33095d092cc2e068" />
+              <section title="getSelectedItems" ref="d5/d07/classproject_1_1_board.html#a75bfc0b788d0cc0eb348c012e0e39206" />
               <section title="getItemsAtScenePos" ref="d5/d07/classproject_1_1_board.html#ae5be3f46f5e311d7c5c3b950ce60e3b1" />
               <section title="setGridProperties" ref="d5/d07/classproject_1_1_board.html#a7dcc5ce7d70a073366dde598d5dab494" />
               <section title="getUuid" ref="d5/d07/classproject_1_1_board.html#ada9b237a8629c03e16491a72730b456b" />
@@ -986,6 +987,14 @@
               <section title="mNewPos" ref="d8/d2c/classproject_1_1_cmd_component_instance_edit.html#a8cbcaee267020618686fdeec78a11f48" />
               <section title="mOldRotation" ref="d8/d2c/classproject_1_1_cmd_component_instance_edit.html#af0e795c3bd75bfe174f503756a7606cc" />
               <section title="mNewRotation" ref="d8/d2c/classproject_1_1_cmd_component_instance_edit.html#a4e527679f155a1d88d05038fe9d84f05" />
+            </section>
+            <section title="CmdComponentInstanceRemove" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html">
+              <section title="CmdComponentInstanceRemove" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a856ba84066d1f14582a2318467b2a376" />
+              <section title="~CmdComponentInstanceRemove" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#ab6ed154bd1973ef1f09fbfccf5a5b340" />
+              <section title="redo" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a91ca7652063093da57fc1bd0141dcc95" />
+              <section title="undo" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a19e8778088bfe76b16745470981bb913" />
+              <section title="mBoard" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a7e488020a8f65675a719e4b901d017de" />
+              <section title="mComponent" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a8d3a8b859d9e7c6d71b0133559265d09" />
             </section>
             <section title="ComponentInstance" ref="d0/d7d/classproject_1_1_component_instance.html">
               <section title="ComponentInstance" ref="d0/d7d/classproject_1_1_component_instance.html#a3df69f7641a463106f2c0af7c6ea99d0" />
@@ -2225,7 +2234,7 @@
               <section title="getFilePath" ref="dd/d2d/classproject_1_1_schematic.html#ae389dc6ac296201da01420401a142f38" />
               <section title="getGridProperties" ref="dd/d2d/classproject_1_1_schematic.html#a8fdde458ce65c4d4a40545c222303ae9" />
               <section title="isEmpty" ref="dd/d2d/classproject_1_1_schematic.html#ac59c252677adb89638b735cf19d3151b" />
-              <section title="getSelectedItems" ref="dd/d2d/classproject_1_1_schematic.html#a0784e33cb985a56c1ac86c631ee3ee1b" />
+              <section title="getSelectedItems" ref="dd/d2d/classproject_1_1_schematic.html#a3102ea04118cf756a10705c6d3b607ab" />
               <section title="getItemsAtScenePos" ref="dd/d2d/classproject_1_1_schematic.html#ac6709a9f69bbe2647444abaccbc8403e" />
               <section title="getNetPointsAtScenePos" ref="dd/d2d/classproject_1_1_schematic.html#a09cd583afe0d7757cfd22a30e7940992" />
               <section title="getNetLinesAtScenePos" ref="dd/d2d/classproject_1_1_schematic.html#a7ffa29df38b08b1c0696f9e51f977508" />
@@ -2340,6 +2349,7 @@
               <section title="~BoardEditor" ref="d4/dfb/classproject_1_1_board_editor.html#ab5c7c9c2df285e44215e9e4edb43314a" />
               <section title="BoardEditor" ref="d4/dfb/classproject_1_1_board_editor.html#af09c791f4af1fd8d089dad4f797ee963" />
               <section title="BoardEditor" ref="d4/dfb/classproject_1_1_board_editor.html#a7d6a40ccaf9758bd597300c8a27c1b91" />
+              <section title="getProjectEditor" ref="d4/dfb/classproject_1_1_board_editor.html#a47f2324cd29f26bdb940304a71019d72" />
               <section title="getProject" ref="d4/dfb/classproject_1_1_board_editor.html#ac48a585009b5ee63f88e0c2b5357d6e9" />
               <section title="getActiveBoardIndex" ref="d4/dfb/classproject_1_1_board_editor.html#a852b1db757523e156767d1cd8759f9d0" />
               <section title="getActiveBoard" ref="d4/dfb/classproject_1_1_board_editor.html#a6df0b9122ac9d5c134eb95a14f701214" />
@@ -2383,6 +2393,7 @@
               <section title="process" ref="d0/d4b/classproject_1_1_b_e_s___base.html#ad0e51167fdf30d76f5f29a3ff63ffce7" />
               <section title="entry" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a51e3098b4672acd3c5ec69e745df876e" />
               <section title="exit" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a4d757b4900b1290527a54d901f5f77bf" />
+              <section title="mWorkspace" ref="d0/d4b/classproject_1_1_b_e_s___base.html#aaf8f4a37785d9bbcba635b7bb0b8aaa1" />
               <section title="mProject" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a9887e07d0b08a071e02e6d1fd6cf9ab9" />
               <section title="mCircuit" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a26e1424fba2a472fb3a5e6e6a3de8c23" />
               <section title="mEditor" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a3002777f3cf446416a4848e7d29b145a" />
@@ -2423,6 +2434,7 @@
               <section title="proccessIdleSceneDoubleClick" ref="db/dd3/classproject_1_1_b_e_s___select.html#ac6c7da983273e396854b9e1cccf4fccf" />
               <section title="startMovingSelectedItems" ref="db/dd3/classproject_1_1_b_e_s___select.html#a82f67b84fff325f62072faa6bd5a3206" />
               <section title="rotateSelectedItems" ref="db/dd3/classproject_1_1_b_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" />
+              <section title="removeSelectedItems" ref="db/dd3/classproject_1_1_b_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" />
               <section title="mSubState" ref="db/dd3/classproject_1_1_b_e_s___select.html#aedf79069eac7bcb14a505e582941a9e4" />
               <section title="mLastMouseMoveDeltaPos" ref="db/dd3/classproject_1_1_b_e_s___select.html#a3845774b48bed2e28ac0fb682ecf44a4" />
               <section title="mParentCommand" ref="db/dd3/classproject_1_1_b_e_s___select.html#a1a6a958f573cd9b09cf4c683327f9c1c" />
@@ -4529,6 +4541,7 @@
             <section title="CmdBoardAdd" ref="d0/d91/classproject_1_1_cmd_board_add.html" />
             <section title="CmdComponentInstanceAdd" ref="d6/d6a/classproject_1_1_cmd_component_instance_add.html" />
             <section title="CmdComponentInstanceEdit" ref="d8/d2c/classproject_1_1_cmd_component_instance_edit.html" />
+            <section title="CmdComponentInstanceRemove" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html" />
             <section title="CmdGenCompAttrInstAdd" ref="dd/d26/classproject_1_1_cmd_gen_comp_attr_inst_add.html" />
             <section title="CmdGenCompAttrInstEdit" ref="d9/d07/classproject_1_1_cmd_gen_comp_attr_inst_edit.html" />
             <section title="CmdGenCompAttrInstRemove" ref="d1/d24/classproject_1_1_cmd_gen_comp_attr_inst_remove.html" />
@@ -6655,7 +6668,8 @@
                   <section title="getLatestPackage" ref="de/d02/classlibrary_1_1_library.html#af68d3a33978ea137de3bcc9bcf6e5a55" />
                   <section title="getLatestGenericComponent" ref="de/d02/classlibrary_1_1_library.html#a7b2e96907b8ffdb28f7fd9621486975e" />
                   <section title="getLatestComponent" ref="de/d02/classlibrary_1_1_library.html#ad5121bf85bceffc79b92edc6d7445a07" />
-                  <section title="getComponentMetadata" ref="de/d02/classlibrary_1_1_library.html#af8af49d2a3cccc9fe6840e6cccff24bb" />
+                  <section title="getComponentMetadata" ref="de/d02/classlibrary_1_1_library.html#ac3e5661193e5b7441e81dd3f12efb7f4" />
+                  <section title="getPackageMetadata" ref="de/d02/classlibrary_1_1_library.html#ae3c8936e8efec88d4a9e7f8dba9c7114" />
                   <section title="getComponentCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a9855877076c9b29abac550c1748c1ac6" />
                   <section title="getPackageCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a03968d2654aaae028f71dc6d83554861" />
                   <section title="getGenericComponentsByCategory" ref="de/d02/classlibrary_1_1_library.html#a3ced65a4208c679dfdda963d848aae9b" />
@@ -6833,6 +6847,17 @@
                       <section title="mNewPos" ref="d8/d2c/classproject_1_1_cmd_component_instance_edit.html#a8cbcaee267020618686fdeec78a11f48" />
                       <section title="mOldRotation" ref="d8/d2c/classproject_1_1_cmd_component_instance_edit.html#af0e795c3bd75bfe174f503756a7606cc" />
                       <section title="mNewRotation" ref="d8/d2c/classproject_1_1_cmd_component_instance_edit.html#a4e527679f155a1d88d05038fe9d84f05" />
+                    </section>
+                  </section>
+                  <section title="cmdcomponentinstanceremove.cpp" ref="df/d83/cmdcomponentinstanceremove_8cpp.html" />
+                  <section title="cmdcomponentinstanceremove.h" ref="d2/ddb/cmdcomponentinstanceremove_8h.html">
+                    <section title="CmdComponentInstanceRemove" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html">
+                      <section title="CmdComponentInstanceRemove" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a856ba84066d1f14582a2318467b2a376" />
+                      <section title="~CmdComponentInstanceRemove" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#ab6ed154bd1973ef1f09fbfccf5a5b340" />
+                      <section title="redo" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a91ca7652063093da57fc1bd0141dcc95" />
+                      <section title="undo" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a19e8778088bfe76b16745470981bb913" />
+                      <section title="mBoard" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a7e488020a8f65675a719e4b901d017de" />
+                      <section title="mComponent" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a8d3a8b859d9e7c6d71b0133559265d09" />
                     </section>
                   </section>
                 </section>
@@ -7015,7 +7040,7 @@
                     <section title="getFilePath" ref="d5/d07/classproject_1_1_board.html#ae389dc6ac296201da01420401a142f38" />
                     <section title="getGridProperties" ref="d5/d07/classproject_1_1_board.html#a8fdde458ce65c4d4a40545c222303ae9" />
                     <section title="isEmpty" ref="d5/d07/classproject_1_1_board.html#ac59c252677adb89638b735cf19d3151b" />
-                    <section title="getSelectedItems" ref="d5/d07/classproject_1_1_board.html#a262639fc1207769d33095d092cc2e068" />
+                    <section title="getSelectedItems" ref="d5/d07/classproject_1_1_board.html#a75bfc0b788d0cc0eb348c012e0e39206" />
                     <section title="getItemsAtScenePos" ref="d5/d07/classproject_1_1_board.html#ae5be3f46f5e311d7c5c3b950ce60e3b1" />
                     <section title="setGridProperties" ref="d5/d07/classproject_1_1_board.html#a7dcc5ce7d70a073366dde598d5dab494" />
                     <section title="getUuid" ref="d5/d07/classproject_1_1_board.html#ada9b237a8629c03e16491a72730b456b" />
@@ -8287,7 +8312,7 @@
                     <section title="getFilePath" ref="dd/d2d/classproject_1_1_schematic.html#ae389dc6ac296201da01420401a142f38" />
                     <section title="getGridProperties" ref="dd/d2d/classproject_1_1_schematic.html#a8fdde458ce65c4d4a40545c222303ae9" />
                     <section title="isEmpty" ref="dd/d2d/classproject_1_1_schematic.html#ac59c252677adb89638b735cf19d3151b" />
-                    <section title="getSelectedItems" ref="dd/d2d/classproject_1_1_schematic.html#a0784e33cb985a56c1ac86c631ee3ee1b" />
+                    <section title="getSelectedItems" ref="dd/d2d/classproject_1_1_schematic.html#a3102ea04118cf756a10705c6d3b607ab" />
                     <section title="getItemsAtScenePos" ref="dd/d2d/classproject_1_1_schematic.html#ac6709a9f69bbe2647444abaccbc8403e" />
                     <section title="getNetPointsAtScenePos" ref="dd/d2d/classproject_1_1_schematic.html#a09cd583afe0d7757cfd22a30e7940992" />
                     <section title="getNetLinesAtScenePos" ref="dd/d2d/classproject_1_1_schematic.html#a7ffa29df38b08b1c0696f9e51f977508" />
@@ -8510,6 +8535,7 @@
                       <section title="process" ref="d0/d4b/classproject_1_1_b_e_s___base.html#ad0e51167fdf30d76f5f29a3ff63ffce7" />
                       <section title="entry" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a51e3098b4672acd3c5ec69e745df876e" />
                       <section title="exit" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a4d757b4900b1290527a54d901f5f77bf" />
+                      <section title="mWorkspace" ref="d0/d4b/classproject_1_1_b_e_s___base.html#aaf8f4a37785d9bbcba635b7bb0b8aaa1" />
                       <section title="mProject" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a9887e07d0b08a071e02e6d1fd6cf9ab9" />
                       <section title="mCircuit" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a26e1424fba2a472fb3a5e6e6a3de8c23" />
                       <section title="mEditor" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a3002777f3cf446416a4848e7d29b145a" />
@@ -8556,6 +8582,7 @@
                       <section title="proccessIdleSceneDoubleClick" ref="db/dd3/classproject_1_1_b_e_s___select.html#ac6c7da983273e396854b9e1cccf4fccf" />
                       <section title="startMovingSelectedItems" ref="db/dd3/classproject_1_1_b_e_s___select.html#a82f67b84fff325f62072faa6bd5a3206" />
                       <section title="rotateSelectedItems" ref="db/dd3/classproject_1_1_b_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" />
+                      <section title="removeSelectedItems" ref="db/dd3/classproject_1_1_b_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" />
                       <section title="mSubState" ref="db/dd3/classproject_1_1_b_e_s___select.html#aedf79069eac7bcb14a505e582941a9e4" />
                       <section title="mLastMouseMoveDeltaPos" ref="db/dd3/classproject_1_1_b_e_s___select.html#a3845774b48bed2e28ac0fb682ecf44a4" />
                       <section title="mParentCommand" ref="db/dd3/classproject_1_1_b_e_s___select.html#a1a6a958f573cd9b09cf4c683327f9c1c" />
@@ -8611,6 +8638,7 @@
                     <section title="~BoardEditor" ref="d4/dfb/classproject_1_1_board_editor.html#ab5c7c9c2df285e44215e9e4edb43314a" />
                     <section title="BoardEditor" ref="d4/dfb/classproject_1_1_board_editor.html#af09c791f4af1fd8d089dad4f797ee963" />
                     <section title="BoardEditor" ref="d4/dfb/classproject_1_1_board_editor.html#a7d6a40ccaf9758bd597300c8a27c1b91" />
+                    <section title="getProjectEditor" ref="d4/dfb/classproject_1_1_board_editor.html#a47f2324cd29f26bdb940304a71019d72" />
                     <section title="getProject" ref="d4/dfb/classproject_1_1_board_editor.html#ac48a585009b5ee63f88e0c2b5357d6e9" />
                     <section title="getActiveBoardIndex" ref="d4/dfb/classproject_1_1_board_editor.html#a852b1db757523e156767d1cd8759f9d0" />
                     <section title="getActiveBoard" ref="d4/dfb/classproject_1_1_board_editor.html#a6df0b9122ac9d5c134eb95a14f701214" />
@@ -11890,7 +11918,8 @@
       <keyword name="getLatestPackage" id="library::Library::getLatestPackage" ref="de/d02/classlibrary_1_1_library.html#af68d3a33978ea137de3bcc9bcf6e5a55" />
       <keyword name="getLatestGenericComponent" id="library::Library::getLatestGenericComponent" ref="de/d02/classlibrary_1_1_library.html#a7b2e96907b8ffdb28f7fd9621486975e" />
       <keyword name="getLatestComponent" id="library::Library::getLatestComponent" ref="de/d02/classlibrary_1_1_library.html#ad5121bf85bceffc79b92edc6d7445a07" />
-      <keyword name="getComponentMetadata" id="library::Library::getComponentMetadata" ref="de/d02/classlibrary_1_1_library.html#af8af49d2a3cccc9fe6840e6cccff24bb" />
+      <keyword name="getComponentMetadata" id="library::Library::getComponentMetadata" ref="de/d02/classlibrary_1_1_library.html#ac3e5661193e5b7441e81dd3f12efb7f4" />
+      <keyword name="getPackageMetadata" id="library::Library::getPackageMetadata" ref="de/d02/classlibrary_1_1_library.html#ae3c8936e8efec88d4a9e7f8dba9c7114" />
       <keyword name="getComponentCategoryChilds" id="library::Library::getComponentCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a9855877076c9b29abac550c1748c1ac6" />
       <keyword name="getPackageCategoryChilds" id="library::Library::getPackageCategoryChilds" ref="de/d02/classlibrary_1_1_library.html#a03968d2654aaae028f71dc6d83554861" />
       <keyword name="getGenericComponentsByCategory" id="library::Library::getGenericComponentsByCategory" ref="de/d02/classlibrary_1_1_library.html#a3ced65a4208c679dfdda963d848aae9b" />
@@ -12462,7 +12491,7 @@
       <keyword name="getFilePath" id="project::Board::getFilePath" ref="d5/d07/classproject_1_1_board.html#ae389dc6ac296201da01420401a142f38" />
       <keyword name="getGridProperties" id="project::Board::getGridProperties" ref="d5/d07/classproject_1_1_board.html#a8fdde458ce65c4d4a40545c222303ae9" />
       <keyword name="isEmpty" id="project::Board::isEmpty" ref="d5/d07/classproject_1_1_board.html#ac59c252677adb89638b735cf19d3151b" />
-      <keyword name="getSelectedItems" id="project::Board::getSelectedItems" ref="d5/d07/classproject_1_1_board.html#a262639fc1207769d33095d092cc2e068" />
+      <keyword name="getSelectedItems" id="project::Board::getSelectedItems" ref="d5/d07/classproject_1_1_board.html#a75bfc0b788d0cc0eb348c012e0e39206" />
       <keyword name="getItemsAtScenePos" id="project::Board::getItemsAtScenePos" ref="d5/d07/classproject_1_1_board.html#ae5be3f46f5e311d7c5c3b950ce60e3b1" />
       <keyword name="setGridProperties" id="project::Board::setGridProperties" ref="d5/d07/classproject_1_1_board.html#a7dcc5ce7d70a073366dde598d5dab494" />
       <keyword name="getUuid" id="project::Board::getUuid" ref="d5/d07/classproject_1_1_board.html#ada9b237a8629c03e16491a72730b456b" />
@@ -12591,6 +12620,24 @@
       <keyword name="mNewPos" id="project::CmdComponentInstanceEdit::mNewPos" ref="d8/d2c/classproject_1_1_cmd_component_instance_edit.html#a8cbcaee267020618686fdeec78a11f48" />
       <keyword name="mOldRotation" id="project::CmdComponentInstanceEdit::mOldRotation" ref="d8/d2c/classproject_1_1_cmd_component_instance_edit.html#af0e795c3bd75bfe174f503756a7606cc" />
       <keyword name="mNewRotation" id="project::CmdComponentInstanceEdit::mNewRotation" ref="d8/d2c/classproject_1_1_cmd_component_instance_edit.html#a4e527679f155a1d88d05038fe9d84f05" />
+      <keyword name="mRedoCount" id="UndoCommand::mRedoCount" ref="d3/d26/class_undo_command.html#a7ae4683cb0974474e3f9252b8b2ad6c7" />
+      <keyword name="mUndoCount" id="UndoCommand::mUndoCount" ref="d3/d26/class_undo_command.html#a3a7bfb2ebb9fcb0b95fe1aa738bc2f65" />
+      <keyword name="project::CmdComponentInstanceRemove" id="project::CmdComponentInstanceRemove" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html" />
+      <keyword name="CmdComponentInstanceRemove" id="project::CmdComponentInstanceRemove::CmdComponentInstanceRemove" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a856ba84066d1f14582a2318467b2a376" />
+      <keyword name="~CmdComponentInstanceRemove" id="project::CmdComponentInstanceRemove::~CmdComponentInstanceRemove" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#ab6ed154bd1973ef1f09fbfccf5a5b340" />
+      <keyword name="redo" id="project::CmdComponentInstanceRemove::redo" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a91ca7652063093da57fc1bd0141dcc95" />
+      <keyword name="undo" id="project::CmdComponentInstanceRemove::undo" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a19e8778088bfe76b16745470981bb913" />
+      <keyword name="UndoCommand" id="UndoCommand::UndoCommand" ref="d3/d26/class_undo_command.html#acfb7f0c2e25230e24e48cc54e0245460" />
+      <keyword name="~UndoCommand" id="UndoCommand::~UndoCommand" ref="d3/d26/class_undo_command.html#a15aa73ef4a29af5ce76a078bf7fc1408" />
+      <keyword name="getId" id="UndoCommand::getId" ref="d3/d26/class_undo_command.html#aaa307c737324271a6e68a35f0b49b66e" />
+      <keyword name="getText" id="UndoCommand::getText" ref="d3/d26/class_undo_command.html#ab42d5f674bbe33d8d5a601bedfd7921e" />
+      <keyword name="getChildCount" id="UndoCommand::getChildCount" ref="d3/d26/class_undo_command.html#a980ff700022c90ff20b02290faaba0ce" />
+      <keyword name="isExecuted" id="UndoCommand::isExecuted" ref="d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" />
+      <keyword name="mergeWith" id="UndoCommand::mergeWith" ref="d3/d26/class_undo_command.html#abf26a1decdae3d723a37e9204a28e32f" />
+      <keyword name="appendChild" id="UndoCommand::appendChild" ref="d3/d26/class_undo_command.html#aa6957d2cefd8037e1292fa92317bb020" />
+      <keyword name="removeChild" id="UndoCommand::removeChild" ref="d3/d26/class_undo_command.html#aea99233cc2240857bda1a5f449266f4a" />
+      <keyword name="mBoard" id="project::CmdComponentInstanceRemove::mBoard" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a7e488020a8f65675a719e4b901d017de" />
+      <keyword name="mComponent" id="project::CmdComponentInstanceRemove::mComponent" ref="d3/df7/classproject_1_1_cmd_component_instance_remove.html#a8d3a8b859d9e7c6d71b0133559265d09" />
       <keyword name="mRedoCount" id="UndoCommand::mRedoCount" ref="d3/d26/class_undo_command.html#a7ae4683cb0974474e3f9252b8b2ad6c7" />
       <keyword name="mUndoCount" id="UndoCommand::mUndoCount" ref="d3/d26/class_undo_command.html#a3a7bfb2ebb9fcb0b95fe1aa738bc2f65" />
       <keyword name="project::ComponentInstance" id="project::ComponentInstance" ref="d0/d7d/classproject_1_1_component_instance.html" />
@@ -14200,7 +14247,7 @@
       <keyword name="getFilePath" id="project::Schematic::getFilePath" ref="dd/d2d/classproject_1_1_schematic.html#ae389dc6ac296201da01420401a142f38" />
       <keyword name="getGridProperties" id="project::Schematic::getGridProperties" ref="dd/d2d/classproject_1_1_schematic.html#a8fdde458ce65c4d4a40545c222303ae9" />
       <keyword name="isEmpty" id="project::Schematic::isEmpty" ref="dd/d2d/classproject_1_1_schematic.html#ac59c252677adb89638b735cf19d3151b" />
-      <keyword name="getSelectedItems" id="project::Schematic::getSelectedItems" ref="dd/d2d/classproject_1_1_schematic.html#a0784e33cb985a56c1ac86c631ee3ee1b" />
+      <keyword name="getSelectedItems" id="project::Schematic::getSelectedItems" ref="dd/d2d/classproject_1_1_schematic.html#a3102ea04118cf756a10705c6d3b607ab" />
       <keyword name="getItemsAtScenePos" id="project::Schematic::getItemsAtScenePos" ref="dd/d2d/classproject_1_1_schematic.html#ac6709a9f69bbe2647444abaccbc8403e" />
       <keyword name="getNetPointsAtScenePos" id="project::Schematic::getNetPointsAtScenePos" ref="dd/d2d/classproject_1_1_schematic.html#a09cd583afe0d7757cfd22a30e7940992" />
       <keyword name="getNetLinesAtScenePos" id="project::Schematic::getNetLinesAtScenePos" ref="dd/d2d/classproject_1_1_schematic.html#a7ffa29df38b08b1c0696f9e51f977508" />
@@ -14340,6 +14387,7 @@
       <keyword name="activeBoardChanged" id="project::BoardEditor::activeBoardChanged" ref="d4/dfb/classproject_1_1_board_editor.html#aa69152acdf9cb8937e363694775e42b8" />
       <keyword name="BoardEditor" id="project::BoardEditor::BoardEditor" ref="d4/dfb/classproject_1_1_board_editor.html#a2622890007f7f744656c64f1e2326ed4" />
       <keyword name="~BoardEditor" id="project::BoardEditor::~BoardEditor" ref="d4/dfb/classproject_1_1_board_editor.html#ab5c7c9c2df285e44215e9e4edb43314a" />
+      <keyword name="getProjectEditor" id="project::BoardEditor::getProjectEditor" ref="d4/dfb/classproject_1_1_board_editor.html#a47f2324cd29f26bdb940304a71019d72" />
       <keyword name="getProject" id="project::BoardEditor::getProject" ref="d4/dfb/classproject_1_1_board_editor.html#ac48a585009b5ee63f88e0c2b5357d6e9" />
       <keyword name="getActiveBoardIndex" id="project::BoardEditor::getActiveBoardIndex" ref="d4/dfb/classproject_1_1_board_editor.html#a852b1db757523e156767d1cd8759f9d0" />
       <keyword name="getActiveBoard" id="project::BoardEditor::getActiveBoard" ref="d4/dfb/classproject_1_1_board_editor.html#a6df0b9122ac9d5c134eb95a14f701214" />
@@ -14378,6 +14426,7 @@
       <keyword name="process" id="project::BES_Base::process" ref="d0/d4b/classproject_1_1_b_e_s___base.html#ad0e51167fdf30d76f5f29a3ff63ffce7" />
       <keyword name="entry" id="project::BES_Base::entry" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a51e3098b4672acd3c5ec69e745df876e" />
       <keyword name="exit" id="project::BES_Base::exit" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a4d757b4900b1290527a54d901f5f77bf" />
+      <keyword name="mWorkspace" id="project::BES_Base::mWorkspace" ref="d0/d4b/classproject_1_1_b_e_s___base.html#aaf8f4a37785d9bbcba635b7bb0b8aaa1" />
       <keyword name="mProject" id="project::BES_Base::mProject" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a9887e07d0b08a071e02e6d1fd6cf9ab9" />
       <keyword name="mCircuit" id="project::BES_Base::mCircuit" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a26e1424fba2a472fb3a5e6e6a3de8c23" />
       <keyword name="mEditor" id="project::BES_Base::mEditor" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a3002777f3cf446416a4848e7d29b145a" />
@@ -14400,6 +14449,7 @@
       <keyword name="mCurrentState" id="project::BES_FSM::mCurrentState" ref="db/d99/classproject_1_1_b_e_s___f_s_m.html#ab6a0125edee61e33a460612e9c124e5d" />
       <keyword name="mPreviousState" id="project::BES_FSM::mPreviousState" ref="db/d99/classproject_1_1_b_e_s___f_s_m.html#a5a8d6178882c3a9e18370d3378015924" />
       <keyword name="mSubStates" id="project::BES_FSM::mSubStates" ref="db/d99/classproject_1_1_b_e_s___f_s_m.html#a8bc4a7f6151471bd2ce97a19d69a8b64" />
+      <keyword name="mWorkspace" id="project::BES_Base::mWorkspace" ref="d0/d4b/classproject_1_1_b_e_s___base.html#aaf8f4a37785d9bbcba635b7bb0b8aaa1" />
       <keyword name="mProject" id="project::BES_Base::mProject" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a9887e07d0b08a071e02e6d1fd6cf9ab9" />
       <keyword name="mCircuit" id="project::BES_Base::mCircuit" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a26e1424fba2a472fb3a5e6e6a3de8c23" />
       <keyword name="mEditor" id="project::BES_Base::mEditor" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a3002777f3cf446416a4848e7d29b145a" />
@@ -14425,10 +14475,12 @@
       <keyword name="proccessIdleSceneDoubleClick" id="project::BES_Select::proccessIdleSceneDoubleClick" ref="db/dd3/classproject_1_1_b_e_s___select.html#ac6c7da983273e396854b9e1cccf4fccf" />
       <keyword name="startMovingSelectedItems" id="project::BES_Select::startMovingSelectedItems" ref="db/dd3/classproject_1_1_b_e_s___select.html#a82f67b84fff325f62072faa6bd5a3206" />
       <keyword name="rotateSelectedItems" id="project::BES_Select::rotateSelectedItems" ref="db/dd3/classproject_1_1_b_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" />
+      <keyword name="removeSelectedItems" id="project::BES_Select::removeSelectedItems" ref="db/dd3/classproject_1_1_b_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" />
       <keyword name="mSubState" id="project::BES_Select::mSubState" ref="db/dd3/classproject_1_1_b_e_s___select.html#aedf79069eac7bcb14a505e582941a9e4" />
       <keyword name="mLastMouseMoveDeltaPos" id="project::BES_Select::mLastMouseMoveDeltaPos" ref="db/dd3/classproject_1_1_b_e_s___select.html#a3845774b48bed2e28ac0fb682ecf44a4" />
       <keyword name="mParentCommand" id="project::BES_Select::mParentCommand" ref="db/dd3/classproject_1_1_b_e_s___select.html#a1a6a958f573cd9b09cf4c683327f9c1c" />
       <keyword name="mComponentEditCmds" id="project::BES_Select::mComponentEditCmds" ref="db/dd3/classproject_1_1_b_e_s___select.html#ad1c86dd4e61df3830b937404186dfcc0" />
+      <keyword name="mWorkspace" id="project::BES_Base::mWorkspace" ref="d0/d4b/classproject_1_1_b_e_s___base.html#aaf8f4a37785d9bbcba635b7bb0b8aaa1" />
       <keyword name="mProject" id="project::BES_Base::mProject" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a9887e07d0b08a071e02e6d1fd6cf9ab9" />
       <keyword name="mCircuit" id="project::BES_Base::mCircuit" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a26e1424fba2a472fb3a5e6e6a3de8c23" />
       <keyword name="mEditor" id="project::BES_Base::mEditor" ref="d0/d4b/classproject_1_1_b_e_s___base.html#a3002777f3cf446416a4848e7d29b145a" />
@@ -15175,6 +15227,7 @@
       <file>d1/d53/cmdboardadd_8h_source.html</file>
       <file>d7/dc7/cmdcomponentinstanceadd_8h_source.html</file>
       <file>dc/d76/cmdcomponentinstanceedit_8h_source.html</file>
+      <file>d2/ddb/cmdcomponentinstanceremove_8h_source.html</file>
       <file>df/d9b/componentinstance_8h_source.html</file>
       <file>de/dca/bgi__base_8h_source.html</file>
       <file>d7/dad/bgi__footprint_8h_source.html</file>
@@ -15688,6 +15741,11 @@
       <file>dc/d76/cmdcomponentinstanceedit_8h.html</file>
       <file>d5/d46/cmdcomponentinstanceedit_8h__incl.svg</file>
       <file>d0/d60/cmdcomponentinstanceedit_8h__dep__incl.svg</file>
+      <file>df/d83/cmdcomponentinstanceremove_8cpp.html</file>
+      <file>de/d17/cmdcomponentinstanceremove_8cpp__incl.svg</file>
+      <file>d2/ddb/cmdcomponentinstanceremove_8h.html</file>
+      <file>d0/d40/cmdcomponentinstanceremove_8h__incl.svg</file>
+      <file>d5/d3e/cmdcomponentinstanceremove_8h__dep__incl.svg</file>
       <file>d6/d55/componentinstance_8cpp.html</file>
       <file>d6/df2/componentinstance_8cpp__incl.svg</file>
       <file>df/d9b/componentinstance_8h.html</file>
@@ -17201,6 +17259,7 @@
       <file>de/d02/classlibrary_1_1_library_a7b2e96907b8ffdb28f7fd9621486975e_icgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_ad5121bf85bceffc79b92edc6d7445a07_icgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_a3ced65a4208c679dfdda963d848aae9b_icgraph.svg</file>
+      <file>de/d02/classlibrary_1_1_library_a6782766e6d899cf530b12dc94db35f3e_icgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_abf6f5a1b41bdc95e7b0602fbab2219a7_cgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_abf6f5a1b41bdc95e7b0602fbab2219a7_icgraph.svg</file>
       <file>de/d02/classlibrary_1_1_library_afcc09d3545938ef4d18596ee5f3207da_cgraph.svg</file>
@@ -17399,8 +17458,8 @@
       <file>d5/d07/classproject_1_1_board_ac48a585009b5ee63f88e0c2b5357d6e9_icgraph.svg</file>
       <file>d5/d07/classproject_1_1_board_ae389dc6ac296201da01420401a142f38_icgraph.svg</file>
       <file>d5/d07/classproject_1_1_board_a8fdde458ce65c4d4a40545c222303ae9_icgraph.svg</file>
-      <file>d5/d07/classproject_1_1_board_a262639fc1207769d33095d092cc2e068_cgraph.svg</file>
-      <file>d5/d07/classproject_1_1_board_a262639fc1207769d33095d092cc2e068_icgraph.svg</file>
+      <file>d5/d07/classproject_1_1_board_a75bfc0b788d0cc0eb348c012e0e39206_cgraph.svg</file>
+      <file>d5/d07/classproject_1_1_board_a75bfc0b788d0cc0eb348c012e0e39206_icgraph.svg</file>
       <file>d5/d07/classproject_1_1_board_ae5be3f46f5e311d7c5c3b950ce60e3b1_cgraph.svg</file>
       <file>d5/d07/classproject_1_1_board_a7dcc5ce7d70a073366dde598d5dab494_icgraph.svg</file>
       <file>d5/d07/classproject_1_1_board_ada9b237a8629c03e16491a72730b456b_icgraph.svg</file>
@@ -17418,6 +17477,7 @@
       <file>d5/d07/classproject_1_1_board_a1e81bd3e07987e2b02f760b3d6d75c21_cgraph.svg</file>
       <file>d5/d07/classproject_1_1_board_a1e81bd3e07987e2b02f760b3d6d75c21_icgraph.svg</file>
       <file>d5/d07/classproject_1_1_board_a8dd1dc788ad5d6d55d3833b0a0d31fbe_cgraph.svg</file>
+      <file>d5/d07/classproject_1_1_board_a8dd1dc788ad5d6d55d3833b0a0d31fbe_icgraph.svg</file>
       <file>d5/d07/classproject_1_1_board_a7379f6fc841e4fb650bca7e58c0b5e1e_icgraph.svg</file>
       <file>d5/d07/classproject_1_1_board_a6f15290c411b59a902b38d07962c5449_icgraph.svg</file>
       <file>d5/d07/classproject_1_1_board_a06051ecf280ebda6160cdad2896ab8e5_icgraph.svg</file>
@@ -17453,12 +17513,20 @@
       <file>d8/d2c/classproject_1_1_cmd_component_instance_edit_a91ca7652063093da57fc1bd0141dcc95_cgraph.svg</file>
       <file>d8/d2c/classproject_1_1_cmd_component_instance_edit_a19e8778088bfe76b16745470981bb913_cgraph.svg</file>
       <file>d2/d7a/classproject_1_1_cmd_component_instance_edit-members.html</file>
+      <file>d3/df7/classproject_1_1_cmd_component_instance_remove.html</file>
+      <file>df/dc2/classproject_1_1_cmd_component_instance_remove__inherit__graph.svg</file>
+      <file>db/d1d/classproject_1_1_cmd_component_instance_remove__coll__graph.svg</file>
+      <file>d3/df7/classproject_1_1_cmd_component_instance_remove_ab6ed154bd1973ef1f09fbfccf5a5b340_cgraph.svg</file>
+      <file>d3/df7/classproject_1_1_cmd_component_instance_remove_a91ca7652063093da57fc1bd0141dcc95_cgraph.svg</file>
+      <file>d3/df7/classproject_1_1_cmd_component_instance_remove_a19e8778088bfe76b16745470981bb913_cgraph.svg</file>
+      <file>dd/dbb/classproject_1_1_cmd_component_instance_remove-members.html</file>
       <file>d0/d7d/classproject_1_1_component_instance.html</file>
       <file>d1/da6/classproject_1_1_component_instance__inherit__graph.svg</file>
       <file>d2/df2/classproject_1_1_component_instance__coll__graph.svg</file>
       <file>d0/d7d/classproject_1_1_component_instance_a8b9accae182d7ca8c9e6b6d3e3a7f725_cgraph.svg</file>
       <file>d0/d7d/classproject_1_1_component_instance_a8b9accae182d7ca8c9e6b6d3e3a7f725_icgraph.svg</file>
       <file>d0/d7d/classproject_1_1_component_instance_aaafd4dfbadf3c386b91f0c4cd23a0261_icgraph.svg</file>
+      <file>d0/d7d/classproject_1_1_component_instance_a7c547c92d2781e3129fd5cf0c4a89668_icgraph.svg</file>
       <file>d0/d7d/classproject_1_1_component_instance_ab45165f38a4f6bbec5e2256ab7c538a1_icgraph.svg</file>
       <file>d0/d7d/classproject_1_1_component_instance_ab36238a1d9212ca7d7d368cb63484bee_icgraph.svg</file>
       <file>d0/d7d/classproject_1_1_component_instance_a43009465a74e4ea29421f269c876916d_icgraph.svg</file>
@@ -17525,6 +17593,7 @@
       <file>da/d96/classproject_1_1_b_i___footprint_aeb87054a7c12b9ccee59af89a9abf24f_icgraph.svg</file>
       <file>da/d96/classproject_1_1_b_i___footprint_a56e275d18632ae7d863b45e405563e26_icgraph.svg</file>
       <file>da/d96/classproject_1_1_b_i___footprint_a5286d941e95a9eb4ca9aff66c02b25fe_cgraph.svg</file>
+      <file>da/d96/classproject_1_1_b_i___footprint_a5286d941e95a9eb4ca9aff66c02b25fe_icgraph.svg</file>
       <file>da/d96/classproject_1_1_b_i___footprint_af90fb11b274fda88ef94e9f685a6ab35_cgraph.svg</file>
       <file>da/d96/classproject_1_1_b_i___footprint_af90fb11b274fda88ef94e9f685a6ab35_icgraph.svg</file>
       <file>da/d96/classproject_1_1_b_i___footprint_ad73a1407a19f935203851d27f9fb3903_cgraph.svg</file>
@@ -17836,7 +17905,6 @@
       <file>d8/dcf/classproject_1_1_project_library__coll__graph.svg</file>
       <file>d9/d30/classproject_1_1_project_library_aba14a5f76c56ad77b88fdb9f2a14e84b_icgraph.svg</file>
       <file>d9/d30/classproject_1_1_project_library_acc16ec02378a1c17f0b883ff8002e402_cgraph.svg</file>
-      <file>d9/d30/classproject_1_1_project_library_acc16ec02378a1c17f0b883ff8002e402_icgraph.svg</file>
       <file>d9/d30/classproject_1_1_project_library_ae3bb445dbe2152d14e57bbf09cbb1ee4_cgraph.svg</file>
       <file>d9/d30/classproject_1_1_project_library_a9bdda15058bd2dd5019d818bbcba7013_cgraph.svg</file>
       <file>d7/dd6/classproject_1_1_project_library-members.html</file>
@@ -18199,8 +18267,8 @@
       <file>dd/d2d/classproject_1_1_schematic_ac48a585009b5ee63f88e0c2b5357d6e9_icgraph.svg</file>
       <file>dd/d2d/classproject_1_1_schematic_ae389dc6ac296201da01420401a142f38_icgraph.svg</file>
       <file>dd/d2d/classproject_1_1_schematic_a8fdde458ce65c4d4a40545c222303ae9_icgraph.svg</file>
-      <file>dd/d2d/classproject_1_1_schematic_a0784e33cb985a56c1ac86c631ee3ee1b_cgraph.svg</file>
-      <file>dd/d2d/classproject_1_1_schematic_a0784e33cb985a56c1ac86c631ee3ee1b_icgraph.svg</file>
+      <file>dd/d2d/classproject_1_1_schematic_a3102ea04118cf756a10705c6d3b607ab_cgraph.svg</file>
+      <file>dd/d2d/classproject_1_1_schematic_a3102ea04118cf756a10705c6d3b607ab_icgraph.svg</file>
       <file>dd/d2d/classproject_1_1_schematic_ac6709a9f69bbe2647444abaccbc8403e_cgraph.svg</file>
       <file>dd/d2d/classproject_1_1_schematic_a09cd583afe0d7757cfd22a30e7940992_cgraph.svg</file>
       <file>dd/d2d/classproject_1_1_schematic_a7ffa29df38b08b1c0696f9e51f977508_cgraph.svg</file>
@@ -18275,6 +18343,7 @@
       <file>d1/d56/classproject_1_1_board_editor__inherit__graph.svg</file>
       <file>d8/d95/classproject_1_1_board_editor__coll__graph.svg</file>
       <file>d4/dfb/classproject_1_1_board_editor_a2622890007f7f744656c64f1e2326ed4_cgraph.svg</file>
+      <file>d4/dfb/classproject_1_1_board_editor_a6df0b9122ac9d5c134eb95a14f701214_icgraph.svg</file>
       <file>d4/dfb/classproject_1_1_board_editor_a00ec1e24f4d7804846fd81c45c48b596_cgraph.svg</file>
       <file>d4/dfb/classproject_1_1_board_editor_a4d7d2f41d1a418c7de0a99641752bd9a_icgraph.svg</file>
       <file>d4/dfb/classproject_1_1_board_editor_a39a2f2e2adc828c82fd650e2f33e7c92_cgraph.svg</file>
@@ -18308,6 +18377,7 @@
       <file>db/dd3/classproject_1_1_b_e_s___select_ac6c7da983273e396854b9e1cccf4fccf_cgraph.svg</file>
       <file>db/dd3/classproject_1_1_b_e_s___select_a82f67b84fff325f62072faa6bd5a3206_cgraph.svg</file>
       <file>db/dd3/classproject_1_1_b_e_s___select_a1f262c8e6a4c3d45093729fa34ec01e8_cgraph.svg</file>
+      <file>db/dd3/classproject_1_1_b_e_s___select_a75183dd285ebb13d41213f4dfe420907_cgraph.svg</file>
       <file>d4/dee/classproject_1_1_b_e_s___select-members.html</file>
       <file>d8/dd0/classproject_1_1_b_e_e___base.html</file>
       <file>db/d2c/classproject_1_1_b_e_e___base__inherit__graph.svg</file>
@@ -18669,6 +18739,8 @@
       <file>dir_000019_000009.html</file>
       <file>dir_000019_000003.html</file>
       <file>dir_000038_000019.html</file>
+      <file>dir_000038_000009.html</file>
+      <file>dir_000038_000043.html</file>
       <file>dir_000038_000003.html</file>
       <file>dir_000039_000019.html</file>
       <file>dir_000039_000009.html</file>

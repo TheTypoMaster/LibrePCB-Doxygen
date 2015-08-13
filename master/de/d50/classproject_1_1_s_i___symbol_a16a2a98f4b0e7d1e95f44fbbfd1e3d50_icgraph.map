@@ -1,5 +1,5 @@
 <map id="getPins" name="getPins">
-<area shape="rect" id="node3" href="$dd/d2d/classproject_1_1_schematic.html#a0784e33cb985a56c1ac86c631ee3ee1b" title="project::Schematic\l::getSelectedItems" alt="" coords="132,39,263,86"/>
+<area shape="rect" id="node3" href="$dd/d2d/classproject_1_1_schematic.html#a3102ea04118cf756a10705c6d3b607ab" title="project::Schematic\l::getSelectedItems" alt="" coords="132,39,263,86"/>
 <area shape="rect" id="node9" href="$dd/d2d/classproject_1_1_schematic.html#ac6709a9f69bbe2647444abaccbc8403e" title="project::Schematic\l::getItemsAtScenePos" alt="" coords="120,109,275,155"/>
 <area shape="rect" id="node11" href="$dd/d2d/classproject_1_1_schematic.html#af74dab3072b8fc7894549c35ac90a050" title="project::Schematic\l::getPinsAtScenePos" alt="" coords="124,178,271,225"/>
 <area shape="rect" id="node13" href="$dd/d2d/classproject_1_1_schematic.html#a1e81bd3e07987e2b02f760b3d6d75c21" title="project::Schematic\l::setSelectionRect" alt="" coords="132,247,263,294"/>

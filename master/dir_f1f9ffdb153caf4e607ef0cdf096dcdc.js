@@ -11,5 +11,9 @@ var dir_f1f9ffdb153caf4e607ef0cdf096dcdc =
     [ "cmdcomponentinstanceedit.cpp", "df/daf/cmdcomponentinstanceedit_8cpp.html", null ],
     [ "cmdcomponentinstanceedit.h", "dc/d76/cmdcomponentinstanceedit_8h.html", [
       [ "CmdComponentInstanceEdit", "d8/d2c/classproject_1_1_cmd_component_instance_edit.html", "d8/d2c/classproject_1_1_cmd_component_instance_edit" ]
+    ] ],
+    [ "cmdcomponentinstanceremove.cpp", "df/d83/cmdcomponentinstanceremove_8cpp.html", null ],
+    [ "cmdcomponentinstanceremove.h", "d2/ddb/cmdcomponentinstanceremove_8h.html", [
+      [ "CmdComponentInstanceRemove", "d3/df7/classproject_1_1_cmd_component_instance_remove.html", "d3/df7/classproject_1_1_cmd_component_instance_remove" ]
     ] ]
 ];

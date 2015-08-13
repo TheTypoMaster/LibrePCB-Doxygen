@@ -1,6 +1,7 @@
 <map id="isSelected" name="isSelected">
-<area shape="rect" id="node3" href="$d5/d07/classproject_1_1_board.html#a262639fc1207769d33095d092cc2e068" title="project::Board::getSelected\lItems" alt="" coords="137,5,316,51"/>
-<area shape="rect" id="node7" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::BGI_Footprint\l::paint" alt="" coords="152,74,301,121"/>
-<area shape="rect" id="node9" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::BGI_FootprintPad\l::paint" alt="" coords="140,143,313,190"/>
-<area shape="rect" id="node5" href="$db/dd3/classproject_1_1_b_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::BES_Select\l::rotateSelectedItems" alt="" coords="365,5,512,51"/>
+<area shape="rect" id="node3" href="$d5/d07/classproject_1_1_board.html#a75bfc0b788d0cc0eb348c012e0e39206" title="project::Board::getSelected\lItems" alt="" coords="137,39,316,86"/>
+<area shape="rect" id="node9" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::BGI_Footprint\l::paint" alt="" coords="152,109,301,155"/>
+<area shape="rect" id="node11" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::BGI_FootprintPad\l::paint" alt="" coords="140,178,313,225"/>
+<area shape="rect" id="node5" href="$db/dd3/classproject_1_1_b_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::BES_Select\l::rotateSelectedItems" alt="" coords="371,5,517,51"/>
+<area shape="rect" id="node7" href="$db/dd3/classproject_1_1_b_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::BES_Select\l::removeSelectedItems" alt="" coords="365,74,523,121"/>
 </map>

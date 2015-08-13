@@ -14,7 +14,7 @@ var classproject_1_1_board =
     [ "getFilePath", "d5/d07/classproject_1_1_board.html#ae389dc6ac296201da01420401a142f38", null ],
     [ "getGridProperties", "d5/d07/classproject_1_1_board.html#a8fdde458ce65c4d4a40545c222303ae9", null ],
     [ "isEmpty", "d5/d07/classproject_1_1_board.html#ac59c252677adb89638b735cf19d3151b", null ],
-    [ "getSelectedItems", "d5/d07/classproject_1_1_board.html#a262639fc1207769d33095d092cc2e068", null ],
+    [ "getSelectedItems", "d5/d07/classproject_1_1_board.html#a75bfc0b788d0cc0eb348c012e0e39206", null ],
     [ "getItemsAtScenePos", "d5/d07/classproject_1_1_board.html#ae5be3f46f5e311d7c5c3b950ce60e3b1", null ],
     [ "setGridProperties", "d5/d07/classproject_1_1_board.html#a7dcc5ce7d70a073366dde598d5dab494", null ],
     [ "getUuid", "d5/d07/classproject_1_1_board.html#ada9b237a8629c03e16491a72730b456b", null ],

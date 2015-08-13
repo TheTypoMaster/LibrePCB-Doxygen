@@ -12,6 +12,8 @@ var searchData=
   ['cmdcomponentinstanceadd_2eh',['cmdcomponentinstanceadd.h',['../d7/dc7/cmdcomponentinstanceadd_8h.html',1,'']]],
   ['cmdcomponentinstanceedit_2ecpp',['cmdcomponentinstanceedit.cpp',['../df/daf/cmdcomponentinstanceedit_8cpp.html',1,'']]],
   ['cmdcomponentinstanceedit_2eh',['cmdcomponentinstanceedit.h',['../dc/d76/cmdcomponentinstanceedit_8h.html',1,'']]],
+  ['cmdcomponentinstanceremove_2ecpp',['cmdcomponentinstanceremove.cpp',['../df/d83/cmdcomponentinstanceremove_8cpp.html',1,'']]],
+  ['cmdcomponentinstanceremove_2eh',['cmdcomponentinstanceremove.h',['../d2/ddb/cmdcomponentinstanceremove_8h.html',1,'']]],
   ['cmdgencompattrinstadd_2ecpp',['cmdgencompattrinstadd.cpp',['../d2/d3c/cmdgencompattrinstadd_8cpp.html',1,'']]],
   ['cmdgencompattrinstadd_2eh',['cmdgencompattrinstadd.h',['../df/d51/cmdgencompattrinstadd_8h.html',1,'']]],
   ['cmdgencompattrinstedit_2ecpp',['cmdgencompattrinstedit.cpp',['../d4/dff/cmdgencompattrinstedit_8cpp.html',1,'']]],

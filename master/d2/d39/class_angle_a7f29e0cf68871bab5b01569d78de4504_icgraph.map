@@ -8,11 +8,12 @@
 <area shape="rect" id="node58" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_Symbol\l::updateCacheAndRepaint" alt="" coords="152,573,325,619"/>
 <area shape="rect" id="node64" href="$da/d6f/classproject_1_1_s_g_i___symbol_pin.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_SymbolPin\l::updateCacheAndRepaint" alt="" coords="436,101,609,147"/>
 <area shape="rect" id="node67" href="$db/dd3/classproject_1_1_b_e_s___select.html#a419f72d93a6cb28bc6ee2b8710b84cdd" title="project::BES_Select\l::processSubStateIdle" alt="" coords="164,642,313,689"/>
-<area shape="rect" id="node69" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#a3b9ee41683706e488c9a65c500558b76" title="project::SES_AddComponents\l::process" alt="" coords="139,711,339,758"/>
-<area shape="rect" id="node71" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#a900b064d2a187546b16944379527b0a9" title="project::SES_AddComponents\l::processSceneEvent" alt="" coords="139,781,339,827"/>
-<area shape="rect" id="node73" href="$d5/d33/classproject_1_1_s_e_s___add_net_label.html#a900b064d2a187546b16944379527b0a9" title="project::SES_AddNetLabel\l::processSceneEvent" alt="" coords="149,850,328,897"/>
-<area shape="rect" id="node75" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a058e178be2165cf47e16745d82b59452" title="project::SES_Select\l::processSubStateIdle" alt="" coords="164,919,313,966"/>
-<area shape="rect" id="node77" href="$d8/d8b/classproject_1_1_s_e_s___select.html#abf3d779ad6aed8bf5f55cbb3e20d06e5" title="project::SES_Select\l::proccessIdleSceneRightClick" alt="" coords="137,989,340,1035"/>
+<area shape="rect" id="node69" href="$db/dd3/classproject_1_1_b_e_s___select.html#a4a1156d123edf8ab83919f7bd13b4afa" title="project::BES_Select\l::proccessIdleSceneRightClick" alt="" coords="137,711,340,758"/>
+<area shape="rect" id="node71" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#a3b9ee41683706e488c9a65c500558b76" title="project::SES_AddComponents\l::process" alt="" coords="139,781,339,827"/>
+<area shape="rect" id="node73" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#a900b064d2a187546b16944379527b0a9" title="project::SES_AddComponents\l::processSceneEvent" alt="" coords="139,850,339,897"/>
+<area shape="rect" id="node75" href="$d5/d33/classproject_1_1_s_e_s___add_net_label.html#a900b064d2a187546b16944379527b0a9" title="project::SES_AddNetLabel\l::processSceneEvent" alt="" coords="149,919,328,966"/>
+<area shape="rect" id="node77" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a058e178be2165cf47e16745d82b59452" title="project::SES_Select\l::processSubStateIdle" alt="" coords="164,989,313,1035"/>
+<area shape="rect" id="node79" href="$d8/d8b/classproject_1_1_s_e_s___select.html#abf3d779ad6aed8bf5f55cbb3e20d06e5" title="project::SES_Select\l::proccessIdleSceneRightClick" alt="" coords="137,1058,340,1105"/>
 <area shape="rect" id="node5" href="$d0/d69/class_point.html#a5234cfe8b9f31ba928745912067f90b4" title="Get the point rotated by a specific angle with respect to a specific center. " alt="" coords="473,192,572,221"/>
 <area shape="rect" id="node7" href="$de/d50/classproject_1_1_s_i___symbol.html#a56e275d18632ae7d863b45e405563e26" title="project::SI_Symbol\l::mapToScene" alt="" coords="713,138,847,185"/>
 <area shape="rect" id="node26" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::SES_Select\l::rotateSelectedItems" alt="" coords="707,207,853,254"/>

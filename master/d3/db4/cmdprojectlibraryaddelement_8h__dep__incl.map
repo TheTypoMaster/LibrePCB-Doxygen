@@ -1,5 +1,6 @@
 <map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/library/cmd/cmdprojectlibraryaddelement.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/library/cmd/cmdprojectlibraryaddelement.h">
 <area shape="rect" id="node3" href="$da/d6c/cmdprojectlibraryaddelement_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/cmd/cmdprojectlibraryaddelement.cpp" alt="" coords="5,145,251,226"/>
-<area shape="rect" id="node5" href="$de/dd2/unplacedcomponentsdock_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/unplacedcomponentsdock.cpp" alt="" coords="275,145,544,226"/>
-<area shape="rect" id="node7" href="$d8/df2/ses__addcomponents_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addcomponents.cpp" alt="" coords="568,136,736,235"/>
+<area shape="rect" id="node5" href="$d7/d20/bes__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_select.cpp" alt="" coords="275,145,483,226"/>
+<area shape="rect" id="node7" href="$de/dd2/unplacedcomponentsdock_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/unplacedcomponentsdock.cpp" alt="" coords="507,145,776,226"/>
+<area shape="rect" id="node9" href="$d8/df2/ses__addcomponents_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addcomponents.cpp" alt="" coords="800,136,968,235"/>
 </map>

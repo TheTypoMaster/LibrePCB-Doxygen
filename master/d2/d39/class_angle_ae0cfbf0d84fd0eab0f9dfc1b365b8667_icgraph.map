@@ -1,17 +1,17 @@
 <map id="Angle" name="Angle">
-<area shape="rect" id="node3" href="$d2/d39/class_angle.html#a0bb104c9f39ddaeb30f14b4320e34f2a" title="0 degrees " alt="" coords="125,109,176,139"/>
-<area shape="rect" id="node30" href="$d2/d39/class_angle.html#a66e0cf88e393d15519c275f9823b6201" title="45 degrees " alt="" coords="123,463,179,492"/>
-<area shape="rect" id="node32" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="123,409,179,439"/>
-<area shape="rect" id="node86" href="$d2/d39/class_angle.html#a7182035a59e5764d55fdc037b586c76e" title="135 degrees " alt="" coords="119,516,183,545"/>
-<area shape="rect" id="node88" href="$d2/d39/class_angle.html#a1cb5c1054de209f807098188714339d8" title="180 degrees " alt="" coords="119,203,183,232"/>
-<area shape="rect" id="node91" href="$d2/d39/class_angle.html#aedbd951c616edbeb5ec9c29b85afd7d0" title="225 degrees " alt="" coords="119,569,183,599"/>
-<area shape="rect" id="node93" href="$d2/d39/class_angle.html#a7600a8b34a9d1abb484a7d459cc45bba" title="270 degrees " alt="" coords="119,336,183,365"/>
-<area shape="rect" id="node96" href="$d2/d39/class_angle.html#a3e9ff83b3b3002c2fb82b51d71dc7866" title="315 degrees " alt="" coords="119,623,183,652"/>
-<area shape="rect" id="node98" href="$d2/d39/class_angle.html#aa61cdf999bf21d0e8c88a2a7912ed0b9" title="operator+" alt="" coords="112,676,189,705"/>
-<area shape="rect" id="node100" href="$d2/d39/class_angle.html#a7905be8894d323272f06ea4943e0029a" title="operator&#45;" alt="" coords="115,729,187,759"/>
-<area shape="rect" id="node102" href="$d2/d39/class_angle.html#a0ab92c9151f7f8bf542747a0ac2ad98b" title="operator*" alt="" coords="113,783,188,812"/>
-<area shape="rect" id="node104" href="$d2/d39/class_angle.html#ab8495c64e617573920e745ac803d6e8a" title="operator/" alt="" coords="115,836,187,865"/>
-<area shape="rect" id="node106" href="$d2/d39/class_angle.html#ac7bbd742fedc209340dec3a2c6f4abeb" title="operator%" alt="" coords="111,889,191,919"/>
+<area shape="rect" id="node3" href="$d2/d39/class_angle.html#a0bb104c9f39ddaeb30f14b4320e34f2a" title="0 degrees " alt="" coords="125,104,176,133"/>
+<area shape="rect" id="node30" href="$d2/d39/class_angle.html#a66e0cf88e393d15519c275f9823b6201" title="45 degrees " alt="" coords="123,517,179,547"/>
+<area shape="rect" id="node32" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="123,464,179,493"/>
+<area shape="rect" id="node88" href="$d2/d39/class_angle.html#a7182035a59e5764d55fdc037b586c76e" title="135 degrees " alt="" coords="119,571,183,600"/>
+<area shape="rect" id="node90" href="$d2/d39/class_angle.html#a1cb5c1054de209f807098188714339d8" title="180 degrees " alt="" coords="119,215,183,244"/>
+<area shape="rect" id="node93" href="$d2/d39/class_angle.html#aedbd951c616edbeb5ec9c29b85afd7d0" title="225 degrees " alt="" coords="119,624,183,653"/>
+<area shape="rect" id="node95" href="$d2/d39/class_angle.html#a7600a8b34a9d1abb484a7d459cc45bba" title="270 degrees " alt="" coords="119,383,183,412"/>
+<area shape="rect" id="node98" href="$d2/d39/class_angle.html#a3e9ff83b3b3002c2fb82b51d71dc7866" title="315 degrees " alt="" coords="119,677,183,707"/>
+<area shape="rect" id="node100" href="$d2/d39/class_angle.html#aa61cdf999bf21d0e8c88a2a7912ed0b9" title="operator+" alt="" coords="112,731,189,760"/>
+<area shape="rect" id="node102" href="$d2/d39/class_angle.html#a7905be8894d323272f06ea4943e0029a" title="operator&#45;" alt="" coords="115,784,187,813"/>
+<area shape="rect" id="node104" href="$d2/d39/class_angle.html#a0ab92c9151f7f8bf542747a0ac2ad98b" title="operator*" alt="" coords="113,837,188,867"/>
+<area shape="rect" id="node106" href="$d2/d39/class_angle.html#ab8495c64e617573920e745ac803d6e8a" title="operator/" alt="" coords="115,891,187,920"/>
+<area shape="rect" id="node108" href="$d2/d39/class_angle.html#ac7bbd742fedc209340dec3a2c6f4abeb" title="operator%" alt="" coords="111,944,191,973"/>
 <area shape="rect" id="node5" href="$d0/d69/class_point.html#af8998fd1f88de65f9467a5d2012710a4" title="Rotate the point by a specific angle with respect to a specific center. " alt="" coords="320,89,413,119"/>
 <area shape="rect" id="node7" href="$d0/d69/class_point.html#a5234cfe8b9f31ba928745912067f90b4" title="Get the point rotated by a specific angle with respect to a specific center. " alt="" coords="601,85,700,115"/>
 <area shape="rect" id="node9" href="$de/d50/classproject_1_1_s_i___symbol.html#a56e275d18632ae7d863b45e405563e26" title="project::SI_Symbol\l::mapToScene" alt="" coords="841,78,975,125"/>
@@ -31,11 +31,12 @@
 <area shape="rect" id="node65" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_Symbol\l::updateCacheAndRepaint" alt="" coords="280,729,453,775"/>
 <area shape="rect" id="node71" href="$da/d6f/classproject_1_1_s_g_i___symbol_pin.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_SymbolPin\l::updateCacheAndRepaint" alt="" coords="564,138,737,185"/>
 <area shape="rect" id="node74" href="$db/dd3/classproject_1_1_b_e_s___select.html#a419f72d93a6cb28bc6ee2b8710b84cdd" title="project::BES_Select\l::processSubStateIdle" alt="" coords="292,798,441,845"/>
-<area shape="rect" id="node76" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#a3b9ee41683706e488c9a65c500558b76" title="project::SES_AddComponents\l::process" alt="" coords="267,867,467,914"/>
-<area shape="rect" id="node78" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#a900b064d2a187546b16944379527b0a9" title="project::SES_AddComponents\l::processSceneEvent" alt="" coords="267,937,467,983"/>
-<area shape="rect" id="node80" href="$d5/d33/classproject_1_1_s_e_s___add_net_label.html#a900b064d2a187546b16944379527b0a9" title="project::SES_AddNetLabel\l::processSceneEvent" alt="" coords="277,193,456,239"/>
-<area shape="rect" id="node82" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a058e178be2165cf47e16745d82b59452" title="project::SES_Select\l::processSubStateIdle" alt="" coords="292,262,441,309"/>
-<area shape="rect" id="node84" href="$d8/d8b/classproject_1_1_s_e_s___select.html#abf3d779ad6aed8bf5f55cbb3e20d06e5" title="project::SES_Select\l::proccessIdleSceneRightClick" alt="" coords="265,331,468,378"/>
+<area shape="rect" id="node76" href="$db/dd3/classproject_1_1_b_e_s___select.html#a4a1156d123edf8ab83919f7bd13b4afa" title="project::BES_Select\l::proccessIdleSceneRightClick" alt="" coords="265,867,468,914"/>
+<area shape="rect" id="node78" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#a3b9ee41683706e488c9a65c500558b76" title="project::SES_AddComponents\l::process" alt="" coords="267,937,467,983"/>
+<area shape="rect" id="node80" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#a900b064d2a187546b16944379527b0a9" title="project::SES_AddComponents\l::processSceneEvent" alt="" coords="267,1006,467,1053"/>
+<area shape="rect" id="node82" href="$d5/d33/classproject_1_1_s_e_s___add_net_label.html#a900b064d2a187546b16944379527b0a9" title="project::SES_AddNetLabel\l::processSceneEvent" alt="" coords="277,193,456,239"/>
+<area shape="rect" id="node84" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a058e178be2165cf47e16745d82b59452" title="project::SES_Select\l::processSubStateIdle" alt="" coords="292,262,441,309"/>
+<area shape="rect" id="node86" href="$d8/d8b/classproject_1_1_s_e_s___select.html#abf3d779ad6aed8bf5f55cbb3e20d06e5" title="project::SES_Select\l::proccessIdleSceneRightClick" alt="" coords="265,331,468,378"/>
 <area shape="rect" id="node41" href="$da/d96/classproject_1_1_b_i___footprint.html#a80db668afe30ac6b6c9e5eb061b61cfc" title="project::BI_Footprint\l::componentInstanceAttributes\lChanged" alt="" coords="808,415,1008,479"/>
 <area shape="rect" id="node45" href="$da/d96/classproject_1_1_b_i___footprint.html#a271c63e12acd19bccc27bf6861938df2" title="project::BI_Footprint\l::componentInstanceMoved" alt="" coords="817,571,999,618"/>
 <area shape="rect" id="node48" href="$da/d96/classproject_1_1_b_i___footprint.html#ab6c0fcabcb9d5a38a27ed7aeb34f0958" title="project::BI_Footprint\l::componentInstanceRotated" alt="" coords="813,502,1003,549"/>

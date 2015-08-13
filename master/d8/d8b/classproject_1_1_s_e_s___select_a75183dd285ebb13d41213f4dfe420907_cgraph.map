@@ -1,6 +1,6 @@
 <map id="removeSelectedItems" name="removeSelectedItems">
 <area shape="rect" id="node3" href="$dd/d24/classproject_1_1_schematic_editor.html#a6d10a20212bf3b0815f4cdc24d21e295" title="project::SchematicEditor\l::getActiveSchematic" alt="" coords="227,167,392,214"/>
-<area shape="rect" id="node5" href="$dd/d2d/classproject_1_1_schematic.html#a0784e33cb985a56c1ac86c631ee3ee1b" title="project::Schematic\l::getSelectedItems" alt="" coords="244,287,375,334"/>
+<area shape="rect" id="node5" href="$dd/d2d/classproject_1_1_schematic.html#a3102ea04118cf756a10705c6d3b607ab" title="project::Schematic\l::getSelectedItems" alt="" coords="244,287,375,334"/>
 <area shape="rect" id="node13" href="$d3/d43/classproject_1_1_s_i___net_point.html#a33c2f3f7838c3bfa45081c1937511c99" title="project::SI_NetPoint\l::getLines" alt="" coords="489,5,628,51"/>
 <area shape="rect" id="node15" href="$d3/d43/classproject_1_1_s_i___net_point.html#a1a4306e075f1351914d92d2a4bf7310a" title="project::SI_NetPoint\l::isAttached" alt="" coords="717,317,856,363"/>
 <area shape="rect" id="node24" href="$d4/dbe/classproject_1_1_s_i___base.html#a67376e778d857201eb9d295eafa6aeb6" title="project::SI_Base::getType" alt="" coords="223,576,396,605"/>

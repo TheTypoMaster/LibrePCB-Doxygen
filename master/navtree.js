@@ -77,24 +77,25 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d0/dfd/classlibrary_1_1_symbol_pin.html#aeb87054a7c12b9ccee59af89a9abf24f",
-"d1/d7b/classproject_1_1_s_i___net_label.html#aed08011e6158136fd130624f64f14307",
-"d2/d05/classproject_1_1_project.html#a525e9a7ba3b1dfed186d1fc83e9da949",
-"d2/db7/schematiceditor_8h.html",
-"d3/d93/classproject_1_1_net_signal.html#a1a71fca9d40127b39aca2c58dab51267",
-"d4/d90/class_undo_stack.html#ab1877b0ea2870245b44f29a6fee808b7",
-"d5/d40/classlibrary_1_1_library_element_attribute.html#a3b70085f074518af3c9d9c8271ab5c0d",
-"d6/d7e/class_favorite_projects_model.html#aa2a1f5c6e270bd5457719ec969258130",
-"d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a42ae137c07ebb8268c14b210856bb006",
-"d9/d07/classproject_1_1_cmd_gen_comp_attr_inst_edit.html#a79ec939db11252eced940b939b82b3af",
-"d9/db9/classlibrary_1_1_symbol.html#a0539d354d1bfb3189d6e406dd506dde9",
-"da/dae/classlibrary_1_1_model3_d.html#aaa9b4b74267bb5dca70e60477d55d255",
-"db/de6/classproject_1_1_cmd_gen_comp_inst_remove.html#a19e8778088bfe76b16745470981bb913",
-"dd/d12/exceptions_8cpp.html",
-"dd/d8a/classlibrary_1_1_library_base_element.html#a20ed25153bf3162aacf6bd43d19c9858",
-"de/d50/classproject_1_1_s_i___symbol.html#aaaa53153ea6aca5929ea0972d83ef836",
-"df/d64/classproject_1_1_s_e_s___draw_wire.html#a82766d46d470401a5743fb1fbba38ef6",
-"df/de9/class_alignment.html#a0006753ba72a59c8898d849d92229db6"
+"d0/dfd/classlibrary_1_1_symbol_pin.html#aeb305cb4fa9c30aa723aa1cc02c2e690",
+"d1/d7b/classproject_1_1_s_i___net_label.html#aeb87054a7c12b9ccee59af89a9abf24f",
+"d2/d05/classproject_1_1_project.html#a524ed0dd8a5522b754411728dfe5c752",
+"d2/d9a/classproject_1_1_schematic_clipboard.html#ab66acd9999a0c1508cd01252495cc095",
+"d3/d93/classproject_1_1_net_signal.html#a109d096bd938379d326a53c6311bed2f",
+"d4/d90/class_undo_stack.html#a630bb7c7b154364cfccb2638ab80ff49",
+"d5/d3f/class_i_f___schematic_layer_provider.html#a5e616f1be371d6242ef79148c97d32ac",
+"d6/d6a/classproject_1_1_cmd_component_instance_add.html#aebbb95898c7230a7318d36254ecf06bb",
+"d7/dfb/cmdschematicnetlabeledit_8cpp.html",
+"d8/dff/classlibrary_1_1_library_element.html#a8cc4633630d022bc36d2dab809e026b9",
+"d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#aa77fc5d2da89e1f09b09f7c6724ed721",
+"da/d9c/gencompattributeinstance_8cpp.html",
+"db/dd7/classproject_1_1_cmd_net_signal_add.html#a19e8778088bfe76b16745470981bb913",
+"dd/d00/classproject_1_1_s_g_i___symbol.html#a8c77c9cc3474d40e870e01a94bca29be",
+"dd/d69/classproject_1_1_cmd_gen_comp_inst_add.html#aca8191959a6ee6149948b0252000dd67",
+"de/d50/classproject_1_1_s_i___symbol.html#a524ed0dd8a5522b754411728dfe5c752",
+"df/d64/classproject_1_1_s_e_s___draw_wire.html#a40aa441f590854f158d711bf3ca12900",
+"df/dd1/classproject_1_1_s_g_i___net_line.html#a790f1bcb392852527cdf6657257f6131",
+"globals_func.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

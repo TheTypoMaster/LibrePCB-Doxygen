@@ -17,7 +17,7 @@ var classproject_1_1_schematic =
     [ "getFilePath", "dd/d2d/classproject_1_1_schematic.html#ae389dc6ac296201da01420401a142f38", null ],
     [ "getGridProperties", "dd/d2d/classproject_1_1_schematic.html#a8fdde458ce65c4d4a40545c222303ae9", null ],
     [ "isEmpty", "dd/d2d/classproject_1_1_schematic.html#ac59c252677adb89638b735cf19d3151b", null ],
-    [ "getSelectedItems", "dd/d2d/classproject_1_1_schematic.html#a0784e33cb985a56c1ac86c631ee3ee1b", null ],
+    [ "getSelectedItems", "dd/d2d/classproject_1_1_schematic.html#a3102ea04118cf756a10705c6d3b607ab", null ],
     [ "getItemsAtScenePos", "dd/d2d/classproject_1_1_schematic.html#ac6709a9f69bbe2647444abaccbc8403e", null ],
     [ "getNetPointsAtScenePos", "dd/d2d/classproject_1_1_schematic.html#a09cd583afe0d7757cfd22a30e7940992", null ],
     [ "getNetLinesAtScenePos", "dd/d2d/classproject_1_1_schematic.html#a7ffa29df38b08b1c0696f9e51f977508", null ],

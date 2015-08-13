@@ -1,4 +1,6 @@
 <map id="getComponentInstance" name="getComponentInstance">
-<area shape="rect" id="node3" href="$db/dd3/classproject_1_1_b_e_s___select.html#a82f67b84fff325f62072faa6bd5a3206" title="project::BES_Select\l::startMovingSelectedItems" alt="" coords="212,5,393,51"/>
-<area shape="rect" id="node5" href="$db/dd3/classproject_1_1_b_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::BES_Select\l::rotateSelectedItems" alt="" coords="229,74,376,121"/>
+<area shape="rect" id="node3" href="$db/dd3/classproject_1_1_b_e_s___select.html#a4a1156d123edf8ab83919f7bd13b4afa" title="project::BES_Select\l::proccessIdleSceneRightClick" alt="" coords="211,5,413,51"/>
+<area shape="rect" id="node5" href="$db/dd3/classproject_1_1_b_e_s___select.html#a82f67b84fff325f62072faa6bd5a3206" title="project::BES_Select\l::startMovingSelectedItems" alt="" coords="221,74,403,121"/>
+<area shape="rect" id="node7" href="$db/dd3/classproject_1_1_b_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::BES_Select\l::rotateSelectedItems" alt="" coords="239,143,385,190"/>
+<area shape="rect" id="node9" href="$db/dd3/classproject_1_1_b_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::BES_Select\l::removeSelectedItems" alt="" coords="233,213,391,259"/>
 </map>
