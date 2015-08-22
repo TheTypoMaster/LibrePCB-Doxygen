@@ -1,0 +1,7 @@
+<map id="getName" name="getName">
+<area shape="rect" id="node3" href="$d1/d03/classproject_1_1_circuit.html#a0dd193dbc9d73987d07c3af336554619" title="project::Circuit::getNet\lClassByName" alt="" coords="153,5,308,51"/>
+<area shape="rect" id="node5" href="$d3/d8f/classproject_1_1_edit_net_classes_dialog.html#aebd5b8c290c00608d10d0d88bfdf9317" title="project::EditNetClassesDialog\l::EditNetClassesDialog" alt="" coords="132,74,329,121"/>
+<area shape="rect" id="node7" href="$d3/d8f/classproject_1_1_edit_net_classes_dialog.html#a1ba78d7686bdfdaebd95aeca9447bd7c" title="project::EditNetClassesDialog\l::on_tableWidget_itemChanged" alt="" coords="129,143,332,190"/>
+<area shape="rect" id="node9" href="$d3/d8f/classproject_1_1_edit_net_classes_dialog.html#accd0a903591840efc04eae995ba9518a" title="project::EditNetClassesDialog\l::on_btnAdd_clicked" alt="" coords="132,213,329,259"/>
+<area shape="rect" id="node11" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#aa1259e09f2c3e2f9bd5c45dd139c1275" title="project::SES_DrawWire\l::entry" alt="" coords="151,282,311,329"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="addComponent" name="addComponent">
+<area shape="rect" id="node3" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#accd0a903591840efc04eae995ba9518a" title="on_btnAdd_clicked" alt="" coords="179,5,309,35"/>
+<area shape="rect" id="node5" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="on_pushButton_clicked" alt="" coords="165,59,323,88"/>
+<area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="on_btnAddAll_clicked" alt="" coords="171,112,317,141"/>
+</map>

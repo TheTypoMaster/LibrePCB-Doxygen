@@ -1,0 +1,5 @@
+<map id="removeFavoriteProject" name="removeFavoriteProject">
+<area shape="rect" id="node3" href="$d1/def/class_control_panel.html#af48b18b1f3edf33ae8c178b192a0641c" title="ControlPanel::on_project\lTreeView_customContextMenuRequested" alt="" coords="209,5,476,51"/>
+<area shape="rect" id="node5" href="$d1/def/class_control_panel.html#ac2ec613a69ae9cdaed6e1725e7fcf8c1" title="ControlPanel::on_recentProjects\lListView_customContextMenuRequested" alt="" coords="212,74,473,121"/>
+<area shape="rect" id="node7" href="$d1/def/class_control_panel.html#a804e8a8e78189f592203026d10154203" title="ControlPanel::on_favorite\lProjectsListView_customContext\lMenuRequested" alt="" coords="235,144,451,208"/>
+</map>

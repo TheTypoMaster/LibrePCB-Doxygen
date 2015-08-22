@@ -1,0 +1,7 @@
+<map id="attributesChanged" name="attributesChanged">
+<area shape="rect" id="node3" href="$d9/d07/classproject_1_1_cmd_gen_comp_attr_inst_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="191,5,388,51"/>
+<area shape="rect" id="node5" href="$d9/d07/classproject_1_1_cmd_gen_comp_attr_inst_edit.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="191,74,388,121"/>
+<area shape="rect" id="node7" href="$de/d67/classproject_1_1_gen_comp_instance.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="init" alt="" coords="271,144,308,173"/>
+<area shape="rect" id="node9" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::GenCompSignalInstance\l::init" alt="" coords="183,197,396,243"/>
+<area shape="rect" id="node11" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4e286593d2a82f74246f9cba8193605" title="project::SI_Symbol\l::init" alt="" coords="223,266,356,313"/>
+</map>

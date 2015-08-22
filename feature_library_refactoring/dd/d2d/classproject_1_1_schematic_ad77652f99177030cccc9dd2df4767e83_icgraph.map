@@ -1,0 +1,5 @@
+<map id="create" name="create">
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#ac7d08ce581d4e4a78c488c12c30d1120" title="The constructor to create or open a project with all its content. " alt="" coords="113,5,271,35"/>
+<area shape="rect" id="node5" href="$d2/d05/classproject_1_1_project.html#af2c0a8844d704d11396c27da7674aac0" title="Create a new schematic (page) " alt="" coords="115,58,269,105"/>
+<area shape="rect" id="node7" href="$d0/db5/classproject_1_1_cmd_schematic_add.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="321,58,503,105"/>
+</map>

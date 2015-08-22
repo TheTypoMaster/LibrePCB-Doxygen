@@ -1,0 +1,4 @@
+<map id="undo" name="undo">
+<area shape="rect" id="node3" href="$d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" title="This method shows whether that command is executed (redo() called one time more than undo()) ..." alt="" coords="201,5,287,35"/>
+<area shape="rect" id="node5" href="$d3/d26/class_undo_command.html#a93c48d6ed036e1a381be53ac67643284" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="105,31,151,60"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="serializeToXmlDomElement" name="serializeToXmlDomElement">
+<area shape="rect" id="node3" href="$d1/d03/classproject_1_1_circuit.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="256,21,411,51"/>
+<area shape="rect" id="node5" href="$d1/d1f/class_xml_dom_element.html#af2ee1b74300d31ca889b32ddd96d51ac" title="Append a child to the end of the child list of this element. " alt="" coords="499,213,699,243"/>
+<area shape="rect" id="node7" href="$d3/d21/classproject_1_1_net_class.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="241,74,425,121"/>
+<area shape="rect" id="node11" href="$d3/d93/classproject_1_1_net_signal.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="237,143,429,190"/>
+<area shape="rect" id="node17" href="$de/d67/classproject_1_1_gen_comp_instance.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="237,335,429,382"/>
+<area shape="rect" id="node9" href="$d3/d21/classproject_1_1_net_class.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="521,5,676,51"/>
+<area shape="rect" id="node13" href="$d3/d93/classproject_1_1_net_signal.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="517,143,680,190"/>
+<area shape="rect" id="node15" href="$d3/d21/classproject_1_1_net_class.html#ada9b237a8629c03e16491a72730b456b" title="project::NetClass::\lgetUuid" alt="" coords="533,74,664,121"/>
+<area shape="rect" id="node19" href="$de/d67/classproject_1_1_gen_comp_instance.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="509,543,688,590"/>
+<area shape="rect" id="node21" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" title="library::LibraryBaseElement\l::getUuid" alt="" coords="508,266,689,313"/>
+<area shape="rect" id="node23" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVar\l::getUuid" alt="" coords="509,335,688,382"/>
+<area shape="rect" id="node26" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="477,405,720,451"/>
+<area shape="rect" id="node38" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="492,474,705,521"/>
+<area shape="rect" id="node28" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="769,294,983,341"/>
+<area shape="rect" id="node34" href="$d8/d57/class_attribute_type.html#ab0c96f485564e41206ce9a4ce42ba389" title="AttributeType::getName" alt="" coords="796,364,956,393"/>
+<area shape="rect" id="node36" href="$d7/d08/class_attribute_unit.html#ab0c96f485564e41206ce9a4ce42ba389" title="AttributeUnit::getName" alt="" coords="799,417,953,447"/>
+<area shape="rect" id="node30" href="$d8/d57/class_attribute_type.html#ad7c946f08bc594d69ad934bc75d2160b" title="AttributeType::getAvailable\lUnits" alt="" coords="1033,263,1212,310"/>
+<area shape="rect" id="node32" href="$d8/d57/class_attribute_type.html#a6b17d4da262831ddc8c11cbaa191560b" title="AttributeType::isValueValid" alt="" coords="1033,333,1212,363"/>
+<area shape="rect" id="node40" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="769,470,983,517"/>
+<area shape="rect" id="node42" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSignal\l::getUuid" alt="" coords="796,539,956,586"/>
+<area shape="rect" id="node44" href="$d3/d93/classproject_1_1_net_signal.html#ada9b237a8629c03e16491a72730b456b" title="project::NetSignal\l::getUuid" alt="" coords="813,609,939,655"/>
+</map>

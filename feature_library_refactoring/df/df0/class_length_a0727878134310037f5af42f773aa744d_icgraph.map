@@ -1,0 +1,9 @@
+<map id="setLengthMil" name="setLengthMil">
+<area shape="rect" id="node3" href="$df/df0/class_length.html#ace122f12cdca72e87820635a2ba1952e" title="Get a Length object with a specific length and map it to a specific grid. " alt="" coords="180,13,244,43"/>
+<area shape="rect" id="node11" href="$d0/d69/class_point.html#a5c82ab6bcab7db4a3ed12484ec1bfab3" title="Point::fromMil" alt="" coords="161,67,263,96"/>
+<area shape="rect" id="node15" href="$d0/d69/class_point.html#a884f1788bae350ea25043f2e60d3c10b" title="Point::setPointMil" alt="" coords="149,120,275,149"/>
+<area shape="rect" id="node5" href="$dd/d55/class_length_unit.html#ad66df98a1f06d30ac6f15516ce54633f" title="Convert a floating point number with this unit to a Length object. " alt="" coords="324,13,513,43"/>
+<area shape="rect" id="node7" href="$dc/d4e/class_grid_settings_dialog.html#a1d0a287161effff06f3a2dd172475420" title="GridSettingsDialog\l::spbxIntervalChanged" alt="" coords="564,5,716,51"/>
+<area shape="rect" id="node9" href="$dc/d4e/class_grid_settings_dialog.html#accb85452fe6ac5e053dcaae228cd9866" title="GridSettingsDialog\l::GridSettingsDialog" alt="" coords="765,5,904,51"/>
+<area shape="rect" id="node13" href="$dd/d55/class_length_unit.html#ae929a880b44a3ba54b33d2b45e407cef" title="Convert floating point numbers with this unit to a Point object. " alt="" coords="324,67,513,96"/>
+</map>

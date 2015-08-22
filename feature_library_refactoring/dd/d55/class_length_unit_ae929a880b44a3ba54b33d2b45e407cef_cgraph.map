@@ -1,0 +1,10 @@
+<map id="convertFromUnit" name="convertFromUnit">
+<area shape="rect" id="node3" href="$d0/d69/class_point.html#adb9043980e8c2b8b1f2289cd48a3e168" title="Point::fromMm" alt="" coords="176,56,283,85"/>
+<area shape="rect" id="node12" href="$d0/d69/class_point.html#a18219672e7f768b5654c2507ada7fbfb" title="Point::fromInch" alt="" coords="175,109,284,139"/>
+<area shape="rect" id="node18" href="$d0/d69/class_point.html#a5c82ab6bcab7db4a3ed12484ec1bfab3" title="Point::fromMil" alt="" coords="179,163,280,192"/>
+<area shape="rect" id="node5" href="$df/df0/class_length.html#ad9d64077c16d3a2631a87b69cea3426d" title="Set the length in millimeters. " alt="" coords="336,5,483,35"/>
+<area shape="rect" id="node9" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="348,136,471,165"/>
+<area shape="rect" id="node7" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="535,59,719,88"/>
+<area shape="rect" id="node14" href="$df/df0/class_length.html#a9dd3df3a096a1c19107c83692d1f198c" title="Set the length in inches. " alt="" coords="335,59,484,88"/>
+<area shape="rect" id="node20" href="$df/df0/class_length.html#a0727878134310037f5af42f773aa744d" title="Set the length in mils (1/1000 inch) " alt="" coords="339,189,480,219"/>
+</map>

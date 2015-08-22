@@ -1,0 +1,32 @@
+<map id="on_pushButton_clicked" name="on_pushButton_clicked">
+<area shape="rect" id="node3" href="$de/d67/classproject_1_1_gen_comp_instance.html#abcd40fa7fd6f8d3d8e6f9630daa8b861" title="project::GenCompInstance\l::getGenComp" alt="" coords="437,365,616,411"/>
+<area shape="rect" id="node5" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" title="library::LibraryBaseElement\l::getUuid" alt="" coords="436,434,617,481"/>
+<area shape="rect" id="node7" href="$d2/d05/classproject_1_1_project.html#a8fac03aa9a740943b9193a49a31bd6ae" title="Get the Circuit object. " alt="" coords="440,504,613,533"/>
+<area shape="rect" id="node9" href="$d1/d03/classproject_1_1_circuit.html#ad673a69fd562292f22830e78ce977427" title="project::Circuit::getGen\lCompInstanceByUuid" alt="" coords="211,841,368,887"/>
+<area shape="rect" id="node11" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a41c3c33dc2c3c5545110b742d536cc76" title="addComponent" alt="" coords="235,197,344,227"/>
+<area shape="rect" id="node35" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ad000d7056be9060e68ab7f2548d12946" title="updateComponentsList" alt="" coords="212,788,367,817"/>
+<area shape="rect" id="node13" href="$d4/d1c/class_file_path.html#a0a886a9edf5bf682f5245159661bfc94" title="Check whether this object contains a valid filepath or not. " alt="" coords="719,533,836,563"/>
+<area shape="rect" id="node15" href="$d3/dad/classlibrary_1_1_component.html#a2497cc4820790247b6ac9a1cdc00317d" title="library::Component\l::getPackageUuid" alt="" coords="461,189,592,235"/>
+<area shape="rect" id="node17" href="$d1/dcf/classlibrary_1_1_package.html#a2f56ac0d7791d53afa6b21e426b59428" title="library::Package::getFootprintUuid" alt="" coords="417,259,636,288"/>
+<area shape="rect" id="node19" href="$df/df0/class_length.html#a796af485ddae7b24093b8b70f790c42b" title="Get a Length object with a specific length and map it to a specific grid. " alt="" coords="468,32,585,61"/>
+<area shape="rect" id="node27" href="$d0/d69/class_point.html#adb9043980e8c2b8b1f2289cd48a3e168" title="Point::fromMm" alt="" coords="473,85,580,115"/>
+<area shape="rect" id="node33" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="448,312,605,341"/>
+<area shape="rect" id="node21" href="$df/df0/class_length.html#ad9d64077c16d3a2631a87b69cea3426d" title="Set the length in millimeters. " alt="" coords="704,59,851,88"/>
+<area shape="rect" id="node25" href="$df/df0/class_length.html#a12aaddfb6cccff89e294f502574fe869" title="Map this Length object to a specific grid interval. " alt="" coords="711,5,844,35"/>
+<area shape="rect" id="node23" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="919,59,1103,88"/>
+<area shape="rect" id="node30" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="716,136,839,165"/>
+<area shape="rect" id="node37" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a8b27105b4d0e8500f6c177ab8bde0b65" title="setSelectedGenCompInstance" alt="" coords="427,941,627,971"/>
+<area shape="rect" id="node40" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a01f0309d43de518f4e94c724d22f4502" title="library::LibraryBaseElement\l::getName" alt="" coords="687,958,868,1005"/>
+<area shape="rect" id="node45" href="$d1/d03/classproject_1_1_circuit.html#af9d9d6ca29e9ad4c4591eeae0197ff08" title="project::Circuit::getGen\lCompInstances" alt="" coords="448,1045,605,1091"/>
+<area shape="rect" id="node47" href="$d5/d07/classproject_1_1_board.html#a392a41a5ac250cc2a623dbb2df12dfac" title="project::Board::getComponent\lInstances" alt="" coords="429,1114,624,1161"/>
+<area shape="rect" id="node49" href="$de/d67/classproject_1_1_gen_comp_instance.html#ada9b237a8629c03e16491a72730b456b" title="project::GenCompInstance\l::getUuid" alt="" coords="437,1183,616,1230"/>
+<area shape="rect" id="node52" href="$d7/d7c/classlibrary_1_1_generic_component.html#a9f78a2a936ffbbb66f8865343e93aed7" title="library::GenericComponent\l::isSchematicOnly" alt="" coords="439,1253,615,1299"/>
+<area shape="rect" id="node54" href="$d3/dd6/classproject_1_1_project_editor.html#a8bd898624d6ef8da257077c470a1367a" title="project::ProjectEditor\l::getWorkspace" alt="" coords="455,1322,599,1369"/>
+<area shape="rect" id="node56" href="$d5/d56/class_workspace.html#a0aaab7f8db4623adc7227460a859db51" title="Get the workspace library. " alt="" coords="451,557,603,587"/>
+<area shape="rect" id="node58" href="$de/d02/classlibrary_1_1_library.html#a6782766e6d899cf530b12dc94db35f3e" title="library::Library::getComponents\lOfGenericComponent" alt="" coords="425,610,628,657"/>
+<area shape="rect" id="node61" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::GenCompInstance\l::getName" alt="" coords="437,679,616,726"/>
+<area shape="rect" id="node63" href="$de/d67/classproject_1_1_gen_comp_instance.html#a1dbc1371a264fd73efc4b08a38f115da" title="project::GenCompInstance\l::getValue" alt="" coords="437,749,616,795"/>
+<area shape="rect" id="node66" href="$d2/d05/classproject_1_1_project.html#a6054e079a2e370148fce27b138686ba3" title="Get the ProjectSettings object which contains all project settings. " alt="" coords="435,819,619,848"/>
+<area shape="rect" id="node68" href="$d7/d04/classproject_1_1_project_settings.html#a4e1f38901d0cab44a6bdae922a877b22" title="project::ProjectSettings\l::getLocaleOrder" alt="" coords="448,871,605,918"/>
+<area shape="rect" id="node42" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" title="Get the string of a specific locale from a QMap. " alt="" coords="920,958,1101,1005"/>
+</map>

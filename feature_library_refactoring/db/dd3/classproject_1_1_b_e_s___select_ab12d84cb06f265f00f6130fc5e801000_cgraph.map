@@ -1,0 +1,18 @@
+<map id="processSubStateIdleSceneEvent" name="processSubStateIdleSceneEvent">
+<area shape="rect" id="node3" href="$d7/dba/classproject_1_1_b_e_e___redirected_q_event.html#a2d8e381d0fd9704724b630194af390f3" title="Helper method to get the QEvent from a pointer to BEE_Base. " alt="" coords="235,79,445,126"/>
+<area shape="rect" id="node7" href="$d5/d07/classproject_1_1_board.html#a1e81bd3e07987e2b02f760b3d6d75c21" title="project::Board::setSelectionRect" alt="" coords="235,252,445,281"/>
+<area shape="rect" id="node29" href="$d0/d69/class_point.html#a3da9ee2bc3910d0f0c43c30798906fdd" title="Point::fromPx" alt="" coords="289,472,391,501"/>
+<area shape="rect" id="node5" href="$d7/dba/classproject_1_1_b_e_e___redirected_q_event.html#a8bc969fd921aeabce5720e8a51c97eb3" title="project::BEE_RedirectedQEvent\l::getQEvent" alt="" coords="493,5,704,51"/>
+<area shape="rect" id="node9" href="$d0/d7d/classproject_1_1_component_instance.html#a43009465a74e4ea29421f269c876916d" title="project::ComponentInstance\l::getFootprint" alt="" coords="505,74,692,121"/>
+<area shape="rect" id="node11" href="$da/d96/classproject_1_1_b_i___footprint.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::BI_Footprint\l::getGrabAreaScenePx" alt="" coords="521,143,676,190"/>
+<area shape="rect" id="node15" href="$da/d96/classproject_1_1_b_i___footprint.html#ad73a1407a19f935203851d27f9fb3903" title="project::BI_Footprint\l::setSelected" alt="" coords="529,213,668,259"/>
+<area shape="rect" id="node19" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#ad73a1407a19f935203851d27f9fb3903" title="project::BI_FootprintPad\l::setSelected" alt="" coords="764,273,927,319"/>
+<area shape="rect" id="node22" href="$da/d96/classproject_1_1_b_i___footprint.html#a9fc9c8d9cc96383e297ae50445941007" title="project::BI_Footprint\l::getPads" alt="" coords="529,333,668,379"/>
+<area shape="rect" id="node24" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::BI_FootprintPad\l::getGrabAreaScenePx" alt="" coords="517,402,680,449"/>
+<area shape="rect" id="node13" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#a066dd522d7c2b9f0f85b2a103aba0542" title="project::BGI_Footprint\l::shape" alt="" coords="771,143,920,190"/>
+<area shape="rect" id="node17" href="$da/dc8/classproject_1_1_b_i___base.html#ab98bb60eca6122e4def2f7d285046547" title="project::BI_Base::setSelected" alt="" coords="988,252,1183,281"/>
+<area shape="rect" id="node26" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#a066dd522d7c2b9f0f85b2a103aba0542" title="project::BGI_FootprintPad\l::shape" alt="" coords="759,402,932,449"/>
+<area shape="rect" id="node31" href="$df/df0/class_length.html#a5aef66a62c626dea314f1a1e1716534b" title="Set the length in pixels (from QGraphics* objects) " alt="" coords="528,472,669,501"/>
+<area shape="rect" id="node35" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="537,549,660,579"/>
+<area shape="rect" id="node33" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="753,472,937,501"/>
+</map>

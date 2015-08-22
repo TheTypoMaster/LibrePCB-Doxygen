@@ -1,0 +1,5 @@
+<map id="closeProject" name="closeProject">
+<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#abc618721e122dd12c5e98053f75803cc" title="Get a unique version of the filepath (resolve symbolic links if possible) " alt="" coords="149,5,280,35"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="161,59,268,88"/>
+<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#abad2142d090ea829d85560b03d47d98f" title="The default constructor (this will create an invalid object!) " alt="" coords="329,5,455,35"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="setRotation" name="setRotation">
+<area shape="rect" id="node3" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a6eaf0a56905dd18ebdf240a2229576c6" title="project::CmdSymbolInstance\lEdit::~CmdSymbolInstanceEdit" alt="" coords="145,5,351,51"/>
+<area shape="rect" id="node5" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="153,74,343,121"/>
+<area shape="rect" id="node7" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="153,143,343,190"/>
+</map>

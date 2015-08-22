@@ -1,0 +1,34 @@
+<map id="accept" name="accept">
+<area shape="rect" id="node3" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#ac5b9ac3ae6ade6886893179b59302ec1" title="applyChanges" alt="" coords="116,558,220,587"/>
+<area shape="rect" id="node5" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::GenCompInstance\l::getName" alt="" coords="795,92,973,139"/>
+<area shape="rect" id="node7" href="$d2/d05/classproject_1_1_project.html#a8fac03aa9a740943b9193a49a31bd6ae" title="Get the Circuit object. " alt="" coords="284,85,457,114"/>
+<area shape="rect" id="node9" href="$d6/d47/classproject_1_1_cmd_gen_comp_inst_edit.html#af5ced823a72a136e9f8401a9cf95290b" title="project::CmdGenCompInstEdit\l::setName" alt="" coords="271,137,471,184"/>
+<area shape="rect" id="node11" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a4318c392201da0bd17995008e1a26c20" title="execCmd" alt="" coords="332,207,409,237"/>
+<area shape="rect" id="node22" href="$de/d67/classproject_1_1_gen_comp_instance.html#a1dbc1371a264fd73efc4b08a38f115da" title="project::GenCompInstance\l::getValue" alt="" coords="281,260,460,307"/>
+<area shape="rect" id="node24" href="$d6/d47/classproject_1_1_cmd_gen_comp_inst_edit.html#a30b9ad9df323f77f4202279cfb428c6b" title="project::CmdGenCompInstEdit\l::setValue" alt="" coords="271,329,471,376"/>
+<area shape="rect" id="node26" href="$de/d67/classproject_1_1_gen_comp_instance.html#a92ea66644a6aa09a4b6dc92af04079e5" title="project::GenCompInstance\l::getAttributeByKey" alt="" coords="281,399,460,445"/>
+<area shape="rect" id="node28" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#aa966546cdb8297bfa36dc77b3e7e2b37" title="project::GenCompAttribute\lInstance::getKey" alt="" coords="539,429,715,476"/>
+<area shape="rect" id="node30" href="$de/d67/classproject_1_1_gen_comp_instance.html#aceb1002a6511011bbae228460e48c5e7" title="project::GenCompInstance\l::getAttributes" alt="" coords="281,519,460,565"/>
+<area shape="rect" id="node33" href="$df/df0/class_length.html#a796af485ddae7b24093b8b70f790c42b" title="Get a Length object with a specific length and map it to a specific grid. " alt="" coords="312,589,429,618"/>
+<area shape="rect" id="node41" href="$d2/d39/class_angle.html#a0f80113e23a69620a2d810b933e12a8d" title="Get an Angle object with a specific angle. " alt="" coords="315,642,427,671"/>
+<area shape="rect" id="node45" href="$de/d50/classproject_1_1_s_i___symbol.html#a98612bae828cddb2f664368397d27fe3" title="project::SI_Symbol\l::getPosition" alt="" coords="304,695,437,741"/>
+<area shape="rect" id="node47" href="$de/d50/classproject_1_1_s_i___symbol.html#a01f0e165edb023b0c50cdbfd70f36021" title="project::SI_Symbol\l::getRotation" alt="" coords="304,764,437,811"/>
+<area shape="rect" id="node49" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#aa96ed7261c6e384d0279dea35b31553e" title="project::CmdSymbolInstance\lEdit::setPosition" alt="" coords="276,833,465,880"/>
+<area shape="rect" id="node51" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#afe7708f6182d8bac4e99807fe81b1061" title="project::CmdSymbolInstance\lEdit::setRotation" alt="" coords="276,903,465,949"/>
+<area shape="rect" id="node53" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#afd1bce071dc634026d41b91abd1498ba" title="endCmd" alt="" coords="336,973,405,1002"/>
+<area shape="rect" id="node67" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="292,1026,449,1055"/>
+<area shape="rect" id="node69" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#afc217cc9d5f5bd26ab99f2af1b932668" title="abortCmd" alt="" coords="588,1077,665,1106"/>
+<area shape="rect" id="node13" href="$d4/d90/class_undo_stack.html#acafc28cb3929a83228bf6f6d738111cd" title="Begin building a new command that consists of multiple commands step by step (over a &quot;long&quot; time) ..." alt="" coords="533,177,720,206"/>
+<area shape="rect" id="node15" href="$de/d50/classproject_1_1_s_i___symbol.html#a4d55d03995b846c5840a2adf64399e94" title="project::SI_Symbol\l::getName" alt="" coords="560,229,693,276"/>
+<area shape="rect" id="node20" href="$d4/d90/class_undo_stack.html#a9a588d4c258dd39ab422ac23dab43ad8" title="Append a new command to the currently active command. " alt="" coords="521,123,732,153"/>
+<area shape="rect" id="node18" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#a9eeab11e7c84e646f29fac8b709988dc" title="library::GenCompSymbVarItem\l::getSuffix" alt="" coords="783,229,985,276"/>
+<area shape="rect" id="node35" href="$df/df0/class_length.html#ad9d64077c16d3a2631a87b69cea3426d" title="Set the length in millimeters. " alt="" coords="553,535,700,565"/>
+<area shape="rect" id="node39" href="$df/df0/class_length.html#a12aaddfb6cccff89e294f502574fe869" title="Map this Length object to a specific grid interval. " alt="" coords="560,589,693,618"/>
+<area shape="rect" id="node37" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="792,535,976,565"/>
+<area shape="rect" id="node43" href="$d2/d39/class_angle.html#a2dd720121a7300f3f5c8a03aaf488ce5" title="Set the angle in degrees. " alt="" coords="557,642,696,671"/>
+<area shape="rect" id="node55" href="$d4/d90/class_undo_stack.html#a82aa679ad2c2cc3c5a2ad82d7564b0b6" title="End the currently active command and keep the changes. " alt="" coords="539,973,715,1002"/>
+<area shape="rect" id="node57" href="$d4/d90/class_undo_stack.html#a4569aea2e8254c626ce894aac55866e9" title="End the currently active command and revert the changes. " alt="" coords="792,1077,976,1106"/>
+<area shape="rect" id="node61" href="$d4/d90/class_undo_stack.html#a0838f37a375891734d27a88e34437d1c" title="Check if undo is possible. " alt="" coords="1253,1025,1400,1054"/>
+<area shape="rect" id="node59" href="$d4/d90/class_undo_stack.html#ac45199a5fa405b01e4a81bcd46ca47d2" title="Get the text for the undo action. " alt="" coords="1035,1025,1205,1054"/>
+<area shape="rect" id="node64" href="$d4/d90/class_undo_stack.html#ac94ae4017f4a9133369c65c0fdb6f4c7" title="Check if the stack is in a clean state (the state of the last setClean()) " alt="" coords="1051,1129,1189,1158"/>
+</map>

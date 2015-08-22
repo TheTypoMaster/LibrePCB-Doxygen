@@ -1,0 +1,11 @@
+<map id="getFilename" name="getFilename">
+<area shape="rect" id="node3" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" title="library::LibraryBaseElement\l::readFromFile" alt="" coords="148,93,329,139"/>
+<area shape="rect" id="node13" href="$d4/dfb/classproject_1_1_board_editor.html#a2622890007f7f744656c64f1e2326ed4" title="project::BoardEditor\l::BoardEditor" alt="" coords="171,162,307,209"/>
+<area shape="rect" id="node15" href="$dd/d24/classproject_1_1_schematic_editor.html#a00c3b550b94494cf7cd411acc8e4469d" title="project::SchematicEditor\l::SchematicEditor" alt="" coords="156,231,321,278"/>
+<area shape="rect" id="node17" href="$db/d9c/class_project_tree_item.html#a00f56d6a4a913066ba13ef012870c6a4" title="ProjectTreeItem::data" alt="" coords="165,301,312,331"/>
+<area shape="rect" id="node5" href="$da/dae/classlibrary_1_1_model3_d.html#a8b72b474ce5da29cb412cd28207bc973" title="library::Model3D::Model3D" alt="" coords="384,5,560,35"/>
+<area shape="rect" id="node7" href="$da/dc5/classlibrary_1_1_component_category.html#a3ad0bd54ad01d7475965eb920648b6b9" title="library::ComponentCategory\l::ComponentCategory" alt="" coords="380,58,564,105"/>
+<area shape="rect" id="node9" href="$df/d5f/classlibrary_1_1_package_category.html#aa4dce7e624ac2ebbdf863f5241e2ca32" title="library::PackageCategory\l::PackageCategory" alt="" coords="388,127,556,174"/>
+<area shape="rect" id="node11" href="$da/d3b/classlibrary_1_1_spice_model.html#a142c4797c3a7503133cae731267f9a22" title="library::SpiceModel\l::SpiceModel" alt="" coords="405,197,539,243"/>
+<area shape="rect" id="node19" href="$db/d76/class_project_tree_model.html#a0d62b2fa860a10b1e59f7b93aa39aa5e" title="ProjectTreeModel::data" alt="" coords="393,301,551,331"/>
+</map>

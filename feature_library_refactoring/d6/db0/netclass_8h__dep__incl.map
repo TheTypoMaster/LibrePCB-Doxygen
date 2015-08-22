@@ -1,0 +1,10 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/circuit/netclass.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/circuit/netclass.h">
+<area shape="rect" id="node3" href="$d4/d6f/circuit_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/circuit.cpp" alt="" coords="5,145,171,226"/>
+<area shape="rect" id="node5" href="$dc/d56/cmdnetclassadd_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/cmd/cmdnetclassadd.cpp" alt="" coords="195,145,368,226"/>
+<area shape="rect" id="node7" href="$dc/d5b/cmdnetclassedit_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/cmd/cmdnetclassedit.cpp" alt="" coords="392,145,565,226"/>
+<area shape="rect" id="node9" href="$dd/d02/cmdnetclassremove_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/cmd/cmdnetclassremove.cpp" alt="" coords="589,145,787,226"/>
+<area shape="rect" id="node11" href="$d0/d21/netclass_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/netclass.cpp" alt="" coords="811,145,976,226"/>
+<area shape="rect" id="node13" href="$df/d3c/netsignal_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/circuit\l/netsignal.cpp" alt="" coords="1000,145,1165,226"/>
+<area shape="rect" id="node15" href="$d7/d60/editnetclassesdialog_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/dialogs/editnetclassesdialog.cpp" alt="" coords="1189,145,1403,226"/>
+<area shape="rect" id="node17" href="$df/d6c/ses__drawwire_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_drawwire.cpp" alt="" coords="1427,136,1595,235"/>
+</map>

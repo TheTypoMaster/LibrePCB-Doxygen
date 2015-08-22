@@ -1,0 +1,10 @@
+<map id="cbxUnitsChanged" name="cbxUnitsChanged">
+<area shape="rect" id="node3" href="$d8/dbf/class_grid_properties.html#a3f4cb28da6f44d17052e411235916de5" title="GridProperties::setUnit" alt="" coords="200,5,355,35"/>
+<area shape="rect" id="node5" href="$dd/d55/class_length_unit.html#a5c1584c0e0cb57cd63c45cfb5bff3fe4" title="Get the length unit of a specific index (to use with getIndex()) " alt="" coords="203,59,352,88"/>
+<area shape="rect" id="node7" href="$d8/dbf/class_grid_properties.html#ae797bce934ee26330c308e2f366599d5" title="GridProperties::getUnit" alt="" coords="200,112,355,141"/>
+<area shape="rect" id="node9" href="$dd/d55/class_length_unit.html#a453173c885803b8610cd343eef5e2072" title="Convert a Length to this length unit. " alt="" coords="191,165,364,195"/>
+<area shape="rect" id="node11" href="$d8/dbf/class_grid_properties.html#a4cc9437a41e81f8f0f873ce9fbd67900" title="GridProperties::getInterval" alt="" coords="423,217,596,247"/>
+<area shape="rect" id="node13" href="$dc/d4e/class_grid_settings_dialog.html#af3cf0113554071b6e59c4dda5fc62260" title="updateInternalRepresentation" alt="" coords="181,269,373,299"/>
+<area shape="rect" id="node18" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="199,323,356,352"/>
+<area shape="rect" id="node16" href="$df/df0/class_length.html#ae8a552dd96c343a0a609cebf7731cd26" title="Get the length in nanometers. " alt="" coords="459,271,560,300"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="fromInch" name="fromInch">
+<area shape="rect" id="node3" href="$df/df0/class_length.html#a9dd3df3a096a1c19107c83692d1f198c" title="Set the length in inches. " alt="" coords="128,5,232,35"/>
+<area shape="rect" id="node7" href="$df/df0/class_length.html#a12aaddfb6cccff89e294f502574fe869" title="Map this Length object to a specific grid interval. " alt="" coords="137,59,223,88"/>
+<area shape="rect" id="node5" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="280,5,419,35"/>
+</map>

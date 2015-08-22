@@ -1,0 +1,7 @@
+<map id="removeNetPoint" name="removeNetPoint">
+<area shape="rect" id="node3" href="$d0/da6/classproject_1_1_cmd_schematic_net_point_add.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="172,5,351,51"/>
+<area shape="rect" id="node5" href="$d0/da6/classproject_1_1_cmd_schematic_net_point_add.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="172,74,351,121"/>
+<area shape="rect" id="node7" href="$d3/d1e/classproject_1_1_cmd_schematic_net_point_remove.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="172,143,351,190"/>
+<area shape="rect" id="node9" href="$d3/d1e/classproject_1_1_cmd_schematic_net_point_remove.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="172,213,351,259"/>
+<area shape="rect" id="node11" href="$dd/d2d/classproject_1_1_schematic.html#a9d2b171705c992ace4155d02176f0022" title="~Schematic" alt="" coords="216,283,307,312"/>
+</map>

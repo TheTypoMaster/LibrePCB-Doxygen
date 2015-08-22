@@ -1,0 +1,25 @@
+var classproject_1_1_project_settings_dialog =
+[
+    [ "ProjectSettingsDialog", "d1/d44/classproject_1_1_project_settings_dialog.html#a63866e34b80ac4c0716666f3cfa8976b", null ],
+    [ "~ProjectSettingsDialog", "d1/d44/classproject_1_1_project_settings_dialog.html#a3b117b2effeb67b5d823030ae089bb52", null ],
+    [ "ProjectSettingsDialog", "d1/d44/classproject_1_1_project_settings_dialog.html#a9dc7361eb2d2f23d7e6aaeaf79624ced", null ],
+    [ "ProjectSettingsDialog", "d1/d44/classproject_1_1_project_settings_dialog.html#aff3816ee8fce03a240c42a51ff25736a", null ],
+    [ "on_buttonBox_clicked", "d1/d44/classproject_1_1_project_settings_dialog.html#a33cf9470d5b33d9dd5027715e5b58801", null ],
+    [ "on_btnLocaleAdd_clicked", "d1/d44/classproject_1_1_project_settings_dialog.html#a9e39b7f9e1080ff56c3e4f0a660e1d96", null ],
+    [ "on_btnLocaleRemove_clicked", "d1/d44/classproject_1_1_project_settings_dialog.html#a36d624f1973191e66f1f04625d03eae2", null ],
+    [ "on_btnLocaleUp_clicked", "d1/d44/classproject_1_1_project_settings_dialog.html#a99e9c4911fe2cc54baa4c835d20285b5", null ],
+    [ "on_btnLocaleDown_clicked", "d1/d44/classproject_1_1_project_settings_dialog.html#a4475cab660c615b3c0cce4144a20fb60", null ],
+    [ "on_btnNormAdd_clicked", "d1/d44/classproject_1_1_project_settings_dialog.html#ada4eb046fbbba3828fa0a979bc261d5d", null ],
+    [ "on_btnNormRemove_clicked", "d1/d44/classproject_1_1_project_settings_dialog.html#a30b604f7496c88b00ab7e972ced2af6c", null ],
+    [ "on_btnNormUp_clicked", "d1/d44/classproject_1_1_project_settings_dialog.html#abffd58b4cb12aa3854c276529966b327", null ],
+    [ "on_btnNormDown_clicked", "d1/d44/classproject_1_1_project_settings_dialog.html#a9faf33c700b29ad001cc37487d8dda12", null ],
+    [ "operator=", "d1/d44/classproject_1_1_project_settings_dialog.html#a1b0ebf3d7c3954150fdcfe363c26b379", null ],
+    [ "accept", "d1/d44/classproject_1_1_project_settings_dialog.html#aadb9f3b844fb4cf98288cd3c60a3af91", null ],
+    [ "reject", "d1/d44/classproject_1_1_project_settings_dialog.html#a84e832c2421763b25e1ae0d9a76f519c", null ],
+    [ "applySettings", "d1/d44/classproject_1_1_project_settings_dialog.html#ae3e3bcb65670e4c31e0f0a06dcdcb1a8", null ],
+    [ "restoreDefaultSettings", "d1/d44/classproject_1_1_project_settings_dialog.html#a594d31c13f7ad414e312f94e6b87f2a9", null ],
+    [ "updateGuiFromSettings", "d1/d44/classproject_1_1_project_settings_dialog.html#af816f81586cdc5885eb5a06c1f238078", null ],
+    [ "mSettings", "d1/d44/classproject_1_1_project_settings_dialog.html#a55fddfd095b7817a72beed1131f01da6", null ],
+    [ "mUi", "d1/d44/classproject_1_1_project_settings_dialog.html#af686c40adf358f12386cd8c76fe622ae", null ],
+    [ "mUndoStack", "d1/d44/classproject_1_1_project_settings_dialog.html#a8a6fd015b05da4e769ad2191e7b14675", null ]
+];

@@ -1,0 +1,16 @@
+<map id="proccessIdleSceneRightClick" name="proccessIdleSceneRightClick">
+<area shape="rect" id="node3" href="$d0/d69/class_point.html#a3da9ee2bc3910d0f0c43c30798906fdd" title="Point::fromPx" alt="" coords="292,56,393,85"/>
+<area shape="rect" id="node12" href="$de/d50/classproject_1_1_s_i___symbol.html#a7c547c92d2781e3129fd5cf0c4a89668" title="project::SI_Symbol\l::getGenCompInstance" alt="" coords="264,109,421,155"/>
+<area shape="rect" id="node14" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::GenCompInstance\l::getName" alt="" coords="499,165,677,211"/>
+<area shape="rect" id="node16" href="$de/d67/classproject_1_1_gen_comp_instance.html#a23516dafb6845d01fe67dc147df5dc9a" title="project::GenCompInstance\l::getUnplacedSymbolsCount" alt="" coords="248,298,437,345"/>
+<area shape="rect" id="node20" href="$de/d50/classproject_1_1_s_i___symbol.html#a4d55d03995b846c5840a2adf64399e94" title="project::SI_Symbol\l::getName" alt="" coords="276,229,409,275"/>
+<area shape="rect" id="node25" href="$de/d67/classproject_1_1_gen_comp_instance.html#a385c6fda0e3528a8bb626a0eb1bebc45" title="project::GenCompInstance\l::getPlacedSymbolsCount" alt="" coords="253,367,432,414"/>
+<area shape="rect" id="node27" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="293,437,392,467"/>
+<area shape="rect" id="node31" href="$de/d50/classproject_1_1_s_i___symbol.html#a98612bae828cddb2f664368397d27fe3" title="project::SI_Symbol\l::getPosition" alt="" coords="276,490,409,537"/>
+<area shape="rect" id="node5" href="$df/df0/class_length.html#a5aef66a62c626dea314f1a1e1716534b" title="Set the length in pixels (from QGraphics* objects) " alt="" coords="517,5,659,35"/>
+<area shape="rect" id="node9" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="527,83,649,112"/>
+<area shape="rect" id="node7" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="740,5,924,35"/>
+<area shape="rect" id="node18" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a95be340ed5134b5b4fc05ab47e4c9c34" title="library::GenCompSymbVar\l::getItems" alt="" coords="499,303,677,350"/>
+<area shape="rect" id="node23" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#a9eeab11e7c84e646f29fac8b709988dc" title="library::GenCompSymbVarItem\l::getSuffix" alt="" coords="487,234,689,281"/>
+<area shape="rect" id="node29" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="540,437,636,467"/>
+</map>

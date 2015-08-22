@@ -1,0 +1,14 @@
+<map id="addPackagesToDb" name="addPackagesToDb">
+<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#a6b8813b995eae08609c56e147fb14b2c" title="Convert an absolute filepath to a relative filepath (relative to another filepath) ..." alt="" coords="229,5,365,35"/>
+<area shape="rect" id="node5" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ada9b237a8629c03e16491a72730b456b" title="library::LibraryBaseElement\l::getUuid" alt="" coords="207,58,388,105"/>
+<area shape="rect" id="node7" href="$dd/d8a/classlibrary_1_1_library_base_element.html#aca4dbb3f44caf7609755d9b9b1bd97e9" title="library::LibraryBaseElement\l::getVersion" alt="" coords="207,127,388,174"/>
+<area shape="rect" id="node9" href="$de/d34/class_version.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the version as a string in the format &quot;1.2.3&quot;. " alt="" coords="247,197,348,227"/>
+<area shape="rect" id="node11" href="$d1/dcf/classlibrary_1_1_package.html#a2f56ac0d7791d53afa6b21e426b59428" title="library::Package::getFootprintUuid" alt="" coords="188,251,407,280"/>
+<area shape="rect" id="node13" href="$d1/dcf/classlibrary_1_1_package.html#a5fbb69612a8272e02bd5d9eb1cbe58cc" title="library::Package::getModel3dUuid" alt="" coords="188,304,407,333"/>
+<area shape="rect" id="node15" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a30ba02075765b27b4215a8b5347ea8dd" title="library::LibraryBaseElement\l::getAllAvailableLocales" alt="" coords="207,357,388,403"/>
+<area shape="rect" id="node17" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a495b1b5a80253b4291c4cc3c59661235" title="library::LibraryBaseElement\l::getNames" alt="" coords="207,426,388,473"/>
+<area shape="rect" id="node19" href="$dd/d8a/classlibrary_1_1_library_base_element.html#adbf3aae44e55d974740b8125a2b08b68" title="library::LibraryBaseElement\l::getDescriptions" alt="" coords="207,495,388,542"/>
+<area shape="rect" id="node21" href="$dd/d8a/classlibrary_1_1_library_base_element.html#aa727a7c7c573ac31926f21ec507aec76" title="library::LibraryBaseElement\l::getKeywords" alt="" coords="207,565,388,611"/>
+<area shape="rect" id="node25" href="$d8/dff/classlibrary_1_1_library_element.html#a241430479fd91d5097b16cf9752673d8" title="library::LibraryElement\l::getCategories" alt="" coords="221,634,373,681"/>
+<area shape="rect" id="node23" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" title="Get the string of a specific locale from a QMap. " alt="" coords="457,565,639,611"/>
+</map>

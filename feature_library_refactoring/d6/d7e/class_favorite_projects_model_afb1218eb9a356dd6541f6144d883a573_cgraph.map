@@ -1,0 +1,7 @@
+<map id="removeFavoriteProject" name="removeFavoriteProject">
+<area shape="rect" id="node3" href="$d6/d7e/class_favorite_projects_model.html#aae2c382151ef7c9aa913361172b30db6" title="save" alt="" coords="208,85,259,115"/>
+<area shape="rect" id="node5" href="$d5/d56/class_workspace.html#ad1d507e6e68d4b8bd40982b78da7c5bd" title="Get the filepath to the &quot;.metadata&quot; directory in the workspace. " alt="" coords="307,5,501,35"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="335,59,473,88"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="351,112,457,141"/>
+<area shape="rect" id="node11" href="$d5/d56/class_workspace.html#af7f148ec01c9f5b993b0cac385a64abd" title="Get the filepath to the workspace directory. " alt="" coords="333,165,475,195"/>
+</map>

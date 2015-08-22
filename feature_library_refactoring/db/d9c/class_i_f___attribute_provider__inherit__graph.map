@@ -1,0 +1,10 @@
+<map id="IF_AttributeProvider" name="IF_AttributeProvider">
+<area shape="rect" id="node3" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html" title="The SymbolPreviewGraphicsItem class. " alt="" coords="5,677,224,1091"/>
+<area shape="rect" id="node5" href="$da/d96/classproject_1_1_b_i___footprint.html" title="The BI_Footprint class. " alt="" coords="248,564,451,1204"/>
+<area shape="rect" id="node7" href="$d5/d07/classproject_1_1_board.html" title="The Board class represents a PCB of a project and is always part of a circuit. " alt="" coords="475,443,720,1325"/>
+<area shape="rect" id="node9" href="$d0/d7d/classproject_1_1_component_instance.html" title="The ComponentInstance class. " alt="" coords="744,555,947,1213"/>
+<area shape="rect" id="node11" href="$de/d67/classproject_1_1_gen_comp_instance.html" title="The GenCompInstance class. " alt="" coords="971,443,1213,1325"/>
+<area shape="rect" id="node13" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="1237,243,1437,1525"/>
+<area shape="rect" id="node15" href="$dd/d2d/classproject_1_1_schematic.html" title="The Schematic class represents one schematic page of a project and is always part of a circuit..." alt="" coords="1461,304,1661,1464"/>
+<area shape="rect" id="node17" href="$de/d50/classproject_1_1_s_i___symbol.html" title="The SI_Symbol class. " alt="" coords="1685,512,1904,1256"/>
+</map>

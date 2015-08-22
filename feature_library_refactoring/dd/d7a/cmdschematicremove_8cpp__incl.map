@@ -1,0 +1,18 @@
+<map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/schematics/cmd/cmdschematicremove.cpp" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbproject/schematics/cmd/cmdschematicremove.cpp">
+<area shape="rect" id="node5" href="$d1/dfc/cmdschematicremove_8h.html" title="cmdschematicremove.h" alt="" coords="200,309,360,339"/>
+<area shape="rect" id="node15" href="$d1/d8d/schematic_8h.html" title="../schematic.h" alt="" coords="613,136,717,165"/>
+<area shape="rect" id="node48" href="$dc/d8d/project_8h.html" title="../../project.h" alt="" coords="1396,309,1492,339"/>
+<area shape="rect" id="node8" href="$dc/da0/undocommand_8h.html" title="librepcbcommon/undocommand.h" alt="" coords="144,396,360,425"/>
+<area shape="rect" id="node11" href="$d4/d03/exceptions_8h.html" title="exceptions.h" alt="" coords="653,492,749,521"/>
+<area shape="rect" id="node20" href="$da/d81/if__attributeprovider_8h.html" title="librepcbcommon/if_attributeprovider.h" alt="" coords="1072,396,1309,425"/>
+<area shape="rect" id="node23" href="$d0/d1d/if__xmlserializableobject_8h.html" title="librepcbcommon/fileio\l/if_xmlserializableobject.h" alt="" coords="827,387,997,434"/>
+<area shape="rect" id="node26" href="$d1/da8/all__length__units_8h.html" title="librepcbcommon/units\l/all_length_units.h" alt="" coords="412,214,561,261"/>
+<area shape="rect" id="node44" href="$dd/dec/filepath_8h.html" title="librepcbcommon/fileio\l/filepath.h" alt="" coords="1109,483,1256,530"/>
+<area shape="rect" id="node28" href="$d0/d09/lengthunit_8h.html" title="lengthunit.h" alt="" coords="485,396,573,425"/>
+<area shape="rect" id="node32" href="$dd/db9/length_8h.html" title="length.h" alt="" coords="597,396,664,425"/>
+<area shape="rect" id="node36" href="$d2/d91/point_8h.html" title="point.h" alt="" coords="524,309,585,339"/>
+<area shape="rect" id="node40" href="$da/dac/angle_8h.html" title="angle.h" alt="" coords="739,396,803,425"/>
+<area shape="rect" id="node53" href="$d4/d45/if__schematiclayerprovider_8h.html" title="librepcbcommon/if_schematiclayerprovider.h" alt="" coords="1656,492,1936,521"/>
+<area shape="rect" id="node56" href="$d4/dba/if__boardlayerprovider_8h.html" title="librepcbcommon/if_boardlayerprovider.h" alt="" coords="1331,492,1581,521"/>
+<area shape="rect" id="node60" href="$d5/db9/filelock_8h.html" title="librepcbcommon/fileio\l/filelock.h" alt="" coords="1384,387,1531,434"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="GraphicsItem" name="GraphicsItem">
+<area shape="rect" id="node3" href="$da/d20/classlibrary_1_1_symbol_pin_preview_graphics_item.html" title="The SymbolPinPreviewGraphicsItem class. " alt="" coords="5,157,243,659"/>
+<area shape="rect" id="node5" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html" title="The SymbolPreviewGraphicsItem class. " alt="" coords="267,201,485,615"/>
+<area shape="rect" id="node7" href="$d2/d14/classproject_1_1_b_g_i___base.html" title="The Board Graphics Item Base (BGI_Base) class. " alt="" coords="509,339,619,477"/>
+<area shape="rect" id="node13" href="$d3/d4c/classproject_1_1_s_g_i___base.html" title="The Schematic Graphics Item Base (SGI_Base) class. " alt="" coords="1036,339,1145,477"/>
+<area shape="rect" id="node9" href="$dc/d87/classproject_1_1_b_g_i___footprint.html" title="The BGI_Footprint class. " alt="" coords="260,741,447,1069"/>
+<area shape="rect" id="node11" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html" title="The BGI_FootprintPad class. " alt="" coords="471,715,657,1095"/>
+<area shape="rect" id="node15" href="$d1/d60/classproject_1_1_s_g_i___net_label.html" title="The SGI_NetLabel class. " alt="" coords="681,741,868,1069"/>
+<area shape="rect" id="node17" href="$df/dd1/classproject_1_1_s_g_i___net_line.html" title="The SGI_NetLine class. " alt="" coords="892,750,1079,1061"/>
+<area shape="rect" id="node19" href="$da/db5/classproject_1_1_s_g_i___net_point.html" title="The SGI_NetPoint class. " alt="" coords="1103,767,1289,1043"/>
+<area shape="rect" id="node21" href="$dd/d00/classproject_1_1_s_g_i___symbol.html" title="The SGI_Symbol class. " alt="" coords="1313,741,1500,1069"/>
+<area shape="rect" id="node23" href="$da/d6f/classproject_1_1_s_g_i___symbol_pin.html" title="The SGI_SymbolPin class. " alt="" coords="1524,707,1711,1104"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="getGridProperties" name="getGridProperties">
+<area shape="rect" id="node3" href="$d4/dfb/classproject_1_1_board_editor.html#a00ec1e24f4d7804846fd81c45c48b596" title="project::BoardEditor\l::setActiveBoardIndex" alt="" coords="201,5,351,51"/>
+<area shape="rect" id="node5" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="project::UnplacedComponents\lDock::setBoard" alt="" coords="177,74,375,121"/>
+<area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" title="project::UnplacedComponents\lDock::~UnplacedComponentsDock" alt="" coords="424,74,653,121"/>
+</map>

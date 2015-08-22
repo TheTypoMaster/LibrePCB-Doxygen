@@ -1,0 +1,11 @@
+<map id="WSI_LibraryLocaleOrder" name="WSI_LibraryLocaleOrder">
+<area shape="rect" id="node3" href="$d4/dda/class_w_s_i___base.html#a5605b64c01b2ac306d1291d437d47f82" title="WSI_Base::loadValue" alt="" coords="220,75,369,104"/>
+<area shape="rect" id="node11" href="$de/ded/class_w_s_i___library_locale_order.html#a05414f9b7bc2a0330ec9b991f06bf1aa" title="updateListWidgetItems" alt="" coords="420,233,575,263"/>
+<area shape="rect" id="node13" href="$de/ded/class_w_s_i___library_locale_order.html#a0f983b7794d303b29725faa592d329e4" title="btnUpClicked" alt="" coords="244,179,345,208"/>
+<area shape="rect" id="node15" href="$de/ded/class_w_s_i___library_locale_order.html#ac4fcad768731e2f3f91ed0c5b6c6d972" title="btnDownClicked" alt="" coords="236,232,353,261"/>
+<area shape="rect" id="node17" href="$de/ded/class_w_s_i___library_locale_order.html#a82df9f2dcb2915e6b09567f34c7934a9" title="btnAddClicked" alt="" coords="241,285,348,315"/>
+<area shape="rect" id="node20" href="$de/ded/class_w_s_i___library_locale_order.html#ace1b0727c8ba6853fe6ab96d05ee467d" title="btnRemoveClicked" alt="" coords="228,339,361,368"/>
+<area shape="rect" id="node5" href="$de/d52/class_workspace_settings.html#ad1d507e6e68d4b8bd40982b78da7c5bd" title="WorkspaceSettings::\lgetMetadataPath" alt="" coords="425,5,569,51"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="428,75,567,104"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="444,128,551,157"/>
+</map>

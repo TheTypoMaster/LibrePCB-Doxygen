@@ -1,0 +1,6 @@
+<map id="setSelected" name="setSelected">
+<area shape="rect" id="node3" href="$d5/d07/classproject_1_1_board.html#a1e81bd3e07987e2b02f760b3d6d75c21" title="project::Board::setSelectionRect" alt="" coords="144,29,355,59"/>
+<area shape="rect" id="node7" href="$d5/d07/classproject_1_1_board.html#a8dd1dc788ad5d6d55d3833b0a0d31fbe" title="project::Board::clearSelection" alt="" coords="153,89,345,119"/>
+<area shape="rect" id="node5" href="$db/dd3/classproject_1_1_b_e_s___select.html#ab12d84cb06f265f00f6130fc5e801000" title="project::BES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="404,5,591,69"/>
+<area shape="rect" id="node9" href="$db/dd3/classproject_1_1_b_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::BES_Select\l::removeSelectedItems" alt="" coords="419,93,576,139"/>
+</map>

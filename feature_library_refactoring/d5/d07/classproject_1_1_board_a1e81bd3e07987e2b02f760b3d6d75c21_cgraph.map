@@ -1,0 +1,11 @@
+<map id="setSelectionRect" name="setSelectionRect">
+<area shape="rect" id="node3" href="$d0/d7d/classproject_1_1_component_instance.html#a43009465a74e4ea29421f269c876916d" title="project::ComponentInstance\l::getFootprint" alt="" coords="176,5,363,51"/>
+<area shape="rect" id="node5" href="$da/d96/classproject_1_1_b_i___footprint.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::BI_Footprint\l::getGrabAreaScenePx" alt="" coords="192,74,347,121"/>
+<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#ad73a1407a19f935203851d27f9fb3903" title="project::BI_Footprint\l::setSelected" alt="" coords="200,143,339,190"/>
+<area shape="rect" id="node13" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#ad73a1407a19f935203851d27f9fb3903" title="project::BI_FootprintPad\l::setSelected" alt="" coords="416,203,579,250"/>
+<area shape="rect" id="node16" href="$da/d96/classproject_1_1_b_i___footprint.html#a9fc9c8d9cc96383e297ae50445941007" title="project::BI_Footprint\l::getPads" alt="" coords="200,263,339,310"/>
+<area shape="rect" id="node18" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::BI_FootprintPad\l::getGrabAreaScenePx" alt="" coords="188,333,351,379"/>
+<area shape="rect" id="node7" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#a066dd522d7c2b9f0f85b2a103aba0542" title="project::BGI_Footprint\l::shape" alt="" coords="423,74,572,121"/>
+<area shape="rect" id="node11" href="$da/dc8/classproject_1_1_b_i___base.html#ab98bb60eca6122e4def2f7d285046547" title="project::BI_Base::setSelected" alt="" coords="633,183,828,212"/>
+<area shape="rect" id="node20" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#a066dd522d7c2b9f0f85b2a103aba0542" title="project::BGI_FootprintPad\l::shape" alt="" coords="411,333,584,379"/>
+</map>

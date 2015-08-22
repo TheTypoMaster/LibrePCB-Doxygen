@@ -1,0 +1,8 @@
+<map id="AttributeType" name="AttributeType">
+<area shape="rect" id="node3" href="$d0/d14/class_attr_type_capacitance.html" title="The AttrTypeCapacitance class. " alt="" coords="5,486,173,693"/>
+<area shape="rect" id="node5" href="$df/da7/class_attr_type_frequency.html" title="The AttrTypeFrequency class. " alt="" coords="197,486,355,693"/>
+<area shape="rect" id="node7" href="$d0/d9c/class_attr_type_inductance.html" title="The AttrTypeInductance class. " alt="" coords="379,486,539,693"/>
+<area shape="rect" id="node9" href="$d6/dc0/class_attr_type_resistance.html" title="The AttrTypeResistance class. " alt="" coords="563,486,725,693"/>
+<area shape="rect" id="node11" href="$dc/d13/class_attr_type_string.html" title="The AttrTypeString class. " alt="" coords="749,486,885,693"/>
+<area shape="rect" id="node13" href="$d9/d21/class_attr_type_voltage.html" title="The AttrTypeVoltage class. " alt="" coords="909,486,1048,693"/>
+</map>

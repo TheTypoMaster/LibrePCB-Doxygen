@@ -1,0 +1,14 @@
+<map id="appendToCommand" name="appendToCommand">
+<area shape="rect" id="node3" href="$db/dd3/classproject_1_1_b_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::BES_Select\l::removeSelectedItems" alt="" coords="225,5,383,51"/>
+<area shape="rect" id="node5" href="$d3/d8f/classproject_1_1_edit_net_classes_dialog.html#a1ba78d7686bdfdaebd95aeca9447bd7c" title="project::EditNetClassesDialog\l::on_tableWidget_itemChanged" alt="" coords="203,74,405,121"/>
+<area shape="rect" id="node7" href="$d3/d8f/classproject_1_1_edit_net_classes_dialog.html#accd0a903591840efc04eae995ba9518a" title="project::EditNetClassesDialog\l::on_btnAdd_clicked" alt="" coords="205,143,403,190"/>
+<area shape="rect" id="node9" href="$d3/d8f/classproject_1_1_edit_net_classes_dialog.html#a30ee0fc577c6124d499bb4e9e2998164" title="project::EditNetClassesDialog\l::on_btnRemove_clicked" alt="" coords="205,213,403,259"/>
+<area shape="rect" id="node11" href="$dd/db6/classproject_1_1_project_properties_editor_dialog.html#ac5b9ac3ae6ade6886893179b59302ec1" title="project::ProjectProperties\lEditorDialog::applyChanges" alt="" coords="212,282,396,329"/>
+<area shape="rect" id="node17" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::SES_Select\l::removeSelectedItems" alt="" coords="225,351,383,398"/>
+<area shape="rect" id="node19" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a4318c392201da0bd17995008e1a26c20" title="project::SymbolInstanceProperties\lDialog::execCmd" alt="" coords="193,421,415,467"/>
+<area shape="rect" id="node13" href="$dd/db6/classproject_1_1_project_properties_editor_dialog.html#aadb9f3b844fb4cf98288cd3c60a3af91" title="project::ProjectProperties\lEditorDialog::accept" alt="" coords="492,282,660,329"/>
+<area shape="rect" id="node15" href="$dd/db6/classproject_1_1_project_properties_editor_dialog.html#a9e53392568d47bcb31ccbde9917efb0c" title="project::ProjectProperties\lEditorDialog::keyPressEvent" alt="" coords="753,282,943,329"/>
+<area shape="rect" id="node21" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#ac5b9ac3ae6ade6886893179b59302ec1" title="project::SymbolInstanceProperties\lDialog::applyChanges" alt="" coords="465,421,687,467"/>
+<area shape="rect" id="node23" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#aadb9f3b844fb4cf98288cd3c60a3af91" title="project::SymbolInstanceProperties\lDialog::accept" alt="" coords="737,421,959,467"/>
+<area shape="rect" id="node25" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#a9e53392568d47bcb31ccbde9917efb0c" title="project::SymbolInstanceProperties\lDialog::keyPressEvent" alt="" coords="1009,421,1231,467"/>
+</map>

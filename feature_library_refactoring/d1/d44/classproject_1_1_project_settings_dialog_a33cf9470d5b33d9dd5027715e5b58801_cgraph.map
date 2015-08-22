@@ -1,0 +1,12 @@
+<map id="on_buttonBox_clicked" name="on_buttonBox_clicked">
+<area shape="rect" id="node3" href="$d1/d44/classproject_1_1_project_settings_dialog.html#ae3e3bcb65670e4c31e0f0a06dcdcb1a8" title="applySettings" alt="" coords="231,144,332,173"/>
+<area shape="rect" id="node13" href="$d1/d44/classproject_1_1_project_settings_dialog.html#a594d31c13f7ad414e312f94e6b87f2a9" title="restoreDefaultSettings" alt="" coords="205,197,357,227"/>
+<area shape="rect" id="node5" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#a50424f32061290175b08d295c880577e" title="project::CmdProjectSettings\lChange::setLocaleOrder" alt="" coords="405,5,592,51"/>
+<area shape="rect" id="node7" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#a6d4d10e573d7cd7a1f44788d7b22f576" title="project::CmdProjectSettings\lChange::setNormOrder" alt="" coords="405,74,592,121"/>
+<area shape="rect" id="node9" href="$d4/d90/class_undo_stack.html#a6649c687fca96c8e65cec90e50551d28" title="Execute a command and push it to the stack (similar to QUndoStack::push()) " alt="" coords="424,144,573,173"/>
+<area shape="rect" id="node11" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="420,197,577,227"/>
+<area shape="rect" id="node15" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#ad59385e2b83064738e8974bbe8195cb4" title="project::CmdProjectSettings\lChange::restoreDefaults" alt="" coords="405,250,592,297"/>
+<area shape="rect" id="node18" href="$d1/d44/classproject_1_1_project_settings_dialog.html#af816f81586cdc5885eb5a06c1f238078" title="updateGuiFromSettings" alt="" coords="420,320,577,349"/>
+<area shape="rect" id="node20" href="$d7/d04/classproject_1_1_project_settings.html#a4e1f38901d0cab44a6bdae922a877b22" title="project::ProjectSettings\l::getLocaleOrder" alt="" coords="641,277,799,323"/>
+<area shape="rect" id="node22" href="$d7/d04/classproject_1_1_project_settings.html#a6573891f2d7f5eae69101472e6cd025a" title="project::ProjectSettings\l::getNormOrder" alt="" coords="641,346,799,393"/>
+</map>

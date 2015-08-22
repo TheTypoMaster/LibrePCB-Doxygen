@@ -1,0 +1,10 @@
+<map id="redo" name="redo">
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#af2c0a8844d704d11396c27da7674aac0" title="Create a new schematic (page) " alt="" coords="125,57,280,103"/>
+<area shape="rect" id="node9" href="$d2/d05/classproject_1_1_project.html#ae92a7c9bcead24ac92bd39c1ecc624f4" title="Add an existing schematic to this project. " alt="" coords="103,127,303,156"/>
+<area shape="rect" id="node11" href="$d3/d26/class_undo_command.html#a93c48d6ed036e1a381be53ac67643284" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="129,180,276,209"/>
+<area shape="rect" id="node19" href="$d2/d05/classproject_1_1_project.html#a8757e9708b3b239f7d981be7a9337f2d" title="Remove a schematic from this project. " alt="" coords="123,233,283,279"/>
+<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="357,5,496,35"/>
+<area shape="rect" id="node7" href="$dd/d2d/classproject_1_1_schematic.html#ad77652f99177030cccc9dd2df4767e83" title="project::Schematic\l::create" alt="" coords="361,58,492,105"/>
+<area shape="rect" id="node13" href="$d3/d26/class_undo_command.html#ae57d776a4010cbabb44c03d9ac6514eb" title="This method shows whether that command is executed (redo() called one time more than undo()) ..." alt="" coords="549,155,736,184"/>
+<area shape="rect" id="node15" href="$d3/d26/class_undo_command.html#a0e1e7804a53f6d62efc72c9bdbec8571" title="Undo the command (and all child commands in reverse order) " alt="" coords="352,180,501,209"/>
+</map>

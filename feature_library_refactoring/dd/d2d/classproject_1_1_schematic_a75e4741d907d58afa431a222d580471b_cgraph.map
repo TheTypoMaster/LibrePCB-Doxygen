@@ -1,0 +1,8 @@
+<map id="Schematic" name="Schematic">
+<area shape="rect" id="node3" href="$da/db0/class_smart_xml_file.html#a78a7e349e46f4e4ff824991d725d15e8" title="Create a new XML file. " alt="" coords="175,5,319,35"/>
+<area shape="rect" id="node5" href="$d1/d1f/class_xml_dom_element.html#a95f6de04ddcc9336005e890a5bca080a" title="Get the first child element of this element. " alt="" coords="145,59,348,88"/>
+<area shape="rect" id="node7" href="$d1/d1f/class_xml_dom_element.html#aa340796d6d9e4c3787a38aa39ce1befe" title="Get the text of this text element as a QString. " alt="" coords="160,112,333,141"/>
+<area shape="rect" id="node9" href="$d1/d1f/class_xml_dom_element.html#a3cd8526c7b8169654ac3b2357af7392e" title="Get the next sibling element (with a specific name) " alt="" coords="140,165,353,195"/>
+<area shape="rect" id="node11" href="$d1/d1f/class_xml_dom_element.html#adc4e44d2a70ffd20acf6f46952f44723" title="Get the next child (with a specific name) of a specific child. " alt="" coords="403,165,608,195"/>
+<area shape="rect" id="node13" href="$d1/d1f/class_xml_dom_element.html#ab0c96f485564e41206ce9a4ce42ba389" title="Get the tag name of this element. " alt="" coords="657,165,839,195"/>
+</map>

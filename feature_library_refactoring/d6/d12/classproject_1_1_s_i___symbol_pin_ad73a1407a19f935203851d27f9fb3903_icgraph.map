@@ -1,0 +1,8 @@
+<map id="setSelected" name="setSelected">
+<area shape="rect" id="node3" href="$de/d50/classproject_1_1_s_i___symbol.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_Symbol\l::setSelected" alt="" coords="144,79,277,126"/>
+<area shape="rect" id="node5" href="$dd/d2d/classproject_1_1_schematic.html#a1e81bd3e07987e2b02f760b3d6d75c21" title="project::Schematic\l::setSelectionRect" alt="" coords="325,19,456,66"/>
+<area shape="rect" id="node9" href="$dd/d2d/classproject_1_1_schematic.html#a8dd1dc788ad5d6d55d3833b0a0d31fbe" title="project::Schematic\l::clearSelection" alt="" coords="325,93,456,139"/>
+<area shape="rect" id="node7" href="$d8/d8b/classproject_1_1_s_e_s___select.html#ae7b1d9775f8e164e825c0cdecf27eff5" title="project::SES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="513,5,700,69"/>
+<area shape="rect" id="node11" href="$d2/d05/classproject_1_1_project.html#a5dcc152e887c5baf47cf7dd375e602f0" title="Print some schematics to a QPrinter (printer or file) " alt="" coords="504,93,709,139"/>
+<area shape="rect" id="node13" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::SES_Select\l::removeSelectedItems" alt="" coords="528,162,685,209"/>
+</map>
