@@ -1,0 +1,14 @@
+<map id="flipSelectedItems" name="flipSelectedItems">
+<area shape="rect" id="node3" href="$d5/d07/classproject_1_1_board.html#a75bfc0b788d0cc0eb348c012e0e39206" title="project::Board::getSelected\lItems" alt="" coords="195,66,373,113"/>
+<area shape="rect" id="node11" href="$da/dc8/classproject_1_1_b_i___base.html#a39ddeb20c373c27b48c7f3f629270a7e" title="project::BI_Base::getPosition" alt="" coords="188,136,380,165"/>
+<area shape="rect" id="node13" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="223,213,345,243"/>
+<area shape="rect" id="node16" href="$da/dc8/classproject_1_1_b_i___base.html#a67376e778d857201eb9d295eafa6aeb6" title="project::BI_Base::getType" alt="" coords="197,267,371,296"/>
+<area shape="rect" id="node18" href="$da/d96/classproject_1_1_b_i___footprint.html#ad600c6e3a11c0ef28f97f5665675e6a1" title="project::BI_Footprint\l::getComponentInstance" alt="" coords="201,319,367,366"/>
+<area shape="rect" id="node20" href="$d8/d2c/classproject_1_1_cmd_component_instance_edit.html#ab4cc3b12ceb31c0605cc578bfdc3f794" title="project::CmdComponentInstance\lEdit::mirror" alt="" coords="177,389,391,435"/>
+<area shape="rect" id="node26" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="205,459,363,488"/>
+<area shape="rect" id="node5" href="$d0/d7d/classproject_1_1_component_instance.html#a43009465a74e4ea29421f269c876916d" title="project::ComponentInstance\l::getFootprint" alt="" coords="441,5,628,51"/>
+<area shape="rect" id="node7" href="$da/dc8/classproject_1_1_b_i___base.html#afe4e9ea4eba8862c8e6dd56d0b9712ce" title="project::BI_Base::isSelected" alt="" coords="441,75,628,104"/>
+<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a9fc9c8d9cc96383e297ae50445941007" title="project::BI_Footprint\l::getPads" alt="" coords="465,127,604,174"/>
+<area shape="rect" id="node22" href="$d2/d39/class_angle.html#a1cb5c1054de209f807098188714339d8" title="180 degrees " alt="" coords="483,397,587,427"/>
+<area shape="rect" id="node24" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="677,397,773,427"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="setSelectionRect" name="setSelectionRect">
+<area shape="rect" id="node3" href="$de/d50/classproject_1_1_s_i___symbol.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::SI_Symbol\l::getGrabAreaScenePx" alt="" coords="177,5,332,51"/>
+<area shape="rect" id="node7" href="$de/d50/classproject_1_1_s_i___symbol.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_Symbol\l::setSelected" alt="" coords="188,245,321,291"/>
+<area shape="rect" id="node11" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_SymbolPin\l::setSelected" alt="" coords="387,166,539,213"/>
+<area shape="rect" id="node14" href="$de/d50/classproject_1_1_s_i___symbol.html#a16a2a98f4b0e7d1e95f44fbbfd1e3d50" title="project::SI_Symbol\l::getPins" alt="" coords="188,175,321,222"/>
+<area shape="rect" id="node16" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::SI_SymbolPin\l::getGrabAreaScenePx" alt="" coords="177,314,332,361"/>
+<area shape="rect" id="node21" href="$d3/d43/classproject_1_1_s_i___net_point.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_NetPoint\l::setSelected" alt="" coords="393,85,532,131"/>
+<area shape="rect" id="node24" href="$d3/d43/classproject_1_1_s_i___net_point.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::SI_NetPoint\l::getGrabAreaScenePx" alt="" coords="177,554,332,601"/>
+<area shape="rect" id="node30" href="$d3/d7c/classproject_1_1_s_i___net_line.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_NetLine\l::setSelected" alt="" coords="396,355,529,402"/>
+<area shape="rect" id="node33" href="$d3/d7c/classproject_1_1_s_i___net_line.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::SI_NetLine\l::getGrabAreaScenePx" alt="" coords="177,485,332,531"/>
+<area shape="rect" id="node37" href="$d1/d7b/classproject_1_1_s_i___net_label.html#ad73a1407a19f935203851d27f9fb3903" title="project::SI_NetLabel\l::setSelected" alt="" coords="392,425,533,471"/>
+<area shape="rect" id="node40" href="$d1/d7b/classproject_1_1_s_i___net_label.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::SI_NetLabel\l::getGrabAreaScenePx" alt="" coords="177,623,332,670"/>
+<area shape="rect" id="node5" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#a066dd522d7c2b9f0f85b2a103aba0542" title="project::SGI_Symbol\l::shape" alt="" coords="392,5,533,51"/>
+<area shape="rect" id="node9" href="$d4/dbe/classproject_1_1_s_i___base.html#ab98bb60eca6122e4def2f7d285046547" title="project::SI_Base::setSelected" alt="" coords="593,235,788,264"/>
+<area shape="rect" id="node18" href="$da/d6f/classproject_1_1_s_g_i___symbol_pin.html#a066dd522d7c2b9f0f85b2a103aba0542" title="project::SGI_SymbolPin\l::shape" alt="" coords="381,286,544,333"/>
+<area shape="rect" id="node26" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="396,564,529,593"/>
+<area shape="rect" id="node28" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="643,564,739,593"/>
+<area shape="rect" id="node35" href="$df/dd1/classproject_1_1_s_g_i___net_line.html#a6e4b5bc28b84f0ec515bb76daba69390" title="project::SGI_NetLine\l::shape" alt="" coords="391,494,535,541"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="getAvailableUnits" name="getAvailableUnits">
+<area shape="rect" id="node3" href="$d5/d40/classlibrary_1_1_library_element_attribute.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="199,5,399,51"/>
+<area shape="rect" id="node9" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="192,74,405,121"/>
+<area shape="rect" id="node17" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#af02ee3b81ee1813e30c86bd9af7c3728" title="project::SymbolInstanceProperties\lDialog::on_cbxAttrType_currentIndex\lChanged" alt="" coords="180,144,417,208"/>
+<area shape="rect" id="node5" href="$d5/d40/classlibrary_1_1_library_element_attribute.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="488,5,688,51"/>
+<area shape="rect" id="node7" href="$d7/d7c/classlibrary_1_1_generic_component.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="757,5,949,51"/>
+<area shape="rect" id="node11" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="467,74,709,121"/>
+<area shape="rect" id="node13" href="$de/d67/classproject_1_1_gen_comp_instance.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="757,74,949,121"/>
+<area shape="rect" id="node15" href="$d1/d03/classproject_1_1_circuit.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="997,74,1160,121"/>
+</map>

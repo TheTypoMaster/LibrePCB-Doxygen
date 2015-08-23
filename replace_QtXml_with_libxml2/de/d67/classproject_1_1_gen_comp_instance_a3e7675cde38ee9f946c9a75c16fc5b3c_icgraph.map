@@ -1,0 +1,6 @@
+<map id="addAttribute" name="addAttribute">
+<area shape="rect" id="node3" href="$dd/d26/classproject_1_1_cmd_gen_comp_attr_inst_add.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="148,5,345,51"/>
+<area shape="rect" id="node5" href="$dd/d26/classproject_1_1_cmd_gen_comp_attr_inst_add.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="148,74,345,121"/>
+<area shape="rect" id="node7" href="$d1/d24/classproject_1_1_cmd_gen_comp_attr_inst_remove.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="148,143,345,190"/>
+<area shape="rect" id="node9" href="$d1/d24/classproject_1_1_cmd_gen_comp_attr_inst_remove.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="148,213,345,259"/>
+</map>

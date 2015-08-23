@@ -1,0 +1,14 @@
+<map id="Alignment" name="Alignment">
+<area shape="rect" id="node3" href="$df/de9/class_alignment.html#a5e73aa1977269073f3ce5f2af38443a0" title="mirrored" alt="" coords="139,224,208,253"/>
+<area shape="rect" id="node26" href="$df/de9/class_alignment.html#aacd9e5a630f2173faa1fb10d9060455d" title="mirroredH" alt="" coords="135,277,212,307"/>
+<area shape="rect" id="node28" href="$df/de9/class_alignment.html#a5adc0535fcc605430a70a27683302c02" title="mirroredV" alt="" coords="135,331,212,360"/>
+<area shape="rect" id="node5" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_Footprint\l::updateCacheAndRepaint" alt="" coords="263,162,436,209"/>
+<area shape="rect" id="node20" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_Symbol\l::updateCacheAndRepaint" alt="" coords="263,270,436,317"/>
+<area shape="rect" id="node7" href="$da/d96/classproject_1_1_b_i___footprint.html#a80db668afe30ac6b6c9e5eb061b61cfc" title="project::BI_Footprint\l::componentInstanceAttributes\lChanged" alt="" coords="495,5,695,69"/>
+<area shape="rect" id="node11" href="$da/d96/classproject_1_1_b_i___footprint.html#a271c63e12acd19bccc27bf6861938df2" title="project::BI_Footprint\l::componentInstanceMoved" alt="" coords="504,93,685,139"/>
+<area shape="rect" id="node14" href="$da/d96/classproject_1_1_b_i___footprint.html#ab6c0fcabcb9d5a38a27ed7aeb34f0958" title="project::BI_Footprint\l::componentInstanceRotated" alt="" coords="500,162,689,209"/>
+<area shape="rect" id="node17" href="$da/d96/classproject_1_1_b_i___footprint.html#ae00c60cb068f7bb3703a6c84450afeaf" title="project::BI_Footprint\l::componentInstanceMirrored" alt="" coords="500,231,689,278"/>
+<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="753,127,892,174"/>
+<area shape="rect" id="node22" href="$de/d50/classproject_1_1_s_i___symbol.html#a803d371853cd2d72f4df8a45349d0cb7" title="project::SI_Symbol\l::schematicOrGenCompAttributes\lChanged" alt="" coords="485,301,704,365"/>
+<area shape="rect" id="node24" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4e286593d2a82f74246f9cba8193605" title="project::SI_Symbol\l::init" alt="" coords="756,310,889,357"/>
+</map>

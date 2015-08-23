@@ -1,0 +1,7 @@
+<map id="ProjectEditor" name="ProjectEditor">
+<area shape="rect" id="node3" href="$d3/dd6/classproject_1_1_project_editor.html#ab610f183d6b163573d997a0d0e73b361" title="Make a automatic backup of the project (save to temporary files) " alt="" coords="153,85,268,115"/>
+<area shape="rect" id="node5" href="$d2/d05/classproject_1_1_project.html#aac34985ee3d7aa8c11e419452670ce7b" title="Check whether this project restored from temporary files or not. " alt="" coords="328,5,509,35"/>
+<area shape="rect" id="node7" href="$d4/d90/class_undo_stack.html#ac94ae4017f4a9133369c65c0fdb6f4c7" title="Check if the stack is in a clean state (the state of the last setClean()) " alt="" coords="349,59,488,88"/>
+<area shape="rect" id="node9" href="$d4/d90/class_undo_stack.html#ab672ee441d03b6d0d82f86fa6b238f56" title="Check if a command is active at the moment (see mCommandActive) " alt="" coords="317,112,520,141"/>
+<area shape="rect" id="node11" href="$d2/d05/classproject_1_1_project.html#a505580327a442b26f4ff537e68201ed1" title="Save the whole project to the harddisc. " alt="" coords="345,165,492,195"/>
+</map>

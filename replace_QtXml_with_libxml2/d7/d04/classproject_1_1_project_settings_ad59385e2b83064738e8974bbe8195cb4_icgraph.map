@@ -1,0 +1,5 @@
+<map id="restoreDefaults" name="restoreDefaults">
+<area shape="rect" id="node3" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#a182114340986a804a9befcd377b5a64d" title="project::CmdProjectSettings\lChange::applyNewSettings" alt="" coords="165,39,352,86"/>
+<area shape="rect" id="node5" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="400,5,587,51"/>
+<area shape="rect" id="node7" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="400,74,587,121"/>
+</map>

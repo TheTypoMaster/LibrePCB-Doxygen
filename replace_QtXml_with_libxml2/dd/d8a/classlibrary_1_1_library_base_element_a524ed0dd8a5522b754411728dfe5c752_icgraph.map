@@ -1,0 +1,23 @@
+<map id="checkAttributesValidity" name="checkAttributesValidity">
+<area shape="rect" id="node3" href="$d3/d60/classlibrary_1_1_library_category.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="221,101,384,147"/>
+<area shape="rect" id="node5" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" title="readFromFile" alt="" coords="253,171,352,200"/>
+<area shape="rect" id="node15" href="$dd/d8a/classlibrary_1_1_library_base_element.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="211,305,395,335"/>
+<area shape="rect" id="node33" href="$d8/dff/classlibrary_1_1_library_element.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="221,562,384,609"/>
+<area shape="rect" id="node7" href="$da/dae/classlibrary_1_1_model3_d.html#a8b72b474ce5da29cb412cd28207bc973" title="library::Model3D::Model3D" alt="" coords="463,5,639,35"/>
+<area shape="rect" id="node9" href="$da/dc5/classlibrary_1_1_component_category.html#a3ad0bd54ad01d7475965eb920648b6b9" title="library::ComponentCategory\l::ComponentCategory" alt="" coords="459,58,643,105"/>
+<area shape="rect" id="node11" href="$df/d5f/classlibrary_1_1_package_category.html#aa4dce7e624ac2ebbdf863f5241e2ca32" title="library::PackageCategory\l::PackageCategory" alt="" coords="467,127,635,174"/>
+<area shape="rect" id="node13" href="$da/d3b/classlibrary_1_1_spice_model.html#a142c4797c3a7503133cae731267f9a22" title="library::SpiceModel\l::SpiceModel" alt="" coords="484,197,617,243"/>
+<area shape="rect" id="node17" href="$d3/d60/classlibrary_1_1_library_category.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="455,266,647,313"/>
+<area shape="rect" id="node19" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a34aae6df4e44ac910795cdd62c3c69ff" title="save" alt="" coords="525,336,576,365"/>
+<area shape="rect" id="node21" href="$d8/dff/classlibrary_1_1_library_element.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="455,389,647,435"/>
+<area shape="rect" id="node23" href="$d3/dad/classlibrary_1_1_component.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="707,250,899,297"/>
+<area shape="rect" id="node25" href="$d8/dea/classlibrary_1_1_footprint.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="707,319,899,366"/>
+<area shape="rect" id="node27" href="$d7/d7c/classlibrary_1_1_generic_component.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="707,389,899,435"/>
+<area shape="rect" id="node29" href="$d1/dcf/classlibrary_1_1_package.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="717,458,888,505"/>
+<area shape="rect" id="node31" href="$d9/db9/classlibrary_1_1_symbol.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="720,527,885,574"/>
+<area shape="rect" id="node35" href="$d3/dad/classlibrary_1_1_component.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="469,458,632,505"/>
+<area shape="rect" id="node37" href="$d8/dea/classlibrary_1_1_footprint.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="469,527,632,574"/>
+<area shape="rect" id="node39" href="$d7/d7c/classlibrary_1_1_generic_component.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="463,597,639,643"/>
+<area shape="rect" id="node41" href="$d1/dcf/classlibrary_1_1_package.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="444,666,657,713"/>
+<area shape="rect" id="node43" href="$d9/db9/classlibrary_1_1_symbol.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="447,735,655,782"/>
+</map>

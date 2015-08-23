@@ -1,0 +1,12 @@
+<map id="showSchematicEditor" name="showSchematicEditor">
+<area shape="rect" id="node3" href="$d4/dfb/classproject_1_1_board_editor.html#a2622890007f7f744656c64f1e2326ed4" title="project::BoardEditor\l::BoardEditor" alt="" coords="216,51,352,98"/>
+<area shape="rect" id="node5" href="$d3/dd6/classproject_1_1_project_editor.html#a9f14b9293fefcadb6df3288b459fd470" title="Open the schematic and/or the board editor window. " alt="" coords="204,121,364,151"/>
+<area shape="rect" id="node7" href="$d1/def/class_control_panel.html#aed7117cdf440630b400bb7226a9801e9" title="Create a new project and open it with the editor. " alt="" coords="415,56,596,85"/>
+<area shape="rect" id="node11" href="$d1/def/class_control_panel.html#a00fbb51d24ad11e028629d3dcb376e94" title="Open a project with the editor (or bring an already opened editor to front) " alt="" coords="419,187,592,216"/>
+<area shape="rect" id="node9" href="$d1/def/class_control_panel.html#a7a18efb5b56dcbff9f550db0c651e210" title="ControlPanel::on_actionNew\l_Project_triggered" alt="" coords="687,5,873,51"/>
+<area shape="rect" id="node13" href="$d1/def/class_control_panel.html#a27d94f62f2537a17c6e2852e00560a19" title="ControlPanel::on_actionOpen\l_Project_triggered" alt="" coords="684,74,876,121"/>
+<area shape="rect" id="node15" href="$d1/def/class_control_panel.html#aa9b5edbaaad9ac1ff6416a5656c36d5e" title="ControlPanel::on_project\lTreeView_doubleClicked" alt="" coords="697,143,863,190"/>
+<area shape="rect" id="node17" href="$d1/def/class_control_panel.html#af48b18b1f3edf33ae8c178b192a0641c" title="ControlPanel::on_project\lTreeView_customContextMenuRequested" alt="" coords="647,213,913,259"/>
+<area shape="rect" id="node19" href="$d1/def/class_control_panel.html#a57d50dbdf1e82756a9e680c3f908c2a7" title="ControlPanel::on_recentProjects\lListView_clicked" alt="" coords="675,282,885,329"/>
+<area shape="rect" id="node21" href="$d1/def/class_control_panel.html#a65af77641a3437339023cdcef2d2465e" title="ControlPanel::on_favorite\lProjectsListView_clicked" alt="" coords="696,351,864,398"/>
+</map>

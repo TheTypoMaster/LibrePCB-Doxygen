@@ -1,0 +1,8 @@
+<map id="registerNetPoint" name="registerNetPoint">
+<area shape="rect" id="node3" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a56ae9f28c406912ae4a5a893087a72ca" title="updateErcMessages" alt="" coords="171,67,312,96"/>
+<area shape="rect" id="node5" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a82d223627d0c08ce323661100eb289bd" title="getDisplayText" alt="" coords="385,5,495,35"/>
+<area shape="rect" id="node7" href="$de/d50/classproject_1_1_s_i___symbol.html#a4d55d03995b846c5840a2adf64399e94" title="project::SI_Symbol\l::getName" alt="" coords="373,58,507,105"/>
+<area shape="rect" id="node13" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a7b7ad6f6434c5a98612c3a4520f33901" title="library::GenCompSignal\l::isRequired" alt="" coords="360,127,520,174"/>
+<area shape="rect" id="node9" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::GenCompInstance\l::getName" alt="" coords="581,23,760,70"/>
+<area shape="rect" id="node11" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#a9eeab11e7c84e646f29fac8b709988dc" title="library::GenCompSymbVarItem\l::getSuffix" alt="" coords="569,93,772,139"/>
+</map>

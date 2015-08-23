@@ -1,0 +1,13 @@
+<map id="SES_Base" name="SES_Base">
+<area shape="rect" id="node3" href="$d4/d07/classproject_1_1_s_e_s___add_components.html" title="The SES_AddComponents class. " alt="" coords="5,477,216,805"/>
+<area shape="rect" id="node5" href="$d5/d33/classproject_1_1_s_e_s___add_net_label.html" title="The SES_AddNetLabel class. " alt="" coords="240,512,397,771"/>
+<area shape="rect" id="node7" href="$da/df1/classproject_1_1_s_e_s___draw_circle.html" title="The SES_DrawCircle class. " alt="" coords="421,564,571,719"/>
+<area shape="rect" id="node9" href="$d0/d4f/classproject_1_1_s_e_s___draw_ellipse.html" title="The SES_DrawEllipse class. " alt="" coords="595,564,749,719"/>
+<area shape="rect" id="node11" href="$d1/d55/classproject_1_1_s_e_s___draw_polygon.html" title="The SES_DrawPolygon class. " alt="" coords="773,564,936,719"/>
+<area shape="rect" id="node13" href="$d1/dd7/classproject_1_1_s_e_s___draw_rect.html" title="The SES_DrawRect class. " alt="" coords="960,564,1101,719"/>
+<area shape="rect" id="node15" href="$d1/d60/classproject_1_1_s_e_s___draw_text.html" title="The SES_DrawText class. " alt="" coords="1125,564,1267,719"/>
+<area shape="rect" id="node17" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html" title="The SES_DrawWire class. " alt="" coords="1291,313,1515,970"/>
+<area shape="rect" id="node19" href="$d5/d96/classproject_1_1_s_e_s___f_s_m.html" title="The SES_FSM (Schematic Editor Finite State Machine) class. " alt="" coords="1539,547,1717,736"/>
+<area shape="rect" id="node21" href="$df/d75/classproject_1_1_s_e_s___move.html" title="The SES_Move class. " alt="" coords="1741,564,1856,719"/>
+<area shape="rect" id="node23" href="$d8/d8b/classproject_1_1_s_e_s___select.html" title="The SES_Select class (default state of the schematic editor FSM) " alt="" coords="1880,391,2099,892"/>
+</map>

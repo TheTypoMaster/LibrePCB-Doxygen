@@ -1,0 +1,9 @@
+<map id="getPins" name="getPins">
+<area shape="rect" id="node3" href="$dd/d2d/classproject_1_1_schematic.html#a3102ea04118cf756a10705c6d3b607ab" title="project::Schematic\l::getSelectedItems" alt="" coords="132,39,263,86"/>
+<area shape="rect" id="node9" href="$dd/d2d/classproject_1_1_schematic.html#ac6709a9f69bbe2647444abaccbc8403e" title="project::Schematic\l::getItemsAtScenePos" alt="" coords="120,109,275,155"/>
+<area shape="rect" id="node11" href="$dd/d2d/classproject_1_1_schematic.html#af74dab3072b8fc7894549c35ac90a050" title="project::Schematic\l::getPinsAtScenePos" alt="" coords="124,178,271,225"/>
+<area shape="rect" id="node13" href="$dd/d2d/classproject_1_1_schematic.html#a1e81bd3e07987e2b02f760b3d6d75c21" title="project::Schematic\l::setSelectionRect" alt="" coords="132,247,263,294"/>
+<area shape="rect" id="node5" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8" title="project::SES_Select\l::rotateSelectedItems" alt="" coords="344,5,491,51"/>
+<area shape="rect" id="node7" href="$d8/d8b/classproject_1_1_s_e_s___select.html#a75183dd285ebb13d41213f4dfe420907" title="project::SES_Select\l::removeSelectedItems" alt="" coords="339,74,496,121"/>
+<area shape="rect" id="node15" href="$d8/d8b/classproject_1_1_s_e_s___select.html#ae7b1d9775f8e164e825c0cdecf27eff5" title="project::SES_Select\l::processSubStateIdleScene\lEvent" alt="" coords="324,239,511,303"/>
+</map>

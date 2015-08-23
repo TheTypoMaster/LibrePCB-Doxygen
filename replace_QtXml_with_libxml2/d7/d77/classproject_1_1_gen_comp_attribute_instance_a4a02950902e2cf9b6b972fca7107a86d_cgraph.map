@@ -1,0 +1,6 @@
+<map id="GenCompAttributeInstance" name="GenCompAttributeInstance">
+<area shape="rect" id="node3" href="$d8/d57/class_attribute_type.html#a4d142b5ea99244e929c3cbd14365e1ba" title="AttributeType::fromString" alt="" coords="241,5,409,35"/>
+<area shape="rect" id="node7" href="$d8/d57/class_attribute_type.html#a3b1d519ec4fbfda8b637ba00cd761953" title="AttributeType::getUnitFrom\lString" alt="" coords="236,58,415,105"/>
+<area shape="rect" id="node5" href="$d8/d57/class_attribute_type.html#ab0c96f485564e41206ce9a4ce42ba389" title="AttributeType::getName" alt="" coords="465,5,625,35"/>
+<area shape="rect" id="node9" href="$d7/d08/class_attribute_unit.html#ab0c96f485564e41206ce9a4ce42ba389" title="AttributeUnit::getName" alt="" coords="468,67,623,96"/>
+</map>

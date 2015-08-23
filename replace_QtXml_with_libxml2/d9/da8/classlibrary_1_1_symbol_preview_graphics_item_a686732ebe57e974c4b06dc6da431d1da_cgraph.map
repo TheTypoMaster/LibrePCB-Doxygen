@@ -1,0 +1,8 @@
+<map id="SymbolPreviewGraphicsItem" name="SymbolPreviewGraphicsItem">
+<area shape="rect" id="node3" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#ada9b237a8629c03e16491a72730b456b" title="library::SymbolPin\l::getUuid" alt="" coords="249,5,377,51"/>
+<area shape="rect" id="node5" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#ae23dd3ab799e9f70a4037eea91f69a82" title="library::SymbolPin\l::getPosition" alt="" coords="249,74,377,121"/>
+<area shape="rect" id="node7" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="247,144,380,173"/>
+<area shape="rect" id="node11" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#a01f0e165edb023b0c50cdbfd70f36021" title="library::SymbolPin\l::getRotation" alt="" coords="249,197,377,243"/>
+<area shape="rect" id="node13" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="264,267,363,296"/>
+<area shape="rect" id="node9" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="429,144,525,173"/>
+</map>

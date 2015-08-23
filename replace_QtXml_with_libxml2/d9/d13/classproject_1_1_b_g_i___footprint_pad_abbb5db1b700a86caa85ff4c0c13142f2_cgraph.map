@@ -1,0 +1,15 @@
+<map id="updateCacheAndRepaint" name="updateCacheAndRepaint">
+<area shape="rect" id="node3" href="$d2/d4e/classlibrary_1_1_footprint_pad.html#a47a795a41aee9a66cbd32ed0f0298e42" title="library::FootprintPad\l::getType" alt="" coords="233,5,372,51"/>
+<area shape="rect" id="node5" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#ad998db94981ac7167deba7a777b9945d" title="project::BI_FootprintPad\l::getIsMirrored" alt="" coords="221,74,384,121"/>
+<area shape="rect" id="node11" href="$d2/d4e/classlibrary_1_1_footprint_pad.html#a01f0e165edb023b0c50cdbfd70f36021" title="library::FootprintPad\l::getRotation" alt="" coords="233,143,372,190"/>
+<area shape="rect" id="node13" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#a43009465a74e4ea29421f269c876916d" title="project::BI_FootprintPad\l::getFootprint" alt="" coords="221,213,384,259"/>
+<area shape="rect" id="node15" href="$da/d96/classproject_1_1_b_i___footprint.html#a1220d662c6088cae7ec3f1a2427bc6c5" title="project::BI_Footprint\l::getRotation" alt="" coords="233,282,372,329"/>
+<area shape="rect" id="node19" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="253,352,352,381"/>
+<area shape="rect" id="node23" href="$d2/d4e/classlibrary_1_1_footprint_pad.html#a69af915a70be9a59f27a36ef42fe7606" title="library::FootprintPad\l::getWidth" alt="" coords="233,405,372,451"/>
+<area shape="rect" id="node25" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="255,475,351,504"/>
+<area shape="rect" id="node27" href="$d2/d4e/classlibrary_1_1_footprint_pad.html#a0956fb9eaa66799447596d95c6f1e46d" title="library::FootprintPad\l::getHeight" alt="" coords="233,527,372,574"/>
+<area shape="rect" id="node7" href="$da/d96/classproject_1_1_b_i___footprint.html#ad998db94981ac7167deba7a777b9945d" title="project::BI_Footprint\l::getIsMirrored" alt="" coords="456,74,595,121"/>
+<area shape="rect" id="node9" href="$d0/d7d/classproject_1_1_component_instance.html#a24b25f817cadcc6b1d0a0a6516c890fa" title="project::ComponentInstance\l::getIsMirrored" alt="" coords="667,74,853,121"/>
+<area shape="rect" id="node17" href="$d0/d7d/classproject_1_1_component_instance.html#a01f0e165edb023b0c50cdbfd70f36021" title="project::ComponentInstance\l::getRotation" alt="" coords="432,282,619,329"/>
+<area shape="rect" id="node21" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="477,352,573,381"/>
+</map>

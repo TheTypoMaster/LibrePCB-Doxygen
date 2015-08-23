@@ -1,0 +1,6 @@
+<map id="init" name="init">
+<area shape="rect" id="node3" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="105,5,239,35"/>
+<area shape="rect" id="node7" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="123,59,221,88"/>
+<area shape="rect" id="node9" href="$d1/d7b/classproject_1_1_s_i___net_label.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="95,112,249,141"/>
+<area shape="rect" id="node5" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="299,5,395,35"/>
+</map>

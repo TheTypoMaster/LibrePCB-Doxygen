@@ -1,0 +1,14 @@
+<map id="applyChanges" name="applyChanges">
+<area shape="rect" id="node3" href="$d4/d90/class_undo_stack.html#acafc28cb3929a83228bf6f6d738111cd" title="Begin building a new command that consists of multiple commands step by step (over a &quot;long&quot; time) ..." alt="" coords="173,5,360,35"/>
+<area shape="rect" id="node5" href="$dd/d42/classproject_1_1_cmd_project_set_metadata.html#a76f48efb90b1c6b4f9b4f0626513858a" title="project::CmdProjectSetMetadata\l::setName" alt="" coords="161,58,372,105"/>
+<area shape="rect" id="node7" href="$dd/d42/classproject_1_1_cmd_project_set_metadata.html#ac1485ee71d1b2853ae2e2ab0b25f506a" title="project::CmdProjectSetMetadata\l::setDescription" alt="" coords="161,127,372,174"/>
+<area shape="rect" id="node9" href="$dd/d42/classproject_1_1_cmd_project_set_metadata.html#afdcf25db6238fd43e072256ac0b4037f" title="project::CmdProjectSetMetadata\l::setAuthor" alt="" coords="161,197,372,243"/>
+<area shape="rect" id="node11" href="$dd/d42/classproject_1_1_cmd_project_set_metadata.html#ad87c0e01ee713c04be68468385565f04" title="project::CmdProjectSetMetadata\l::setCreated" alt="" coords="161,266,372,313"/>
+<area shape="rect" id="node13" href="$d4/d90/class_undo_stack.html#a9a588d4c258dd39ab422ac23dab43ad8" title="Append a new command to the currently active command. " alt="" coords="161,336,372,365"/>
+<area shape="rect" id="node15" href="$d4/d90/class_undo_stack.html#a82aa679ad2c2cc3c5a2ad82d7564b0b6" title="End the currently active command and keep the changes. " alt="" coords="179,440,355,469"/>
+<area shape="rect" id="node17" href="$d4/d90/class_undo_stack.html#a4569aea2e8254c626ce894aac55866e9" title="End the currently active command and revert the changes. " alt="" coords="421,388,605,417"/>
+<area shape="rect" id="node27" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="188,493,345,523"/>
+<area shape="rect" id="node21" href="$d4/d90/class_undo_stack.html#a0838f37a375891734d27a88e34437d1c" title="Check if undo is possible. " alt="" coords="872,361,1019,391"/>
+<area shape="rect" id="node19" href="$d4/d90/class_undo_stack.html#ac45199a5fa405b01e4a81bcd46ca47d2" title="Get the text for the undo action. " alt="" coords="653,309,824,339"/>
+<area shape="rect" id="node24" href="$d4/d90/class_undo_stack.html#ac94ae4017f4a9133369c65c0fdb6f4c7" title="Check if the stack is in a clean state (the state of the last setClean()) " alt="" coords="669,413,808,443"/>
+</map>

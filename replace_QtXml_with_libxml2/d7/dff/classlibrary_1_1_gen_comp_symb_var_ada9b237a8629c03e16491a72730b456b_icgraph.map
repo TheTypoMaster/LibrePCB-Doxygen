@@ -1,0 +1,16 @@
+<map id="getUuid" name="getUuid">
+<area shape="rect" id="node3" href="$d7/d7c/classlibrary_1_1_generic_component.html#a707cf56368ef6282708cf47ab360e6e4" title="library::GenericComponent\l::getSymbolVariantByUuid" alt="" coords="128,66,304,113"/>
+<area shape="rect" id="node7" href="$d7/d7c/classlibrary_1_1_generic_component.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="401,6,577,53"/>
+<area shape="rect" id="node11" href="$d7/d7c/classlibrary_1_1_generic_component.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::GenericComponent\l::parseDomTree" alt="" coords="128,136,304,182"/>
+<area shape="rect" id="node14" href="$de/d67/classproject_1_1_gen_comp_instance.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="120,394,312,441"/>
+<area shape="rect" id="node18" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a0c185cf76ee12c6d0bf8bff219ca5d8a" title="project::AddGenCompDialog\l::getSelectedSymbVarUuid" alt="" coords="123,274,309,321"/>
+<area shape="rect" id="node20" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#abf6af5dc67073d848d5cf561412d4b27" title="project::AddGenCompDialog\l::setSelectedGenComp" alt="" coords="396,270,583,317"/>
+<area shape="rect" id="node30" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#adfcb4e9c07721bf39ddcb34d2e39e61c" title="project::AddGenCompDialog\l::setSelectedSymbVar" alt="" coords="123,205,309,252"/>
+<area shape="rect" id="node5" href="$d7/d7c/classlibrary_1_1_generic_component.html#aef815675052fb5b66236635c32d075fa" title="library::GenericComponent\l::getDefaultSymbolVariant" alt="" coords="401,76,577,122"/>
+<area shape="rect" id="node9" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a59cdf065c69c12551c2043dfe0891ff1" title="project::AddGenCompDialog\l::on_cbxSymbVar_currentIndexChanged" alt="" coords="361,176,617,222"/>
+<area shape="rect" id="node16" href="$d1/d03/classproject_1_1_circuit.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="408,394,571,441"/>
+<area shape="rect" id="node22" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a5951d1d20ef2d9675b3b1690d6799fa7" title="project::AddGenCompDialog\l::on_listGenericComponents\l_currentItemChanged" alt="" coords="668,223,855,287"/>
+<area shape="rect" id="node24" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="project::AddGenCompDialog\l::setSelectedCategory" alt="" coords="668,310,855,357"/>
+<area shape="rect" id="node26" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ab30df3fcf42614694068294b48161b00" title="project::AddGenCompDialog\l::treeCategories_currentItemChanged" alt="" coords="904,310,1144,357"/>
+<area shape="rect" id="node28" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="project::AddGenCompDialog\l::AddGenCompDialog" alt="" coords="1193,310,1380,357"/>
+</map>

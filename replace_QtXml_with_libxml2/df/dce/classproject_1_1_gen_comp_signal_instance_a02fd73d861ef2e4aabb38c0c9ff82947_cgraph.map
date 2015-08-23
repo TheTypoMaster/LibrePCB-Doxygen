@@ -1,0 +1,19 @@
+<map id="init" name="init">
+<area shape="rect" id="node3" href="$d1/d03/classproject_1_1_circuit.html#ac48a585009b5ee63f88e0c2b5357d6e9" title="project::Circuit::getProject" alt="" coords="325,5,499,35"/>
+<area shape="rect" id="node5" href="$de/d67/classproject_1_1_gen_comp_instance.html#ada9b237a8629c03e16491a72730b456b" title="project::GenCompInstance\l::getUuid" alt="" coords="93,103,272,150"/>
+<area shape="rect" id="node7" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSignal\l::getUuid" alt="" coords="103,173,263,219"/>
+<area shape="rect" id="node9" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a56ae9f28c406912ae4a5a893087a72ca" title="updateErcMessages" alt="" coords="112,243,253,272"/>
+<area shape="rect" id="node36" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="105,296,260,325"/>
+<area shape="rect" id="node12" href="$d2/d05/classproject_1_1_project.html#a6054e079a2e370148fce27b138686ba3" title="Get the ProjectSettings object which contains all project settings. " alt="" coords="320,59,504,88"/>
+<area shape="rect" id="node14" href="$d7/d04/classproject_1_1_project_settings.html#a4e1f38901d0cab44a6bdae922a877b22" title="project::ProjectSettings\l::getLocaleOrder" alt="" coords="333,111,491,158"/>
+<area shape="rect" id="node16" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a01f0309d43de518f4e94c724d22f4502" title="library::GenCompSignal\l::getName" alt="" coords="332,181,492,227"/>
+<area shape="rect" id="node20" href="$de/d67/classproject_1_1_gen_comp_instance.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::GenCompInstance\l::getName" alt="" coords="323,250,501,297"/>
+<area shape="rect" id="node22" href="$d3/d93/classproject_1_1_net_signal.html#ab0c96f485564e41206ce9a4ce42ba389" title="project::NetSignal\l::getName" alt="" coords="349,319,475,366"/>
+<area shape="rect" id="node24" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#aa821b370fece67458578c040f67873e6" title="getForcedNetSignalName" alt="" coords="327,389,497,419"/>
+<area shape="rect" id="node30" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a7b7ad6f6434c5a98612c3a4520f33901" title="library::GenCompSignal\l::isRequired" alt="" coords="332,442,492,489"/>
+<area shape="rect" id="node32" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a5efcbff9463612d09935ed254844cc5b" title="isNetSignalNameForced" alt="" coords="331,512,493,541"/>
+<area shape="rect" id="node18" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" title="Get the string of a specific locale from a QMap. " alt="" coords="567,181,748,227"/>
+<area shape="rect" id="node26" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#aaaec8b99650920ff82534ae863e5559b" title="library::GenCompSignal\l::getForcedNetName" alt="" coords="577,338,737,385"/>
+<area shape="rect" id="node28" href="$d9/d41/class_i_f___attribute_provider.html#a64e9824168a64622ace994d0ce6dd8ba" title="Replace all variables in a text with their attribute values. " alt="" coords="553,407,761,454"/>
+<area shape="rect" id="node34" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a5efcbff9463612d09935ed254844cc5b" title="library::GenCompSignal\l::isNetSignalNameForced" alt="" coords="572,503,743,550"/>
+</map>

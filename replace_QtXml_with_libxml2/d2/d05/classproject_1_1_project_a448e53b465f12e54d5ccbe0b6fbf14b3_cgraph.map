@@ -1,0 +1,9 @@
+<map id="serializeToXmlDomElement" name="serializeToXmlDomElement">
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="261,5,416,35"/>
+<area shape="rect" id="node5" href="$d1/d1f/class_xml_dom_element.html#af2ee1b74300d31ca889b32ddd96d51ac" title="Append a child to the end of the child list of this element. " alt="" coords="239,59,439,88"/>
+<area shape="rect" id="node7" href="$d1/d1f/class_xml_dom_element.html#a22b3ed6c99338244f5855c446f66d702" title="Create a new text child and append it to the list of childs. " alt="" coords="240,111,437,158"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="269,181,408,211"/>
+<area shape="rect" id="node11" href="$dd/d2d/classproject_1_1_schematic.html#ae389dc6ac296201da01420401a142f38" title="project::Schematic\l::getFilePath" alt="" coords="273,234,404,281"/>
+<area shape="rect" id="node13" href="$d4/d1c/class_file_path.html#a6b8813b995eae08609c56e147fb14b2c" title="Convert an absolute filepath to a relative filepath (relative to another filepath) ..." alt="" coords="271,304,407,333"/>
+<area shape="rect" id="node15" href="$d5/d07/classproject_1_1_board.html#ae389dc6ac296201da01420401a142f38" title="project::Board::getFilePath" alt="" coords="251,357,427,387"/>
+</map>

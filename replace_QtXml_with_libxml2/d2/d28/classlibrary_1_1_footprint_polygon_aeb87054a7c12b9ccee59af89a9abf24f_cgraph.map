@@ -1,0 +1,11 @@
+<map id="serializeToXmlDomElement" name="serializeToXmlDomElement">
+<area shape="rect" id="node3" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="283,5,437,35"/>
+<area shape="rect" id="node5" href="$df/df0/class_length.html#a5bd5292fcf66a49fad586500fa6038a0" title="Get the length in millimeters as a QString. " alt="" coords="571,56,707,85"/>
+<area shape="rect" id="node9" href="$d0/d69/class_point.html#ab309781a48eeee3e6857c85535c220ea" title="Get the X coordinate. " alt="" coords="596,109,681,139"/>
+<area shape="rect" id="node11" href="$d0/d69/class_point.html#ab51b367c2bbc227c892a7d2840c0babe" title="Get the Y coordinate. " alt="" coords="596,285,681,315"/>
+<area shape="rect" id="node13" href="$da/d46/classlibrary_1_1_footprint_polygon_segment.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="239,159,481,206"/>
+<area shape="rect" id="node7" href="$df/df0/class_length.html#a69ee36729eae0511280f89e3efa240ae" title="Get the length in millimeters. " alt="" coords="796,56,897,85"/>
+<area shape="rect" id="node15" href="$da/d46/classlibrary_1_1_footprint_polygon_segment.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="531,215,747,262"/>
+<area shape="rect" id="node20" href="$d2/d39/class_angle.html#adc81c430c409954497b6387ad818ae10" title="Get the angle in degrees as a QString. " alt="" coords="573,163,704,192"/>
+<area shape="rect" id="node22" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="797,163,896,192"/>
+</map>

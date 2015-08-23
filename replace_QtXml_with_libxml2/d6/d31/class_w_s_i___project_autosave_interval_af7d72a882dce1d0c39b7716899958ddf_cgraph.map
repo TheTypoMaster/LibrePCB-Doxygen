@@ -1,0 +1,7 @@
+<map id="WSI_ProjectAutosaveInterval" name="WSI_ProjectAutosaveInterval">
+<area shape="rect" id="node3" href="$d4/dda/class_w_s_i___base.html#a5605b64c01b2ac306d1291d437d47f82" title="WSI_Base::loadValue" alt="" coords="251,75,400,104"/>
+<area shape="rect" id="node11" href="$d6/d31/class_w_s_i___project_autosave_interval.html#a119873ae8ba96c918110178d2ae0bf6e" title="spinBoxValueChanged" alt="" coords="248,128,403,157"/>
+<area shape="rect" id="node5" href="$de/d52/class_workspace_settings.html#ad1d507e6e68d4b8bd40982b78da7c5bd" title="WorkspaceSettings::\lgetMetadataPath" alt="" coords="451,5,595,51"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="453,75,592,104"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the absolute and well&#45;formatted filepath as a QString. " alt="" coords="469,128,576,157"/>
+</map>

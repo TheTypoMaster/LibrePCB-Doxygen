@@ -1,0 +1,6 @@
+<map id="getName" name="getName">
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#ae6e02037c3e8b821e62a5925a3a0966d" title="Get the schematic page with a specific name. " alt="" coords="129,5,327,51"/>
+<area shape="rect" id="node5" href="$d3/d43/classproject_1_1_s_i___net_point.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::SI_NetPoint\l::init" alt="" coords="159,74,297,121"/>
+<area shape="rect" id="node7" href="$da/dda/classproject_1_1_schematic_pages_dock.html#a5a304382795bedf7f5c502eb213f6709" title="project::SchematicPagesDock\l::schematicAdded" alt="" coords="129,143,327,190"/>
+<area shape="rect" id="node9" href="$da/dda/classproject_1_1_schematic_pages_dock.html#a6a112ab8a5e3ee445c66bd74590f4ef5" title="project::SchematicPagesDock\l::SchematicPagesDock" alt="" coords="377,143,575,190"/>
+</map>

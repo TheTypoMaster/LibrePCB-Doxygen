@@ -1,0 +1,22 @@
+<map id="SchematicEditor" name="SchematicEditor">
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a053e9baeb9ba6a37ed66e6cf03319ed8" title="Check whether this project was opened in read&#45;only mode or not. " alt="" coords="189,5,376,35"/>
+<area shape="rect" id="node5" href="$d2/d05/classproject_1_1_project.html#afbdab4a0b61e83c059a2901660e2df25" title="Get the filepath of the project file (*.lpp) " alt="" coords="192,59,373,88"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#a2cc965936000d08100b8b2e503d975a4" title="Get the whole filename (without the path) of the file or directory. " alt="" coords="208,112,357,141"/>
+<area shape="rect" id="node9" href="$dd/dd5/class_graphics_view.html#a430b5fef73c8d66070c0dcaefcc970e9" title="GraphicsView::setUseOpenGl" alt="" coords="184,165,381,195"/>
+<area shape="rect" id="node11" href="$d3/dd6/classproject_1_1_project_editor.html#a8bd898624d6ef8da257077c470a1367a" title="project::ProjectEditor\l::getWorkspace" alt="" coords="211,218,355,265"/>
+<area shape="rect" id="node13" href="$d5/d56/class_workspace.html#a6d762ea27ae2be65a4b25fb4f82e043f" title="Get the workspace settings. " alt="" coords="201,288,364,317"/>
+<area shape="rect" id="node15" href="$de/d52/class_workspace_settings.html#ae618bffea0533f54ce89366010d6d842" title="WorkspaceSettings::\lgetAppearance" alt="" coords="211,341,355,387"/>
+<area shape="rect" id="node17" href="$d8/dcb/class_w_s_i___appearance.html#aca96d5209fb920e8c36da67cbb2f7e93" title="WSI_Appearance::getUseOpenGl" alt="" coords="173,411,392,440"/>
+<area shape="rect" id="node19" href="$dd/dd5/class_graphics_view.html#a4801b71126e10a454a0b148beffb13bf" title="GraphicsView::setGridProperties" alt="" coords="177,464,388,493"/>
+<area shape="rect" id="node21" href="$d3/dd6/classproject_1_1_project_editor.html#a6c9aab025aa7fd4bd3b4d1916fb021d7" title="Save the whole project to the harddisc. " alt="" coords="211,517,355,563"/>
+<area shape="rect" id="node31" href="$dd/dd5/class_graphics_view.html#a8bcfae1253e8a88ee56b2d0e38dd7d77" title="GraphicsView::zoomIn" alt="" coords="205,587,360,616"/>
+<area shape="rect" id="node33" href="$dd/dd5/class_graphics_view.html#a4ec565aefab2e63fe623c84cb690733c" title="GraphicsView::zoomOut" alt="" coords="201,640,364,669"/>
+<area shape="rect" id="node35" href="$dd/dd5/class_graphics_view.html#a0b0ff363db364ea5ce364fe2e27ef1aa" title="GraphicsView::zoomAll" alt="" coords="204,693,361,723"/>
+<area shape="rect" id="node39" href="$d3/dd6/classproject_1_1_project_editor.html#a58d9a85f9ad7a9ae10eccf08589d6f62" title="Open the board editor window and bring it to the front. " alt="" coords="211,746,355,793"/>
+<area shape="rect" id="node41" href="$d3/dd6/classproject_1_1_project_editor.html#acb84e06926743dcb0b0aeee7a102931a" title="Execute the netclasses editor dialog (blocking!) " alt="" coords="184,815,381,862"/>
+<area shape="rect" id="node23" href="$d2/d05/classproject_1_1_project.html#a505580327a442b26f4ff537e68201ed1" title="Save the whole project to the harddisc. " alt="" coords="451,472,597,501"/>
+<area shape="rect" id="node25" href="$d4/d90/class_undo_stack.html#ac6d446d586f7bd5b310d1f19c9ce5923" title="Set the current state as the clean state (see also isClean()) " alt="" coords="451,525,597,555"/>
+<area shape="rect" id="node29" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="445,579,603,608"/>
+<area shape="rect" id="node27" href="$d4/d90/class_undo_stack.html#ac94ae4017f4a9133369c65c0fdb6f4c7" title="Check if the stack is in a clean state (the state of the last setClean()) " alt="" coords="656,525,795,555"/>
+<area shape="rect" id="node37" href="$dd/dd5/class_graphics_view.html#a79f98dafea5083f10c64488e0cabba04" title="GraphicsView::getVisible\lSceneRect" alt="" coords="440,685,608,731"/>
+</map>

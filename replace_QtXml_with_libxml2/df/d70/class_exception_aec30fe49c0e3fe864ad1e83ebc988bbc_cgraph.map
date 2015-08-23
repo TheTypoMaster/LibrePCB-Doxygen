@@ -1,0 +1,4 @@
+<map id="Exception" name="Exception">
+<area shape="rect" id="node3" href="$da/d7d/class_debug.html#abea73dba0914ca6e7e9ec62ef5ba5701" title="Get a pointer to the instance of the singleton Debug object. " alt="" coords="133,5,251,35"/>
+<area shape="rect" id="node5" href="$da/d7d/class_debug.html#a4668f30e6afe2d5f5fc7dad81294e6ef" title="Print a message to stderr/logfile (with respect to the current debug level) " alt="" coords="145,59,239,88"/>
+</map>

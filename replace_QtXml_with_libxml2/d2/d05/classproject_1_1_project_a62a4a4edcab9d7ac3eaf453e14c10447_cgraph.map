@@ -1,0 +1,6 @@
+<map id="save" name="save">
+<area shape="rect" id="node3" href="$da/d50/class_xml_dom_document.html#a95919ce7694444ede684afc77fb77b0f" title="Set the file version number of the document (attribute &quot;version&quot; of the root element) ..." alt="" coords="291,41,515,70"/>
+<area shape="rect" id="node5" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="324,102,481,132"/>
+<area shape="rect" id="node7" href="$dd/d2d/classproject_1_1_schematic.html#a62a4a4edcab9d7ac3eaf453e14c10447" title="project::Schematic\l::save" alt="" coords="108,32,239,79"/>
+<area shape="rect" id="node11" href="$d5/d07/classproject_1_1_board.html#a62a4a4edcab9d7ac3eaf453e14c10447" title="project::Board::save" alt="" coords="104,102,243,132"/>
+</map>

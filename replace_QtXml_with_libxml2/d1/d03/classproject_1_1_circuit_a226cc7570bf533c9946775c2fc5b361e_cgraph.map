@@ -1,0 +1,5 @@
+<map id="~Circuit" name="~Circuit">
+<area shape="rect" id="node3" href="$d1/d03/classproject_1_1_circuit.html#a8659b5efe83378d3d53ebb2099bd7a4a" title="removeGenCompInstance" alt="" coords="124,5,297,35"/>
+<area shape="rect" id="node5" href="$d1/d03/classproject_1_1_circuit.html#adb239b372d60a08b57a7c4ce3f5c1d72" title="removeNetSignal" alt="" coords="149,59,272,88"/>
+<area shape="rect" id="node7" href="$d1/d03/classproject_1_1_circuit.html#a7e10bda7bd41a5fc62c58415f34833e9" title="removeNetClass" alt="" coords="151,112,271,141"/>
+</map>

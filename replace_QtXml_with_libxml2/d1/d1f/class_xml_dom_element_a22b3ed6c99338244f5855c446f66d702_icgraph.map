@@ -1,0 +1,15 @@
+<map id="appendTextChild" name="appendTextChild">
+<area shape="rect" id="node3" href="$d7/d7c/classlibrary_1_1_generic_component.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="653,6,845,53"/>
+<area shape="rect" id="node5" href="$dd/d8a/classlibrary_1_1_library_base_element.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="173,106,365,153"/>
+<area shape="rect" id="node11" href="$d8/dff/classlibrary_1_1_library_element.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="413,175,605,222"/>
+<area shape="rect" id="node23" href="$d5/d07/classproject_1_1_board.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="191,226,348,273"/>
+<area shape="rect" id="node25" href="$d2/d05/classproject_1_1_project.html#a448e53b465f12e54d5ccbe0b6fbf14b3" title="Serialize the object to a XML DOM element. " alt="" coords="187,295,352,342"/>
+<area shape="rect" id="node27" href="$dd/d2d/classproject_1_1_schematic.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="173,365,365,411"/>
+<area shape="rect" id="node29" href="$d7/d04/classproject_1_1_project_settings.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="173,434,365,481"/>
+<area shape="rect" id="node7" href="$d3/d60/classlibrary_1_1_library_category.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="413,37,605,83"/>
+<area shape="rect" id="node9" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a34aae6df4e44ac910795cdd62c3c69ff" title="library::LibraryBaseElement\l::save" alt="" coords="419,106,600,153"/>
+<area shape="rect" id="node13" href="$d3/dad/classlibrary_1_1_component.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="653,90,845,137"/>
+<area shape="rect" id="node15" href="$d8/dea/classlibrary_1_1_footprint.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="653,159,845,206"/>
+<area shape="rect" id="node18" href="$d1/dcf/classlibrary_1_1_package.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="664,229,835,275"/>
+<area shape="rect" id="node20" href="$d9/db9/classlibrary_1_1_symbol.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="667,298,832,345"/>
+</map>

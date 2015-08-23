@@ -1,0 +1,6 @@
+<map id="~Schematic" name="~Schematic">
+<area shape="rect" id="node3" href="$dd/d2d/classproject_1_1_schematic.html#a89da44eacee6aa1d9f7e5997bece3e73" title="removeNetLabel" alt="" coords="147,5,264,35"/>
+<area shape="rect" id="node5" href="$dd/d2d/classproject_1_1_schematic.html#aefde184d233bcb661181da111f25b8d2" title="removeNetLine" alt="" coords="151,59,260,88"/>
+<area shape="rect" id="node7" href="$dd/d2d/classproject_1_1_schematic.html#a5a33e2e054a7f4f58dfcca58cb895c38" title="removeNetPoint" alt="" coords="148,112,263,141"/>
+<area shape="rect" id="node9" href="$dd/d2d/classproject_1_1_schematic.html#af78cfeb0d0c31507588b0a4f4a36d866" title="removeSymbol" alt="" coords="151,165,260,195"/>
+</map>

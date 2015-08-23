@@ -1,0 +1,8 @@
+<map id="updatePosition" name="updatePosition">
+<area shape="rect" id="node3" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" title="project::SI_Symbol\l::setPosition" alt="" coords="163,109,296,155"/>
+<area shape="rect" id="node11" href="$de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5" title="project::SI_Symbol\l::setRotation" alt="" coords="163,39,296,86"/>
+<area shape="rect" id="node16" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="SI_SymbolPin" alt="" coords="177,179,281,208"/>
+<area shape="rect" id="node5" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a6eaf0a56905dd18ebdf240a2229576c6" title="project::CmdSymbolInstance\lEdit::~CmdSymbolInstanceEdit" alt="" coords="345,5,551,51"/>
+<area shape="rect" id="node7" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="353,74,543,121"/>
+<area shape="rect" id="node9" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="353,143,543,190"/>
+</map>

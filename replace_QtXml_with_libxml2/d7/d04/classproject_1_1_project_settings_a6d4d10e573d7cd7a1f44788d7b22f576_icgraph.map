@@ -1,0 +1,6 @@
+<map id="setNormOrder" name="setNormOrder">
+<area shape="rect" id="node3" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#a182114340986a804a9befcd377b5a64d" title="project::CmdProjectSettings\lChange::applyNewSettings" alt="" coords="157,5,344,51"/>
+<area shape="rect" id="node9" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#adb97a0ce75e5351b3dc9fd29285eadf3" title="project::CmdProjectSettings\lChange::applyOldSettings" alt="" coords="157,74,344,121"/>
+<area shape="rect" id="node5" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="392,5,579,51"/>
+<area shape="rect" id="node7" href="$d8/dea/classproject_1_1_cmd_project_settings_change.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="392,74,579,121"/>
+</map>

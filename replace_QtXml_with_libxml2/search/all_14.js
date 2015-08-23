@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['valign',['VAlign',['../d9/dbc/class_v_align.html',1,'VAlign'],['../d9/dbc/class_v_align.html#aa9d4e983876662a3c9af6fee862092b1',1,'VAlign::VAlign() noexcept'],['../d9/dbc/class_v_align.html#a615629b9dae6297d4f22cdbabde75412',1,'VAlign::VAlign(const VAlign &amp;other) noexcept'],['../d9/dbc/class_v_align.html#a6ed8473a20bff9dd01096a2bf13f2469',1,'VAlign::VAlign(Qt::AlignmentFlag align) noexcept']]],
+  ['value',['value',['../de/daf/structproject_1_1_symbol_instance_properties_dialog_1_1_attr_item__t.html#a0c0d1b18d3033cb858562e5e8636c18f',1,'project::SymbolInstancePropertiesDialog::AttrItem_t']]],
+  ['valuefromtr',['valueFromTr',['../d8/d57/class_attribute_type.html#ab2707f3b4fef9786a642c29768f13e63',1,'AttributeType::valueFromTr()'],['../d0/d14/class_attr_type_capacitance.html#a9122abd412f23b6dd8b3f93e88da4f2c',1,'AttrTypeCapacitance::valueFromTr()'],['../df/da7/class_attr_type_frequency.html#a9122abd412f23b6dd8b3f93e88da4f2c',1,'AttrTypeFrequency::valueFromTr()'],['../d0/d9c/class_attr_type_inductance.html#a9122abd412f23b6dd8b3f93e88da4f2c',1,'AttrTypeInductance::valueFromTr()'],['../d6/dc0/class_attr_type_resistance.html#a9122abd412f23b6dd8b3f93e88da4f2c',1,'AttrTypeResistance::valueFromTr()'],['../dc/d13/class_attr_type_string.html#a9122abd412f23b6dd8b3f93e88da4f2c',1,'AttrTypeString::valueFromTr()'],['../d9/d21/class_attr_type_voltage.html#a9122abd412f23b6dd8b3f93e88da4f2c',1,'AttrTypeVoltage::valueFromTr()']]],
+  ['version',['Version',['../de/d34/class_version.html',1,'Version'],['../de/d34/class_version.html#ae0773e267076755c263f349af7e813a6',1,'Version::Version() noexcept'],['../de/d34/class_version.html#a4cdba3b4deca53dd6bcf8db948a5f931',1,'Version::Version(const QString &amp;version) noexcept'],['../de/d34/class_version.html#a2c0c17bbd2a277ca1cfe3611fef6ac70',1,'Version::Version(const Version &amp;other) noexcept']]],
+  ['version_2ecpp',['version.cpp',['../d5/d1f/version_8cpp.html',1,'']]],
+  ['version_2eh',['version.h',['../df/dfc/version_8h.html',1,'']]],
+  ['viarestrict',['ViaRestrict',['../df/d85/class_board_layer.html#a176a1fee332dc1a193b4b97dae579eaeaf85e55c21a0db27d759a4acba249f2e7',1,'BoardLayer']]],
+  ['vias',['Vias',['../df/d85/class_board_layer.html#a176a1fee332dc1a193b4b97dae579eaea465696330dc0bece4893df15c8c78951',1,'BoardLayer']]],
+  ['voltage',['Voltage',['../d8/d57/class_attribute_type.html#a248b92a7f869a405ba11941b00225c72a4a92fbe41f6463598c39850b8335096c',1,'AttributeType']]]
+];

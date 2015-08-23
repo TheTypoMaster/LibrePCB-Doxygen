@@ -1,0 +1,12 @@
+<map id="setPosition" name="setPosition">
+<area shape="rect" id="node3" href="$d6/db6/classproject_1_1_cmd_schematic_net_point_edit.html#acff21f43b3e14f5554483728b4982f87" title="project::CmdSchematicNet\lPointEdit::~CmdSchematicNetPointEdit" alt="" coords="143,5,396,51"/>
+<area shape="rect" id="node5" href="$d6/db6/classproject_1_1_cmd_schematic_net_point_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="180,74,359,121"/>
+<area shape="rect" id="node7" href="$d6/db6/classproject_1_1_cmd_schematic_net_point_edit.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="180,143,359,190"/>
+<area shape="rect" id="node9" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a212e36e19edc323ddeb73387d2f011a5" title="project::SI_SymbolPin\l::updatePosition" alt="" coords="193,213,345,259"/>
+<area shape="rect" id="node11" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" title="project::SI_Symbol\l::setPosition" alt="" coords="455,213,588,259"/>
+<area shape="rect" id="node19" href="$de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5" title="project::SI_Symbol\l::setRotation" alt="" coords="455,143,588,190"/>
+<area shape="rect" id="node24" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="project::SI_SymbolPin\l::SI_SymbolPin" alt="" coords="445,282,597,329"/>
+<area shape="rect" id="node13" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a6eaf0a56905dd18ebdf240a2229576c6" title="project::CmdSymbolInstance\lEdit::~CmdSymbolInstanceEdit" alt="" coords="647,109,852,155"/>
+<area shape="rect" id="node15" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="655,178,844,225"/>
+<area shape="rect" id="node17" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="655,247,844,294"/>
+</map>

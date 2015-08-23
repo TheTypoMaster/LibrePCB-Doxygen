@@ -1,0 +1,14 @@
+<map id="LibraryBaseElement" name="LibraryBaseElement">
+<area shape="rect" id="node5" href="$d3/d60/classlibrary_1_1_library_category.html" title="The LibraryCategory class extends the LibraryBaseElement class with some attributes and methods which..." alt="" coords="176,1107,379,1349"/>
+<area shape="rect" id="node11" href="$d8/dff/classlibrary_1_1_library_element.html" title="The LibraryElement class extends the LibraryBaseElement class with some attributes and methods which ..." alt="" coords="928,1116,1131,1340"/>
+<area shape="rect" id="node2" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="504,6,707,143"/>
+<area shape="rect" id="node7" href="$da/dc5/classlibrary_1_1_component_category.html" title="The ComponentCategory class. " alt="" coords="5,1710,176,1882"/>
+<area shape="rect" id="node9" href="$df/d5f/classlibrary_1_1_package_category.html" title="The PackageCategory class. " alt="" coords="200,1710,355,1882"/>
+<area shape="rect" id="node13" href="$d3/dad/classlibrary_1_1_component.html" title="The Component class. " alt="" coords="379,1597,579,1995"/>
+<area shape="rect" id="node15" href="$d8/dea/classlibrary_1_1_footprint.html" title="The Footprint class. " alt="" coords="603,1554,803,2038"/>
+<area shape="rect" id="node17" href="$d7/d7c/classlibrary_1_1_generic_component.html" title="The GenericComponent class. " alt="" coords="827,1398,1040,2194"/>
+<area shape="rect" id="node19" href="$da/dae/classlibrary_1_1_model3_d.html" title="The Model3D class. " alt="" coords="1064,1710,1187,1882"/>
+<area shape="rect" id="node21" href="$d1/dcf/classlibrary_1_1_package.html" title="The Package class. " alt="" coords="1211,1641,1411,1951"/>
+<area shape="rect" id="node23" href="$da/d3b/classlibrary_1_1_spice_model.html" title="The SpiceModel class. " alt="" coords="1435,1710,1557,1882"/>
+<area shape="rect" id="node25" href="$d9/db9/classlibrary_1_1_symbol.html" title="The Symbol class. " alt="" coords="1581,1580,1781,2012"/>
+</map>

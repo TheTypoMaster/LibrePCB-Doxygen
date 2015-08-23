@@ -1,0 +1,21 @@
+<map id="startPositioning" name="startPositioning">
+<area shape="rect" id="node3" href="$d3/d93/classproject_1_1_net_signal.html#a7230ef29e6a3e0a5d96dde93065b9c80" title="project::NetSignal\l::getNetClass" alt="" coords="211,5,336,51"/>
+<area shape="rect" id="node5" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#aa861213ae91d51750e3091eaeb3bf9af" title="project::SI_SymbolPin\l::getGenCompSignalInstance" alt="" coords="177,74,369,121"/>
+<area shape="rect" id="node7" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a5efcbff9463612d09935ed254844cc5b" title="project::GenCompSignalInstance\l::isNetSignalNameForced" alt="" coords="167,143,380,190"/>
+<area shape="rect" id="node11" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#aa821b370fece67458578c040f67873e6" title="project::GenCompSignalInstance\l::getForcedNetSignalName" alt="" coords="167,213,380,259"/>
+<area shape="rect" id="node17" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a67416b749161d44239aca9679a230141" title="project::SI_NetLine\l::getNetSignal" alt="" coords="207,282,340,329"/>
+<area shape="rect" id="node21" href="$d9/d07/classproject_1_1_cmd_net_class_add.html#afae03b3db58dce1047f107dd832d0dc8" title="project::CmdNetClassAdd\l::getNetClass" alt="" coords="187,351,360,398"/>
+<area shape="rect" id="node23" href="$db/dd7/classproject_1_1_cmd_net_signal_add.html#a2367e5cb623f3a1f5789aa3499c9219b" title="project::CmdNetSignalAdd\l::getNetSignal" alt="" coords="185,421,361,467"/>
+<area shape="rect" id="node25" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html#a2367e5cb623f3a1f5789aa3499c9219b" title="project::GenCompSignalInstance\l::getNetSignal" alt="" coords="167,490,380,537"/>
+<area shape="rect" id="node27" href="$d0/da6/classproject_1_1_cmd_schematic_net_point_add.html#a503fa78dca51de82e597a5bf93d207b3" title="project::CmdSchematicNet\lPointAdd::getNetPoint" alt="" coords="184,559,363,606"/>
+<area shape="rect" id="node29" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a6929abd2275d042081cee93fc3e4de6f" title="project::SI_NetLine\l::getStartPoint" alt="" coords="207,629,340,675"/>
+<area shape="rect" id="node31" href="$d3/d7c/classproject_1_1_s_i___net_line.html#a4450993ecd2c4470af5e277e7581424e" title="project::SI_NetLine\l::getEndPoint" alt="" coords="207,698,340,745"/>
+<area shape="rect" id="node33" href="$d3/d21/classproject_1_1_net_class.html#ada9b237a8629c03e16491a72730b456b" title="project::NetClass::\lgetUuid" alt="" coords="208,767,339,814"/>
+<area shape="rect" id="node35" href="$d3/d93/classproject_1_1_net_signal.html#ada9b237a8629c03e16491a72730b456b" title="project::NetSignal\l::getUuid" alt="" coords="211,837,336,883"/>
+<area shape="rect" id="node37" href="$d7/dba/classproject_1_1_cmd_schematic_net_line_add.html#a7653257ed2d684f6a5c1eb55118adcf4" title="project::CmdSchematicNet\lLineAdd::getNetLine" alt="" coords="184,906,363,953"/>
+<area shape="rect" id="node39" href="$df/d70/class_exception.html#aa530ab8cc747843c76a435c3075ed094" title="Get the user error message (translated) " alt="" coords="195,976,352,1005"/>
+<area shape="rect" id="node9" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#a5efcbff9463612d09935ed254844cc5b" title="library::GenCompSignal\l::isNetSignalNameForced" alt="" coords="449,109,620,155"/>
+<area shape="rect" id="node13" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html#aaaec8b99650920ff82534ae863e5559b" title="library::GenCompSignal\l::getForcedNetName" alt="" coords="455,178,615,225"/>
+<area shape="rect" id="node15" href="$d9/d41/class_i_f___attribute_provider.html#a64e9824168a64622ace994d0ce6dd8ba" title="Replace all variables in a text with their attribute values. " alt="" coords="431,247,639,294"/>
+<area shape="rect" id="node19" href="$d3/d43/classproject_1_1_s_i___net_point.html#a2367e5cb623f3a1f5789aa3499c9219b" title="project::SI_NetPoint\l::getNetSignal" alt="" coords="465,317,604,363"/>
+</map>

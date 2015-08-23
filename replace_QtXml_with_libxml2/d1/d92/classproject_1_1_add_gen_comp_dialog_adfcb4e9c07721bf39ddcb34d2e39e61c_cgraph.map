@@ -1,0 +1,22 @@
+<map id="setSelectedSymbVar" name="setSelectedSymbVar">
+<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a6054e079a2e370148fce27b138686ba3" title="Get the ProjectSettings object which contains all project settings. " alt="" coords="212,5,396,35"/>
+<area shape="rect" id="node5" href="$d7/d04/classproject_1_1_project_settings.html#a4e1f38901d0cab44a6bdae922a877b22" title="project::ProjectSettings\l::getLocaleOrder" alt="" coords="225,58,383,105"/>
+<area shape="rect" id="node7" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVar\l::getUuid" alt="" coords="215,127,393,174"/>
+<area shape="rect" id="node9" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a07748d2329ba6f3667d423c7662dffe1" title="library::GenCompSymbVar\l::getNorm" alt="" coords="215,197,393,243"/>
+<area shape="rect" id="node11" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a0e5b7dc7eca3c6468aa85375bf2c3dde" title="library::GenCompSymbVar\l::getDescription" alt="" coords="215,266,393,313"/>
+<area shape="rect" id="node15" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html#a95be340ed5134b5b4fc05ab47e4c9c34" title="library::GenCompSymbVar\l::getItems" alt="" coords="215,335,393,382"/>
+<area shape="rect" id="node17" href="$d5/d56/class_workspace.html#a0aaab7f8db4623adc7227460a859db51" title="Get the workspace library. " alt="" coords="228,405,380,435"/>
+<area shape="rect" id="node19" href="$de/d02/classlibrary_1_1_library.html#a1a4160a82ae91b932467f00350c415e0" title="library::Library::getLatest\lSymbol" alt="" coords="221,458,387,505"/>
+<area shape="rect" id="node21" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#ae244026d0acdc7d950b6752f4ad00e4e" title="library::GenCompSymbVarItem\l::getSymbolUuid" alt="" coords="203,527,405,574"/>
+<area shape="rect" id="node23" href="$d4/d1c/class_file_path.html#a0a886a9edf5bf682f5245159661bfc94" title="Check whether this object contains a valid filepath or not. " alt="" coords="245,597,363,627"/>
+<area shape="rect" id="node25" href="$d5/d1e/classlibrary_1_1_gen_comp_symb_var_item.html#ada9b237a8629c03e16491a72730b456b" title="library::GenCompSymbVarItem\l::getUuid" alt="" coords="203,650,405,697"/>
+<area shape="rect" id="node27" href="$d0/d69/class_point.html#a3da9ee2bc3910d0f0c43c30798906fdd" title="Point::fromPx" alt="" coords="253,720,355,749"/>
+<area shape="rect" id="node36" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#a5a5c94b564322784dd2aa1486fa7901a" title="library::SymbolPreviewGraphics\lItem::boundingRect" alt="" coords="200,773,408,819"/>
+<area shape="rect" id="node38" href="$d0/d69/class_point.html#a3fb0d1120536f2a889eac1e5e88b9ac5" title="Get the point as a QPointF object in pixels (for QGraphics* objects) " alt="" coords="237,843,371,872"/>
+<area shape="rect" id="node42" href="$dc/dcc/class_graphics_scene.html#ad4900f3543f03cac6482cdbe7368291f" title="GraphicsScene::addItem" alt="" coords="221,896,387,925"/>
+<area shape="rect" id="node13" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a3de489fd5ff14ef1709e7ba41628ab3e" title="Get the string of a specific locale from a QMap. " alt="" coords="457,266,639,313"/>
+<area shape="rect" id="node29" href="$df/df0/class_length.html#a5aef66a62c626dea314f1a1e1716534b" title="Set the length in pixels (from QGraphics* objects) " alt="" coords="477,677,619,707"/>
+<area shape="rect" id="node33" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="487,755,609,784"/>
+<area shape="rect" id="node31" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="689,677,873,707"/>
+<area shape="rect" id="node40" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="500,843,596,872"/>
+</map>

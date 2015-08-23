@@ -1,0 +1,8 @@
+<map id="processIdleSceneEvent" name="processIdleSceneEvent">
+<area shape="rect" id="node3" href="$d5/db7/classproject_1_1_s_e_e___redirected_q_event.html#a083850c3a4cf8ca006bbde90f268b22a" title="Helper method to get the QEvent from a pointer to SEE_Base. " alt="" coords="213,5,424,51"/>
+<area shape="rect" id="node7" href="$d0/d69/class_point.html#a3da9ee2bc3910d0f0c43c30798906fdd" title="Point::fromPx" alt="" coords="268,75,369,104"/>
+<area shape="rect" id="node5" href="$d5/db7/classproject_1_1_s_e_e___redirected_q_event.html#a8bc969fd921aeabce5720e8a51c97eb3" title="project::SEE_RedirectedQEvent\l::getQEvent" alt="" coords="472,5,683,51"/>
+<area shape="rect" id="node9" href="$df/df0/class_length.html#a5aef66a62c626dea314f1a1e1716534b" title="Set the length in pixels (from QGraphics* objects) " alt="" coords="507,75,648,104"/>
+<area shape="rect" id="node13" href="$d0/d69/class_point.html#aaf8d7a6826dcd72e03dc632960106b90" title="Map this Point object to a specific grid interval. " alt="" coords="516,152,639,181"/>
+<area shape="rect" id="node11" href="$df/df0/class_length.html#a73dbcae99cc78c7f7e737d5211154527" title="Set the length from a floating point number in nanometers. " alt="" coords="732,75,916,104"/>
+</map>

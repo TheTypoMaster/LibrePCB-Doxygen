@@ -1,0 +1,18 @@
+<map id="parseDomTree" name="parseDomTree">
+<area shape="rect" id="node3" href="$d3/d60/classlibrary_1_1_library_category.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::LibraryCategory\l::parseDomTree" alt="" coords="163,74,320,121"/>
+<area shape="rect" id="node9" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" title="readFromFile" alt="" coords="192,240,291,269"/>
+<area shape="rect" id="node19" href="$d8/dff/classlibrary_1_1_library_element.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::LibraryElement\l::parseDomTree" alt="" coords="165,562,317,609"/>
+<area shape="rect" id="node5" href="$da/dc5/classlibrary_1_1_component_category.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::ComponentCategory\l::parseDomTree" alt="" coords="381,5,565,51"/>
+<area shape="rect" id="node7" href="$df/d5f/classlibrary_1_1_package_category.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::PackageCategory\l::parseDomTree" alt="" coords="389,74,557,121"/>
+<area shape="rect" id="node11" href="$da/dae/classlibrary_1_1_model3_d.html#a8b72b474ce5da29cb412cd28207bc973" title="library::Model3D::Model3D" alt="" coords="385,144,561,173"/>
+<area shape="rect" id="node13" href="$da/dc5/classlibrary_1_1_component_category.html#a3ad0bd54ad01d7475965eb920648b6b9" title="library::ComponentCategory\l::ComponentCategory" alt="" coords="381,197,565,243"/>
+<area shape="rect" id="node15" href="$df/d5f/classlibrary_1_1_package_category.html#aa4dce7e624ac2ebbdf863f5241e2ca32" title="library::PackageCategory\l::PackageCategory" alt="" coords="389,266,557,313"/>
+<area shape="rect" id="node17" href="$da/d3b/classlibrary_1_1_spice_model.html#a142c4797c3a7503133cae731267f9a22" title="library::SpiceModel\l::SpiceModel" alt="" coords="407,335,540,382"/>
+<area shape="rect" id="node21" href="$da/dae/classlibrary_1_1_model3_d.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::Model3D::parseDomTree" alt="" coords="368,405,579,435"/>
+<area shape="rect" id="node23" href="$d3/dad/classlibrary_1_1_component.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::Component\l::parseDomTree" alt="" coords="408,458,539,505"/>
+<area shape="rect" id="node25" href="$d8/dea/classlibrary_1_1_footprint.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::Footprint\l::parseDomTree" alt="" coords="416,527,531,574"/>
+<area shape="rect" id="node27" href="$d7/d7c/classlibrary_1_1_generic_component.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::GenericComponent\l::parseDomTree" alt="" coords="385,597,561,643"/>
+<area shape="rect" id="node29" href="$d1/dcf/classlibrary_1_1_package.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::Package::parseDomTree" alt="" coords="368,667,579,696"/>
+<area shape="rect" id="node31" href="$da/d3b/classlibrary_1_1_spice_model.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::SpiceModel\l::parseDomTree" alt="" coords="407,719,540,766"/>
+<area shape="rect" id="node33" href="$d9/db9/classlibrary_1_1_symbol.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::Symbol::parseDomTree" alt="" coords="372,789,575,819"/>
+</map>

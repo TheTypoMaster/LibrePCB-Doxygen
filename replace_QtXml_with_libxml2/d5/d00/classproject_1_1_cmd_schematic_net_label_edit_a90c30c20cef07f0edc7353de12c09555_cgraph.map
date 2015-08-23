@@ -1,0 +1,5 @@
+<map id="~CmdSchematicNetLabelEdit" name="~CmdSchematicNetLabelEdit">
+<area shape="rect" id="node3" href="$d1/d7b/classproject_1_1_s_i___net_label.html#a6c8d1949f20fd5639ae720fa00aa1241" title="project::SI_NetLabel\l::setNetSignal" alt="" coords="248,5,389,51"/>
+<area shape="rect" id="node5" href="$d1/d7b/classproject_1_1_s_i___net_label.html#aed08011e6158136fd130624f64f14307" title="project::SI_NetLabel\l::setPosition" alt="" coords="248,74,389,121"/>
+<area shape="rect" id="node7" href="$d1/d7b/classproject_1_1_s_i___net_label.html#ab3dec6c106a391608e2795aafd907546" title="project::SI_NetLabel\l::setRotation" alt="" coords="248,143,389,190"/>
+</map>

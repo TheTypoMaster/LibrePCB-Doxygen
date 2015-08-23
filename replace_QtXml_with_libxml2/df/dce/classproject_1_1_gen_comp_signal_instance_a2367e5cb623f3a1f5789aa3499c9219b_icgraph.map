@@ -1,0 +1,9 @@
+<map id="getNetSignal" name="getNetSignal">
+<area shape="rect" id="node3" href="$da/d6f/classproject_1_1_s_g_i___symbol_pin.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::SGI_SymbolPin\l::paint" alt="" coords="152,5,315,51"/>
+<area shape="rect" id="node5" href="$d3/d43/classproject_1_1_s_i___net_point.html#a452a0b25e1716bec8ba4ad69b9d1786d" title="project::SI_NetPoint\l::SI_NetPoint" alt="" coords="164,74,303,121"/>
+<area shape="rect" id="node7" href="$d3/d43/classproject_1_1_s_i___net_point.html#aad648031067c9ed02fa9daa1c426ff92" title="project::SI_NetPoint\l::attachToPin" alt="" coords="164,143,303,190"/>
+<area shape="rect" id="node13" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#ac0d67255f68a55c37b5a1e2a661ab69c" title="project::SES_DrawWire\l::startPositioning" alt="" coords="153,213,313,259"/>
+<area shape="rect" id="node15" href="$df/d64/classproject_1_1_s_e_s___draw_wire.html#a72ccca96a5dabd93710518c9d18b93a1" title="project::SES_DrawWire\l::addNextNetPoint" alt="" coords="153,282,313,329"/>
+<area shape="rect" id="node9" href="$d1/d92/classproject_1_1_cmd_schematic_net_point_detach.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="364,109,543,155"/>
+<area shape="rect" id="node11" href="$d1/d92/classproject_1_1_cmd_schematic_net_point_detach.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="364,178,543,225"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="FootprintPad" name="FootprintPad">
+<area shape="rect" id="node3" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a6082cb826f55941403d9bf4fb771928f" title="Read locale&#45;dependent strings from a DOM node and insert them in a QMap. " alt="" coords="151,23,332,70"/>
+<area shape="rect" id="node5" href="$d1/d1f/class_xml_dom_element.html#a95f6de04ddcc9336005e890a5bca080a" title="Get the first child element of this element. " alt="" coords="388,5,591,35"/>
+<area shape="rect" id="node7" href="$d1/d1f/class_xml_dom_element.html#a3cd8526c7b8169654ac3b2357af7392e" title="Get the next sibling element (with a specific name) " alt="" coords="383,59,596,88"/>
+<area shape="rect" id="node9" href="$d1/d1f/class_xml_dom_element.html#adc4e44d2a70ffd20acf6f46952f44723" title="Get the next child (with a specific name) of a specific child. " alt="" coords="645,59,851,88"/>
+<area shape="rect" id="node11" href="$d1/d1f/class_xml_dom_element.html#ab0c96f485564e41206ce9a4ce42ba389" title="Get the tag name of this element. " alt="" coords="900,59,1081,88"/>
+</map>
