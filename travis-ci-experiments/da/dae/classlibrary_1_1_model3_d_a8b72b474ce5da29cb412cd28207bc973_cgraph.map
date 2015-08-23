@@ -1,0 +1,12 @@
+<map id="Model3D" name="Model3D">
+<area shape="rect" id="node3" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" title="library::LibraryBaseElement\l::readFromFile" alt="" coords="129,183,311,230"/>
+<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#a2cc965936000d08100b8b2e503d975a4" title="Get the whole filename (without the path) of the file or directory. " alt="" coords="379,5,528,35"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#aed11b2f2b9590d9ac21e452b8ad11c46" title="Check if the specified filepath is an existing directory. " alt="" coords="377,59,529,88"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#af27e4f117ace775ab38ae937c12cd37a" title="Get the absolute filepath with native directory separators (&quot;/&quot; resp. &quot;\&quot;) " alt="" coords="391,112,516,141"/>
+<area shape="rect" id="node11" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="384,165,523,195"/>
+<area shape="rect" id="node13" href="$d4/d1c/class_file_path.html#af7ebe5b84330753a4d61b36199f3da48" title="Check if the specified filepath is an existing file. " alt="" coords="376,219,531,248"/>
+<area shape="rect" id="node15" href="$da/db0/class_smart_xml_file.html#a6685c26dd2c2668f47d5fae96c4c319f" title="Open and parse the XML file and build the whole DOM tree. " alt="" coords="361,271,545,318"/>
+<area shape="rect" id="node17" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="library::LibraryBaseElement\l::parseDomTree" alt="" coords="363,341,544,387"/>
+<area shape="rect" id="node19" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="363,410,544,457"/>
+<area shape="rect" id="node21" href="$de/d34/class_version.html#a0a886a9edf5bf682f5245159661bfc94" title="Check if the object represents a valid version number. " alt="" coords="596,419,708,448"/>
+</map>

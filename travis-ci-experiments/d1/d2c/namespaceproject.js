@@ -5,6 +5,7 @@ var namespaceproject =
     [ "CmdBoardAdd", "d0/d91/classproject_1_1_cmd_board_add.html", "d0/d91/classproject_1_1_cmd_board_add" ],
     [ "CmdComponentInstanceAdd", "d6/d6a/classproject_1_1_cmd_component_instance_add.html", "d6/d6a/classproject_1_1_cmd_component_instance_add" ],
     [ "CmdComponentInstanceEdit", "d8/d2c/classproject_1_1_cmd_component_instance_edit.html", "d8/d2c/classproject_1_1_cmd_component_instance_edit" ],
+    [ "CmdComponentInstanceRemove", "d3/df7/classproject_1_1_cmd_component_instance_remove.html", "d3/df7/classproject_1_1_cmd_component_instance_remove" ],
     [ "ComponentInstance", "d0/d7d/classproject_1_1_component_instance.html", "d0/d7d/classproject_1_1_component_instance" ],
     [ "BGI_Base", "d2/d14/classproject_1_1_b_g_i___base.html", "d2/d14/classproject_1_1_b_g_i___base" ],
     [ "BGI_Footprint", "dc/d87/classproject_1_1_b_g_i___footprint.html", "dc/d87/classproject_1_1_b_g_i___footprint" ],

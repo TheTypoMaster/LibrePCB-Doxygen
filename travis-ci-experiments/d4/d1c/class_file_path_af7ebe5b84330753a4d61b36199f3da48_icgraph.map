@@ -1,6 +1,10 @@
 <map id="isExistingFile" name="isExistingFile">
-<area shape="rect" id="node3" href="$d1/d7f/class_smart_file.html#ae26b12e9a273928cb2bef60733d53be3" title="The destructor. " alt="" coords="163,5,312,35"/>
-<area shape="rect" id="node5" href="$d1/d7f/class_smart_file.html#aad04c6beb14eb767757a86a5f0d67893" title="Remove the file from the file system. " alt="" coords="163,59,312,88"/>
-<area shape="rect" id="node7" href="$d9/d30/classproject_1_1_project_library.html#a66be7fb27dfb9ffcd6333afaff0c8d77" title="project::ProjectLibrary\l::loadElements" alt="" coords="163,111,312,158"/>
-<area shape="rect" id="node9" href="$db/d9c/class_project_tree_item.html#a1ad168c613453fd34bb78cc6ce8e4c23" title="ProjectTreeItem::Project\lTreeItem" alt="" coords="156,181,319,227"/>
+<area shape="rect" id="node3" href="$d1/d7f/class_smart_file.html#ae26b12e9a273928cb2bef60733d53be3" title="The destructor. " alt="" coords="172,5,321,35"/>
+<area shape="rect" id="node5" href="$d1/d7f/class_smart_file.html#aad04c6beb14eb767757a86a5f0d67893" title="Remove the file from the file system. " alt="" coords="172,59,321,88"/>
+<area shape="rect" id="node7" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" title="library::LibraryBaseElement\l::readFromFile" alt="" coords="156,111,337,158"/>
+<area shape="rect" id="node17" href="$db/d9c/class_project_tree_item.html#a1ad168c613453fd34bb78cc6ce8e4c23" title="ProjectTreeItem::Project\lTreeItem" alt="" coords="165,181,328,227"/>
+<area shape="rect" id="node9" href="$da/dae/classlibrary_1_1_model3_d.html#a8b72b474ce5da29cb412cd28207bc973" title="library::Model3D::Model3D" alt="" coords="392,24,568,53"/>
+<area shape="rect" id="node11" href="$da/dc5/classlibrary_1_1_component_category.html#a3ad0bd54ad01d7475965eb920648b6b9" title="library::ComponentCategory\l::ComponentCategory" alt="" coords="388,77,572,123"/>
+<area shape="rect" id="node13" href="$df/d5f/classlibrary_1_1_package_category.html#aa4dce7e624ac2ebbdf863f5241e2ca32" title="library::PackageCategory\l::PackageCategory" alt="" coords="396,146,564,193"/>
+<area shape="rect" id="node15" href="$da/d3b/classlibrary_1_1_spice_model.html#a142c4797c3a7503133cae731267f9a22" title="library::SpiceModel\l::SpiceModel" alt="" coords="413,215,547,262"/>
 </map>

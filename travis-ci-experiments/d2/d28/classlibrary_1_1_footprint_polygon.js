@@ -18,7 +18,7 @@ var classlibrary_1_1_footprint_polygon =
     [ "setStartPos", "d2/d28/classlibrary_1_1_footprint_polygon.html#abdc391a5635db9170523fbb4e43a9bdd", null ],
     [ "clearSegments", "d2/d28/classlibrary_1_1_footprint_polygon.html#a5f32974f7cb7aa3ca4026ea764981d77", null ],
     [ "appendSegment", "d2/d28/classlibrary_1_1_footprint_polygon.html#a78f46c28f6fa9f3052594fbec61bfbb7", null ],
-    [ "serializeToXmlDomElement", "d2/d28/classlibrary_1_1_footprint_polygon.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d2/d28/classlibrary_1_1_footprint_polygon.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "operator=", "d2/d28/classlibrary_1_1_footprint_polygon.html#ac13b1ad664be3956c6cf53a8a7fbf4ec", null ],
     [ "checkAttributesValidity", "d2/d28/classlibrary_1_1_footprint_polygon.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "mLayerId", "d2/d28/classlibrary_1_1_footprint_polygon.html#ac25683e78ab19e80ff235ebfcfa41861", null ],

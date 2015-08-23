@@ -4,32 +4,37 @@
 <area shape="rect" id="node7" href="$d1/def/class_control_panel.html#ac1e15520ed755e001af244cbac783e45" title="ControlPanel::on_project\lTreeView_clicked" alt="" coords="159,143,324,190"/>
 <area shape="rect" id="node9" href="$d1/def/class_control_panel.html#aa672ff8a97e321867ca8e6dcb6fba766" title="ControlPanel::on_recentProjects\lListView_entered" alt="" coords="136,213,347,259"/>
 <area shape="rect" id="node11" href="$d1/def/class_control_panel.html#a731823f47c02a604ac8219a70bfbf9e7" title="ControlPanel::on_favorite\lProjectsListView_entered" alt="" coords="156,282,327,329"/>
-<area shape="rect" id="node13" href="$d9/d30/classproject_1_1_project_library.html#a66be7fb27dfb9ffcd6333afaff0c8d77" title="project::ProjectLibrary\l::loadElements" alt="" coords="167,351,316,398"/>
-<area shape="rect" id="node15" href="$d2/d05/classproject_1_1_project.html#af2c0a8844d704d11396c27da7674aac0" title="Create a new schematic (page) " alt="" coords="164,421,319,467"/>
-<area shape="rect" id="node19" href="$d2/d05/classproject_1_1_project.html#abb42aca60475f475ac2f0cd2ccbc5cb0" title="Create a new board. " alt="" coords="164,490,319,537"/>
-<area shape="rect" id="node23" href="$d6/d7e/class_favorite_projects_model.html#aa2a1f5c6e270bd5457719ec969258130" title="FavoriteProjectsModel\l::FavoriteProjectsModel" alt="" coords="161,559,321,606"/>
-<area shape="rect" id="node25" href="$d6/d7e/class_favorite_projects_model.html#aae2c382151ef7c9aa913361172b30db6" title="FavoriteProjectsModel\l::save" alt="" coords="165,629,317,675"/>
-<area shape="rect" id="node31" href="$d2/d25/class_recent_projects_model.html#a24e2b4ea548893a1902224f486e86e30" title="RecentProjectsModel\l::RecentProjectsModel" alt="" coords="164,698,319,745"/>
-<area shape="rect" id="node33" href="$d2/d25/class_recent_projects_model.html#aae2c382151ef7c9aa913361172b30db6" title="RecentProjectsModel\l::save" alt="" coords="168,767,315,814"/>
-<area shape="rect" id="node37" href="$d4/dda/class_w_s_i___base.html#a0f7bb55258f34aed2dd7d672da9ab551" title="WSI_Base::saveValue" alt="" coords="164,891,319,920"/>
-<area shape="rect" id="node51" href="$d4/dda/class_w_s_i___base.html#a5605b64c01b2ac306d1291d437d47f82" title="WSI_Base::loadValue" alt="" coords="167,1252,316,1281"/>
-<area shape="rect" id="node67" href="$de/d52/class_workspace_settings.html#a89db108216386abbdb034844da9485c9" title="WorkspaceSettings::\lWorkspaceSettings" alt="" coords="169,1305,313,1351"/>
-<area shape="rect" id="node17" href="$d0/db5/classproject_1_1_cmd_schematic_add.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="439,421,620,467"/>
-<area shape="rect" id="node21" href="$d0/d91/classproject_1_1_cmd_board_add.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="452,490,607,537"/>
-<area shape="rect" id="node27" href="$d6/d7e/class_favorite_projects_model.html#a365b771b224c9ec2d697046ef689aefb" title="FavoriteProjectsModel\l::addFavoriteProject" alt="" coords="453,559,605,606"/>
-<area shape="rect" id="node29" href="$d6/d7e/class_favorite_projects_model.html#afb1218eb9a356dd6541f6144d883a573" title="FavoriteProjectsModel\l::removeFavoriteProject" alt="" coords="449,629,609,675"/>
-<area shape="rect" id="node35" href="$d2/d25/class_recent_projects_model.html#a17734f75d46ca0bd8d6c7d2672c06c40" title="RecentProjectsModel\l::setLastRecentProject" alt="" coords="452,698,607,745"/>
-<area shape="rect" id="node39" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a95067243b72a23863ec07c821797455c" title="WSI_AppDefaultMeasurement\lUnits::apply" alt="" coords="431,767,628,814"/>
-<area shape="rect" id="node41" href="$d8/dcb/class_w_s_i___appearance.html#a95067243b72a23863ec07c821797455c" title="WSI_Appearance::apply" alt="" coords="448,837,611,867"/>
-<area shape="rect" id="node43" href="$db/d82/class_w_s_i___app_locale.html#a95067243b72a23863ec07c821797455c" title="WSI_AppLocale::apply" alt="" coords="452,891,607,920"/>
-<area shape="rect" id="node45" href="$de/ded/class_w_s_i___library_locale_order.html#a95067243b72a23863ec07c821797455c" title="WSI_LibraryLocaleOrder\l::apply" alt="" coords="448,943,611,990"/>
-<area shape="rect" id="node47" href="$d5/da3/class_w_s_i___library_norm_order.html#a95067243b72a23863ec07c821797455c" title="WSI_LibraryNormOrder\l::apply" alt="" coords="451,1013,608,1059"/>
-<area shape="rect" id="node49" href="$d6/d31/class_w_s_i___project_autosave_interval.html#a95067243b72a23863ec07c821797455c" title="WSI_ProjectAutosaveInterval\l::apply" alt="" coords="432,1082,627,1129"/>
-<area shape="rect" id="node53" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a03e8889c79d47c2b4e92db649482ea89" title="WSI_AppDefaultMeasurement\lUnits::WSI_AppDefaultMeasurementUnits" alt="" coords="395,1151,664,1198"/>
-<area shape="rect" id="node55" href="$d8/dcb/class_w_s_i___appearance.html#a9cf620340e16aa417bb112e0294038df" title="WSI_Appearance::revert" alt="" coords="447,1221,612,1251"/>
-<area shape="rect" id="node59" href="$db/d82/class_w_s_i___app_locale.html#a3347b76430f2ceefbb57ed5840939cac" title="WSI_AppLocale::WSI\l_AppLocale" alt="" coords="455,1274,604,1321"/>
-<area shape="rect" id="node61" href="$de/ded/class_w_s_i___library_locale_order.html#a023f5c45e58a3266fb69f0c66b442a40" title="WSI_LibraryLocaleOrder\l::WSI_LibraryLocaleOrder" alt="" coords="444,1343,615,1390"/>
-<area shape="rect" id="node63" href="$d5/da3/class_w_s_i___library_norm_order.html#a07b6b69b35c9e4bc91f9a27c8dabeb0a" title="WSI_LibraryNormOrder\l::WSI_LibraryNormOrder" alt="" coords="447,1413,612,1459"/>
-<area shape="rect" id="node65" href="$d6/d31/class_w_s_i___project_autosave_interval.html#af7d72a882dce1d0c39b7716899958ddf" title="WSI_ProjectAutosaveInterval\l::WSI_ProjectAutosaveInterval" alt="" coords="428,1482,631,1529"/>
-<area shape="rect" id="node57" href="$d8/dcb/class_w_s_i___appearance.html#a44d1a1a26da2f0cc612f11c2f30d745e" title="WSI_Appearance::WSI\l_Appearance" alt="" coords="713,1213,871,1259"/>
+<area shape="rect" id="node13" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" title="library::LibraryBaseElement\l::readFromFile" alt="" coords="151,351,332,398"/>
+<area shape="rect" id="node23" href="$d2/d05/classproject_1_1_project.html#af2c0a8844d704d11396c27da7674aac0" title="Create a new schematic (page) " alt="" coords="164,421,319,467"/>
+<area shape="rect" id="node27" href="$d2/d05/classproject_1_1_project.html#abb42aca60475f475ac2f0cd2ccbc5cb0" title="Create a new board. " alt="" coords="164,490,319,537"/>
+<area shape="rect" id="node31" href="$d2/d05/classproject_1_1_project.html#a448e53b465f12e54d5ccbe0b6fbf14b3" title="Serialize the object to a XML DOM element. " alt="" coords="159,559,324,606"/>
+<area shape="rect" id="node33" href="$d6/d7e/class_favorite_projects_model.html#aa2a1f5c6e270bd5457719ec969258130" title="FavoriteProjectsModel\l::FavoriteProjectsModel" alt="" coords="161,629,321,675"/>
+<area shape="rect" id="node35" href="$d6/d7e/class_favorite_projects_model.html#aae2c382151ef7c9aa913361172b30db6" title="FavoriteProjectsModel\l::save" alt="" coords="165,698,317,745"/>
+<area shape="rect" id="node41" href="$d2/d25/class_recent_projects_model.html#a24e2b4ea548893a1902224f486e86e30" title="RecentProjectsModel\l::RecentProjectsModel" alt="" coords="164,767,319,814"/>
+<area shape="rect" id="node43" href="$d2/d25/class_recent_projects_model.html#aae2c382151ef7c9aa913361172b30db6" title="RecentProjectsModel\l::save" alt="" coords="168,837,315,883"/>
+<area shape="rect" id="node47" href="$d4/dda/class_w_s_i___base.html#a0f7bb55258f34aed2dd7d672da9ab551" title="WSI_Base::saveValue" alt="" coords="164,933,319,963"/>
+<area shape="rect" id="node61" href="$d4/dda/class_w_s_i___base.html#a5605b64c01b2ac306d1291d437d47f82" title="WSI_Base::loadValue" alt="" coords="167,1295,316,1324"/>
+<area shape="rect" id="node77" href="$de/d52/class_workspace_settings.html#a89db108216386abbdb034844da9485c9" title="WorkspaceSettings::\lWorkspaceSettings" alt="" coords="169,1347,313,1394"/>
+<area shape="rect" id="node15" href="$da/dae/classlibrary_1_1_model3_d.html#a8b72b474ce5da29cb412cd28207bc973" title="library::Model3D::Model3D" alt="" coords="441,181,617,211"/>
+<area shape="rect" id="node17" href="$da/dc5/classlibrary_1_1_component_category.html#a3ad0bd54ad01d7475965eb920648b6b9" title="library::ComponentCategory\l::ComponentCategory" alt="" coords="437,234,621,281"/>
+<area shape="rect" id="node19" href="$df/d5f/classlibrary_1_1_package_category.html#aa4dce7e624ac2ebbdf863f5241e2ca32" title="library::PackageCategory\l::PackageCategory" alt="" coords="445,303,613,350"/>
+<area shape="rect" id="node21" href="$da/d3b/classlibrary_1_1_spice_model.html#a142c4797c3a7503133cae731267f9a22" title="library::SpiceModel\l::SpiceModel" alt="" coords="463,373,596,419"/>
+<area shape="rect" id="node25" href="$d0/db5/classproject_1_1_cmd_schematic_add.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="439,442,620,489"/>
+<area shape="rect" id="node29" href="$d0/d91/classproject_1_1_cmd_board_add.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="452,511,607,558"/>
+<area shape="rect" id="node37" href="$d6/d7e/class_favorite_projects_model.html#a365b771b224c9ec2d697046ef689aefb" title="FavoriteProjectsModel\l::addFavoriteProject" alt="" coords="453,602,605,649"/>
+<area shape="rect" id="node39" href="$d6/d7e/class_favorite_projects_model.html#afb1218eb9a356dd6541f6144d883a573" title="FavoriteProjectsModel\l::removeFavoriteProject" alt="" coords="449,671,609,718"/>
+<area shape="rect" id="node45" href="$d2/d25/class_recent_projects_model.html#a17734f75d46ca0bd8d6c7d2672c06c40" title="RecentProjectsModel\l::setLastRecentProject" alt="" coords="452,741,607,787"/>
+<area shape="rect" id="node49" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a95067243b72a23863ec07c821797455c" title="WSI_AppDefaultMeasurement\lUnits::apply" alt="" coords="431,810,628,857"/>
+<area shape="rect" id="node51" href="$d8/dcb/class_w_s_i___appearance.html#a95067243b72a23863ec07c821797455c" title="WSI_Appearance::apply" alt="" coords="448,880,611,909"/>
+<area shape="rect" id="node53" href="$db/d82/class_w_s_i___app_locale.html#a95067243b72a23863ec07c821797455c" title="WSI_AppLocale::apply" alt="" coords="452,933,607,963"/>
+<area shape="rect" id="node55" href="$de/ded/class_w_s_i___library_locale_order.html#a95067243b72a23863ec07c821797455c" title="WSI_LibraryLocaleOrder\l::apply" alt="" coords="448,986,611,1033"/>
+<area shape="rect" id="node57" href="$d5/da3/class_w_s_i___library_norm_order.html#a95067243b72a23863ec07c821797455c" title="WSI_LibraryNormOrder\l::apply" alt="" coords="451,1055,608,1102"/>
+<area shape="rect" id="node59" href="$d6/d31/class_w_s_i___project_autosave_interval.html#a95067243b72a23863ec07c821797455c" title="WSI_ProjectAutosaveInterval\l::apply" alt="" coords="432,1125,627,1171"/>
+<area shape="rect" id="node63" href="$d3/d01/class_w_s_i___app_default_measurement_units.html#a03e8889c79d47c2b4e92db649482ea89" title="WSI_AppDefaultMeasurement\lUnits::WSI_AppDefaultMeasurementUnits" alt="" coords="395,1194,664,1241"/>
+<area shape="rect" id="node65" href="$d8/dcb/class_w_s_i___appearance.html#a9cf620340e16aa417bb112e0294038df" title="WSI_Appearance::revert" alt="" coords="447,1264,612,1293"/>
+<area shape="rect" id="node69" href="$db/d82/class_w_s_i___app_locale.html#a3347b76430f2ceefbb57ed5840939cac" title="WSI_AppLocale::WSI\l_AppLocale" alt="" coords="455,1317,604,1363"/>
+<area shape="rect" id="node71" href="$de/ded/class_w_s_i___library_locale_order.html#a023f5c45e58a3266fb69f0c66b442a40" title="WSI_LibraryLocaleOrder\l::WSI_LibraryLocaleOrder" alt="" coords="444,1386,615,1433"/>
+<area shape="rect" id="node73" href="$d5/da3/class_w_s_i___library_norm_order.html#a07b6b69b35c9e4bc91f9a27c8dabeb0a" title="WSI_LibraryNormOrder\l::WSI_LibraryNormOrder" alt="" coords="447,1455,612,1502"/>
+<area shape="rect" id="node75" href="$d6/d31/class_w_s_i___project_autosave_interval.html#af7d72a882dce1d0c39b7716899958ddf" title="WSI_ProjectAutosaveInterval\l::WSI_ProjectAutosaveInterval" alt="" coords="428,1525,631,1571"/>
+<area shape="rect" id="node67" href="$d8/dcb/class_w_s_i___appearance.html#a44d1a1a26da2f0cc612f11c2f30d745e" title="WSI_Appearance::WSI\l_Appearance" alt="" coords="713,1255,871,1302"/>
 </map>

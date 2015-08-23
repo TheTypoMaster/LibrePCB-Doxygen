@@ -54,10 +54,10 @@
 </g>
 <!-- Node6 -->
 <g id="node11" class="node"><title>Node6</title>
-<a xlink:href="../../d0/dfd/classlibrary_1_1_symbol_pin.html#a894842161e505b56d67b0cf5b0f50087" target="_top" xlink:title="library::SymbolPin\l::getAngle">
+<a xlink:href="../../d0/dfd/classlibrary_1_1_symbol_pin.html#a01f0e165edb023b0c50cdbfd70f36021" target="_top" xlink:title="library::SymbolPin\l::getRotation">
 <polygon fill="white" stroke="black" points="183,-40 183,-74 279,-74 279,-40 183,-40"/>
 <text text-anchor="start" x="191" y="-61" font-family="Helvetica,sans-Serif" font-size="10.00">library::SymbolPin</text>
-<text text-anchor="middle" x="231" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">::getAngle</text>
+<text text-anchor="middle" x="231" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">::getRotation</text>
 </a>
 </g>
 <!-- Node1&#45;&gt;Node6 -->

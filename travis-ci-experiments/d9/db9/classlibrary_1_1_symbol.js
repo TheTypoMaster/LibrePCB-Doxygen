@@ -1,7 +1,7 @@
 var classlibrary_1_1_symbol =
 [
     [ "Symbol", "d9/db9/classlibrary_1_1_symbol.html#a9b844b85b362ee89befb0ba2bfb2bd99", null ],
-    [ "Symbol", "d9/db9/classlibrary_1_1_symbol.html#a451c58282a63a9ad6e61c45b1ed9c40f", null ],
+    [ "Symbol", "d9/db9/classlibrary_1_1_symbol.html#aa438718c010a729e97cc0155d289170c", null ],
     [ "~Symbol", "d9/db9/classlibrary_1_1_symbol.html#a1d800562239ec5600bc1cd723c67bdfd", null ],
     [ "Symbol", "d9/db9/classlibrary_1_1_symbol.html#a71b8fb7e67d77da42d68d8e4d571fc65", null ],
     [ "getPinByUuid", "d9/db9/classlibrary_1_1_symbol.html#a1d48ff89e6c0f0b384b452b020e7d6b2", null ],
@@ -16,7 +16,7 @@ var classlibrary_1_1_symbol =
     [ "addEllipse", "d9/db9/classlibrary_1_1_symbol.html#a623d4ef3b61b806a3b47ad722b03bde6", null ],
     [ "operator=", "d9/db9/classlibrary_1_1_symbol.html#a9f127d0090b1e91e48ba119391c98b2b", null ],
     [ "parseDomTree", "d9/db9/classlibrary_1_1_symbol.html#ad6c2bb438fe200b1224b2d8e05d3eca0", null ],
-    [ "serializeToXmlDomElement", "d9/db9/classlibrary_1_1_symbol.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d9/db9/classlibrary_1_1_symbol.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "checkAttributesValidity", "d9/db9/classlibrary_1_1_symbol.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "mPins", "d9/db9/classlibrary_1_1_symbol.html#a0539d354d1bfb3189d6e406dd506dde9", null ],
     [ "mPolygons", "d9/db9/classlibrary_1_1_symbol.html#a9325fb7b034e4d6afb64338d128c563e", null ],

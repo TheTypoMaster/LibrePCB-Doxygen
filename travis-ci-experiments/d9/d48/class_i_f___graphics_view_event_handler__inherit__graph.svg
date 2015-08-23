@@ -23,52 +23,53 @@
 <!-- Node2 -->
 <g id="node3" class="node"><title>Node2</title>
 <a xlink:href="../../d4/dfb/classproject_1_1_board_editor.html" target="_top" xlink:title="The BoardEditor class. ">
-<polygon fill="white" stroke="black" points="-0.5,-72 -0.5,-590 162.5,-590 162.5,-72 -0.5,-72"/>
-<text text-anchor="middle" x="81" y="-577" font-family="Helvetica,sans-Serif" font-size="10.00">BoardEditor</text>
-<polyline fill="none" stroke="black" points="-0.5,-569 162.5,-569 "/>
-<text text-anchor="start" x="7.5" y="-556" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mProjectEditor</text>
-<text text-anchor="start" x="7.5" y="-543" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mProject</text>
-<text text-anchor="start" x="7.5" y="-530" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mUi</text>
-<text text-anchor="start" x="7.5" y="-517" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGraphicsView</text>
-<text text-anchor="start" x="7.5" y="-504" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGridProperties</text>
-<text text-anchor="start" x="7.5" y="-491" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mActiveBoardIndex</text>
-<text text-anchor="start" x="7.5" y="-478" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoardListActions</text>
-<text text-anchor="start" x="7.5" y="-465" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoardListActionGroup</text>
-<text text-anchor="start" x="7.5" y="-452" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mErcMsgDock</text>
-<text text-anchor="start" x="7.5" y="-439" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mUnplacedComponentsDock</text>
-<text text-anchor="start" x="7.5" y="-426" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFsm</text>
-<polyline fill="none" stroke="black" points="-0.5,-418 162.5,-418 "/>
-<text text-anchor="start" x="7.5" y="-405" font-family="Helvetica,sans-Serif" font-size="10.00">+ BoardEditor()</text>
-<text text-anchor="start" x="7.5" y="-392" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~BoardEditor()</text>
-<text text-anchor="start" x="7.5" y="-379" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
-<text text-anchor="start" x="7.5" y="-366" font-family="Helvetica,sans-Serif" font-size="10.00">+ getActiveBoardIndex()</text>
-<text text-anchor="start" x="7.5" y="-353" font-family="Helvetica,sans-Serif" font-size="10.00">+ getActiveBoard()</text>
-<text text-anchor="start" x="7.5" y="-340" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGridProperties()</text>
-<text text-anchor="start" x="7.5" y="-327" font-family="Helvetica,sans-Serif" font-size="10.00">+ setActiveBoardIndex()</text>
-<text text-anchor="start" x="7.5" y="-314" font-family="Helvetica,sans-Serif" font-size="10.00">+ abortAllCommands()</text>
-<text text-anchor="start" x="7.5" y="-301" font-family="Helvetica,sans-Serif" font-size="10.00">+ boardAdded()</text>
-<text text-anchor="start" x="7.5" y="-288" font-family="Helvetica,sans-Serif" font-size="10.00">+ boardRemoved()</text>
-<text text-anchor="start" x="7.5" y="-275" font-family="Helvetica,sans-Serif" font-size="10.00"># closeEvent()</text>
-<text text-anchor="start" x="7.5" y="-262" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; BoardEditor()</text>
-<text text-anchor="start" x="7.5" y="-249" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; BoardEditor()</text>
-<text text-anchor="start" x="7.5" y="-236" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
-<text text-anchor="start" x="7.5" y="-223" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; graphicsViewEventHandler()</text>
-<text text-anchor="start" x="7.5" y="-210" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionProjectClose</text>
-<text text-anchor="start" x="7.5" y="-197" font-family="Helvetica,sans-Serif" font-size="10.00">_triggered()</text>
-<text text-anchor="start" x="7.5" y="-184" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionNewBoard_triggered()</text>
-<text text-anchor="start" x="7.5" y="-171" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionUndo_triggered()</text>
-<text text-anchor="start" x="7.5" y="-158" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionRedo_triggered()</text>
-<text text-anchor="start" x="7.5" y="-145" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionGrid_triggered()</text>
-<text text-anchor="start" x="7.5" y="-132" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionExportAsPdf</text>
-<text text-anchor="start" x="7.5" y="-119" font-family="Helvetica,sans-Serif" font-size="10.00">_triggered()</text>
-<text text-anchor="start" x="7.5" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionProjectProperties</text>
-<text text-anchor="start" x="7.5" y="-93" font-family="Helvetica,sans-Serif" font-size="10.00">_triggered()</text>
-<text text-anchor="start" x="7.5" y="-80" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; boardListActionGroupTriggered()</text>
+<polygon fill="white" stroke="black" points="-0.5,-65.5 -0.5,-596.5 162.5,-596.5 162.5,-65.5 -0.5,-65.5"/>
+<text text-anchor="middle" x="81" y="-583.5" font-family="Helvetica,sans-Serif" font-size="10.00">BoardEditor</text>
+<polyline fill="none" stroke="black" points="-0.5,-575.5 162.5,-575.5 "/>
+<text text-anchor="start" x="7.5" y="-562.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mProjectEditor</text>
+<text text-anchor="start" x="7.5" y="-549.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mProject</text>
+<text text-anchor="start" x="7.5" y="-536.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mUi</text>
+<text text-anchor="start" x="7.5" y="-523.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGraphicsView</text>
+<text text-anchor="start" x="7.5" y="-510.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mGridProperties</text>
+<text text-anchor="start" x="7.5" y="-497.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mActiveBoardIndex</text>
+<text text-anchor="start" x="7.5" y="-484.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoardListActions</text>
+<text text-anchor="start" x="7.5" y="-471.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mBoardListActionGroup</text>
+<text text-anchor="start" x="7.5" y="-458.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mErcMsgDock</text>
+<text text-anchor="start" x="7.5" y="-445.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mUnplacedComponentsDock</text>
+<text text-anchor="start" x="7.5" y="-432.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mFsm</text>
+<polyline fill="none" stroke="black" points="-0.5,-424.5 162.5,-424.5 "/>
+<text text-anchor="start" x="7.5" y="-411.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ BoardEditor()</text>
+<text text-anchor="start" x="7.5" y="-398.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~BoardEditor()</text>
+<text text-anchor="start" x="7.5" y="-385.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProjectEditor()</text>
+<text text-anchor="start" x="7.5" y="-372.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getProject()</text>
+<text text-anchor="start" x="7.5" y="-359.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getActiveBoardIndex()</text>
+<text text-anchor="start" x="7.5" y="-346.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getActiveBoard()</text>
+<text text-anchor="start" x="7.5" y="-333.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ getGridProperties()</text>
+<text text-anchor="start" x="7.5" y="-320.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ setActiveBoardIndex()</text>
+<text text-anchor="start" x="7.5" y="-307.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ abortAllCommands()</text>
+<text text-anchor="start" x="7.5" y="-294.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ boardAdded()</text>
+<text text-anchor="start" x="7.5" y="-281.5" font-family="Helvetica,sans-Serif" font-size="10.00">+ boardRemoved()</text>
+<text text-anchor="start" x="7.5" y="-268.5" font-family="Helvetica,sans-Serif" font-size="10.00"># closeEvent()</text>
+<text text-anchor="start" x="7.5" y="-255.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; BoardEditor()</text>
+<text text-anchor="start" x="7.5" y="-242.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; BoardEditor()</text>
+<text text-anchor="start" x="7.5" y="-229.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; operator=()</text>
+<text text-anchor="start" x="7.5" y="-216.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; graphicsViewEventHandler()</text>
+<text text-anchor="start" x="7.5" y="-203.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionProjectClose</text>
+<text text-anchor="start" x="7.5" y="-190.5" font-family="Helvetica,sans-Serif" font-size="10.00">_triggered()</text>
+<text text-anchor="start" x="7.5" y="-177.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionNewBoard_triggered()</text>
+<text text-anchor="start" x="7.5" y="-164.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionUndo_triggered()</text>
+<text text-anchor="start" x="7.5" y="-151.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionRedo_triggered()</text>
+<text text-anchor="start" x="7.5" y="-138.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionGrid_triggered()</text>
+<text text-anchor="start" x="7.5" y="-125.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionExportAsPdf</text>
+<text text-anchor="start" x="7.5" y="-112.5" font-family="Helvetica,sans-Serif" font-size="10.00">_triggered()</text>
+<text text-anchor="start" x="7.5" y="-99.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; on_actionProjectProperties</text>
+<text text-anchor="start" x="7.5" y="-86.5" font-family="Helvetica,sans-Serif" font-size="10.00">_triggered()</text>
+<text text-anchor="start" x="7.5" y="-73.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; boardListActionGroupTriggered()</text>
 </a>
 </g>
 <!-- Node1&#45;&gt;Node2 -->
 <g id="edge2" class="edge"><title>Node1&#45;&gt;Node2</title>
-<path fill="none" stroke="midnightblue" d="M156.435,-688.233C150.774,-661.423 143.506,-627.004 135.723,-590.149"/>
+<path fill="none" stroke="midnightblue" d="M156.407,-688.098C151.083,-662.889 144.344,-630.972 137.093,-596.636"/>
 <polygon fill="none" stroke="midnightblue" points="153.033,-689.063 158.524,-698.124 159.882,-687.617 153.033,-689.063"/>
 </g>
 <!-- Node3 -->

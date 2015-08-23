@@ -1,10 +1,11 @@
 <map id="updateCacheAndRepaint" name="updateCacheAndRepaint">
-<area shape="rect" id="node3" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#a894842161e505b56d67b0cf5b0f50087" title="library::SymbolPin\l::getAngle" alt="" coords="233,5,361,51"/>
+<area shape="rect" id="node3" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#a01f0e165edb023b0c50cdbfd70f36021" title="library::SymbolPin\l::getRotation" alt="" coords="233,5,361,51"/>
 <area shape="rect" id="node5" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#ac719981a1c0cd287330632a443776bec" title="project::SI_SymbolPin\l::getSymbol" alt="" coords="221,74,373,121"/>
-<area shape="rect" id="node7" href="$de/d50/classproject_1_1_s_i___symbol.html#a894842161e505b56d67b0cf5b0f50087" title="project::SI_Symbol\l::getAngle" alt="" coords="231,143,364,190"/>
-<area shape="rect" id="node9" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="248,213,347,243"/>
-<area shape="rect" id="node13" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#a2e17cfc864c3d153e0f25bfd79277cd1" title="library::SymbolPin\l::getLength" alt="" coords="233,266,361,313"/>
-<area shape="rect" id="node15" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="249,336,345,365"/>
-<area shape="rect" id="node17" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a82d223627d0c08ce323661100eb289bd" title="project::SI_SymbolPin\l::getDisplayText" alt="" coords="221,389,373,435"/>
-<area shape="rect" id="node11" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="421,213,517,243"/>
+<area shape="rect" id="node7" href="$de/d50/classproject_1_1_s_i___symbol.html#a01f0e165edb023b0c50cdbfd70f36021" title="project::SI_Symbol\l::getRotation" alt="" coords="231,143,364,190"/>
+<area shape="rect" id="node9" href="$d2/d39/class_angle.html#a74e05120ac11f78df41f0a0304990f9f" title="Map this Angle object to [&#45;180..+180[ degrees. " alt="" coords="225,213,369,243"/>
+<area shape="rect" id="node11" href="$d2/d39/class_angle.html#a7f29e0cf68871bab5b01569d78de4504" title="90 degrees " alt="" coords="248,267,347,296"/>
+<area shape="rect" id="node15" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#a2e17cfc864c3d153e0f25bfd79277cd1" title="library::SymbolPin\l::getLength" alt="" coords="233,319,361,366"/>
+<area shape="rect" id="node17" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="249,389,345,419"/>
+<area shape="rect" id="node19" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a82d223627d0c08ce323661100eb289bd" title="project::SI_SymbolPin\l::getDisplayText" alt="" coords="221,442,373,489"/>
+<area shape="rect" id="node13" href="$d2/d39/class_angle.html#ae0cfbf0d84fd0eab0f9dfc1b365b8667" title="Default Constructor. " alt="" coords="421,267,517,296"/>
 </map>

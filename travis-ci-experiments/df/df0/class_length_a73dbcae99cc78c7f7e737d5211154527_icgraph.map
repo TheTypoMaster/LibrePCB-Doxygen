@@ -50,6 +50,6 @@
 <area shape="rect" id="node82" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#abf6af5dc67073d848d5cf561412d4b27" title="project::AddGenCompDialog\l::setSelectedGenComp" alt="" coords="833,946,1020,993"/>
 <area shape="rect" id="node84" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a5951d1d20ef2d9675b3b1690d6799fa7" title="project::AddGenCompDialog\l::on_listGenericComponents\l_currentItemChanged" alt="" coords="1123,897,1309,961"/>
 <area shape="rect" id="node86" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da" title="project::AddGenCompDialog\l::setSelectedCategory" alt="" coords="1123,985,1309,1031"/>
-<area shape="rect" id="node88" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25" title="project::AddGenCompDialog\l::on_treeCategories_currentItem\lChanged" alt="" coords="1377,976,1585,1040"/>
-<area shape="rect" id="node90" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="project::AddGenCompDialog\l::AddGenCompDialog" alt="" coords="1636,985,1823,1031"/>
+<area shape="rect" id="node88" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ab30df3fcf42614694068294b48161b00" title="project::AddGenCompDialog\l::treeCategories_currentItemChanged" alt="" coords="1376,985,1616,1031"/>
+<area shape="rect" id="node90" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="project::AddGenCompDialog\l::AddGenCompDialog" alt="" coords="1665,985,1852,1031"/>
 </map>

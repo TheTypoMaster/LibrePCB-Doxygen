@@ -1,8 +1,8 @@
 <map id="getItemsAtScenePos" name="getItemsAtScenePos">
 <area shape="rect" id="node3" href="$d0/d7d/classproject_1_1_component_instance.html#a43009465a74e4ea29421f269c876916d" title="project::ComponentInstance\l::getFootprint" alt="" coords="200,5,387,51"/>
-<area shape="rect" id="node5" href="$da/d96/classproject_1_1_b_i___footprint.html#a9fc9c8d9cc96383e297ae50445941007" title="project::BI_Footprint\l::getPads" alt="" coords="224,74,363,121"/>
-<area shape="rect" id="node7" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::BI_FootprintPad\l::getGrabAreaScenePx" alt="" coords="212,143,375,190"/>
-<area shape="rect" id="node11" href="$da/d96/classproject_1_1_b_i___footprint.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::BI_Footprint\l::getGrabAreaScenePx" alt="" coords="216,213,371,259"/>
-<area shape="rect" id="node9" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#a066dd522d7c2b9f0f85b2a103aba0542" title="project::BGI_FootprintPad\l::shape" alt="" coords="435,143,608,190"/>
-<area shape="rect" id="node13" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#a066dd522d7c2b9f0f85b2a103aba0542" title="project::BGI_Footprint\l::shape" alt="" coords="447,213,596,259"/>
+<area shape="rect" id="node5" href="$da/d96/classproject_1_1_b_i___footprint.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::BI_Footprint\l::getGrabAreaScenePx" alt="" coords="216,74,371,121"/>
+<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a9fc9c8d9cc96383e297ae50445941007" title="project::BI_Footprint\l::getPads" alt="" coords="224,143,363,190"/>
+<area shape="rect" id="node11" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#af90fb11b274fda88ef94e9f685a6ab35" title="project::BI_FootprintPad\l::getGrabAreaScenePx" alt="" coords="212,213,375,259"/>
+<area shape="rect" id="node7" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#a066dd522d7c2b9f0f85b2a103aba0542" title="project::BGI_Footprint\l::shape" alt="" coords="447,74,596,121"/>
+<area shape="rect" id="node13" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#a066dd522d7c2b9f0f85b2a103aba0542" title="project::BGI_FootprintPad\l::shape" alt="" coords="435,213,608,259"/>
 </map>

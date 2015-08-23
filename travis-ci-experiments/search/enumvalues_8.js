@@ -101,6 +101,7 @@ var searchData=
   ['innercopper96',['InnerCopper96',['../df/d85/class_board_layer.html#a176a1fee332dc1a193b4b97dae579eaea234b4d14577d8c6d6e78e0fdfb24eac3',1,'BoardLayer']]],
   ['innercopper97',['InnerCopper97',['../df/d85/class_board_layer.html#a176a1fee332dc1a193b4b97dae579eaeac6d7723e069d5796a9f14384ed1906f2',1,'BoardLayer']]],
   ['innercopper98',['InnerCopper98',['../df/d85/class_board_layer.html#a176a1fee332dc1a193b4b97dae579eaea74bc826f6618f7fbbd4461f9c78bb5a1',1,'BoardLayer']]],
+  ['innercopper99',['InnerCopper99',['../df/d85/class_board_layer.html#a176a1fee332dc1a193b4b97dae579eaea66e0f13d2406c7330d821c143ecfe041',1,'BoardLayer']]],
   ['inout',['InOut',['../d4/d5f/classlibrary_1_1_gen_comp_signal.html#a9c660d2ebcf0b3b076cb975e5bc1af1fa47a54d9da8952a3980d27488b00a21c1',1,'library::GenCompSignal']]],
   ['input',['Input',['../d4/d5f/classlibrary_1_1_gen_comp_signal.html#a9c660d2ebcf0b3b076cb975e5bc1af1fa324118a6721dd6b8a9b9f4e327df2bf5',1,'library::GenCompSignal']]]
 ];

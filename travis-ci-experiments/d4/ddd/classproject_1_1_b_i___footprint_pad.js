@@ -14,6 +14,7 @@ var classproject_1_1_b_i___footprint_pad =
     [ "removeFromBoard", "d4/ddd/classproject_1_1_b_i___footprint_pad.html#ae7ae1f45e444dcb4c8087b0a3bb47d45", null ],
     [ "getType", "d4/ddd/classproject_1_1_b_i___footprint_pad.html#ac102cee468f8c13860067ce854a9c603", null ],
     [ "getPosition", "d4/ddd/classproject_1_1_b_i___footprint_pad.html#a98612bae828cddb2f664368397d27fe3", null ],
+    [ "getIsMirrored", "d4/ddd/classproject_1_1_b_i___footprint_pad.html#ad998db94981ac7167deba7a777b9945d", null ],
     [ "getGrabAreaScenePx", "d4/ddd/classproject_1_1_b_i___footprint_pad.html#af90fb11b274fda88ef94e9f685a6ab35", null ],
     [ "setSelected", "d4/ddd/classproject_1_1_b_i___footprint_pad.html#ad73a1407a19f935203851d27f9fb3903", null ],
     [ "operator=", "d4/ddd/classproject_1_1_b_i___footprint_pad.html#a1d301884897fa9ee8ec472f6a96564c9", null ],

@@ -2,7 +2,7 @@ var classlibrary_1_1_footprint =
 [
     [ "FootprintHole_t", "dd/de5/structlibrary_1_1_footprint_1_1_footprint_hole__t.html", "dd/de5/structlibrary_1_1_footprint_1_1_footprint_hole__t" ],
     [ "Footprint", "d8/dea/classlibrary_1_1_footprint.html#aab25bbbfbe7bd886072087d11bc46b0b", null ],
-    [ "Footprint", "d8/dea/classlibrary_1_1_footprint.html#aa0734381291d2d527514ba7281019bd6", null ],
+    [ "Footprint", "d8/dea/classlibrary_1_1_footprint.html#ae37fe03f2cbd37a83690d99eec0dd477", null ],
     [ "~Footprint", "d8/dea/classlibrary_1_1_footprint.html#aabeebb7a8ff5404143cd6d69f3d94af8", null ],
     [ "Footprint", "d8/dea/classlibrary_1_1_footprint.html#a746d7cc6209b5f8a80176a65a69a2c19", null ],
     [ "Footprint", "d8/dea/classlibrary_1_1_footprint.html#ac9ab2a688f132b63b93f2a858be2b9b4", null ],
@@ -19,7 +19,7 @@ var classlibrary_1_1_footprint =
     [ "addHole", "d8/dea/classlibrary_1_1_footprint.html#a79928f0b6ce18ff518a2c7e26e8f8ff2", null ],
     [ "operator=", "d8/dea/classlibrary_1_1_footprint.html#a55e0d431636f0d517bcd295452326402", null ],
     [ "parseDomTree", "d8/dea/classlibrary_1_1_footprint.html#ad6c2bb438fe200b1224b2d8e05d3eca0", null ],
-    [ "serializeToXmlDomElement", "d8/dea/classlibrary_1_1_footprint.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d8/dea/classlibrary_1_1_footprint.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "checkAttributesValidity", "d8/dea/classlibrary_1_1_footprint.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "mPads", "d8/dea/classlibrary_1_1_footprint.html#ae4f0997763afa3f9997566e8d2c3a052", null ],
     [ "mPolygons", "d8/dea/classlibrary_1_1_footprint.html#a3bc54fb142e2190560a788d970d55352", null ],

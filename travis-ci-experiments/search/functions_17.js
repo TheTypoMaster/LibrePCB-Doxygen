@@ -32,6 +32,7 @@ var searchData=
   ['_7ecmdboardadd',['~CmdBoardAdd',['../d0/d91/classproject_1_1_cmd_board_add.html#a9d461da8074b313d9d133c2469df1f88',1,'project::CmdBoardAdd']]],
   ['_7ecmdcomponentinstanceadd',['~CmdComponentInstanceAdd',['../d6/d6a/classproject_1_1_cmd_component_instance_add.html#ace844491011b47aae5436adbe1bc69c2',1,'project::CmdComponentInstanceAdd']]],
   ['_7ecmdcomponentinstanceedit',['~CmdComponentInstanceEdit',['../d8/d2c/classproject_1_1_cmd_component_instance_edit.html#a801a73edec2e24e96b5bbfcd5774d5d9',1,'project::CmdComponentInstanceEdit']]],
+  ['_7ecmdcomponentinstanceremove',['~CmdComponentInstanceRemove',['../d3/df7/classproject_1_1_cmd_component_instance_remove.html#ab6ed154bd1973ef1f09fbfccf5a5b340',1,'project::CmdComponentInstanceRemove']]],
   ['_7ecmdgencompattrinstadd',['~CmdGenCompAttrInstAdd',['../dd/d26/classproject_1_1_cmd_gen_comp_attr_inst_add.html#aa644129bf4afa479aecbf4f6a0286ee5',1,'project::CmdGenCompAttrInstAdd']]],
   ['_7ecmdgencompattrinstedit',['~CmdGenCompAttrInstEdit',['../d9/d07/classproject_1_1_cmd_gen_comp_attr_inst_edit.html#ab34a23a211706b253d84755b85d9920f',1,'project::CmdGenCompAttrInstEdit']]],
   ['_7ecmdgencompattrinstremove',['~CmdGenCompAttrInstRemove',['../d1/d24/classproject_1_1_cmd_gen_comp_attr_inst_remove.html#a693c0025b15bd0d35f56682d2d285590',1,'project::CmdGenCompAttrInstRemove']]],

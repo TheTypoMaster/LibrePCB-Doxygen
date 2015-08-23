@@ -17,7 +17,7 @@
 <text text-anchor="start" x="7.5" y="-329" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mLayerId</text>
 <text text-anchor="start" x="7.5" y="-316" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mText</text>
 <text text-anchor="start" x="7.5" y="-303" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mPosition</text>
-<text text-anchor="start" x="7.5" y="-290" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mAngle</text>
+<text text-anchor="start" x="7.5" y="-290" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mRotation</text>
 <text text-anchor="start" x="7.5" y="-277" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mHeight</text>
 <text text-anchor="start" x="7.5" y="-264" font-family="Helvetica,sans-Serif" font-size="10.00">&#45; mAlign</text>
 <polyline fill="none" stroke="black" points="-0.5,-256 152.5,-256 "/>
@@ -26,14 +26,14 @@
 <text text-anchor="start" x="7.5" y="-217" font-family="Helvetica,sans-Serif" font-size="10.00">+ ~SymbolText()</text>
 <text text-anchor="start" x="7.5" y="-204" font-family="Helvetica,sans-Serif" font-size="10.00">+ getLayerId()</text>
 <text text-anchor="start" x="7.5" y="-191" font-family="Helvetica,sans-Serif" font-size="10.00">+ getPosition()</text>
-<text text-anchor="start" x="7.5" y="-178" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAngle()</text>
+<text text-anchor="start" x="7.5" y="-178" font-family="Helvetica,sans-Serif" font-size="10.00">+ getRotation()</text>
 <text text-anchor="start" x="7.5" y="-165" font-family="Helvetica,sans-Serif" font-size="10.00">+ getHeight()</text>
 <text text-anchor="start" x="7.5" y="-152" font-family="Helvetica,sans-Serif" font-size="10.00">+ getAlign()</text>
 <text text-anchor="start" x="7.5" y="-139" font-family="Helvetica,sans-Serif" font-size="10.00">+ getText()</text>
 <text text-anchor="start" x="7.5" y="-126" font-family="Helvetica,sans-Serif" font-size="10.00">+ setLayerId()</text>
 <text text-anchor="start" x="7.5" y="-113" font-family="Helvetica,sans-Serif" font-size="10.00">+ setText()</text>
 <text text-anchor="start" x="7.5" y="-100" font-family="Helvetica,sans-Serif" font-size="10.00">+ setPosition()</text>
-<text text-anchor="start" x="7.5" y="-87" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAngle()</text>
+<text text-anchor="start" x="7.5" y="-87" font-family="Helvetica,sans-Serif" font-size="10.00">+ setRotation()</text>
 <text text-anchor="start" x="7.5" y="-74" font-family="Helvetica,sans-Serif" font-size="10.00">+ setHeight()</text>
 <text text-anchor="start" x="7.5" y="-61" font-family="Helvetica,sans-Serif" font-size="10.00">+ setAlign()</text>
 <text text-anchor="start" x="7.5" y="-48" font-family="Helvetica,sans-Serif" font-size="10.00">+ serializeToXmlDomElement()</text>

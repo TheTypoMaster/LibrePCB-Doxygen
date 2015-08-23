@@ -1,4 +1,9 @@
 <map id="isValueValid" name="isValueValid">
 <area shape="rect" id="node3" href="$d5/d40/classlibrary_1_1_library_element_attribute.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="157,5,357,51"/>
-<area shape="rect" id="node5" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="151,74,364,121"/>
+<area shape="rect" id="node9" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="151,74,364,121"/>
+<area shape="rect" id="node5" href="$d5/d40/classlibrary_1_1_library_element_attribute.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="435,5,635,51"/>
+<area shape="rect" id="node7" href="$d7/d7c/classlibrary_1_1_generic_component.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="704,5,896,51"/>
+<area shape="rect" id="node11" href="$d7/d77/classproject_1_1_gen_comp_attribute_instance.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="413,74,656,121"/>
+<area shape="rect" id="node13" href="$de/d67/classproject_1_1_gen_comp_instance.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="704,74,896,121"/>
+<area shape="rect" id="node15" href="$d1/d03/classproject_1_1_circuit.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="944,74,1107,121"/>
 </map>

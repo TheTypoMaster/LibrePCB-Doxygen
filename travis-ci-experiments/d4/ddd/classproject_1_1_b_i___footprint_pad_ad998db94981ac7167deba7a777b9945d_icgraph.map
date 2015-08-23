@@ -1,0 +1,9 @@
+<map id="getIsMirrored" name="getIsMirrored">
+<area shape="rect" id="node3" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_FootprintPad\l::updateCacheAndRepaint" alt="" coords="153,78,327,125"/>
+<area shape="rect" id="node5" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#a212e36e19edc323ddeb73387d2f011a5" title="updatePosition" alt="" coords="377,117,484,147"/>
+<area shape="rect" id="node7" href="$da/d96/classproject_1_1_b_i___footprint.html#a271c63e12acd19bccc27bf6861938df2" title="project::BI_Footprint\l::componentInstanceMoved" alt="" coords="539,5,720,51"/>
+<area shape="rect" id="node11" href="$da/d96/classproject_1_1_b_i___footprint.html#ab6c0fcabcb9d5a38a27ed7aeb34f0958" title="project::BI_Footprint\l::componentInstanceRotated" alt="" coords="535,74,724,121"/>
+<area shape="rect" id="node14" href="$da/d96/classproject_1_1_b_i___footprint.html#ae00c60cb068f7bb3703a6c84450afeaf" title="project::BI_Footprint\l::componentInstanceMirrored" alt="" coords="535,143,724,190"/>
+<area shape="rect" id="node17" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#ac81e6cd36593d731c5e2e23048ed6754" title="BI_FootprintPad" alt="" coords="572,213,687,243"/>
+<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="775,74,913,121"/>
+</map>

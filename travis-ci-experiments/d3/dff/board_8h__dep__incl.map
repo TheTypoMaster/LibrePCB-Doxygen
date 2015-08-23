@@ -9,9 +9,10 @@
 <area shape="rect" id="node22" href="$d7/d20/bes__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_select.cpp" alt="" coords="829,529,1037,610"/>
 <area shape="rect" id="node37" href="$df/dda/cmdboardadd_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/cmd/cmdboardadd.cpp" alt="" coords="1128,137,1293,218"/>
 <area shape="rect" id="node39" href="$d5/d56/cmdcomponentinstanceadd_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/cmd/cmdcomponentinstanceadd.cpp" alt="" coords="1317,137,1555,218"/>
-<area shape="rect" id="node46" href="$df/d18/project_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/project.cpp" alt="" coords="1579,145,1757,209"/>
-<area shape="rect" id="node48" href="$de/de5/boardeditor_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/boardeditor.cpp" alt="" coords="1781,137,1963,218"/>
-<area shape="rect" id="node51" href="$de/dd2/unplacedcomponentsdock_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/unplacedcomponentsdock.cpp" alt="" coords="1987,137,2256,218"/>
+<area shape="rect" id="node41" href="$df/d83/cmdcomponentinstanceremove_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/cmd/cmdcomponentinstanceremove.cpp" alt="" coords="1579,137,1840,218"/>
+<area shape="rect" id="node48" href="$df/d18/project_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/project.cpp" alt="" coords="1864,145,2043,209"/>
+<area shape="rect" id="node50" href="$de/de5/boardeditor_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/boardeditor.cpp" alt="" coords="2067,137,2248,218"/>
+<area shape="rect" id="node53" href="$de/dd2/unplacedcomponentsdock_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/unplacedcomponentsdock.cpp" alt="" coords="2272,137,2541,218"/>
 <area shape="rect" id="node7" href="$d7/dad/bgi__footprint_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/graphicsitems/bgi_footprint.h" alt="" coords="709,267,901,349"/>
 <area shape="rect" id="node25" href="$d2/d00/bgi__footprintpad_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/graphicsitems/bgi_footprintpad.h" alt="" coords="421,267,635,349"/>
 <area shape="rect" id="node35" href="$dc/ddd/bgi__base_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/boards\l/graphicsitems/bgi_base.cpp" alt="" coords="211,267,397,349"/>

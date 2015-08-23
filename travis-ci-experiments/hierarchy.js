@@ -247,6 +247,7 @@ var hierarchy =
       [ "CmdBoardAdd", "d0/d91/classproject_1_1_cmd_board_add.html", null ],
       [ "CmdComponentInstanceAdd", "d6/d6a/classproject_1_1_cmd_component_instance_add.html", null ],
       [ "CmdComponentInstanceEdit", "d8/d2c/classproject_1_1_cmd_component_instance_edit.html", null ],
+      [ "CmdComponentInstanceRemove", "d3/df7/classproject_1_1_cmd_component_instance_remove.html", null ],
       [ "CmdGenCompAttrInstAdd", "dd/d26/classproject_1_1_cmd_gen_comp_attr_inst_add.html", null ],
       [ "CmdGenCompAttrInstEdit", "d9/d07/classproject_1_1_cmd_gen_comp_attr_inst_edit.html", null ],
       [ "CmdGenCompAttrInstRemove", "d1/d24/classproject_1_1_cmd_gen_comp_attr_inst_remove.html", null ],

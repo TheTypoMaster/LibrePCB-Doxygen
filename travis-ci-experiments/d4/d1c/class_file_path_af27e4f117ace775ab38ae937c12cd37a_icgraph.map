@@ -9,10 +9,15 @@
 <area shape="rect" id="node17" href="$d9/d57/class_file_lock.html#a9278be8203e1c42e2619179882ae4403" title="Unlock the specified file (remove the lock file) " alt="" coords="165,411,283,440"/>
 <area shape="rect" id="node21" href="$d1/d7f/class_smart_file.html#aad04c6beb14eb767757a86a5f0d67893" title="Remove the file from the file system. " alt="" coords="149,464,299,493"/>
 <area shape="rect" id="node23" href="$d1/d7f/class_smart_file.html#a3d8fdc7779d16c086f29129e2fd52dd3" title="Prepare to save the file and return the filepath to the file. " alt="" coords="133,517,315,563"/>
-<area shape="rect" id="node25" href="$d9/d30/classproject_1_1_project_library.html#a66be7fb27dfb9ffcd6333afaff0c8d77" title="project::ProjectLibrary\l::loadElements" alt="" coords="149,586,299,633"/>
-<area shape="rect" id="node27" href="$d2/d05/classproject_1_1_project.html#a4fe4aabef56a1c4920b8c76cd3ab2d2e" title="The destructor will close the whole project (without saving!) " alt="" coords="165,655,283,702"/>
-<area shape="rect" id="node29" href="$db/d9c/class_project_tree_item.html#a00f56d6a4a913066ba13ef012870c6a4" title="ProjectTreeItem::data" alt="" coords="151,725,297,755"/>
-<area shape="rect" id="node33" href="$de/d52/class_workspace_settings.html#a89db108216386abbdb034844da9485c9" title="WorkspaceSettings::\lWorkspaceSettings" alt="" coords="152,778,296,825"/>
-<area shape="rect" id="node19" href="$d9/d57/class_file_lock.html#a3117dd065c23b2ca26a0fa17cf78f170" title="The destructor (this may also unlock the locked file) " alt="" coords="381,411,517,440"/>
-<area shape="rect" id="node31" href="$db/d76/class_project_tree_model.html#a0d62b2fa860a10b1e59f7b93aa39aa5e" title="ProjectTreeModel::data" alt="" coords="371,725,528,755"/>
+<area shape="rect" id="node25" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ab6b2b9128217f98c13508797ed0a6080" title="library::LibraryBaseElement\l::readFromFile" alt="" coords="133,586,315,633"/>
+<area shape="rect" id="node35" href="$d9/d30/classproject_1_1_project_library.html#ae3bb445dbe2152d14e57bbf09cbb1ee4" title="project::ProjectLibrary\l::loadElements" alt="" coords="149,655,299,702"/>
+<area shape="rect" id="node37" href="$d2/d05/classproject_1_1_project.html#a4fe4aabef56a1c4920b8c76cd3ab2d2e" title="The destructor will close the whole project (without saving!) " alt="" coords="165,725,283,771"/>
+<area shape="rect" id="node39" href="$db/d9c/class_project_tree_item.html#a00f56d6a4a913066ba13ef012870c6a4" title="ProjectTreeItem::data" alt="" coords="151,795,297,824"/>
+<area shape="rect" id="node43" href="$de/d52/class_workspace_settings.html#a89db108216386abbdb034844da9485c9" title="WorkspaceSettings::\lWorkspaceSettings" alt="" coords="152,847,296,894"/>
+<area shape="rect" id="node19" href="$d9/d57/class_file_lock.html#a3117dd065c23b2ca26a0fa17cf78f170" title="The destructor (this may also unlock the locked file) " alt="" coords="396,411,532,440"/>
+<area shape="rect" id="node27" href="$da/dae/classlibrary_1_1_model3_d.html#a8b72b474ce5da29cb412cd28207bc973" title="library::Model3D::Model3D" alt="" coords="376,499,552,528"/>
+<area shape="rect" id="node29" href="$da/dc5/classlibrary_1_1_component_category.html#a3ad0bd54ad01d7475965eb920648b6b9" title="library::ComponentCategory\l::ComponentCategory" alt="" coords="372,551,556,598"/>
+<area shape="rect" id="node31" href="$df/d5f/classlibrary_1_1_package_category.html#aa4dce7e624ac2ebbdf863f5241e2ca32" title="library::PackageCategory\l::PackageCategory" alt="" coords="380,621,548,667"/>
+<area shape="rect" id="node33" href="$da/d3b/classlibrary_1_1_spice_model.html#a142c4797c3a7503133cae731267f9a22" title="library::SpiceModel\l::SpiceModel" alt="" coords="397,690,531,737"/>
+<area shape="rect" id="node41" href="$db/d76/class_project_tree_model.html#a0d62b2fa860a10b1e59f7b93aa39aa5e" title="ProjectTreeModel::data" alt="" coords="385,795,543,824"/>
 </map>

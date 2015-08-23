@@ -20,7 +20,7 @@ var classlibrary_1_1_footprint_ellipse =
     [ "setRadiusX", "d1/dad/classlibrary_1_1_footprint_ellipse.html#a8932445aa8b5c67c0263e714fe4a1796", null ],
     [ "setRadiusY", "d1/dad/classlibrary_1_1_footprint_ellipse.html#a454384f91e443b258f34b93ab65e6b7e", null ],
     [ "setRotation", "d1/dad/classlibrary_1_1_footprint_ellipse.html#ab3dec6c106a391608e2795aafd907546", null ],
-    [ "serializeToXmlDomElement", "d1/dad/classlibrary_1_1_footprint_ellipse.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d1/dad/classlibrary_1_1_footprint_ellipse.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "operator=", "d1/dad/classlibrary_1_1_footprint_ellipse.html#aba505138db84a68b50f86ab4dbc04ae9", null ],
     [ "checkAttributesValidity", "d1/dad/classlibrary_1_1_footprint_ellipse.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "mLayerId", "d1/dad/classlibrary_1_1_footprint_ellipse.html#ac25683e78ab19e80ff235ebfcfa41861", null ],

@@ -23,7 +23,7 @@ var classproject_1_1_s_i___net_point =
     [ "unregisterNetLine", "d3/d43/classproject_1_1_s_i___net_point.html#a394a3a211dfaa667229e3e6ff4f0863f", null ],
     [ "addToSchematic", "d3/d43/classproject_1_1_s_i___net_point.html#a43e5b1bac02cf98f643843bdd6fcdfb9", null ],
     [ "removeFromSchematic", "d3/d43/classproject_1_1_s_i___net_point.html#aaaa53153ea6aca5929ea0972d83ef836", null ],
-    [ "serializeToXmlDomElement", "d3/d43/classproject_1_1_s_i___net_point.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d3/d43/classproject_1_1_s_i___net_point.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "getType", "d3/d43/classproject_1_1_s_i___net_point.html#ac102cee468f8c13860067ce854a9c603", null ],
     [ "getPosition", "d3/d43/classproject_1_1_s_i___net_point.html#a98612bae828cddb2f664368397d27fe3", null ],
     [ "getGrabAreaScenePx", "d3/d43/classproject_1_1_s_i___net_point.html#af90fb11b274fda88ef94e9f685a6ab35", null ],

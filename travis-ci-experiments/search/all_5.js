@@ -2,6 +2,8 @@ var searchData=
 [
   ['edit_5fcopy',['Edit_Copy',['../d8/dd0/classproject_1_1_b_e_e___base.html#a13df40a9b5ba5705e8c6b33b051c8571a72efc53332949da56e5b67e7b874ad7f',1,'project::BEE_Base::Edit_Copy()'],['../d1/d51/classproject_1_1_s_e_e___base.html#a13df40a9b5ba5705e8c6b33b051c8571a72efc53332949da56e5b67e7b874ad7f',1,'project::SEE_Base::Edit_Copy()']]],
   ['edit_5fcut',['Edit_Cut',['../d8/dd0/classproject_1_1_b_e_e___base.html#a13df40a9b5ba5705e8c6b33b051c8571a0fc05d0d43e1fabe0084614d372a6624',1,'project::BEE_Base::Edit_Cut()'],['../d1/d51/classproject_1_1_s_e_e___base.html#a13df40a9b5ba5705e8c6b33b051c8571a0fc05d0d43e1fabe0084614d372a6624',1,'project::SEE_Base::Edit_Cut()']]],
+  ['edit_5ffliphorizontal',['Edit_FlipHorizontal',['../d8/dd0/classproject_1_1_b_e_e___base.html#a13df40a9b5ba5705e8c6b33b051c8571a2f00cc1047bda6175849739afd1d90f0',1,'project::BEE_Base']]],
+  ['edit_5fflipvertical',['Edit_FlipVertical',['../d8/dd0/classproject_1_1_b_e_e___base.html#a13df40a9b5ba5705e8c6b33b051c8571a8d4c288bbd19ef006f7a51826724a3a7',1,'project::BEE_Base']]],
   ['edit_5fpaste',['Edit_Paste',['../d8/dd0/classproject_1_1_b_e_e___base.html#a13df40a9b5ba5705e8c6b33b051c8571a0d53cf340e4d0bd783201f7a6478149b',1,'project::BEE_Base::Edit_Paste()'],['../d1/d51/classproject_1_1_s_e_e___base.html#a13df40a9b5ba5705e8c6b33b051c8571a0d53cf340e4d0bd783201f7a6478149b',1,'project::SEE_Base::Edit_Paste()']]],
   ['edit_5fremove',['Edit_Remove',['../d8/dd0/classproject_1_1_b_e_e___base.html#a13df40a9b5ba5705e8c6b33b051c8571a34f84ba72fe723e40cb38ae05be7e0af',1,'project::BEE_Base::Edit_Remove()'],['../d1/d51/classproject_1_1_s_e_e___base.html#a13df40a9b5ba5705e8c6b33b051c8571a34f84ba72fe723e40cb38ae05be7e0af',1,'project::SEE_Base::Edit_Remove()']]],
   ['edit_5frotateccw',['Edit_RotateCCW',['../d8/dd0/classproject_1_1_b_e_e___base.html#a13df40a9b5ba5705e8c6b33b051c8571a842c01804dccbcc9dfd189fe656bfe36',1,'project::BEE_Base::Edit_RotateCCW()'],['../d1/d51/classproject_1_1_s_e_e___base.html#a13df40a9b5ba5705e8c6b33b051c8571a842c01804dccbcc9dfd189fe656bfe36',1,'project::SEE_Base::Edit_RotateCCW()']]],
@@ -20,8 +22,8 @@ var searchData=
   ['ercmsg_2eh',['ercmsg.h',['../df/d2c/ercmsg_8h.html',1,'']]],
   ['ercmsgadded',['ercMsgAdded',['../d1/dd6/classproject_1_1_erc_msg_list.html#a427253a93bd9777a3c02ee594c5fa238',1,'project::ErcMsgList::ercMsgAdded()'],['../d2/dc4/classproject_1_1_erc_msg_dock.html#a3da29991704d6f50c133589fed186e90',1,'project::ErcMsgDock::ercMsgAdded()']]],
   ['ercmsgchanged',['ercMsgChanged',['../d1/dd6/classproject_1_1_erc_msg_list.html#ab690628fb0eeae909c729729c471d3c4',1,'project::ErcMsgList::ercMsgChanged()'],['../d2/dc4/classproject_1_1_erc_msg_dock.html#a7d45a7b63306778682ad4edb9ff71606',1,'project::ErcMsgDock::ercMsgChanged()']]],
-  ['ercmsgdock',['ErcMsgDock',['../d2/dc4/classproject_1_1_erc_msg_dock.html',1,'project']]],
   ['ercmsgdock',['ErcMsgDock',['../d2/dc4/classproject_1_1_erc_msg_dock.html#a71c6275f18e526338cbdd9dcef7f8fed',1,'project::ErcMsgDock::ErcMsgDock(Project &amp;project)'],['../d2/dc4/classproject_1_1_erc_msg_dock.html#ac91433e9df93bde41dfce00f62f59347',1,'project::ErcMsgDock::ErcMsgDock()'],['../d2/dc4/classproject_1_1_erc_msg_dock.html#afc68d5e7251a8b4bd2a9cb897889dc13',1,'project::ErcMsgDock::ErcMsgDock(const ErcMsgDock &amp;other)']]],
+  ['ercmsgdock',['ErcMsgDock',['../d2/dc4/classproject_1_1_erc_msg_dock.html',1,'project']]],
   ['ercmsgdock_2ecpp',['ercmsgdock.cpp',['../d5/da3/ercmsgdock_8cpp.html',1,'']]],
   ['ercmsgdock_2eh',['ercmsgdock.h',['../d2/d6c/ercmsgdock_8h.html',1,'']]],
   ['ercmsglist',['ErcMsgList',['../d1/dd6/classproject_1_1_erc_msg_list.html',1,'project']]],

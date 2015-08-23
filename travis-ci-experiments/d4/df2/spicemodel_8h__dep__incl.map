@@ -1,7 +1,9 @@
 <map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcblibrary/spcmdl/spicemodel.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcblibrary/spcmdl/spicemodel.h">
-<area shape="rect" id="node3" href="$de/d98/elements_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/elements.h" alt="" coords="41,145,215,209"/>
-<area shape="rect" id="node7" href="$d7/d7d/library_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/library.cpp" alt="" coords="239,145,409,209"/>
-<area shape="rect" id="node9" href="$d3/d21/spicemodel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/spcmdl\l/spicemodel.cpp" alt="" coords="433,137,599,218"/>
-<area shape="rect" id="node11" href="$d4/d20/projectlibrary_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/projectlibrary.cpp" alt="" coords="623,137,788,218"/>
+<area shape="rect" id="node3" href="$de/d98/elements_8h.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/elements.h" alt="" coords="292,145,465,209"/>
+<area shape="rect" id="node11" href="$d7/d7d/library_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/library.cpp" alt="" coords="489,145,660,209"/>
+<area shape="rect" id="node13" href="$d3/d21/spicemodel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibrary/spcmdl\l/spicemodel.cpp" alt="" coords="684,137,849,218"/>
+<area shape="rect" id="node15" href="$d4/d20/projectlibrary_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/projectlibrary.cpp" alt="" coords="873,137,1039,218"/>
 <area shape="rect" id="node5" href="$da/d6c/cmdprojectlibraryaddelement_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbproject/library\l/cmd/cmdprojectlibraryaddelement.cpp" alt="" coords="5,267,251,349"/>
+<area shape="rect" id="node7" href="$d7/d20/bes__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_select.cpp" alt="" coords="275,267,483,349"/>
+<area shape="rect" id="node9" href="$de/dd2/unplacedcomponentsdock_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/unplacedcomponentsdock.cpp" alt="" coords="507,267,776,349"/>
 </map>

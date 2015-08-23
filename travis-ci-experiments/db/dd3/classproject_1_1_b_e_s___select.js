@@ -18,6 +18,8 @@ var classproject_1_1_b_e_s___select =
     [ "proccessIdleSceneDoubleClick", "db/dd3/classproject_1_1_b_e_s___select.html#ac6c7da983273e396854b9e1cccf4fccf", null ],
     [ "startMovingSelectedItems", "db/dd3/classproject_1_1_b_e_s___select.html#a82f67b84fff325f62072faa6bd5a3206", null ],
     [ "rotateSelectedItems", "db/dd3/classproject_1_1_b_e_s___select.html#a1f262c8e6a4c3d45093729fa34ec01e8", null ],
+    [ "flipSelectedItems", "db/dd3/classproject_1_1_b_e_s___select.html#a4f8e8c70feead094c696afcd912fc26a", null ],
+    [ "removeSelectedItems", "db/dd3/classproject_1_1_b_e_s___select.html#a75183dd285ebb13d41213f4dfe420907", null ],
     [ "mSubState", "db/dd3/classproject_1_1_b_e_s___select.html#aedf79069eac7bcb14a505e582941a9e4", null ],
     [ "mLastMouseMoveDeltaPos", "db/dd3/classproject_1_1_b_e_s___select.html#a3845774b48bed2e28ac0fb682ecf44a4", null ],
     [ "mParentCommand", "db/dd3/classproject_1_1_b_e_s___select.html#a1a6a958f573cd9b09cf4c683327f9c1c", null ],

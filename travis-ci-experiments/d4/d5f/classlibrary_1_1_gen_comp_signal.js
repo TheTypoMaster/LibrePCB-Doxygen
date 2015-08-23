@@ -30,7 +30,7 @@ var classlibrary_1_1_gen_comp_signal =
     [ "setIsClock", "d4/d5f/classlibrary_1_1_gen_comp_signal.html#a19dbd65a94a54d63fb1642ed4b6061a1", null ],
     [ "setName", "d4/d5f/classlibrary_1_1_gen_comp_signal.html#a1abac19268886b98c8529dccc6256d32", null ],
     [ "setDescription", "d4/d5f/classlibrary_1_1_gen_comp_signal.html#af0541cfc3975e6c5b596f04b99d3f878", null ],
-    [ "serializeToXmlDomElement", "d4/d5f/classlibrary_1_1_gen_comp_signal.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d4/d5f/classlibrary_1_1_gen_comp_signal.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "operator=", "d4/d5f/classlibrary_1_1_gen_comp_signal.html#a028a5661e3dd2bd706cbdcde1aa19a06", null ],
     [ "checkAttributesValidity", "d4/d5f/classlibrary_1_1_gen_comp_signal.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "stringToSignalRole", "d4/d5f/classlibrary_1_1_gen_comp_signal.html#a6d73f775c076bb65193f69ce745b7dfa", null ],

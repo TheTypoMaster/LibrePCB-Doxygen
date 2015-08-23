@@ -1,0 +1,8 @@
+<map id="serializeToXmlDomElement" name="serializeToXmlDomElement">
+<area shape="rect" id="node3" href="$d2/d4e/classlibrary_1_1_footprint_pad.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="239,5,393,35"/>
+<area shape="rect" id="node5" href="$d2/d4e/classlibrary_1_1_footprint_pad.html#a7114abf3dfd6cc27632fbc3f5d84a4d9" title="typeToString" alt="" coords="447,32,543,61"/>
+<area shape="rect" id="node8" href="$d0/d69/class_point.html#ab309781a48eeee3e6857c85535c220ea" title="Get the X coordinate. " alt="" coords="273,109,359,139"/>
+<area shape="rect" id="node10" href="$df/df0/class_length.html#a5bd5292fcf66a49fad586500fa6038a0" title="Get the length in millimeters as a QString. " alt="" coords="248,163,384,192"/>
+<area shape="rect" id="node14" href="$d0/d69/class_point.html#ab51b367c2bbc227c892a7d2840c0babe" title="Get the Y coordinate. " alt="" coords="273,216,359,245"/>
+<area shape="rect" id="node12" href="$df/df0/class_length.html#a69ee36729eae0511280f89e3efa240ae" title="Get the length in millimeters. " alt="" coords="444,163,545,192"/>
+</map>

@@ -1,29 +1,41 @@
 <map id="toDeg" name="toDeg">
-<area shape="rect" id="node3" href="$da/dac/angle_8h.html#a735e179f4e5a0d19dd6056925aecaee0" title="operator\&lt;\&lt;" alt="" coords="183,5,268,35"/>
-<area shape="rect" id="node5" href="$d2/d39/class_angle.html#adc81c430c409954497b6387ad818ae10" title="Get the angle in degrees as a QString. " alt="" coords="180,59,271,88"/>
-<area shape="rect" id="node7" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::FootprintPolygon\l::toQPainterPathPx" alt="" coords="144,194,307,241"/>
-<area shape="rect" id="node13" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="911,225,1049,271"/>
-<area shape="rect" id="node15" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::BGI_Footprint\l::paint" alt="" coords="416,231,565,278"/>
-<area shape="rect" id="node17" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::SymbolPolygon\l::toQPainterPathPx" alt="" coords="148,490,303,537"/>
-<area shape="rect" id="node21" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="library::SymbolPreviewGraphics\lItem::paint" alt="" coords="387,490,595,537"/>
-<area shape="rect" id="node29" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::SGI_Symbol\l::paint" alt="" coords="420,698,561,745"/>
-<area shape="rect" id="node31" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#a686732ebe57e974c4b06dc6da431d1da" title="library::SymbolPreviewGraphics\lItem::SymbolPreviewGraphicsItem" alt="" coords="113,610,337,657"/>
-<area shape="rect" id="node36" href="$da/d96/classproject_1_1_b_i___footprint.html#ab6c0fcabcb9d5a38a27ed7aeb34f0958" title="project::BI_Footprint\l::componentInstanceRotated" alt="" coords="396,301,585,347"/>
-<area shape="rect" id="node39" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#a212e36e19edc323ddeb73387d2f011a5" title="project::BI_FootprintPad\l::updatePosition" alt="" coords="144,365,307,411"/>
-<area shape="rect" id="node48" href="$d1/d7b/classproject_1_1_s_i___net_label.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::SI_NetLabel\l::init" alt="" coords="155,679,296,726"/>
-<area shape="rect" id="node50" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a212e36e19edc323ddeb73387d2f011a5" title="project::SI_SymbolPin\l::updatePosition" alt="" coords="149,802,301,849"/>
-<area shape="rect" id="node9" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_Footprint\l::updateCacheAndRepaint" alt="" coords="404,162,577,209"/>
-<area shape="rect" id="node11" href="$da/d96/classproject_1_1_b_i___footprint.html#a80db668afe30ac6b6c9e5eb061b61cfc" title="project::BI_Footprint\l::componentInstanceAttributes\lChanged" alt="" coords="652,177,852,241"/>
-<area shape="rect" id="node19" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" title="library::SymbolPreviewGraphics\lItem::updateCacheAndRepaint" alt="" coords="387,629,595,675"/>
-<area shape="rect" id="node23" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_Symbol\l::updateCacheAndRepaint" alt="" coords="404,559,577,606"/>
-<area shape="rect" id="node25" href="$de/d50/classproject_1_1_s_i___symbol.html#a803d371853cd2d72f4df8a45349d0cb7" title="project::SI_Symbol\l::schematicOrGenCompAttributes\lChanged" alt="" coords="643,551,861,615"/>
-<area shape="rect" id="node27" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4e286593d2a82f74246f9cba8193605" title="project::SI_Symbol\l::init" alt="" coords="913,559,1047,606"/>
-<area shape="rect" id="node41" href="$da/d96/classproject_1_1_b_i___footprint.html#a271c63e12acd19bccc27bf6861938df2" title="project::BI_Footprint\l::componentInstanceMoved" alt="" coords="661,353,843,399"/>
-<area shape="rect" id="node45" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#ac81e6cd36593d731c5e2e23048ed6754" title="project::BI_FootprintPad\l::BI_FootprintPad" alt="" coords="409,421,572,467"/>
-<area shape="rect" id="node52" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" title="project::SI_Symbol\l::setPosition" alt="" coords="424,837,557,883"/>
-<area shape="rect" id="node60" href="$de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597" title="project::SI_Symbol\l::setAngle" alt="" coords="424,767,557,814"/>
-<area shape="rect" id="node65" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="project::SI_SymbolPin\l::SI_SymbolPin" alt="" coords="415,906,567,953"/>
-<area shape="rect" id="node54" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a6eaf0a56905dd18ebdf240a2229576c6" title="project::CmdSymbolInstance\lEdit::~CmdSymbolInstanceEdit" alt="" coords="649,733,855,779"/>
-<area shape="rect" id="node56" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="657,802,847,849"/>
-<area shape="rect" id="node58" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="657,871,847,918"/>
+<area shape="rect" id="node3" href="$da/dac/angle_8h.html#a735e179f4e5a0d19dd6056925aecaee0" title="operator\&lt;\&lt;" alt="" coords="183,219,268,248"/>
+<area shape="rect" id="node5" href="$d2/d39/class_angle.html#adc81c430c409954497b6387ad818ae10" title="Get the angle in degrees as a QString. " alt="" coords="180,272,271,301"/>
+<area shape="rect" id="node34" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::FootprintPolygon\l::toQPainterPathPx" alt="" coords="144,601,307,647"/>
+<area shape="rect" id="node40" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="973,591,1112,638"/>
+<area shape="rect" id="node45" href="$da/d96/classproject_1_1_b_i___footprint.html#ab6c0fcabcb9d5a38a27ed7aeb34f0958" title="project::BI_Footprint\l::componentInstanceRotated" alt="" coords="695,513,884,559"/>
+<area shape="rect" id="node51" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::BGI_Footprint\l::paint" alt="" coords="435,642,584,689"/>
+<area shape="rect" id="node53" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#a0c155e27c8e6d8f1cd3a8443b7bad250" title="library::SymbolPolygon\l::toQPainterPathPx" alt="" coords="148,822,303,869"/>
+<area shape="rect" id="node57" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="library::SymbolPreviewGraphics\lItem::paint" alt="" coords="405,781,613,827"/>
+<area shape="rect" id="node65" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::SGI_Symbol\l::paint" alt="" coords="439,989,580,1035"/>
+<area shape="rect" id="node67" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#a686732ebe57e974c4b06dc6da431d1da" title="library::SymbolPreviewGraphics\lItem::SymbolPreviewGraphicsItem" alt="" coords="113,942,337,989"/>
+<area shape="rect" id="node73" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#a212e36e19edc323ddeb73387d2f011a5" title="project::BI_FootprintPad\l::updatePosition" alt="" coords="428,711,591,758"/>
+<area shape="rect" id="node81" href="$d1/d7b/classproject_1_1_s_i___net_label.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::SI_NetLabel\l::init" alt="" coords="155,1011,296,1058"/>
+<area shape="rect" id="node83" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a212e36e19edc323ddeb73387d2f011a5" title="project::SI_SymbolPin\l::updatePosition" alt="" coords="149,1103,301,1150"/>
+<area shape="rect" id="node7" href="$d1/dad/classlibrary_1_1_footprint_ellipse.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="693,393,885,439"/>
+<area shape="rect" id="node11" href="$da/d46/classlibrary_1_1_footprint_polygon_segment.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="388,263,631,310"/>
+<area shape="rect" id="node16" href="$db/d86/classlibrary_1_1_footprint_text.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="693,323,885,370"/>
+<area shape="rect" id="node19" href="$d3/d06/classlibrary_1_1_symbol_ellipse.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="693,185,885,231"/>
+<area shape="rect" id="node23" href="$d0/dfd/classlibrary_1_1_symbol_pin.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="413,5,605,51"/>
+<area shape="rect" id="node26" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="405,74,613,121"/>
+<area shape="rect" id="node31" href="$db/df7/classlibrary_1_1_symbol_text.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="413,143,605,190"/>
+<area shape="rect" id="node9" href="$d8/dea/classlibrary_1_1_footprint.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="947,323,1139,370"/>
+<area shape="rect" id="node13" href="$d2/d28/classlibrary_1_1_footprint_polygon.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="693,254,885,301"/>
+<area shape="rect" id="node21" href="$d9/db9/classlibrary_1_1_symbol.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="960,95,1125,142"/>
+<area shape="rect" id="node28" href="$d1/d7f/classlibrary_1_1_symbol_polygon.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="693,65,885,111"/>
+<area shape="rect" id="node36" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_Footprint\l::updateCacheAndRepaint" alt="" coords="423,573,596,619"/>
+<area shape="rect" id="node38" href="$da/d96/classproject_1_1_b_i___footprint.html#a80db668afe30ac6b6c9e5eb061b61cfc" title="project::BI_Footprint\l::componentInstanceAttributes\lChanged" alt="" coords="689,583,889,647"/>
+<area shape="rect" id="node42" href="$da/d96/classproject_1_1_b_i___footprint.html#a271c63e12acd19bccc27bf6861938df2" title="project::BI_Footprint\l::componentInstanceMoved" alt="" coords="699,739,880,786"/>
+<area shape="rect" id="node48" href="$da/d96/classproject_1_1_b_i___footprint.html#ae00c60cb068f7bb3703a6c84450afeaf" title="project::BI_Footprint\l::componentInstanceMirrored" alt="" coords="695,670,884,717"/>
+<area shape="rect" id="node55" href="$d9/da8/classlibrary_1_1_symbol_preview_graphics_item.html#abbb5db1b700a86caa85ff4c0c13142f2" title="library::SymbolPreviewGraphics\lItem::updateCacheAndRepaint" alt="" coords="405,919,613,966"/>
+<area shape="rect" id="node59" href="$dd/d00/classproject_1_1_s_g_i___symbol.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::SGI_Symbol\l::updateCacheAndRepaint" alt="" coords="423,850,596,897"/>
+<area shape="rect" id="node61" href="$de/d50/classproject_1_1_s_i___symbol.html#a803d371853cd2d72f4df8a45349d0cb7" title="project::SI_Symbol\l::schematicOrGenCompAttributes\lChanged" alt="" coords="680,879,899,943"/>
+<area shape="rect" id="node63" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4e286593d2a82f74246f9cba8193605" title="project::SI_Symbol\l::init" alt="" coords="976,887,1109,934"/>
+<area shape="rect" id="node78" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#ac81e6cd36593d731c5e2e23048ed6754" title="project::BI_FootprintPad\l::BI_FootprintPad" alt="" coords="708,809,871,855"/>
+<area shape="rect" id="node85" href="$de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8" title="project::SI_Symbol\l::setPosition" alt="" coords="443,1127,576,1174"/>
+<area shape="rect" id="node93" href="$de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5" title="project::SI_Symbol\l::setRotation" alt="" coords="443,1058,576,1105"/>
+<area shape="rect" id="node98" href="$d6/d12/classproject_1_1_s_i___symbol_pin.html#a2e791a2f0f926f88b6d3a8b6d73a03f0" title="project::SI_SymbolPin\l::SI_SymbolPin" alt="" coords="433,1197,585,1243"/>
+<area shape="rect" id="node87" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a6eaf0a56905dd18ebdf240a2229576c6" title="project::CmdSymbolInstance\lEdit::~CmdSymbolInstanceEdit" alt="" coords="687,1023,892,1070"/>
+<area shape="rect" id="node89" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a91ca7652063093da57fc1bd0141dcc95" title="Redo/execute the command (and all child commands in normal order) " alt="" coords="695,1093,884,1139"/>
+<area shape="rect" id="node91" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#a19e8778088bfe76b16745470981bb913" title="Undo the command (and all child commands in reverse order) " alt="" coords="695,1162,884,1209"/>
 </map>

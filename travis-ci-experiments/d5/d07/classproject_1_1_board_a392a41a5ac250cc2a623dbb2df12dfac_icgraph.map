@@ -1,6 +1,6 @@
 <map id="getComponentInstances" name="getComponentInstances">
 <area shape="rect" id="node3" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ad000d7056be9060e68ab7f2548d12946" title="project::UnplacedComponents\lDock::updateComponentsList" alt="" coords="220,143,417,190"/>
-<area shape="rect" id="node5" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a8fbd3c721cf6a7086b09b00746e8c5bd" title="project::UnplacedComponents\lDock::UnplacedComponentsDock" alt="" coords="467,5,688,51"/>
+<area shape="rect" id="node5" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#abda2283f458f0fc17a0ccd8f61df7528" title="project::UnplacedComponents\lDock::UnplacedComponentsDock" alt="" coords="467,5,688,51"/>
 <area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="project::UnplacedComponents\lDock::setBoard" alt="" coords="479,74,676,121"/>
 <area shape="rect" id="node11" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#accd0a903591840efc04eae995ba9518a" title="project::UnplacedComponents\lDock::on_btnAdd_clicked" alt="" coords="479,143,676,190"/>
 <area shape="rect" id="node13" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="project::UnplacedComponents\lDock::on_pushButton_clicked" alt="" coords="479,213,676,259"/>

@@ -168,10 +168,10 @@
 </g>
 <!-- Node22 -->
 <g id="node45" class="node"><title>Node22</title>
-<a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#a894842161e505b56d67b0cf5b0f50087" target="_top" xlink:title="project::SI_Symbol\l::getAngle">
+<a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#a01f0e165edb023b0c50cdbfd70f36021" target="_top" xlink:title="project::SI_Symbol\l::getRotation">
 <polygon fill="white" stroke="black" points="142,-261 142,-295 242,-295 242,-261 142,-261"/>
 <text text-anchor="start" x="150" y="-282" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_Symbol</text>
-<text text-anchor="middle" x="192" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">::getAngle</text>
+<text text-anchor="middle" x="192" y="-269" font-family="Helvetica,sans-Serif" font-size="10.00">::getRotation</text>
 </a>
 </g>
 <!-- Node1&#45;&gt;Node22 -->

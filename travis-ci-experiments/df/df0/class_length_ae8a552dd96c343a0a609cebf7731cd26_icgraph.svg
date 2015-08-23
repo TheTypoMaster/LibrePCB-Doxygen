@@ -184,10 +184,10 @@
 </g>
 <!-- Node15 -->
 <g id="node32" class="node"><title>Node15</title>
-<a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597" target="_top" xlink:title="project::SI_Symbol\l::setAngle">
+<a xlink:href="../../de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5" target="_top" xlink:title="project::SI_Symbol\l::setRotation">
 <polygon fill="white" stroke="black" points="719,-104 719,-138 819,-138 819,-104 719,-104"/>
 <text text-anchor="start" x="727" y="-125" font-family="Helvetica,sans-Serif" font-size="10.00">project::SI_Symbol</text>
-<text text-anchor="middle" x="769" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">::setAngle</text>
+<text text-anchor="middle" x="769" y="-112" font-family="Helvetica,sans-Serif" font-size="10.00">::setRotation</text>
 </a>
 </g>
 <!-- Node10&#45;&gt;Node15 -->

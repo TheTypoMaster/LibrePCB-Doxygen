@@ -24,7 +24,7 @@
 <area shape="rect" id="node22" href="$d5/d3f/class_i_f___schematic_layer_provider.html" title="The IF_SchematicLayerProvider class defines an interface for classes which provide schematic layers..." alt="" coords="2498,1773,2709,1928"/>
 <area shape="rect" id="node24" href="$d6/db7/class_i_f___board_layer_provider.html" title="The IF_BoardLayerProvider class defines an interface for classes which provide board layers..." alt="" coords="2278,1773,2459,1928"/>
 <area shape="rect" id="node69" href="$df/df0/class_length.html" title="The Length class is used to represent a length (for example 12.75 millimeters) " alt="" coords="54,1297,209,2405"/>
-<area shape="rect" id="node73" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="69,5770,194,6739"/>
+<area shape="rect" id="node73" href="$d0/d69/class_point.html" title="The Point class is used to represent a point/coordinate/vector, for example (1.2mm; 5..." alt="" coords="69,5753,194,6757"/>
 <area shape="rect" id="node71" href="$dd/d55/class_length_unit.html" title="The LengthUnit class represents a length unit (millimeters, inches,...) and provides some useful meth..." alt="" coords="233,1626,371,2075"/>
 <area shape="rect" id="node78" href="$d7/d3c/classproject_1_1_i_f___erc_msg_provider.html" title="The IF_ErcMsgProvider class. " alt="" coords="1382,4107,1593,4227"/>
 <area shape="rect" id="node100" href="$d1/d60/classproject_1_1_s_g_i___net_label.html" title="The SGI_NetLabel class. " alt="" coords="771,7377,958,7687"/>

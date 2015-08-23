@@ -3,6 +3,8 @@
 <area shape="rect" id="node7" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#a894842161e505b56d67b0cf5b0f50087" title="library::SymbolPolygonSegment\l::getAngle" alt="" coords="181,58,389,105"/>
 <area shape="rect" id="node9" href="$d9/d94/classlibrary_1_1_symbol_polygon_segment.html#af89771a9eb5882eaee9f298f663f89dc" title="library::SymbolPolygonSegment\l::getEndPos" alt="" coords="181,127,389,174"/>
 <area shape="rect" id="node11" href="$d2/d39/class_angle.html#a70d223e0c1188606f971188d6f23b66f" title="Get the angle in radians. " alt="" coords="236,197,335,227"/>
-<area shape="rect" id="node13" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="236,251,335,280"/>
-<area shape="rect" id="node5" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="437,5,533,35"/>
+<area shape="rect" id="node13" href="$d2/d39/class_angle.html#ae76e6384199e1c899025c103affd862f" title="Get an Angle object which is mapped to [&#45;180..+180[ degrees. " alt="" coords="203,251,368,280"/>
+<area shape="rect" id="node17" href="$d2/d39/class_angle.html#ad2926beabd4d66cc5bc1ac4c622540ea" title="Get the Angle in degrees. " alt="" coords="236,304,335,333"/>
+<area shape="rect" id="node5" href="$df/df0/class_length.html#abf9a817a583f3939aea7bffdeeb7b235" title="Get the length in pixels (for QGraphics* objects) " alt="" coords="463,5,559,35"/>
+<area shape="rect" id="node15" href="$d2/d39/class_angle.html#a74e05120ac11f78df41f0a0304990f9f" title="Map this Angle object to [&#45;180..+180[ degrees. " alt="" coords="439,251,583,280"/>
 </map>

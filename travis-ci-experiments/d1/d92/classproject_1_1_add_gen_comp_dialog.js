@@ -4,7 +4,7 @@ var classproject_1_1_add_gen_comp_dialog =
     [ "~AddGenCompDialog", "d1/d92/classproject_1_1_add_gen_comp_dialog.html#a3edeaa7846c68fe774f20e20e9836f6d", null ],
     [ "getSelectedGenCompFilePath", "d1/d92/classproject_1_1_add_gen_comp_dialog.html#a9838d73392b345f0c9471b5235e11adb", null ],
     [ "getSelectedSymbVarUuid", "d1/d92/classproject_1_1_add_gen_comp_dialog.html#a0c185cf76ee12c6d0bf8bff219ca5d8a", null ],
-    [ "on_treeCategories_currentItemChanged", "d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25", null ],
+    [ "treeCategories_currentItemChanged", "d1/d92/classproject_1_1_add_gen_comp_dialog.html#ab30df3fcf42614694068294b48161b00", null ],
     [ "on_listGenericComponents_currentItemChanged", "d1/d92/classproject_1_1_add_gen_comp_dialog.html#a5951d1d20ef2d9675b3b1690d6799fa7", null ],
     [ "on_cbxSymbVar_currentIndexChanged", "d1/d92/classproject_1_1_add_gen_comp_dialog.html#a59cdf065c69c12551c2043dfe0891ff1", null ],
     [ "setSelectedCategory", "d1/d92/classproject_1_1_add_gen_comp_dialog.html#ae968bf4d25607bdad3eb848014d999da", null ],

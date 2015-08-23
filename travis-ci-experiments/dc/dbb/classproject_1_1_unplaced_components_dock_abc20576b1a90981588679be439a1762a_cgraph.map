@@ -1,6 +1,7 @@
 <map id="on_cbxSelectedComponent_currentIndexChanged" name="on_cbxSelectedComponent_currentIndexChanged">
-<area shape="rect" id="node3" href="$d2/d05/classproject_1_1_project.html#a1ce83ab861173e235c7a651243d02937" title="Get the ProjectLibrary object which contains all library elements used in this project. " alt="" coords="239,5,412,35"/>
-<area shape="rect" id="node5" href="$d9/d30/classproject_1_1_project_library.html#a8a9dbd8d8b4d469c974dea2808d62eb1" title="project::ProjectLibrary\l::getComponent" alt="" coords="251,58,400,105"/>
-<area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a72f69a594e25f3c54771588086c929c2" title="setSelectedComponent" alt="" coords="247,128,404,157"/>
-<area shape="rect" id="node9" href="$d3/dad/classlibrary_1_1_component.html#a88f1a973e2036997bc17ce0782c36587" title="library::Component\l::getGenCompUuid" alt="" coords="463,119,596,166"/>
+<area shape="rect" id="node3" href="$d3/dd6/classproject_1_1_project_editor.html#a8bd898624d6ef8da257077c470a1367a" title="project::ProjectEditor\l::getWorkspace" alt="" coords="249,5,393,51"/>
+<area shape="rect" id="node5" href="$d5/d56/class_workspace.html#a0aaab7f8db4623adc7227460a859db51" title="Get the workspace library. " alt="" coords="245,75,397,104"/>
+<area shape="rect" id="node7" href="$de/d02/classlibrary_1_1_library.html#ad5121bf85bceffc79b92edc6d7445a07" title="library::Library::getLatest\lComponent" alt="" coords="239,127,404,174"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a0a886a9edf5bf682f5245159661bfc94" title="Check whether this object contains a valid filepath or not. " alt="" coords="263,197,380,227"/>
+<area shape="rect" id="node11" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a72f69a594e25f3c54771588086c929c2" title="setSelectedComponent" alt="" coords="243,251,400,280"/>
 </map>

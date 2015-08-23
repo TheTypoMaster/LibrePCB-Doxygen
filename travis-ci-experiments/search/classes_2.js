@@ -9,6 +9,7 @@ var searchData=
   ['cmdboardadd',['CmdBoardAdd',['../d0/d91/classproject_1_1_cmd_board_add.html',1,'project']]],
   ['cmdcomponentinstanceadd',['CmdComponentInstanceAdd',['../d6/d6a/classproject_1_1_cmd_component_instance_add.html',1,'project']]],
   ['cmdcomponentinstanceedit',['CmdComponentInstanceEdit',['../d8/d2c/classproject_1_1_cmd_component_instance_edit.html',1,'project']]],
+  ['cmdcomponentinstanceremove',['CmdComponentInstanceRemove',['../d3/df7/classproject_1_1_cmd_component_instance_remove.html',1,'project']]],
   ['cmdgencompattrinstadd',['CmdGenCompAttrInstAdd',['../dd/d26/classproject_1_1_cmd_gen_comp_attr_inst_add.html',1,'project']]],
   ['cmdgencompattrinstedit',['CmdGenCompAttrInstEdit',['../d9/d07/classproject_1_1_cmd_gen_comp_attr_inst_edit.html',1,'project']]],
   ['cmdgencompattrinstremove',['CmdGenCompAttrInstRemove',['../d1/d24/classproject_1_1_cmd_gen_comp_attr_inst_remove.html',1,'project']]],

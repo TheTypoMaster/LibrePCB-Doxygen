@@ -1,17 +1,19 @@
 <map id="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbworkspace/workspace.h" name="/home/travis/build/LibrePCB/LibrePCB/libs/librepcbworkspace/workspace.h">
 <area shape="rect" id="node3" href="$db/dfb/libraryeditor_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcblibraryeditor\l/libraryeditor.cpp" alt="" coords="5,126,171,207"/>
 <area shape="rect" id="node5" href="$de/de5/boardeditor_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/boardeditor.cpp" alt="" coords="195,126,376,207"/>
-<area shape="rect" id="node7" href="$da/d64/addgencompdialog_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/dialogs/addgencompdialog.cpp" alt="" coords="400,126,603,207"/>
-<area shape="rect" id="node9" href="$da/d1e/projecteditor_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/projecteditor.cpp" alt="" coords="627,126,792,207"/>
-<area shape="rect" id="node11" href="$d8/df2/ses__addcomponents_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addcomponents.cpp" alt="" coords="816,117,984,216"/>
-<area shape="rect" id="node13" href="$d1/d1e/schematiceditor_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/schematiceditor.cpp" alt="" coords="1008,126,1245,207"/>
-<area shape="rect" id="node15" href="$d5/d41/favoriteprojectsmodel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/favoriteprojectsmodel.cpp" alt="" coords="1269,135,1555,199"/>
-<area shape="rect" id="node17" href="$d1/ddb/projecttreemodel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/projecttreemodel.cpp" alt="" coords="1579,135,1837,199"/>
-<area shape="rect" id="node19" href="$d8/da7/recentprojectsmodel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/recentprojectsmodel.cpp" alt="" coords="1861,135,2141,199"/>
-<area shape="rect" id="node21" href="$d1/daf/wsi__base_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/settings\l/items/wsi_base.cpp" alt="" coords="2165,126,2349,207"/>
-<area shape="rect" id="node23" href="$df/d5a/workspacesettings_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/settings\l/workspacesettings.cpp" alt="" coords="2373,126,2557,207"/>
-<area shape="rect" id="node25" href="$d3/d42/workspacesettingsdialog_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/settings\l/workspacesettingsdialog.cpp" alt="" coords="2581,126,2776,207"/>
-<area shape="rect" id="node27" href="$d8/dad/workspace_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/workspace.cpp" alt="" coords="2800,135,3027,199"/>
-<area shape="rect" id="node29" href="$d1/d4e/controlpanel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/librepcb\l/controlpanel/controlpanel.cpp" alt="" coords="3051,135,3245,199"/>
-<area shape="rect" id="node31" href="$df/d0a/main_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/librepcb\l/main.cpp" alt="" coords="3269,135,3459,199"/>
+<area shape="rect" id="node7" href="$d7/d20/bes__select_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/fsm/bes_select.cpp" alt="" coords="400,126,608,207"/>
+<area shape="rect" id="node9" href="$de/dd2/unplacedcomponentsdock_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/boardeditor/unplacedcomponentsdock.cpp" alt="" coords="632,126,901,207"/>
+<area shape="rect" id="node11" href="$da/d64/addgencompdialog_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/dialogs/addgencompdialog.cpp" alt="" coords="925,126,1128,207"/>
+<area shape="rect" id="node13" href="$da/d1e/projecteditor_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/projecteditor.cpp" alt="" coords="1152,126,1317,207"/>
+<area shape="rect" id="node15" href="$d8/df2/ses__addcomponents_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/fsm/ses\l_addcomponents.cpp" alt="" coords="1341,117,1509,216"/>
+<area shape="rect" id="node17" href="$d1/d1e/schematiceditor_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbprojecteditor\l/schematiceditor/schematiceditor.cpp" alt="" coords="1533,126,1771,207"/>
+<area shape="rect" id="node19" href="$d5/d41/favoriteprojectsmodel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/favoriteprojectsmodel.cpp" alt="" coords="1795,135,2080,199"/>
+<area shape="rect" id="node21" href="$d1/ddb/projecttreemodel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/projecttreemodel.cpp" alt="" coords="2104,135,2363,199"/>
+<area shape="rect" id="node23" href="$d8/da7/recentprojectsmodel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/recentprojectsmodel.cpp" alt="" coords="2387,135,2667,199"/>
+<area shape="rect" id="node25" href="$d1/daf/wsi__base_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/settings\l/items/wsi_base.cpp" alt="" coords="2691,126,2875,207"/>
+<area shape="rect" id="node27" href="$df/d5a/workspacesettings_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/settings\l/workspacesettings.cpp" alt="" coords="2899,126,3083,207"/>
+<area shape="rect" id="node29" href="$d3/d42/workspacesettingsdialog_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/settings\l/workspacesettingsdialog.cpp" alt="" coords="3107,126,3301,207"/>
+<area shape="rect" id="node31" href="$d8/dad/workspace_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/libs\l/librepcbworkspace/workspace.cpp" alt="" coords="3325,135,3552,199"/>
+<area shape="rect" id="node33" href="$d1/d4e/controlpanel_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/librepcb\l/controlpanel/controlpanel.cpp" alt="" coords="3576,135,3771,199"/>
+<area shape="rect" id="node35" href="$df/d0a/main_8cpp.html" title="/home/travis/build\l/LibrePCB/LibrePCB/librepcb\l/main.cpp" alt="" coords="3795,135,3984,199"/>
 </map>

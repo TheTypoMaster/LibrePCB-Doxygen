@@ -1,4 +1,5 @@
 <map id="~CmdComponentInstanceEdit" name="~CmdComponentInstanceEdit">
 <area shape="rect" id="node3" href="$d0/d7d/classproject_1_1_component_instance.html#aec8f6fd3fb6f466ea97563621f5dccf9" title="project::ComponentInstance\l::setPosition" alt="" coords="253,5,440,51"/>
 <area shape="rect" id="node5" href="$d0/d7d/classproject_1_1_component_instance.html#abe3686cf5581829dce0c2a619207915f" title="project::ComponentInstance\l::setRotation" alt="" coords="253,74,440,121"/>
+<area shape="rect" id="node7" href="$d0/d7d/classproject_1_1_component_instance.html#a00909bd1aa9a06e93db7fc24af14e2ee" title="project::ComponentInstance\l::setIsMirrored" alt="" coords="253,143,440,190"/>
 </map>

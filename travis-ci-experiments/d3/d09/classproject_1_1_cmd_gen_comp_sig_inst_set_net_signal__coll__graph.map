@@ -1,31 +1,31 @@
 <map id="CmdGenCompSigInstSetNetSignal" name="CmdGenCompSigInstSetNetSignal">
-<area shape="rect" id="node2" href="$d3/d26/class_undo_command.html" title="The UndoCommand class represents a command which you can undo/redo. " alt="" coords="343,8472,484,8835"/>
-<area shape="rect" id="node5" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html" title="The GenCompSignalInstance class. " alt="" coords="589,8411,808,8895"/>
-<area shape="rect" id="node7" href="$d7/d3c/classproject_1_1_i_f___erc_msg_provider.html" title="The IF_ErcMsgProvider class. " alt="" coords="811,5684,1021,5804"/>
-<area shape="rect" id="node11" href="$de/d67/classproject_1_1_gen_comp_instance.html" title="The GenCompInstance class. " alt="" coords="441,6305,684,7135"/>
-<area shape="rect" id="node85" href="$d3/d93/classproject_1_1_net_signal.html" title="The NetSignal class. " alt="" coords="792,7686,1005,8343"/>
-<area shape="rect" id="node89" href="$dc/d67/classproject_1_1_erc_msg.html" title="The ErcMsg class represents a message in the ERC (Electrical Rule Check) list. " alt="" coords="1207,6513,1327,6927"/>
-<area shape="rect" id="node95" href="$d3/d21/classproject_1_1_net_class.html" title="The NetClass class. " alt="" coords="936,7203,1139,7618"/>
+<area shape="rect" id="node2" href="$d3/d26/class_undo_command.html" title="The UndoCommand class represents a command which you can undo/redo. " alt="" coords="343,8488,484,8851"/>
+<area shape="rect" id="node5" href="$df/dce/classproject_1_1_gen_comp_signal_instance.html" title="The GenCompSignalInstance class. " alt="" coords="589,8427,808,8911"/>
+<area shape="rect" id="node7" href="$d7/d3c/classproject_1_1_i_f___erc_msg_provider.html" title="The IF_ErcMsgProvider class. " alt="" coords="811,5700,1021,5820"/>
+<area shape="rect" id="node11" href="$de/d67/classproject_1_1_gen_comp_instance.html" title="The GenCompInstance class. " alt="" coords="441,6321,684,7151"/>
+<area shape="rect" id="node85" href="$d3/d93/classproject_1_1_net_signal.html" title="The NetSignal class. " alt="" coords="792,7702,1005,8359"/>
+<area shape="rect" id="node89" href="$dc/d67/classproject_1_1_erc_msg.html" title="The ErcMsg class represents a message in the ERC (Electrical Rule Check) list. " alt="" coords="1207,6529,1327,6943"/>
+<area shape="rect" id="node95" href="$d3/d21/classproject_1_1_net_class.html" title="The NetClass class. " alt="" coords="936,7219,1139,7634"/>
 <area shape="rect" id="node9" href="$d9/d3d/class_i_f___xml_serializable_object.html" title="The IF_XmlSerializableObject class provides an interface for classes which are serializable/deseriali..." alt="" coords="519,1461,721,1598"/>
-<area shape="rect" id="node21" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="25,2054,228,2850"/>
-<area shape="rect" id="node28" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="1004,2149,1223,2755"/>
-<area shape="rect" id="node36" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="1704,3453,1904,4544"/>
-<area shape="rect" id="node45" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="1201,5597,1401,5891"/>
-<area shape="rect" id="node63" href="$d7/d04/classproject_1_1_project_settings.html" title="The ProjectSettings class. " alt="" coords="2539,5571,2739,5917"/>
-<area shape="rect" id="node78" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html" title="The GenCompSymbVar class. " alt="" coords="399,2875,601,3429"/>
-<area shape="rect" id="node81" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html" title="The GenCompSignal class. " alt="" coords="100,4569,303,5226"/>
-<area shape="rect" id="node13" href="$d9/d41/class_i_f___attribute_provider.html" title="The IF_AttributeProvider class defines an interface for classes which provides some attributes which ..." alt="" coords="708,2357,929,2547"/>
-<area shape="rect" id="node17" href="$d7/d7c/classlibrary_1_1_generic_component.html" title="The GenericComponent class. " alt="" coords="261,5346,475,6142"/>
-<area shape="rect" id="node19" href="$d8/dff/classlibrary_1_1_library_element.html" title="The LibraryElement class extends the LibraryBaseElement class with some attributes and methods which ..." alt="" coords="5,3887,208,4111"/>
+<area shape="rect" id="node21" href="$dd/d8a/classlibrary_1_1_library_base_element.html" title="The LibraryBaseElement class. " alt="" coords="25,2053,228,2867"/>
+<area shape="rect" id="node28" href="$d1/d03/classproject_1_1_circuit.html" title="The Circuit class represents all electrical connections in a project (drawed in the schematics) ..." alt="" coords="1004,2157,1223,2763"/>
+<area shape="rect" id="node36" href="$d2/d05/classproject_1_1_project.html" title="The Project class represents a whole (opened) project with all its content. " alt="" coords="1704,3469,1904,4560"/>
+<area shape="rect" id="node45" href="$d1/dd6/classproject_1_1_erc_msg_list.html" title="The ErcMsgList class contains a list of ERC messages which are visible for the user. " alt="" coords="1201,5613,1401,5907"/>
+<area shape="rect" id="node63" href="$d7/d04/classproject_1_1_project_settings.html" title="The ProjectSettings class. " alt="" coords="2539,5587,2739,5933"/>
+<area shape="rect" id="node78" href="$d7/dff/classlibrary_1_1_gen_comp_symb_var.html" title="The GenCompSymbVar class. " alt="" coords="399,2891,601,3445"/>
+<area shape="rect" id="node81" href="$d4/d5f/classlibrary_1_1_gen_comp_signal.html" title="The GenCompSignal class. " alt="" coords="100,4585,303,5242"/>
+<area shape="rect" id="node13" href="$d9/d41/class_i_f___attribute_provider.html" title="The IF_AttributeProvider class defines an interface for classes which provides some attributes which ..." alt="" coords="708,2365,929,2555"/>
+<area shape="rect" id="node17" href="$d7/d7c/classlibrary_1_1_generic_component.html" title="The GenericComponent class. " alt="" coords="261,5362,475,6158"/>
+<area shape="rect" id="node19" href="$d8/dff/classlibrary_1_1_library_element.html" title="The LibraryElement class extends the LibraryBaseElement class with some attributes and methods which ..." alt="" coords="5,3903,208,4127"/>
 <area shape="rect" id="node24" href="$de/d34/class_version.html" title="The Version class represents a version number in the format &quot;1.42.7&quot;. " alt="" coords="121,1296,233,1763"/>
 <area shape="rect" id="node26" href="$d4/d1c/class_file_path.html" title="This class represents absolute, well&#45;formatted paths to files or directories. " alt="" coords="1432,5,1611,541"/>
 <area shape="rect" id="node33" href="$d1/d7f/class_smart_file.html" title="The abstract SmartFile class represents a file and provides some useful methods to work with that fil..." alt="" coords="1692,643,1916,989"/>
 <area shape="rect" id="node69" href="$d9/d57/class_file_lock.html" title="This class can be used to implement file&#45;based file locks. " alt="" coords="1993,1013,2156,1272"/>
-<area shape="rect" id="node72" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="1585,5251,1801,6237"/>
+<area shape="rect" id="node72" href="$d9/d30/classproject_1_1_project_library.html" title="The ProjectLibrary class. " alt="" coords="1585,5267,1801,6253"/>
 <area shape="rect" id="node31" href="$da/db0/class_smart_xml_file.html" title="The SmartXmlFile class represents a XML file and provides methods to load/save XML DOM trees (XmlDomD..." alt="" coords="1704,1417,1904,1641"/>
 <area shape="rect" id="node59" href="$db/deb/class_smart_text_file.html" title="The SmartTextFile class represents a text file and provides access to its content. " alt="" coords="1868,1787,1999,2029"/>
-<area shape="rect" id="node51" href="$d1/d2c/classproject_1_1_board_layer_provider.html" title="The BoardLayerProvider class provides and manages all available board layers which are used in the pr..." alt="" coords="1825,5641,1988,5847"/>
-<area shape="rect" id="node55" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="2163,5641,2355,5847"/>
-<area shape="rect" id="node39" href="$d5/d3f/class_i_f___schematic_layer_provider.html" title="The IF_SchematicLayerProvider class defines an interface for classes which provide schematic layers..." alt="" coords="2349,2375,2560,2529"/>
-<area shape="rect" id="node41" href="$d6/db7/class_i_f___board_layer_provider.html" title="The IF_BoardLayerProvider class defines an interface for classes which provide board layers..." alt="" coords="2144,2375,2325,2529"/>
+<area shape="rect" id="node51" href="$d1/d2c/classproject_1_1_board_layer_provider.html" title="The BoardLayerProvider class provides and manages all available board layers which are used in the pr..." alt="" coords="1825,5657,1988,5863"/>
+<area shape="rect" id="node55" href="$d0/ded/classproject_1_1_schematic_layer_provider.html" title="The SchematicLayerProvider class provides and manages all available schematic layers which are used i..." alt="" coords="2163,5657,2355,5863"/>
+<area shape="rect" id="node39" href="$d5/d3f/class_i_f___schematic_layer_provider.html" title="The IF_SchematicLayerProvider class defines an interface for classes which provide schematic layers..." alt="" coords="2349,2383,2560,2537"/>
+<area shape="rect" id="node41" href="$d6/db7/class_i_f___board_layer_provider.html" title="The IF_BoardLayerProvider class defines an interface for classes which provide board layers..." alt="" coords="2144,2383,2325,2537"/>
 </map>

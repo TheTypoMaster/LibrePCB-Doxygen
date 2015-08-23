@@ -1,14 +1,14 @@
 var classproject_1_1_s_i___symbol =
 [
     [ "SI_Symbol", "de/d50/classproject_1_1_s_i___symbol.html#a4f4ac3d8b00104cffbb716c1ffc9e8f4", null ],
-    [ "SI_Symbol", "de/d50/classproject_1_1_s_i___symbol.html#ac9886060d53b650910a50ad1890a7383", null ],
+    [ "SI_Symbol", "de/d50/classproject_1_1_s_i___symbol.html#a193d7159b0bcc639e98f7eafa1986c7f", null ],
     [ "~SI_Symbol", "de/d50/classproject_1_1_s_i___symbol.html#a91cd41d03ab03e6a8c11eb3d88f4cdac", null ],
     [ "SI_Symbol", "de/d50/classproject_1_1_s_i___symbol.html#a667cab1c94b7971371f089ce51ecdc80", null ],
     [ "SI_Symbol", "de/d50/classproject_1_1_s_i___symbol.html#acdfc4186d1270d965e4e52e00820c342", null ],
     [ "getProject", "de/d50/classproject_1_1_s_i___symbol.html#a8b9accae182d7ca8c9e6b6d3e3a7f725", null ],
     [ "getSchematic", "de/d50/classproject_1_1_s_i___symbol.html#ae4d4a4c5b541eae5f273f66e800e09e5", null ],
     [ "getUuid", "de/d50/classproject_1_1_s_i___symbol.html#ada9b237a8629c03e16491a72730b456b", null ],
-    [ "getAngle", "de/d50/classproject_1_1_s_i___symbol.html#a894842161e505b56d67b0cf5b0f50087", null ],
+    [ "getRotation", "de/d50/classproject_1_1_s_i___symbol.html#a01f0e165edb023b0c50cdbfd70f36021", null ],
     [ "getName", "de/d50/classproject_1_1_s_i___symbol.html#a4d55d03995b846c5840a2adf64399e94", null ],
     [ "getPin", "de/d50/classproject_1_1_s_i___symbol.html#a43e9b5255dc9fed908263746e66c5d68", null ],
     [ "getPins", "de/d50/classproject_1_1_s_i___symbol.html#a16a2a98f4b0e7d1e95f44fbbfd1e3d50", null ],
@@ -16,10 +16,10 @@ var classproject_1_1_s_i___symbol =
     [ "getLibSymbol", "de/d50/classproject_1_1_s_i___symbol.html#a1adcc0f517bae425d73e304eacd62363", null ],
     [ "getGenCompSymbVarItem", "de/d50/classproject_1_1_s_i___symbol.html#aab980b2bbd0de37752e75710405a20a2", null ],
     [ "setPosition", "de/d50/classproject_1_1_s_i___symbol.html#ae4d151fe3fae75cb19c5add958a470a8", null ],
-    [ "setAngle", "de/d50/classproject_1_1_s_i___symbol.html#ac2fecbff745326981395b663b0494597", null ],
+    [ "setRotation", "de/d50/classproject_1_1_s_i___symbol.html#a92a6c99e0892b13f98c8ec4b5e4823f5", null ],
     [ "addToSchematic", "de/d50/classproject_1_1_s_i___symbol.html#a43e5b1bac02cf98f643843bdd6fcdfb9", null ],
     [ "removeFromSchematic", "de/d50/classproject_1_1_s_i___symbol.html#aaaa53153ea6aca5929ea0972d83ef836", null ],
-    [ "serializeToXmlDomElement", "de/d50/classproject_1_1_s_i___symbol.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "de/d50/classproject_1_1_s_i___symbol.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "mapToScene", "de/d50/classproject_1_1_s_i___symbol.html#a56e275d18632ae7d863b45e405563e26", null ],
     [ "getAttributeValue", "de/d50/classproject_1_1_s_i___symbol.html#a675b0181eb14cfede73e0f078a6b2842", null ],
     [ "getType", "de/d50/classproject_1_1_s_i___symbol.html#ac102cee468f8c13860067ce854a9c603", null ],
@@ -39,5 +39,5 @@ var classproject_1_1_s_i___symbol =
     [ "mGraphicsItem", "de/d50/classproject_1_1_s_i___symbol.html#af2b2515849b2094413e32596c43813c2", null ],
     [ "mUuid", "de/d50/classproject_1_1_s_i___symbol.html#a2c2bc42e869c33cbbfe3393378a44ef8", null ],
     [ "mPosition", "de/d50/classproject_1_1_s_i___symbol.html#aeb305cb4fa9c30aa723aa1cc02c2e690", null ],
-    [ "mAngle", "de/d50/classproject_1_1_s_i___symbol.html#a18c0f13d4de01a6dcbce2a8e29c4b473", null ]
+    [ "mRotation", "de/d50/classproject_1_1_s_i___symbol.html#a97de4ec2b9bd9978446fa98f8edb15cc", null ]
 ];

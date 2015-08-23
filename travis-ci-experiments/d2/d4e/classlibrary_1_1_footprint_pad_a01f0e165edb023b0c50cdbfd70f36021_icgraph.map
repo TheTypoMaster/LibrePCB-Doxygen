@@ -1,8 +1,9 @@
 <map id="getRotation" name="getRotation">
-<area shape="rect" id="node3" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_FootprintPad\l::updateCacheAndRepaint" alt="" coords="145,43,319,90"/>
-<area shape="rect" id="node5" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#a212e36e19edc323ddeb73387d2f011a5" title="project::BI_FootprintPad\l::updatePosition" alt="" coords="368,74,531,121"/>
+<area shape="rect" id="node3" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#abbb5db1b700a86caa85ff4c0c13142f2" title="project::BGI_FootprintPad\l::updateCacheAndRepaint" alt="" coords="145,78,319,125"/>
+<area shape="rect" id="node5" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#a212e36e19edc323ddeb73387d2f011a5" title="project::BI_FootprintPad\l::updatePosition" alt="" coords="368,109,531,155"/>
 <area shape="rect" id="node7" href="$da/d96/classproject_1_1_b_i___footprint.html#a271c63e12acd19bccc27bf6861938df2" title="project::BI_Footprint\l::componentInstanceMoved" alt="" coords="584,5,765,51"/>
 <area shape="rect" id="node11" href="$da/d96/classproject_1_1_b_i___footprint.html#ab6c0fcabcb9d5a38a27ed7aeb34f0958" title="project::BI_Footprint\l::componentInstanceRotated" alt="" coords="580,74,769,121"/>
-<area shape="rect" id="node14" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#ac81e6cd36593d731c5e2e23048ed6754" title="project::BI_FootprintPad\l::BI_FootprintPad" alt="" coords="593,143,756,190"/>
-<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="820,39,959,86"/>
+<area shape="rect" id="node14" href="$da/d96/classproject_1_1_b_i___footprint.html#ae00c60cb068f7bb3703a6c84450afeaf" title="project::BI_Footprint\l::componentInstanceMirrored" alt="" coords="580,143,769,190"/>
+<area shape="rect" id="node17" href="$d4/ddd/classproject_1_1_b_i___footprint_pad.html#ac81e6cd36593d731c5e2e23048ed6754" title="project::BI_FootprintPad\l::BI_FootprintPad" alt="" coords="593,213,756,259"/>
+<area shape="rect" id="node9" href="$da/d96/classproject_1_1_b_i___footprint.html#a02fd73d861ef2e4aabb38c0c9ff82947" title="project::BI_Footprint\l::init" alt="" coords="820,74,959,121"/>
 </map>

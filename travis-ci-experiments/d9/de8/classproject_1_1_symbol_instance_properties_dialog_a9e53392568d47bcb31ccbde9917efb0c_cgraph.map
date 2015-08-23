@@ -13,7 +13,7 @@
 <area shape="rect" id="node35" href="$df/df0/class_length.html#a796af485ddae7b24093b8b70f790c42b" title="Get a Length object with a specific length and map it to a specific grid. " alt="" coords="472,589,589,618"/>
 <area shape="rect" id="node43" href="$d2/d39/class_angle.html#a0f80113e23a69620a2d810b933e12a8d" title="Get an Angle object with a specific angle. " alt="" coords="475,642,587,671"/>
 <area shape="rect" id="node47" href="$de/d50/classproject_1_1_s_i___symbol.html#a98612bae828cddb2f664368397d27fe3" title="project::SI_Symbol\l::getPosition" alt="" coords="464,695,597,741"/>
-<area shape="rect" id="node49" href="$de/d50/classproject_1_1_s_i___symbol.html#a894842161e505b56d67b0cf5b0f50087" title="project::SI_Symbol\l::getAngle" alt="" coords="464,764,597,811"/>
+<area shape="rect" id="node49" href="$de/d50/classproject_1_1_s_i___symbol.html#a01f0e165edb023b0c50cdbfd70f36021" title="project::SI_Symbol\l::getRotation" alt="" coords="464,764,597,811"/>
 <area shape="rect" id="node51" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#aa96ed7261c6e384d0279dea35b31553e" title="project::CmdSymbolInstance\lEdit::setPosition" alt="" coords="436,833,625,880"/>
 <area shape="rect" id="node53" href="$dd/d49/classproject_1_1_cmd_symbol_instance_edit.html#afe7708f6182d8bac4e99807fe81b1061" title="project::CmdSymbolInstance\lEdit::setRotation" alt="" coords="436,903,625,949"/>
 <area shape="rect" id="node55" href="$d9/de8/classproject_1_1_symbol_instance_properties_dialog.html#afd1bce071dc634026d41b91abd1498ba" title="endCmd" alt="" coords="496,973,565,1002"/>

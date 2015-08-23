@@ -1,0 +1,7 @@
+<map id="serializeToXmlDomElement" name="serializeToXmlDomElement">
+<area shape="rect" id="node3" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="261,5,416,35"/>
+<area shape="rect" id="node7" href="$d1/d1f/class_xml_dom_element.html#af2ee1b74300d31ca889b32ddd96d51ac" title="Append a child to the end of the child list of this element. " alt="" coords="239,59,439,88"/>
+<area shape="rect" id="node9" href="$d1/d1f/class_xml_dom_element.html#a22b3ed6c99338244f5855c446f66d702" title="Create a new text child and append it to the list of childs. " alt="" coords="240,111,437,158"/>
+<area shape="rect" id="node11" href="$de/d34/class_version.html#a39a0bbf3901de18041fb5c324ecf412a" title="Get the version as a string in the format &quot;1.2.3&quot;. " alt="" coords="288,181,389,211"/>
+<area shape="rect" id="node5" href="$de/d34/class_version.html#a0a886a9edf5bf682f5245159661bfc94" title="Check if the object represents a valid version number. " alt="" coords="489,5,601,35"/>
+</map>

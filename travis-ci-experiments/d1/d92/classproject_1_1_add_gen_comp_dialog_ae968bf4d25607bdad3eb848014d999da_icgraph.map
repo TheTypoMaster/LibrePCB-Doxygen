@@ -1,4 +1,4 @@
 <map id="setSelectedCategory" name="setSelectedCategory">
-<area shape="rect" id="node3" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#aa523372c74c9d1d342035a3dc5b49d25" title="on_treeCategories_current\lItemChanged" alt="" coords="199,5,372,51"/>
-<area shape="rect" id="node5" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="AddGenCompDialog" alt="" coords="421,13,563,43"/>
+<area shape="rect" id="node3" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#ab30df3fcf42614694068294b48161b00" title="treeCategories_currentItem\lChanged" alt="" coords="199,5,377,51"/>
+<area shape="rect" id="node5" href="$d1/d92/classproject_1_1_add_gen_comp_dialog.html#a158bc6ffa6ab14d062e57c57929a197f" title="AddGenCompDialog" alt="" coords="427,13,568,43"/>
 </map>

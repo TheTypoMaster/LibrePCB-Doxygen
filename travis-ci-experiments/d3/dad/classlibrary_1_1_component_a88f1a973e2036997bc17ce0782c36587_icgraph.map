@@ -1,12 +1,6 @@
 <map id="getGenCompUuid" name="getGenCompUuid">
-<area shape="rect" id="node3" href="$d9/d30/classproject_1_1_project_library.html#acc16ec02378a1c17f0b883ff8002e402" title="project::ProjectLibrary\l::getComponentsOfGenComp" alt="" coords="184,123,379,170"/>
-<area shape="rect" id="node20" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a72f69a594e25f3c54771588086c929c2" title="project::UnplacedComponents\lDock::setSelectedComponent" alt="" coords="183,197,380,243"/>
-<area shape="rect" id="node5" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="project::UnplacedComponents\lDock::on_btnAddAll_clicked" alt="" coords="711,5,908,51"/>
-<area shape="rect" id="node7" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ad000d7056be9060e68ab7f2548d12946" title="project::UnplacedComponents\lDock::updateComponentsList" alt="" coords="441,123,639,170"/>
-<area shape="rect" id="node9" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a8fbd3c721cf6a7086b09b00746e8c5bd" title="project::UnplacedComponents\lDock::UnplacedComponentsDock" alt="" coords="699,74,920,121"/>
-<area shape="rect" id="node11" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a5c8f1dac9d4bbb3d9985ca4d9d3c99bb" title="project::UnplacedComponents\lDock::setBoard" alt="" coords="711,143,908,190"/>
-<area shape="rect" id="node15" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#accd0a903591840efc04eae995ba9518a" title="project::UnplacedComponents\lDock::on_btnAdd_clicked" alt="" coords="711,213,908,259"/>
-<area shape="rect" id="node17" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="project::UnplacedComponents\lDock::on_pushButton_clicked" alt="" coords="711,282,908,329"/>
-<area shape="rect" id="node13" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a538074349f49cbac4a031289b9a96e49" title="project::UnplacedComponents\lDock::~UnplacedComponentsDock" alt="" coords="968,143,1197,190"/>
-<area shape="rect" id="node22" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#abc20576b1a90981588679be439a1762a" title="project::UnplacedComponents\lDock::on_cbxSelectedComponent\l_currentIndexChanged" alt="" coords="429,193,651,257"/>
+<area shape="rect" id="node3" href="$de/d02/classlibrary_1_1_library.html#a1dea3b622e340b2b8685735b15878ed1" title="library::Library::addComponentsToDb" alt="" coords="183,13,420,43"/>
+<area shape="rect" id="node9" href="$d9/d30/classproject_1_1_project_library.html#acc16ec02378a1c17f0b883ff8002e402" title="project::ProjectLibrary\l::getComponentsOfGenComp" alt="" coords="204,66,399,113"/>
+<area shape="rect" id="node5" href="$de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. " alt="" coords="471,13,620,43"/>
+<area shape="rect" id="node7" href="$d1/def/class_control_panel.html#a65617210fcf4b06dcce361e933bbb994" title="ControlPanel::on_actionRescan\lLibrary_triggered" alt="" coords="671,5,876,51"/>
 </map>

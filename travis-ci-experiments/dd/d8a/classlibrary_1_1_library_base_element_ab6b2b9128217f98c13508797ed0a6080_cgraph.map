@@ -1,9 +1,11 @@
 <map id="readFromFile" name="readFromFile">
-<area shape="rect" id="node3" href="$da/db0/class_smart_xml_file.html#a6685c26dd2c2668f47d5fae96c4c319f" title="Open and parse the XML file and build the whole DOM tree. " alt="" coords="153,5,337,51"/>
-<area shape="rect" id="node13" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="parseDomTree" alt="" coords="192,75,299,104"/>
-<area shape="rect" id="node15" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="395,127,549,156"/>
-<area shape="rect" id="node5" href="$de/d6b/class_application.html#a71dfd4d8f6708f9d9eb0f0c507c1e9ef" title="Application::majorVersion" alt="" coords="387,13,557,43"/>
-<area shape="rect" id="node7" href="$de/d6b/class_application.html#a9b7423f4d6e1631b033ff1ef3f1104bc" title="Application::application\lVersion" alt="" coords="607,5,761,51"/>
-<area shape="rect" id="node11" href="$de/d34/class_version.html#a1d27f264dcf673c9b3a991023cd0420c" title="Get the numbers in the version string. " alt="" coords="612,75,756,104"/>
-<area shape="rect" id="node9" href="$de/d34/class_version.html#a0a886a9edf5bf682f5245159661bfc94" title="Check if the object represents a valid version number. " alt="" coords="812,71,924,100"/>
+<area shape="rect" id="node3" href="$d4/d1c/class_file_path.html#a2cc965936000d08100b8b2e503d975a4" title="Get the whole filename (without the path) of the file or directory. " alt="" coords="171,5,320,35"/>
+<area shape="rect" id="node5" href="$d4/d1c/class_file_path.html#aed11b2f2b9590d9ac21e452b8ad11c46" title="Check if the specified filepath is an existing directory. " alt="" coords="169,59,321,88"/>
+<area shape="rect" id="node7" href="$d4/d1c/class_file_path.html#af27e4f117ace775ab38ae937c12cd37a" title="Get the absolute filepath with native directory separators (&quot;/&quot; resp. &quot;\&quot;) " alt="" coords="183,112,308,141"/>
+<area shape="rect" id="node9" href="$d4/d1c/class_file_path.html#a2c6594f7da9797cf10468c08338cbefd" title="Get the filepath to a file or directory which is relative to this filepath. " alt="" coords="176,165,315,195"/>
+<area shape="rect" id="node11" href="$d4/d1c/class_file_path.html#af7ebe5b84330753a4d61b36199f3da48" title="Check if the specified filepath is an existing file. " alt="" coords="168,219,323,248"/>
+<area shape="rect" id="node13" href="$da/db0/class_smart_xml_file.html#a6685c26dd2c2668f47d5fae96c4c319f" title="Open and parse the XML file and build the whole DOM tree. " alt="" coords="153,271,337,318"/>
+<area shape="rect" id="node15" href="$dd/d8a/classlibrary_1_1_library_base_element.html#ad6c2bb438fe200b1224b2d8e05d3eca0" title="parseDomTree" alt="" coords="192,341,299,371"/>
+<area shape="rect" id="node17" href="$dd/d8a/classlibrary_1_1_library_base_element.html#a524ed0dd8a5522b754411728dfe5c752" title="Check the validity of all attributes of the object. " alt="" coords="168,395,323,424"/>
+<area shape="rect" id="node19" href="$de/d34/class_version.html#a0a886a9edf5bf682f5245159661bfc94" title="Check if the object represents a valid version number. " alt="" coords="388,395,500,424"/>
 </map>

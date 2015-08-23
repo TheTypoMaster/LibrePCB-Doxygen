@@ -1,0 +1,6 @@
+<map id="getMirroredLayerId" name="getMirroredLayerId">
+<area shape="rect" id="node4" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#a10ad07d22b03e558503b70098ea58b75" title="project::BGI_Footprint\l::getBoardLayer" alt="" coords="196,5,345,51"/>
+<area shape="rect" id="node8" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#a10ad07d22b03e558503b70098ea58b75" title="project::BGI_FootprintPad\l::getBoardLayer" alt="" coords="184,74,357,121"/>
+<area shape="rect" id="node6" href="$dc/d87/classproject_1_1_b_g_i___footprint.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::BGI_Footprint\l::paint" alt="" coords="417,5,567,51"/>
+<area shape="rect" id="node10" href="$d9/d13/classproject_1_1_b_g_i___footprint_pad.html#aa77fc5d2da89e1f09b09f7c6724ed721" title="project::BGI_FootprintPad\l::paint" alt="" coords="405,74,579,121"/>
+</map>

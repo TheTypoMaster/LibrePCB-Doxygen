@@ -16,7 +16,7 @@ var class_grid_properties =
     [ "setType", "d8/dbf/class_grid_properties.html#a93c0f1eb206a23eb859af48f5ad202eb", null ],
     [ "setInterval", "d8/dbf/class_grid_properties.html#a88a3c16a970389cb760e0d6c42f88e5d", null ],
     [ "setUnit", "d8/dbf/class_grid_properties.html#a3f4cb28da6f44d17052e411235916de5", null ],
-    [ "serializeToXmlDomElement", "d8/dbf/class_grid_properties.html#a8747acbd54e52d4fcb3bb74f1bb2a88a", null ],
+    [ "serializeToXmlDomElement", "d8/dbf/class_grid_properties.html#aeb87054a7c12b9ccee59af89a9abf24f", null ],
     [ "operator=", "d8/dbf/class_grid_properties.html#a5c00301bd9013ea90df2f4c66e600836", null ],
     [ "checkAttributesValidity", "d8/dbf/class_grid_properties.html#a524ed0dd8a5522b754411728dfe5c752", null ],
     [ "stringToType", "d8/dbf/class_grid_properties.html#a538930da9c042fe9288aeebb77b9df0c", null ],

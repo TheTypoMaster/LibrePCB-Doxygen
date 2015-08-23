@@ -1,3 +1,5 @@
 <map id="getUuid" name="getUuid">
-<area shape="rect" id="node3" href="$dd/d2d/classproject_1_1_schematic.html#ae99cee803f3b0c489a499ace64ced87d" title="project::Schematic\l::getNetPointByUuid" alt="" coords="121,5,263,51"/>
+<area shape="rect" id="node3" href="$d3/d7c/classproject_1_1_s_i___net_line.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="120,5,312,51"/>
+<area shape="rect" id="node7" href="$dd/d2d/classproject_1_1_schematic.html#ae99cee803f3b0c489a499ace64ced87d" title="project::Schematic\l::getNetPointByUuid" alt="" coords="145,74,287,121"/>
+<area shape="rect" id="node5" href="$dd/d2d/classproject_1_1_schematic.html#aeb87054a7c12b9ccee59af89a9abf24f" title="Serialize the object to a XML DOM element. " alt="" coords="360,5,552,51"/>
 </map>

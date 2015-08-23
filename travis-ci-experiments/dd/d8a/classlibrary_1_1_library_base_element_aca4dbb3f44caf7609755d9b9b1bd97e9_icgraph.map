@@ -1,3 +1,7 @@
 <map id="getVersion" name="getVersion">
-<area shape="rect" id="node3" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#adfd98cfc3245571b0c2b05c7c1c9f3c9" title="project::SES_AddComponents\l::startAddingComponent" alt="" coords="139,5,339,51"/>
+<area shape="rect" id="node3" href="$de/d02/classlibrary_1_1_library.html#aec23f71851cecc7466fbd5e10bd48fae" title="library::Library::addPackagesToDb" alt="" coords="148,5,369,35"/>
+<area shape="rect" id="node9" href="$de/d02/classlibrary_1_1_library.html#a1dea3b622e340b2b8685735b15878ed1" title="library::Library::addComponentsToDb" alt="" coords="140,59,377,88"/>
+<area shape="rect" id="node12" href="$d4/d07/classproject_1_1_s_e_s___add_components.html#adfd98cfc3245571b0c2b05c7c1c9f3c9" title="project::SES_AddComponents\l::startAddingComponent" alt="" coords="159,111,359,158"/>
+<area shape="rect" id="node5" href="$de/d02/classlibrary_1_1_library.html#abf6f5a1b41bdc95e7b0602fbab2219a7" title="Rescan the whole library directory and update the SQLite database. " alt="" coords="428,32,577,61"/>
+<area shape="rect" id="node7" href="$d1/def/class_control_panel.html#a65617210fcf4b06dcce361e933bbb994" title="ControlPanel::on_actionRescan\lLibrary_triggered" alt="" coords="628,23,833,70"/>
 </map>

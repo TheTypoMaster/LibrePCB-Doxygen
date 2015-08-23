@@ -1,6 +1,6 @@
 <map id="getCircuit" name="getCircuit">
 <area shape="rect" id="node3" href="$d5/d07/classproject_1_1_board.html#a56ae9f28c406912ae4a5a893087a72ca" title="project::Board::updateErc\lMessages" alt="" coords="161,58,332,105"/>
-<area shape="rect" id="node9" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a8fbd3c721cf6a7086b09b00746e8c5bd" title="project::UnplacedComponents\lDock::UnplacedComponentsDock" alt="" coords="409,127,631,174"/>
+<area shape="rect" id="node9" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#abda2283f458f0fc17a0ccd8f61df7528" title="project::UnplacedComponents\lDock::UnplacedComponentsDock" alt="" coords="409,127,631,174"/>
 <area shape="rect" id="node11" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#a16ecdddbb51afe3714d940236b9c6d48" title="project::UnplacedComponents\lDock::on_lstUnplacedComponents\l_currentItemChanged" alt="" coords="135,383,359,447"/>
 <area shape="rect" id="node13" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#af175cf3f7948ac944834cad09819b753" title="project::UnplacedComponents\lDock::on_pushButton_clicked" alt="" coords="421,197,619,243"/>
 <area shape="rect" id="node15" href="$dc/dbb/classproject_1_1_unplaced_components_dock.html#ae18908ab5cceaf70614eaf307a041e8a" title="project::UnplacedComponents\lDock::on_btnAddAll_clicked" alt="" coords="421,405,619,451"/>
